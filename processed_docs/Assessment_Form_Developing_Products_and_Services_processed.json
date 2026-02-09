@@ -1,0 +1,238 @@
+{
+  "original_content": "# Assessment Form: Developing Products and Services\n\n**Demonstrating Competence / Portfolio Evidence**\n\n**Qualification Unit:** Developing Products and Services (60 cr)\n\n---\n\n### 1. Basic Information\n* **Student's name:** ________________________________________\n* **Assessment location:** ___________________________________________\n\n---\n\n### 2. Assessment Statement (Summary)\n__________________________________________________________________________\n__________________________________________________________________________\n\n---\n\n### 3. Assessment Decision\n**Performance is:** \n- [ ] Approved\n- [ ] Failed\n\n**Date:** ____.____.20______\n\n#### Signatures:\n\n**Education Representative:**  \n____________________________  \n*(PSK Adult Education Center)*\n\n**Workplace Representative:**  \n____________________________  \n\n---\n\n### 4. Acknowledgment\n**I have received the assessment decision:**\n\n**Student:**  \n____________________________",
+  "keywords": [
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Assessment Form Developing Products and Services.md",
+      "position_in_text": 190,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Assessment Form Developing Products and Services.md",
+      "position_in_text": 13,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Assessment Form Developing Products and Services.md",
+      "position_in_text": 188,
+      "related_keywords": []
+    },
+    {
+      "term": "assessment",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Assessment Form Developing Products and Services.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Assessment Form Developing Products and Services.md",
+      "position_in_text": 43,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Assessment Form Developing Products and Services.md",
+      "position_in_text": 30,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Assessment Form Developing Products and Services.md",
+      "position_in_text": 43,
+      "related_keywords": []
+    },
+    {
+      "term": "Assessment Form Developing Products and Services",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "../docs/business_forms/Assessment Form Developing Products and Services.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "../docs/business_forms/Assessment Form Developing Products and Services.md",
+    "extraction_date": "2026-02-09T21:47:08.573377",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "../docs/business_forms/Assessment Form Developing Products and Services.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "../docs/business_forms/Assessment Form Developing Products and Services.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "../docs/business_forms/Assessment Form Developing Products and Services.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "../docs/business_forms/Assessment Form Developing Products and Services.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Assessment_Form_Developing_Products_and_Services_review",
+      "title": "Assessment Form Developing Products and Services.md Review Required",
+      "description": "Document Assessment Form Developing Products and Services.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "../docs/business_forms/Assessment Form Developing Products and Services.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Assessment Form Developing Products and Services.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "../docs/business_forms/Assessment Form Developing Products and Services.md",
+    "title": "Assessment Form Developing Products and Services",
+    "description": "Documentation file: Assessment Form Developing Products and Services.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T21:47:08.573383",
+    "last_modified": "2026-02-09T21:47:08.573384",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 82,
+    "language": "en",
+    "keywords": [
+      "formation",
+      "form",
+      "information",
+      "assessment",
+      "service",
+      "products",
+      "services",
+      "Assessment Form Developing Products and Services"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Assessment_Form_Developing_Products_and_Services_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Assessment Form Developing Products and Services.md"
+    }
+  },
+  "processing_date": "2026-02-09T21:47:08.573407",
+  "processor": "systematic_batch_processor"
+}
