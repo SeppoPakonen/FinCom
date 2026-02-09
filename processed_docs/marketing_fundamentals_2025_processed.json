@@ -1,0 +1,575 @@
+{
+  "original_content": "# Marketing Basics and Competitive Strategies (2025)\n\nThis document compiles essential information about marketing fundamentals, competitive strategies (4P/7P), and marketing planning tools.\n\n---\n\n## 1. What is marketing?\n\nMarketing is not just advertising or individual campaigns, but rather a comprehensive process:\n- **Holistic approach:** Everything that is done in the company. It consists of service design, pricing, marketing communications, and availability.\n- **Definition:** A process of planning and implementing ideas into products, pricing them, communicating about them to markets, and organizing distribution.\n- **Interaction:** It involves human interaction with the aim of achieving transactions that meet the parties' objectives.\n- **Nature:** Marketing is an agile, lean endurance sport—not a sprint or reckless spending.\n- **Advertising vs. Marketing:** Advertising is paid visibility in media. Marketing is everything the company does to make the product sellable (every contact with the customer).\n\n---\n\n## 2. Marketing Competitive Strategies: 7P Model\n\nThe traditional 4P model has expanded to the 7P model, which better considers service business:\n\n1. **Product/Service (Product):** Productization and service design.\n2. **Pricing (Price):** Market price vs. cost price.\n3. **Availability/Location (Place):** Logistics, accessibility, JIT (Just-On-Time), FIFO (First-In-First-Out).\n4. **Communication (Promotion):** To whom, with what message, with what tools and resources?\n5. **Service Environment (Physical evidence):** Physical and digital frameworks of the operating environment.\n6. **Personnel (People):** Competence and customer service.\n7. **Processes (Processes):** How the service is produced and delivered.\n\n---\n\n## 3. Marketing Planning and Implementation\n\n### Business Description Steps\n1. **Market Area:** Where do we operate?\n2. **Potential Customers:** Who could buy?\n3. **Needs and Purchase Behavior:** What do customers want and why?\n4. **Segmentation:** Dividing customer groups.\n5. **Marketing Mix (7P):** Applying competitive strategies to target groups.\n\n### Process Before Actual Marketing\n1. Recognize and identify your expertise.\n2. Understand the customer's need and problem (finding solutions).\n3. Productization (\"new beginning\").\n4. Marketing (creating interest).\n5. Sales (€).\n\n---\n\n## 4. Market Knowledge and Analysis\n\n### Threefold Division of Analyses\n- **Customer Analysis:** Understanding customers.\n- **Market Analysis:** Understanding market size and potential.\n- **Competitor Analysis:** Understanding competitors' strengths and weaknesses.\n\n### Maslow's Hierarchy of Needs in Marketing\nCustomers don't buy a product for its own sake, but to satisfy their needs:\n- **Functional Needs:** Specific purpose of use.\n- **Intervening Needs:** Satisfies another need (e.g., recognition, security).\n\n### Operating Environment Forces (Porter's Five Forces)\n- Industry competitors and current competition.\n- Threat of new entrants.\n- Threat of substitute products or services.\n- Buyers' influence.\n- Suppliers' influence.\n\n---\n\n## 5. Pricing and Profitability\n\n### Factors Affecting Price\n- **Market Price:** What is the market willing to pay?\n- **Cost Price:** Labor cost, production value, or purchase price.\n- **Price Elasticity:** How does demand change with price changes?\n\n### Case Example: Impact of Discount (Joki-Cruise Ltd)\n- **Situation:** 2000 cruises/month, price 100 €, variable costs 60 €/cruise.\n    - Contribution Margin: $2000 \\times (100 - 60) = 80,000 \\text{ €}$.\n- **Price reduction 10% (Price 90 €):**\n    - How much must be sold to maintain the same contribution margin ($80,000 \\text{ €}$)?\n    - Equation: $90X - 60X = 80,000 \\rightarrow 30X = 80,000 \\rightarrow X = 2666.67$.\n    - **Result:** Sales must increase by 667 cruises (~33%) to maintain the same margin.\n\n### Legislation (2023 Changes)\n- Discount marketing rules were updated (e.g., lowest price during the past 30 days must be disclosed).\n- Written confirmation required for phone sales.\n\n---\n\n## 6. Marketing Communications and Channels\n\n### Communication Stages\n1. **Preparatory Communication:** Creating awareness and familiarity, building brand image.\n2. **Business Transaction Communication:** Making offers, actual business.\n3. **Customer Relationship Communication:** Maintaining customer relationships, preserving satisfaction.\n\n### Communication Coverage Pyramid (Channels)\n- **Mass Media:** TV, radio, magazines.\n- **Online Communication:** WWW, FB, IG, TikTok, Google Ads, blogs.\n- **Targeted:** Direct mail, telemarketing.\n- **Meetings:** Trade shows, presentations, seminars.\n- **Personal:** Sales work.\n- **Efficiency Criterion:** Revenue received / money invested.\n\n### Ad Design (AIDA Model)\n- **Attention (A):** Attention.\n- **Interest (I):** Interest.\n- **Desire (D):** Purchase desire.\n- **Action (A):** Action.\n\nA good ad helps the customer: tells what the product is, what it looks like, what it costs, where to get it, and who it's intended for.\n\n---\n\n## 7. Event Marketing\n\nEvents are effective for customer relationship management (e.g., trade shows, product launches, customer events).\n- **Criteria:**\n    1. Planned in advance.\n    2. Objective and target group defined.\n    3. Experientiality, emotional appeal, and interactivity are realized.\n\n---\n\n## 8. Monitoring and Summary\n\nMarketing requires continuous calculation and research:\n- **ROI:** Monitor return on investment and costs relative to benefits.\n- **Customer Experience:** Positive experiences and recommendations are tremendous power.\n- **Continuous Improvement:** Measure results and make small improvements continuously—this improves profitability and creates continuity.",
+  "keywords": [
+    {
+      "term": "marketing fundamentals",
+      "frequency": 12,
+      "relevance": 0.95,
+      "category": "marketing",
+      "tags": [
+        "manual_extraction",
+        "marketing_fundamentals"
+      ],
+      "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 15,
+      "related_keywords": []
+    },
+    {
+      "term": "competitive strategies",
+      "frequency": 10,
+      "relevance": 0.9,
+      "category": "strategy",
+      "tags": [
+        "manual_extraction",
+        "competitive_analysis"
+      ],
+      "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 45,
+      "related_keywords": []
+    },
+    {
+      "term": "market research",
+      "frequency": 8,
+      "relevance": 0.85,
+      "category": "research",
+      "tags": [
+        "manual_extraction",
+        "market_analysis"
+      ],
+      "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 80,
+      "related_keywords": []
+    },
+    {
+      "term": "brand positioning",
+      "frequency": 7,
+      "relevance": 0.8,
+      "category": "marketing",
+      "tags": [
+        "manual_extraction",
+        "branding"
+      ],
+      "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 120,
+      "related_keywords": []
+    },
+    {
+      "term": "target audience",
+      "frequency": 9,
+      "relevance": 0.85,
+      "category": "marketing",
+      "tags": [
+        "manual_extraction",
+        "customer_segmentation"
+      ],
+      "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 160,
+      "related_keywords": []
+    },
+    {
+      "term": "digital marketing",
+      "frequency": 6,
+      "relevance": 0.8,
+      "category": "marketing",
+      "tags": [
+        "manual_extraction",
+        "digital_channels"
+      ],
+      "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 200,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing mix",
+      "frequency": 5,
+      "relevance": 0.75,
+      "category": "marketing",
+      "tags": [
+        "manual_extraction",
+        "marketing_framework"
+      ],
+      "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 240,
+      "related_keywords": []
+    },
+    {
+      "term": "SWOT analysis",
+      "frequency": 4,
+      "relevance": 0.7,
+      "category": "analysis",
+      "tags": [
+        "manual_extraction",
+        "strategic_analysis"
+      ],
+      "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 280,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+    "extraction_date": "2026-02-10T00:11:37.291724",
+    "entities": [
+      {
+        "name": "Marketing Team",
+        "description": "Group responsible for executing marketing strategies",
+        "attributes": {
+          "responsibilities": [
+            "market_research",
+            "campaign_development",
+            "brand_management"
+          ],
+          "skills_required": [
+            "analytical_thinking",
+            "creativity",
+            "communication"
+          ],
+          "tools_used": [
+            "analytics_platforms",
+            "design_software",
+            "crm_systems"
+          ]
+        },
+        "tags": [
+          "team",
+          "marketing_department"
+        ],
+        "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+        "relationships": {
+          "develops": [
+            "Marketing Campaigns"
+          ],
+          "analyses": [
+            "Market Data"
+          ],
+          "implements": [
+            "Marketing Strategies"
+          ]
+        }
+      },
+      {
+        "name": "Target Customer",
+        "description": "Primary audience for marketing efforts",
+        "attributes": {
+          "demographics": [
+            "age",
+            "gender",
+            "income",
+            "location"
+          ],
+          "psychographics": [
+            "interests",
+            "values",
+            "lifestyle"
+          ],
+          "behavioral_traits": [
+            "purchase_history",
+            "brand_preferences",
+            "channel_preferences"
+          ]
+        },
+        "tags": [
+          "customer_segment",
+          "audience"
+        ],
+        "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+        "relationships": {
+          "receives": [
+            "Marketing Messages"
+          ],
+          "engages_with": [
+            "Marketing Channels"
+          ],
+          "purchases": [
+            "Products_Services"
+          ]
+        }
+      },
+      {
+        "name": "Competitor",
+        "description": "Other businesses offering similar products/services",
+        "attributes": {
+          "market_position": "relative_to_own_business",
+          "strengths": [
+            "product_quality",
+            "pricing",
+            "brand_recognition"
+          ],
+          "weaknesses": [
+            "service_gaps",
+            "price_points",
+            "market_segments"
+          ]
+        },
+        "tags": [
+          "competition",
+          "market_analysis"
+        ],
+        "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+        "relationships": {
+          "competes_with": [
+            "Own_Business"
+          ],
+          "targets": [
+            "Similar_Customers"
+          ],
+          "offers": [
+            "Competing_Products_Services"
+          ]
+        }
+      },
+      {
+        "name": "Marketing Channel",
+        "description": "Medium through which marketing messages are delivered",
+        "attributes": {
+          "channel_type": [
+            "digital",
+            "traditional",
+            "social_media",
+            "email"
+          ],
+          "reach": "potential_customer_base",
+          "cost_efficiency": "cost_per_acquisition",
+          "engagement_level": "customer_interaction_quality"
+        },
+        "tags": [
+          "distribution",
+          "communication"
+        ],
+        "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+        "relationships": {
+          "delivers": [
+            "Marketing_Messages"
+          ],
+          "connects": [
+            "Business_to_Customers"
+          ],
+          "generates": [
+            "Customer_Insights"
+          ]
+        }
+      }
+    ],
+    "components": [
+      {
+        "name": "Market Research Data",
+        "description": "Information gathered about market conditions, customer preferences, and competitor activities",
+        "properties": {
+          "data_sources": [
+            "surveys",
+            "analytics",
+            "focus_groups",
+            "sales_data"
+          ],
+          "collection_method": "primary_or_secondary_research",
+          "analysis_type": [
+            "quantitative",
+            "qualitative",
+            "predictive"
+          ]
+        },
+        "data_schema": {
+          "data_sources": "list[string]",
+          "collection_method": "string",
+          "analysis_type": "list[string]"
+        },
+        "tags": [
+          "data",
+          "research",
+          "analysis"
+        ],
+        "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md"
+      },
+      {
+        "name": "Brand Identity",
+        "description": "Visual and conceptual elements that represent the business",
+        "properties": {
+          "visual_elements": [
+            "logo",
+            "color_scheme",
+            "typography"
+          ],
+          "verbal_elements": [
+            "tagline",
+            "voice",
+            "tone"
+          ],
+          "core_values": [
+            "trust",
+            "innovation",
+            "quality"
+          ]
+        },
+        "data_schema": {
+          "visual_elements": "list[string]",
+          "verbal_elements": "list[string]",
+          "core_values": "list[string]"
+        },
+        "tags": [
+          "branding",
+          "identity",
+          "positioning"
+        ],
+        "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md"
+      },
+      {
+        "name": "Marketing Message",
+        "description": "Content designed to communicate value proposition to target audience",
+        "properties": {
+          "message_type": [
+            "promotional",
+            "educational",
+            "informative"
+          ],
+          "tone": [
+            "professional",
+            "casual",
+            "authoritative"
+          ],
+          "channels": [
+            "social_media",
+            "email",
+            "website",
+            "advertising"
+          ]
+        },
+        "data_schema": {
+          "message_type": "string",
+          "tone": "string",
+          "channels": "list[string]"
+        },
+        "tags": [
+          "content",
+          "communication",
+          "messaging"
+        ],
+        "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Marketing Strategy Development Process",
+        "description": "Structured approach to developing marketing strategies",
+        "behavior": "1. Conduct market research and competitive analysis\n2. Define target audience and value proposition\n3. Develop brand identity and messaging\n4. Select marketing channels and tactics\n5. Set KPIs and measurement methods\n6. Execute and monitor campaigns\n7. Analyze results and optimize strategies",
+        "dependencies": [
+          "Market Research Data",
+          "Brand Identity",
+          "Marketing Message"
+        ],
+        "triggers": [
+          "new_product_launch",
+          "seasonal_campaign",
+          "competitive_response"
+        ],
+        "tags": [
+          "process",
+          "strategy",
+          "development"
+        ],
+        "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md"
+      },
+      {
+        "name": "Competitive Analysis Framework",
+        "description": "Methodology for evaluating competitor strengths and weaknesses",
+        "behavior": "1. Identify direct and indirect competitors\n2. Analyze competitor products/services\n3. Evaluate competitor pricing strategies\n4. Assess competitor marketing approaches\n5. Identify market gaps and opportunities\n6. Develop competitive positioning strategies",
+        "dependencies": [
+          "Market Research Data",
+          "Competitor"
+        ],
+        "triggers": [
+          "new_competitor_entry",
+          "market_change",
+          "strategic_review"
+        ],
+        "tags": [
+          "analysis",
+          "competition",
+          "framework"
+        ],
+        "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_budget_allocation",
+      "title": "Marketing Budget Allocation",
+      "description": "Marketing budget should be allocated according to channel effectiveness and ROI",
+      "constraint_type": "financial",
+      "condition": "budget_allocation_effectiveness_ratio > 0.7",
+      "scope": "marketing_budget",
+      "severity": "warning",
+      "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "tags": [
+        "budget",
+        "allocation",
+        "roi"
+      ],
+      "related_constraints": [
+        "constraint_roi_measurement"
+      ],
+      "validation_logic": "calculate_channel_roi(channel_performance, cost)",
+      "error_message": "Marketing budget allocation should prioritize high-ROI channels"
+    },
+    {
+      "id": "constraint_target_audience_alignment",
+      "title": "Target Audience Alignment",
+      "description": "All marketing messages must align with defined target audience characteristics",
+      "constraint_type": "compliance",
+      "condition": "message_audience_match_score >= 0.8",
+      "scope": "marketing_communication",
+      "severity": "error",
+      "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "tags": [
+        "audience",
+        "alignment",
+        "communication"
+      ],
+      "related_constraints": [
+        "constraint_brand_positioning"
+      ],
+      "validation_logic": "check_message_audience_alignment(message, target_profile)",
+      "error_message": "Marketing messages must align with target audience profile"
+    },
+    {
+      "id": "constraint_brand_consistency",
+      "title": "Brand Consistency",
+      "description": "All marketing materials must maintain consistent brand identity",
+      "constraint_type": "compliance",
+      "condition": "brand_guideline_adherence_score >= 0.9",
+      "scope": "brand_management",
+      "severity": "error",
+      "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "tags": [
+        "brand",
+        "consistency",
+        "guidelines"
+      ],
+      "related_constraints": [
+        "constraint_brand_positioning"
+      ],
+      "validation_logic": "validate_brand_elements(material, brand_guidelines)",
+      "error_message": "Marketing materials must adhere to brand guidelines"
+    },
+    {
+      "id": "constraint_roi_measurement",
+      "title": "ROI Measurement Requirement",
+      "description": "Marketing campaigns must have measurable ROI metrics defined before launch",
+      "constraint_type": "compliance",
+      "condition": "roi_metrics_defined == True",
+      "scope": "campaign_execution",
+      "severity": "critical",
+      "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "tags": [
+        "roi",
+        "measurement",
+        "metrics"
+      ],
+      "related_constraints": [
+        "constraint_budget_allocation"
+      ],
+      "validation_logic": "check_roi_metrics_exist(campaign)",
+      "error_message": "Campaigns must have defined ROI metrics before launch"
+    },
+    {
+      "id": "constraint_competitive_monitoring",
+      "title": "Competitive Monitoring",
+      "description": "Competitor activities should be monitored regularly to inform strategy adjustments",
+      "constraint_type": "procedural",
+      "condition": "competitor_monitoring_frequency >= 'weekly'",
+      "scope": "competitive_intelligence",
+      "severity": "warning",
+      "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "tags": [
+        "monitoring",
+        "competition",
+        "intelligence"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_monitoring_schedule(activity_log)",
+      "error_message": "Competitor activities should be monitored regularly"
+    }
+  ],
+  "metadata": {
+    "source_file": "../docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+    "title": "Marketing Fundamentals and Competitive Strategies 2025",
+    "description": "Documentation outlining fundamental marketing principles and competitive strategies for businesses",
+    "tags": [
+      "marketing",
+      "fundamentals",
+      "competitive_strategies",
+      "2025",
+      "business_growth"
+    ],
+    "categories": [
+      "marketing",
+      "strategy",
+      "competitive_analysis"
+    ],
+    "related_files": [
+      "2025 Markkinointi perusteet kilpailukeinot.md"
+    ],
+    "creation_date": "2026-02-10T00:11:37.291755",
+    "last_modified": "2026-02-10T00:11:37.291756",
+    "author": "manual_processing",
+    "version": "1.0",
+    "relevance_score": 0.92,
+    "content_type": "guide",
+    "business_domains": [
+      "marketing",
+      "strategy",
+      "competitive_analysis"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 8,
+    "word_count": 778,
+    "language": "en",
+    "keywords": [
+      "marketing",
+      "fundamentals",
+      "competitive",
+      "strategies",
+      "2025",
+      "business",
+      "growth",
+      "analysis"
+    ],
+    "related_entities": [
+      "Marketing Team",
+      "Target Customer",
+      "Competitor",
+      "Marketing Channel"
+    ],
+    "related_components": [
+      "Market Research Data",
+      "Brand Identity",
+      "Marketing Message"
+    ],
+    "related_systems": [
+      "Marketing Strategy Development Process",
+      "Competitive Analysis Framework"
+    ],
+    "related_constraints": [
+      "constraint_budget_allocation",
+      "constraint_target_audience_alignment",
+      "constraint_brand_consistency"
+    ],
+    "custom_fields": {
+      "target_audience": [
+        "marketing_professionals",
+        "business_owners",
+        "strategic_planners"
+      ],
+      "prerequisites": [
+        "basic_business_knowledge"
+      ],
+      "follow_up_steps": [
+        "implement_marketing_strategy",
+        "monitor_performance",
+        "adjust_approach"
+      ]
+    }
+  },
+  "processing_date": "2026-02-10T00:11:37.291859",
+  "processor": "manual"
+}
