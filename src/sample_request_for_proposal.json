@@ -1,0 +1,133 @@
+{
+  "company_name": "Sample RFP Oy",
+  "rfp_date": "04.02.2026",
+  "rfp_reference": "RFP-2026-001",
+  "contact_person": "Matti Meikäläinen",
+  "contact_info": "matti.meikalainen@samplecompany.fi, p. 050 123 4567",
+  "project_description": {
+    "title": "Digital Marketing Campaign for New Product Launch",
+    "overview": "Request for a comprehensive digital marketing campaign to promote our new product line.",
+    "objectives": [
+      "Increase brand awareness for new product line",
+      "Generate qualified leads for sales team",
+      "Establish digital presence in target markets"
+    ],
+    "scope": "Development and execution of a 3-month digital marketing campaign including social media, content marketing, and paid advertising.",
+    "deliverables": [
+      {
+        "name": "Social media strategy and content calendar",
+        "description": ""
+      },
+      {
+        "name": "Paid advertising campaigns (Google Ads, Facebook Ads)",
+        "description": ""
+      },
+      {
+        "name": "Monthly performance reports",
+        "description": ""
+      },
+      {
+        "name": "Campaign optimization recommendations",
+        "description": ""
+      }
+    ],
+    "timeline_high_level": "Project duration",
+    "location": "Primarily online with some local events in Tampere area"
+  },
+  "content_requirements": {
+    "executive_summary": true,
+    "technical_approach": true,
+    "project_timeline": true,
+    "team_qualifications": true,
+    "pricing_structure": true,
+    "references": true,
+    "risk_management_plan": false,
+    "sustainability_plan": false
+  },
+  "evaluation_criteria": {
+    "technical_competence": {
+      "weight": 0.3,
+      "description": "Technical competence and approach"
+    },
+    "cost_competitiveness": {
+      "weight": 0.25,
+      "description": "Cost competitiveness and value for money"
+    },
+    "past_experience": {
+      "weight": 0.2,
+      "description": "Relevant past experience and references"
+    },
+    "project_timeline": {
+      "weight": 0.15,
+      "description": "Project timeline and feasibility"
+    },
+    "innovation": {
+      "weight": 0.1,
+      "description": "Innovation and added value"
+    }
+  },
+  "evaluation_criteria_total_weight": 1.0,
+  "rfp_timeline": {
+    "rfp_issue_date": "04.02.2026",
+    "qa_session_date": "2026-03-15",
+    "proposal_deadline": "2026-03-30",
+    "evaluation_period": "",
+    "award_notification": "2026-04-15",
+    "project_start_date": "2026-05-01"
+  },
+  "required_proposal_content": {
+    "company_profile": true,
+    "understanding_of_requirements": true,
+    "methodology": true,
+    "project_schedule": true,
+    "resource_allocation": true,
+    "pricing_details": true,
+    "team_bios": true,
+    "case_studies": true,
+    "references": true,
+    "terms_and_conditions_response": true
+  },
+  "attachments": [
+    "Company profile document",
+    "Detailed project requirements",
+    "Previous campaign results",
+    "Brand guidelines"
+  ],
+  "terms_conditions": {
+    "contract_duration": "3 months with option for extension",
+    "intellectual_property": "All created content becomes property of Sample RFP Oy",
+    "termination_clause": "Either party can terminate with 30 days notice",
+    "confidentiality": "Strict confidentiality agreement required"
+  },
+  "budget_expectations": {
+    "estimated_budget_range_min": 30000,
+    "estimated_budget_range_max": 50000,
+    "budget_flexibility": "Medium",
+    "payment_schedule_preference": "Quarterly payments based on milestones",
+    "currency": "EUR"
+  },
+  "quality_requirements": {},
+  "delivery_terms": {},
+  "payment_terms": {},
+  "vendor_qualifications": {
+    "minimum_experience_years": 5,
+    "relevant_project_examples": 3,
+    "certifications_required": [
+      "Google Ads Certified",
+      "Facebook Blueprint Certified"
+    ],
+    "financial_stability_proof": true,
+    "insurance_requirements": "Professional indemnity and general liability"
+  },
+  "risk_management_requirements": {},
+  "warranty_terms": {},
+  "project_management_requirements": {},
+  "submission_guidelines": {
+    "submission_format": "PDF document and electronic files",
+    "number_of_copies": 1,
+    "submission_method": "Submit via secure portal at https://samplecompany.fi/rfp-submission",
+    "late_submission_policy": "Late submissions will not be accepted",
+    "confidentiality_agreement": true
+  },
+  "qa_session_info": {}
+}

@@ -1,0 +1,135 @@
+{
+  "company_name": "Sample Valuation Oy",
+  "financial_data": {
+    "year_1": {
+      "revenue": 1000000,
+      "adjusted_revenue": 1010000,
+      "other_income": 50000,
+      "adjusted_other_income": 53000,
+      "total_income": 0,
+      "adjusted_total_income": 1063000,
+      "materials_costs": 300000,
+      "outsourced_services": 100000,
+      "personnel_costs": 400000,
+      "other_operating_expenses": 80000,
+      "operating_profit": 0,
+      "adjusted_operating_profit": 208000,
+      "net_profit": 0,
+      "adjusted_net_profit": 208000,
+      "total_assets": 750000,
+      "adjusted_total_assets": 750000,
+      "liabilities": 250000,
+      "adjusted_liabilities": 255000,
+      "net_assets": 0,
+      "adjusted_net_assets": 495000
+    },
+    "year_2": {
+      "revenue": 900000,
+      "adjusted_revenue": 910000,
+      "other_income": 40000,
+      "adjusted_other_income": 43000,
+      "total_income": 0,
+      "adjusted_total_income": 953000,
+      "materials_costs": 270000,
+      "outsourced_services": 90000,
+      "personnel_costs": 360000,
+      "other_operating_expenses": 70000,
+      "operating_profit": 0,
+      "adjusted_operating_profit": 188000,
+      "net_profit": 0,
+      "adjusted_net_profit": 188000,
+      "total_assets": 700000,
+      "adjusted_total_assets": 700000,
+      "liabilities": 240000,
+      "adjusted_liabilities": 245000,
+      "net_assets": 0,
+      "adjusted_net_assets": 455000
+    },
+    "year_3": {
+      "revenue": 800000,
+      "adjusted_revenue": 810000,
+      "other_income": 30000,
+      "adjusted_other_income": 33000,
+      "total_income": 0,
+      "adjusted_total_income": 843000,
+      "materials_costs": 240000,
+      "outsourced_services": 80000,
+      "personnel_costs": 320000,
+      "other_operating_expenses": 60000,
+      "operating_profit": 0,
+      "adjusted_operating_profit": 168000,
+      "net_profit": 0,
+      "adjusted_net_profit": 168000,
+      "total_assets": 650000,
+      "adjusted_total_assets": 650000,
+      "liabilities": 230000,
+      "adjusted_liabilities": 235000,
+      "net_assets": 0,
+      "adjusted_net_assets": 415000
+    }
+  },
+  "adjustments": {
+    "non_recurring_items": 10000,
+    "owner_compensation_adjustment": -20000,
+    "related_party_transactions": 5000,
+    "non_market_rent_adjustment": -5000,
+    "extraordinary_expenses": 3000
+  },
+  "valuation_methods": {
+    "asset_based": 0.25,
+    "earnings_based": 0.35,
+    "market_comparables": 0.25,
+    "discounted_cash_flow": 0.15
+  },
+  "market_multiples": {
+    "price_to_earnings": 7.0,
+    "ev_to_ebitda": 6.0,
+    "price_to_sales": 2.0,
+    "price_to_book": 1.5
+  },
+  "dcf_parameters": {
+    "discount_rate": 0.08,
+    "projection_years": 5,
+    "terminal_growth_rate": 0.02
+  },
+  "asset_based_values": {
+    "tangible_assets": 525000.0,
+    "intangible_assets": 225000.0,
+    "total_asset_value": 750000,
+    "liabilities_to_deduct": 255000,
+    "net_asset_value": 495000
+  },
+  "valuation_results": {
+    "asset_based": {
+      "value": 495000,
+      "weight": 0.25,
+      "weighted_value": 123750.0
+    },
+    "earnings_based": {
+      "value": 1040000.0,
+      "weight": 0.35,
+      "weighted_value": 364000.0
+    },
+    "market_comparables": {
+      "value": 1248000.0,
+      "weight": 0.25,
+      "weighted_value": 312000.0
+    },
+    "discounted_cash_flow": {
+      "value": 4027902.496761164,
+      "weight": 0.15,
+      "weighted_value": 604185.3745141746
+    },
+    "final_valuation": 1403935.3745141746,
+    "valuation_range": {
+      "low": 495000,
+      "high": 4027902.496761164
+    }
+  },
+  "recommendations": [
+    "The estimated value of the company is €1,403,935.37",
+    "Consider getting a professional appraisal for final valuation",
+    "Prepare financial documentation for potential buyers/investors",
+    "The valuation range is wide, suggesting high uncertainty. Consider additional analysis."
+  ]
+}

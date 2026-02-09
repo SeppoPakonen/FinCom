@@ -1,0 +1,612 @@
+{
+  "company_name": "Sample Marketing Strategy Oy",
+  "year": 2026,
+  "marketing_channels": {
+    "digital_ads": {
+      "name": "Digital Ads",
+      "budget_allocation": 30000,
+      "target_audience": "",
+      "seasonal_effectiveness": {
+        "Tammikuu": 1.0,
+        "Helmikuu": 1.0,
+        "Maaliskuu": 1.0,
+        "Huhtikuu": 1.0,
+        "Toukokuu": 1.0,
+        "Kesäkuu": 1.0,
+        "Heinäkuu": 1.0,
+        "Elokuu": 1.0,
+        "Syyskuu": 1.0,
+        "Lokakuu": 1.0,
+        "Marraskuu": 1.0,
+        "Joulukuu": 1.0
+      }
+    },
+    "social_media": {
+      "name": "Social Media",
+      "budget_allocation": 25000,
+      "target_audience": "",
+      "seasonal_effectiveness": {
+        "Tammikuu": 1.0,
+        "Helmikuu": 1.0,
+        "Maaliskuu": 1.0,
+        "Huhtikuu": 1.0,
+        "Toukokuu": 1.0,
+        "Kesäkuu": 1.0,
+        "Heinäkuu": 1.0,
+        "Elokuu": 1.0,
+        "Syyskuu": 1.0,
+        "Lokakuu": 1.0,
+        "Marraskuu": 1.0,
+        "Joulukuu": 1.0
+      }
+    },
+    "email_marketing": {
+      "name": "Email Marketing",
+      "budget_allocation": 15000,
+      "target_audience": "",
+      "seasonal_effectiveness": {
+        "Tammikuu": 1.0,
+        "Helmikuu": 1.0,
+        "Maaliskuu": 1.0,
+        "Huhtikuu": 1.0,
+        "Toukokuu": 1.0,
+        "Kesäkuu": 1.0,
+        "Heinäkuu": 1.0,
+        "Elokuu": 1.0,
+        "Syyskuu": 1.0,
+        "Lokakuu": 1.0,
+        "Marraskuu": 1.0,
+        "Joulukuu": 1.0
+      }
+    },
+    "content_marketing": {
+      "name": "Content Marketing",
+      "budget_allocation": 20000,
+      "target_audience": "",
+      "seasonal_effectiveness": {
+        "Tammikuu": 1.0,
+        "Helmikuu": 1.0,
+        "Maaliskuu": 1.0,
+        "Huhtikuu": 1.0,
+        "Toukokuu": 1.0,
+        "Kesäkuu": 1.0,
+        "Heinäkuu": 1.0,
+        "Elokuu": 1.0,
+        "Syyskuu": 1.0,
+        "Lokakuu": 1.0,
+        "Marraskuu": 1.0,
+        "Joulukuu": 1.0
+      }
+    },
+    "events": {
+      "name": "Events",
+      "budget_allocation": 35000,
+      "target_audience": "",
+      "seasonal_effectiveness": {
+        "Tammikuu": 1.0,
+        "Helmikuu": 1.0,
+        "Maaliskuu": 1.0,
+        "Huhtikuu": 1.0,
+        "Toukokuu": 1.0,
+        "Kesäkuu": 1.0,
+        "Heinäkuu": 1.0,
+        "Elokuu": 1.0,
+        "Syyskuu": 1.0,
+        "Lokakuu": 1.0,
+        "Marraskuu": 1.0,
+        "Joulukuu": 1.0
+      }
+    },
+    "pr": {
+      "name": "Public Relations",
+      "budget_allocation": 10000,
+      "target_audience": "",
+      "seasonal_effectiveness": {
+        "Tammikuu": 1.0,
+        "Helmikuu": 1.0,
+        "Maaliskuu": 1.0,
+        "Huhtikuu": 1.0,
+        "Toukokuu": 1.0,
+        "Kesäkuu": 1.0,
+        "Heinäkuu": 1.0,
+        "Elokuu": 1.0,
+        "Syyskuu": 1.0,
+        "Lokakuu": 1.0,
+        "Marraskuu": 1.0,
+        "Joulukuu": 1.0
+      }
+    }
+  },
+  "monthly_activities": {
+    "Tammikuu": {
+      "planned_activities": [
+        "Activity for Tammikuu"
+      ],
+      "budget_allocated": 5000,
+      "expected_roi": 0.15,
+      "performance_metrics": {
+        "reach": 0,
+        "engagement": 0,
+        "conversion_rate": 0.0,
+        "cost_per_acquisition": 0
+      }
+    },
+    "Helmikuu": {
+      "planned_activities": [
+        "Activity for Helmikuu"
+      ],
+      "budget_allocated": 5500,
+      "expected_roi": 0.16,
+      "performance_metrics": {
+        "reach": 0,
+        "engagement": 0,
+        "conversion_rate": 0.0,
+        "cost_per_acquisition": 0
+      }
+    },
+    "Maaliskuu": {
+      "planned_activities": [
+        "Activity for Maaliskuu"
+      ],
+      "budget_allocated": 6000,
+      "expected_roi": 0.16999999999999998,
+      "performance_metrics": {
+        "reach": 0,
+        "engagement": 0,
+        "conversion_rate": 0.0,
+        "cost_per_acquisition": 0
+      }
+    },
+    "Huhtikuu": {
+      "planned_activities": [
+        "Activity for Huhtikuu"
+      ],
+      "budget_allocated": 6500,
+      "expected_roi": 0.18,
+      "performance_metrics": {
+        "reach": 0,
+        "engagement": 0,
+        "conversion_rate": 0.0,
+        "cost_per_acquisition": 0
+      }
+    },
+    "Toukokuu": {
+      "planned_activities": [
+        "Activity for Toukokuu"
+      ],
+      "budget_allocated": 7000,
+      "expected_roi": 0.19,
+      "performance_metrics": {
+        "reach": 0,
+        "engagement": 0,
+        "conversion_rate": 0.0,
+        "cost_per_acquisition": 0
+      }
+    },
+    "Kesäkuu": {
+      "planned_activities": [
+        "Activity for Kesäkuu"
+      ],
+      "budget_allocated": 7500,
+      "expected_roi": 0.2,
+      "performance_metrics": {
+        "reach": 0,
+        "engagement": 0,
+        "conversion_rate": 0.0,
+        "cost_per_acquisition": 0
+      }
+    },
+    "Heinäkuu": {
+      "planned_activities": [
+        "Activity for Heinäkuu"
+      ],
+      "budget_allocated": 8000,
+      "expected_roi": 0.21,
+      "performance_metrics": {
+        "reach": 0,
+        "engagement": 0,
+        "conversion_rate": 0.0,
+        "cost_per_acquisition": 0
+      }
+    },
+    "Elokuu": {
+      "planned_activities": [
+        "Activity for Elokuu"
+      ],
+      "budget_allocated": 8500,
+      "expected_roi": 0.22,
+      "performance_metrics": {
+        "reach": 0,
+        "engagement": 0,
+        "conversion_rate": 0.0,
+        "cost_per_acquisition": 0
+      }
+    },
+    "Syyskuu": {
+      "planned_activities": [
+        "Activity for Syyskuu"
+      ],
+      "budget_allocated": 9000,
+      "expected_roi": 0.22999999999999998,
+      "performance_metrics": {
+        "reach": 0,
+        "engagement": 0,
+        "conversion_rate": 0.0,
+        "cost_per_acquisition": 0
+      }
+    },
+    "Lokakuu": {
+      "planned_activities": [
+        "Activity for Lokakuu"
+      ],
+      "budget_allocated": 9500,
+      "expected_roi": 0.24,
+      "performance_metrics": {
+        "reach": 0,
+        "engagement": 0,
+        "conversion_rate": 0.0,
+        "cost_per_acquisition": 0
+      }
+    },
+    "Marraskuu": {
+      "planned_activities": [
+        "Activity for Marraskuu"
+      ],
+      "budget_allocated": 10000,
+      "expected_roi": 0.25,
+      "performance_metrics": {
+        "reach": 0,
+        "engagement": 0,
+        "conversion_rate": 0.0,
+        "cost_per_acquisition": 0
+      }
+    },
+    "Joulukuu": {
+      "planned_activities": [
+        "Activity for Joulukuu"
+      ],
+      "budget_allocated": 10500,
+      "expected_roi": 0.26,
+      "performance_metrics": {
+        "reach": 0,
+        "engagement": 0,
+        "conversion_rate": 0.0,
+        "cost_per_acquisition": 0
+      }
+    }
+  },
+  "monthly_budgets": {
+    "Tammikuu": 0,
+    "Helmikuu": 0,
+    "Maaliskuu": 0,
+    "Huhtikuu": 0,
+    "Toukokuu": 0,
+    "Kesäkuu": 0,
+    "Heinäkuu": 0,
+    "Elokuu": 0,
+    "Syyskuu": 0,
+    "Lokakuu": 0,
+    "Marraskuu": 0,
+    "Joulukuu": 0
+  },
+  "monthly_spends": {
+    "Tammikuu": 5000,
+    "Helmikuu": 5500,
+    "Maaliskuu": 6000,
+    "Huhtikuu": 6500,
+    "Toukokuu": 7000,
+    "Kesäkuu": 7500,
+    "Heinäkuu": 8000,
+    "Elokuu": 8500,
+    "Syyskuu": 9000,
+    "Lokakuu": 9500,
+    "Marraskuu": 10000,
+    "Joulukuu": 10500
+  },
+  "channel_percentages": {
+    "digital_ads": 0,
+    "social_media": 0,
+    "email_marketing": 0,
+    "content_marketing": 0,
+    "events": 0,
+    "pr": 0
+  },
+  "total_annual_budget": 0,
+  "campaigns": {
+    "campaign_1": {
+      "name": "Spring Product Launch",
+      "start_date": "2026-03-01",
+      "end_date": "2026-05-31",
+      "budget": 25000,
+      "channels": [
+        "digital_ads",
+        "social_media",
+        "pr"
+      ],
+      "target_audience": "Early adopters and tech enthusiasts",
+      "expected_roi": 0.25
+    },
+    "campaign_2": {
+      "name": "Summer Awareness",
+      "start_date": "2026-06-01",
+      "end_date": "2026-08-31",
+      "budget": 20000,
+      "channels": [
+        "social_media",
+        "content_marketing",
+        "email_marketing"
+      ],
+      "target_audience": "General consumer market",
+      "expected_roi": 0.18
+    },
+    "campaign_3": {
+      "name": "Campaign 3",
+      "start_date": "2026-07-01",
+      "end_date": "2026-09-30",
+      "budget": 0,
+      "channels": [
+        "events",
+        "pr"
+      ],
+      "target_audience": "Tertiary segment",
+      "expected_roi": 0.0
+    }
+  },
+  "content_calendar": {
+    "weekly_themes": {
+      "Week 1": "",
+      "Week 2": "",
+      "Week 3": "",
+      "Week 4": "",
+      "Week 5": "",
+      "Week 6": "",
+      "Week 7": "",
+      "Week 8": "",
+      "Week 9": "",
+      "Week 10": "",
+      "Week 11": "",
+      "Week 12": "",
+      "Week 13": "",
+      "Week 14": "",
+      "Week 15": "",
+      "Week 16": "",
+      "Week 17": "",
+      "Week 18": "",
+      "Week 19": "",
+      "Week 20": "",
+      "Week 21": "",
+      "Week 22": "",
+      "Week 23": "",
+      "Week 24": "",
+      "Week 25": "",
+      "Week 26": "",
+      "Week 27": "",
+      "Week 28": "",
+      "Week 29": "",
+      "Week 30": "",
+      "Week 31": "",
+      "Week 32": "",
+      "Week 33": "",
+      "Week 34": "",
+      "Week 35": "",
+      "Week 36": "",
+      "Week 37": "",
+      "Week 38": "",
+      "Week 39": "",
+      "Week 40": "",
+      "Week 41": "",
+      "Week 42": "",
+      "Week 43": "",
+      "Week 44": "",
+      "Week 45": "",
+      "Week 46": "",
+      "Week 47": "",
+      "Week 48": "",
+      "Week 49": "",
+      "Week 50": "",
+      "Week 51": "",
+      "Week 52": ""
+    },
+    "daily_posts": {
+      "2026-01-01": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-02": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-03": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-04": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-05": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-06": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-07": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-08": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-09": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-10": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-11": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-12": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-13": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-14": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-15": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-16": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-17": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-18": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-19": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-20": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-21": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-22": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-23": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-24": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-25": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-26": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-27": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-28": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-29": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-30": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      },
+      "2026-01-31": {
+        "type": "",
+        "topic": "",
+        "channel": ""
+      }
+    }
+  },
+  "events_schedule": {
+    "event_1": {
+      "name": "Event 1",
+      "date": "2026-06-15",
+      "location": "",
+      "expected_attendees": 0,
+      "budget": 0,
+      "expected_roi": 0.0
+    },
+    "event_2": {
+      "name": "Event 2",
+      "date": "2026-10-20",
+      "location": "",
+      "expected_attendees": 0,
+      "budget": 0,
+      "expected_roi": 0.0
+    }
+  },
+  "performance_metrics": {
+    "reach": 100000,
+    "impressions": 0,
+    "engagement_rate": 0.035,
+    "conversion_rate": 0.02,
+    "cost_per_click": 0,
+    "cost_per_acquisition": 50,
+    "return_on_ad_spend": 4.2,
+    "brand_awareness": 0.0,
+    "customer_satisfaction_score": 0.0
+  },
+  "seasonal_opportunities": {
+    "spring_opportunities": [
+      "Garden and home improvement season"
+    ],
+    "summer_opportunities": [
+      "Vacation and outdoor activities"
+    ],
+    "autumn_opportunities": [
+      "Back to school and new year resolutions"
+    ],
+    "winter_opportunities": [
+      "Holiday shopping season"
+    ]
+  },
+  "strategic_initiatives": {}
+}

@@ -1,0 +1,130 @@
+{
+  "company_name": "Sample Retail Pricing Oy",
+  "year": 2026,
+  "products": {
+    "product_1": {
+      "name": "Esimerkkituote 1",
+      "base_cost": 50.0,
+      "prices_by_model": {
+        "cost_plus": 84.63,
+        "competitive": 97.65,
+        "value_based": 93.0,
+        "penetration": 108.9774,
+        "premium": 145.3032
+      },
+      "recommended_price": 80.6,
+      "competitor_price": 75.0,
+      "target_margin": 0.3,
+      "estimated_volume": 1000
+    },
+    "product_2": {
+      "name": "Esimerkkituote 2",
+      "base_cost": 75.0,
+      "prices_by_model": {
+        "cost_plus": 126.94500000000001,
+        "competitive": 122.0625,
+        "value_based": 139.5,
+        "penetration": 136.22175,
+        "premium": 181.629
+      },
+      "recommended_price": 120.9,
+      "competitor_price": 100.0,
+      "target_margin": 0.25,
+      "estimated_volume": 800
+    },
+    "product_3": {
+      "name": "Esimerkkituote 3",
+      "base_cost": 100.0,
+      "prices_by_model": {
+        "cost_plus": 169.26,
+        "competitive": 175.77,
+        "value_based": 186.0,
+        "penetration": 196.15932,
+        "premium": 261.54576
+      },
+      "recommended_price": 161.2,
+      "competitor_price": 140.0,
+      "target_margin": 0.35,
+      "estimated_volume": 600
+    }
+  },
+  "pricing_models": {
+    "cost_plus": {
+      "markup_percentage": 0.3
+    },
+    "competitive": {
+      "price_index": 1.0
+    },
+    "value_based": {
+      "value_multiplier": 1.5
+    },
+    "penetration": {
+      "discount_percentage": 0.1
+    },
+    "premium": {
+      "premium_percentage": 0.2
+    }
+  },
+  "competitor_analysis": {
+    "competitor_1": {
+      "name": "Kilpailija 1",
+      "avg_price": 75.0
+    },
+    "competitor_2": {
+      "name": "Kilpailija 2",
+      "avg_price": 80.0
+    },
+    "competitor_3": {
+      "name": "Kilpailija 3",
+      "avg_price": 70.0
+    }
+  },
+  "cost_structure": {
+    "direct_materials": 20.0,
+    "direct_labor": 15.0,
+    "manufacturing_overhead": 10.0,
+    "indirect_costs": 0.0,
+    "distribution_costs": 5.0,
+    "marketing_costs": 8.0,
+    "administrative_costs": 7.0,
+    "other_costs": 0.0
+  },
+  "profitability_metrics": {
+    "product_1": {
+      "revenue_per_unit": 80.6,
+      "cost_per_unit": 50.0,
+      "profit_per_unit": 30.599999999999994,
+      "profit_margin": 0.37965260545905705
+    },
+    "product_2": {
+      "revenue_per_unit": 120.9,
+      "cost_per_unit": 75.0,
+      "profit_per_unit": 45.900000000000006,
+      "profit_margin": 0.3796526054590571
+    },
+    "product_3": {
+      "revenue_per_unit": 161.2,
+      "cost_per_unit": 100.0,
+      "profit_per_unit": 61.19999999999999,
+      "profit_margin": 0.37965260545905705
+    }
+  },
+  "break_even_analysis": {
+    "product_1": {
+      "fixed_costs": 65.0,
+      "break_even_volume": 3,
+      "break_even_revenue": 241.79999999999998
+    },
+    "product_2": {
+      "fixed_costs": 65.0,
+      "break_even_volume": 2,
+      "break_even_revenue": 241.8
+    },
+    "product_3": {
+      "fixed_costs": 65.0,
+      "break_even_volume": 2,
+      "break_even_revenue": 322.4
+    }
+  },
+  "price_elasticity_analysis": {}
+}

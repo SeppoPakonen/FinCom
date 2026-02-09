@@ -1,0 +1,558 @@
+{
+  "file_path": "../docs/business_forms/company_finance_example.md",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.1360544217687075,
+      "category": "business_term",
+      "tags": [
+        "automated_extraction"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.1360544217687075,
+      "category": "business_term",
+      "tags": [
+        "automated_extraction"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "registration",
+      "frequency": 1,
+      "relevance": 0.06802721088435375,
+      "category": "business_term",
+      "tags": [
+        "automated_extraction"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 5,
+      "relevance": 0.3401360544217687,
+      "category": "business_term",
+      "tags": [
+        "automated_extraction"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "vat",
+      "frequency": 2,
+      "relevance": 0.1360544217687075,
+      "category": "business_term",
+      "tags": [
+        "automated_extraction"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "income",
+      "frequency": 1,
+      "relevance": 0.06802721088435375,
+      "category": "business_term",
+      "tags": [
+        "automated_extraction"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 2,
+      "relevance": 0.1360544217687075,
+      "category": "business_term",
+      "tags": [
+        "automated_extraction"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "finance",
+      "frequency": 3,
+      "relevance": 0.20408163265306123,
+      "category": "business_term",
+      "tags": [
+        "automated_extraction"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "accounting",
+      "frequency": 1,
+      "relevance": 0.06802721088435375,
+      "category": "business_term",
+      "tags": [
+        "automated_extraction"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "compliance",
+      "frequency": 1,
+      "relevance": 0.06802721088435375,
+      "category": "business_term",
+      "tags": [
+        "automated_extraction"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "requirement",
+      "frequency": 2,
+      "relevance": 0.1360544217687075,
+      "category": "business_term",
+      "tags": [
+        "automated_extraction"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "obligation",
+      "frequency": 1,
+      "relevance": 0.06802721088435375,
+      "category": "business_term",
+      "tags": [
+        "automated_extraction"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Managing",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Finances",
+      "frequency": 3,
+      "relevance": 0.10204081632653061,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Finland",
+      "frequency": 2,
+      "relevance": 0.06802721088435375,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Overview",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "This",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Finnish",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Financial",
+      "frequency": 5,
+      "relevance": 0.17006802721088435,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Requirements",
+      "frequency": 2,
+      "relevance": 0.06802721088435375,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Maintain",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "File",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Register",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Banking",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Open",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Separate",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Keep",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Obligations",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Corporate",
+      "frequency": 2,
+      "relevance": 0.06802721088435375,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Payroll",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Annual",
+      "frequency": 3,
+      "relevance": 0.10204081632653061,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Auditing",
+      "frequency": 2,
+      "relevance": 0.06802721088435375,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Board",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Important",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Constraints",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Companies",
+      "frequency": 2,
+      "relevance": 0.06802721088435375,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    },
+    {
+      "term": "Directors",
+      "frequency": 1,
+      "relevance": 0.034013605442176874,
+      "category": "proper_noun",
+      "tags": [
+        "capitalized_term"
+      ],
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "position_in_text": null,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "../docs/business_forms/company_finance_example.md",
+    "extraction_date": "2026-02-09T20:08:27.252299",
+    "entities": [],
+    "components": [
+      {
+        "name": "Register",
+        "description": "Component identified in ../docs/business_forms/company_finance_example.md",
+        "properties": {
+          "source_document": "../docs/business_forms/company_finance_example.md"
+        },
+        "data_schema": {
+          "value": "string"
+        },
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_finance_example.md"
+      }
+    ],
+    "systems": []
+  },
+  "constraints": [
+    {
+      "id": "___docs_business_forms_company_finance_example_md_1",
+      "title": "Automatically detected compliance constraint",
+      "description": "Constraint found in ../docs/business_forms/company_finance_example.md: required",
+      "constraint_type": "compliance",
+      "condition": "required",
+      "scope": "document_specific",
+      "severity": "warning",
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "tags": [
+        "automated_extraction",
+        "compliance"
+      ],
+      "related_constraints": [],
+      "validation_logic": null,
+      "error_message": null
+    },
+    {
+      "id": "___docs_business_forms_company_finance_example_md_2",
+      "title": "Automatically detected compliance constraint",
+      "description": "Constraint found in ../docs/business_forms/company_finance_example.md: must",
+      "constraint_type": "compliance",
+      "condition": "must",
+      "scope": "document_specific",
+      "severity": "warning",
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "tags": [
+        "automated_extraction",
+        "compliance"
+      ],
+      "related_constraints": [],
+      "validation_logic": null,
+      "error_message": null
+    },
+    {
+      "id": "___docs_business_forms_company_finance_example_md_3",
+      "title": "Automatically detected compliance constraint",
+      "description": "Constraint found in ../docs/business_forms/company_finance_example.md: must",
+      "constraint_type": "compliance",
+      "condition": "must",
+      "scope": "document_specific",
+      "severity": "warning",
+      "source_file": "../docs/business_forms/company_finance_example.md",
+      "tags": [
+        "automated_extraction",
+        "compliance"
+      ],
+      "related_constraints": [],
+      "validation_logic": null,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "source_file": "../docs/business_forms/company_finance_example.md",
+    "title": "Managing Company Finances in Finland",
+    "description": "# Managing Company Finances in Finland\n\n## Overview\nThis document explains how to manage finances for a Finnish limited liability company (Oy).\n\n## Key Financial Requirements\n- Maintain proper account...",
+    "tags": [
+      "automated_extraction"
+    ],
+    "categories": [
+      "regulation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T20:08:27.252537",
+    "last_modified": "2026-02-09T20:08:27.252539",
+    "author": "automated_extraction",
+    "version": "1.0",
+    "relevance_score": 0.5,
+    "content_type": "regulation",
+    "business_domains": [
+      "tax",
+      "finance",
+      "compliance"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 147,
+    "language": "en",
+    "keywords": [],
+    "related_entities": [],
+    "related_components": [],
+    "related_systems": [],
+    "related_constraints": [],
+    "custom_fields": {}
+  },
+  "extraction_date": "2026-02-09T20:08:27.252569"
+}

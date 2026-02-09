@@ -1,0 +1,154 @@
+# Index for business_forms
+
+## Description
+This directory contains 147 files related to business forms. These files were organized from the processed directory based on their content and business function.
+
+## Files in this directory:
+
+- [00 Tietoturvaa ja tietosuojaa.md](00 Tietoturvaa ja tietosuojaa.md) - 00 Information Security and Privacy
+- [2025 Markkinointi_perusteet_kilpailukeinot.md](2025 Markkinointi_perusteet_kilpailukeinot.md) - 2025 Marketing Basics Competition Methods
+- [AB-Kortti.md](AB-Kortti.md) - AB Card
+- [Arviointilomake Liiketoiminnan tehtävissä toimiminen.md](Arviointilomake Liiketoiminnan tehtävissä toimiminen.md) - Evaluation Form Operating in Business Tasks
+- [Arviointilomake Myynti ja markkinointi.md](Arviointilomake Myynti ja markkinointi.md) - Evaluation Form Sales and Marketing
+- [Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md](Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md) - Evaluation Form Business Operations Planning and Launching
+- [Arviointilomake tuotteiden ja palveluiden kehittäminen.md](Arviointilomake tuotteiden ja palveluiden kehittäminen.md) - Evaluation Form Developing Products and Services
+- [Asiakaslupaus.md](Asiakaslupaus.md) - Customer Promise
+- [Canva tehtävät.md](Canva tehtävät.md) - Canva Tasks
+- [DNA Digitaalinen elämä 2024_open_päivitetty.md](DNA Digitaalinen elämä 2024_open_päivitetty.md) - DNA Digital Life 2024 open updated
+- [Digitaalinen markkinointi.md](Digitaalinen markkinointi.md) - Digital Marketing
+- [Digitaalinen ympäristöni.md](Digitaalinen ympäristöni.md) - My Digital Environment
+- [Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md](Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md) - Handbook of Digital Marketing for Micro and Small Enterprises
+- [Digitaaliset ostopolut.md](Digitaaliset ostopolut.md) - Digital Purchase Channels
+- [Digitaalisuus_vihreä_logistiikka.md](Digitaalisuus_vihreä_logistiikka.md) - Digitalization Green Logistics
+- [Ergonomia, työhyvinvointi ja työturvallisuus.md](Ergonomia, työhyvinvointi ja työturvallisuus.md) - Ergonomics, Workplace Well-being and Safety
+- [Esimerkki markkinoinnin vuosikello.md](Esimerkki markkinoinnin vuosikello.md) - Example Marketing Annual Calendar
+- [H10_Avoimen_yhtion_yhtiosopimus.md](H10_Avoimen_yhtion_yhtiosopimus.md) - H10 General Partnership Agreement
+- [H11_Kommandiittiyhtion_yhtiosopimus.md](H11_Kommandiittiyhtion_yhtiosopimus.md) - H11 Limited Partnership Agreement
+- [H12_Osakeyhtion_yhtiojarjestys.md](H12_Osakeyhtion_yhtiojarjestys.md) - H12 Limited Liability Company Articles of Association
+- [H16_SVOP-sijoitussopimus.md](H16_SVOP-sijoitussopimus.md) - H16 SVOP Investment Agreement
+- [H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md](H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md) - H5 Business Plan for Starting Company
+- [H7_Liikehuoneiston_vuokrasopimus.md](H7_Liikehuoneiston_vuokrasopimus.md) - H7 Commercial Premises Lease Agreement
+- [H8_Vuokrasopimuksen_purkaminen.md](H8_Vuokrasopimuksen_purkaminen.md) - H8 Termination of Lease Agreement
+- [H9_Osakas-yhtiomiessopimus.md](H9_Osakas-yhtiomiessopimus.md) - H9 Shareholder-Company Member Agreement
+- [Hinnoittelu.md](Hinnoittelu.md) - Pricing
+- [Kannattavuus.md](Kannattavuus.md) - Profitability
+- [Kertaustehtävä Word Pitkäasiakirja tiedosto.md](Kertaustehtävä Word Pitkäasiakirja tiedosto.md) - Review Task Word Long Document File
+- [Kertaustehtävä Word Pitkäasiakirja.md](Kertaustehtävä Word Pitkäasiakirja.md) - Review Task Word Long Document
+- [L10_Alihankintasopimus.md](L10_Alihankintasopimus.md) - L10 Subcontracting Agreement
+- [L12_Toimeksiantosopimus.md](L12_Toimeksiantosopimus.md) - L12 Commission Agreement
+- [L13_Kauppakirja.md](L13_Kauppakirja.md) - L13 Sales Contract
+- [L14_Kauppakirja_koneet.md](L14_Kauppakirja_koneet.md) - L14 Sales Contract Machines
+- [LU011_Koulutuksen_viikkokalenteri_1760433672312.md](LU011_Koulutuksen_viikkokalenteri_1760433672312.md) - LU011 Training Weekly Calendar 1760433672312
+- [Laulu tilauksesta.md](Laulu tilauksesta.md) - Song about the Order
+- [Liikeasiakirjat_2_Tarjous.md](Liikeasiakirjat_2_Tarjous.md) - Business Documents 2 Offer
+- [Liikeasiakirjat_3_Tilaus.md](Liikeasiakirjat_3_Tilaus.md) - Business Documents 3 Order
+- [Liikeasiakirjat_5_Lasku.md](Liikeasiakirjat_5_Lasku.md) - Business Documents 5 Invoice
+- [Liikeidean täsmentäminen_lomake.md](Liikeidean täsmentäminen_lomake.md) - Clarifying the Business Idea Form
+- [Logistiikka_Rahavirrat.md](Logistiikka_Rahavirrat.md) - Logistics Cash Flows
+- [Logistiikka_kilpailuetu_palvelutaso.md](Logistiikka_kilpailuetu_palvelutaso.md) - Logistics Competitive Advantage Service Level
+- [Microsoft Forms- tehtävä.md](Microsoft Forms- tehtävä.md) - Microsoft Forms Task
+- [Minustako yrittäjä_tiivistelmä_syksy24-1.md](Minustako yrittäjä_tiivistelmä_syksy24-1.md) - Am I an Entrepreneur Summary Autumn24-1
+- [Myynti-AIDA malli.md](Myynti-AIDA malli.md) - Sales-AIDA Model
+- [Näyttömateriaali_info.md](Näyttömateriaali_info.md) - Demonstration Material Info
+- [OHJEET JA MUISTIINPANOT.md](OHJEET JA MUISTIINPANOT.md) - INSTRUCTIONS AND NOTES
+- [PRH - Apportti _ PRH.md](PRH - Apportti _ PRH.md) - PRH - Contribution in Kind   PRH
+- [PRH - Asiakirjojen julkistaminen muulla kielellä kuin suomeksi tai ruotsiksi _ PRH.md](PRH - Asiakirjojen julkistaminen muulla kielellä kuin suomeksi tai ruotsiksi _ PRH.md) - PRH - Publishing Documents in a Language Other Than Finnish or Swedish   PRH
+- [PRH - Asunto-osakeyhtiö _ PRH.md](PRH - Asunto-osakeyhtiö _ PRH.md) - PRH - Housing Company   PRH
+- [PRH - Avoin yhtiö ja kommandiittiyhtiö _ PRH.md](PRH - Avoin yhtiö ja kommandiittiyhtiö _ PRH.md) - PRH - General Partnership and Limited Partnership   PRH
+- [PRH - Edunsaajaote ja tietopalvelut _ PRH.md](PRH - Edunsaajaote ja tietopalvelut _ PRH.md) - PRH - Beneficial Ownership Extract and Information Services   PRH
+- [PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md](PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md) - PRH - Example of a General Partnership Agreement   PRH
+- [PRH - Esimerkki kommandiittiyhtiön yhtiösopimuksesta _ PRH.md](PRH - Esimerkki kommandiittiyhtiön yhtiösopimuksesta _ PRH.md) - PRH - Example of a Limited Partnership Agreement   PRH
+- [PRH - Esimerkki osakeyhtiön perustamissopimuksesta _ PRH.md](PRH - Esimerkki osakeyhtiön perustamissopimuksesta _ PRH.md) - PRH - Example of Articles of Incorporation of a Limited Liability Company   PRH
+- [PRH - Esimerkki osuuskunnan perustamissopimuksesta _ PRH.md](PRH - Esimerkki osuuskunnan perustamissopimuksesta _ PRH.md) - PRH - Example of Articles of Incorporation of a Cooperative   PRH
+- [PRH - Esimerkki yhtiöjärjestyksestä _ PRH.md](PRH - Esimerkki yhtiöjärjestyksestä _ PRH.md) - PRH - Example of Articles of Association   PRH
+- [PRH - Henkilötunnuksen puuttuminen _ PRH.md](PRH - Henkilötunnuksen puuttuminen _ PRH.md) - PRH - Missing Personal Identity Code   PRH
+- [PRH - Keskinäinen kiinteistöosakeyhtiö _ PRH.md](PRH - Keskinäinen kiinteistöosakeyhtiö _ PRH.md) - PRH - Mutual Real Estate Company   PRH
+- [PRH - Kuka on edunsaaja_ _ PRH.md](PRH - Kuka on edunsaaja_ _ PRH.md) - PRH - Who is the Beneficiary    PRH
+- [PRH - Lupa ETAn ulkopuolella pysyvästi asuvalle _ PRH.md](PRH - Lupa ETAn ulkopuolella pysyvästi asuvalle _ PRH.md) - PRH - Permit for Person Permanently Residing Outside the EEA   PRH
+- [PRH - Lupa ETAn ulkopuolella pysyvästi asuville _ PRH.md](PRH - Lupa ETAn ulkopuolella pysyvästi asuville _ PRH.md) - PRH - Permit for Persons Permanently Residing Outside the EEA   PRH
+- [PRH - Lupa sivuliikkeen perustamiseen _ PRH.md](PRH - Lupa sivuliikkeen perustamiseen _ PRH.md) - PRH - Permit for Establishing a Branch Office   PRH
+- [PRH - Luvat ETAn ulkopuolella pysyvästi asuville _ PRH.md](PRH - Luvat ETAn ulkopuolella pysyvästi asuville _ PRH.md) - PRH - Permits for Persons Permanently Residing Outside the EEA   PRH
+- [PRH - Miten teet ilmoituksen_ _ PRH.md](PRH - Miten teet ilmoituksen_ _ PRH.md) - PRH - How Do You Make a Notification    PRH
+- [PRH - Muut yritysmuodot _ PRH.md](PRH - Muut yritysmuodot _ PRH.md) - PRH - Other Business Forms   PRH
+- [PRH - Ohjattu perustamispaketti YTJ-palvelussa _ PRH.md](PRH - Ohjattu perustamispaketti YTJ-palvelussa _ PRH.md) - PRH - Guided Formation Package in YTJ Service   PRH
+- [PRH - Osakeyhtiö _ PRH.md](PRH - Osakeyhtiö _ PRH.md) - PRH - Limited Liability Company   PRH
+- [PRH - Osuuskunta _ PRH.md](PRH - Osuuskunta _ PRH.md) - PRH - Cooperative   PRH
+- [PRH - Paperilomakkeet _ PRH.md](PRH - Paperilomakkeet _ PRH.md) - PRH - Paper Forms   PRH
+- [PRH - Perustamisilmoitus YTJ-palvelussa _ PRH.md](PRH - Perustamisilmoitus YTJ-palvelussa _ PRH.md) - PRH - Formation Notification in YTJ Service   PRH
+- [PRH - Perustamissopimus _ PRH.md](PRH - Perustamissopimus _ PRH.md) - PRH - Articles of Incorporation   PRH
+- [PRH - Rajapinta ohjelmistoyrityksille _ PRH.md](PRH - Rajapinta ohjelmistoyrityksille _ PRH.md) - PRH - Interface for Software Companies   PRH
+- [PRH - Sivuliike _ PRH.md](PRH - Sivuliike _ PRH.md) - PRH - Branch Office   PRH
+- [PRH - Sähköinen allekirjoitus kaupparekisteri-ilmoituksissa _ PRH.md](PRH - Sähköinen allekirjoitus kaupparekisteri-ilmoituksissa _ PRH.md) - PRH - Electronic Signature in Trade Register Notifications   PRH
+- [PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md](PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md) - PRH - End of Assignment and Notification of Own Resignation   PRH
+- [PRH - Tilinpäätöksen käsittely kaupparekisterissä _ PRH.md](PRH - Tilinpäätöksen käsittely kaupparekisterissä _ PRH.md) - PRH - Processing of Financial Statements in the Trade Register   PRH
+- [PRH - Tilinpäätöksen täydennys _ PRH.md](PRH - Tilinpäätöksen täydennys _ PRH.md) - PRH - Supplementing Financial Statements   PRH
+- [PRH - Tilinpäätös myöhässä _ PRH.md](PRH - Tilinpäätös myöhässä _ PRH.md) - PRH - Financial Statements Late   PRH
+- [PRH - Tilinpäätöstaksonomiat _ PRH.md](PRH - Tilinpäätöstaksonomiat _ PRH.md) - PRH - Financial Statement Taxonomies   PRH
+- [PRH - Tilintarkastajan todistus tai muu selvitys _ PRH.md](PRH - Tilintarkastajan todistus tai muu selvitys _ PRH.md) - PRH - Auditor's Certificate or Other Statement   PRH
+- [PRH - Toimiala _ PRH.md](PRH - Toimiala _ PRH.md) - PRH - Line of Business   PRH
+- [PRH - Turvakielto ja kaupparekisteri _ PRH.md](PRH - Turvakielto ja kaupparekisteri _ PRH.md) - PRH - Non-disclosure and Trade Register   PRH
+- [PRH - Usein kysyttyä _ PRH.md](PRH - Usein kysyttyä _ PRH.md) - PRH - Frequently Asked Questions   PRH
+- [PRH - Usein kysyttyä asiamiehille _ PRH.md](PRH - Usein kysyttyä asiamiehille _ PRH.md) - PRH - Frequently Asked Questions for Agents   PRH
+- [PRH - Usein kysyttyä yrityksille _ PRH.md](PRH - Usein kysyttyä yrityksille _ PRH.md) - PRH - Frequently Asked Questions for Companies   PRH
+- [PRH - Usein kysytyt kysymykset myöhässä olevasta tilinpäätöksestä _ PRH.md](PRH - Usein kysytyt kysymykset myöhässä olevasta tilinpäätöksestä _ PRH.md) - PRH - Frequently Asked Questions About Late Financial Statements   PRH
+- [PRH - Vakuutus lain noudattamisesta _ PRH.md](PRH - Vakuutus lain noudattamisesta _ PRH.md) - PRH - Guarantee of Compliance with the Law   PRH
+- [PRH - Velkojan vastustus _ PRH.md](PRH - Velkojan vastustus _ PRH.md) - PRH - Creditor's Opposition   PRH
+- [PRH - Yhdistykset _ PRH.md](PRH - Yhdistykset _ PRH.md) - PRH - Associations   PRH
+- [PRH - Yhteiset ohjeet yrityksille _ PRH.md](PRH - Yhteiset ohjeet yrityksille _ PRH.md) - PRH - Common Instructions for Companies   PRH
+- [PRH - Yhtiöjärjestyksen esimerkit _ PRH.md](PRH - Yhtiöjärjestyksen esimerkit _ PRH.md) - PRH - Examples of Articles of Association   PRH
+- [PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md](PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md) - PRH - Writing Style of Articles of Association, Partnership Agreement and Rules   PRH
+- [PRH - Yhtiöjärjestys _ PRH.md](PRH - Yhtiöjärjestys _ PRH.md) - PRH - Articles of Association   PRH
+- [PRH - Yksityinen elinkeinonharjoittaja (toiminimiyrittäjä) _ PRH.md](PRH - Yksityinen elinkeinonharjoittaja (toiminimiyrittäjä) _ PRH.md) - PRH - Private Entrepreneur (Business Name Entrepreneur)   PRH
+- [PRH - Yrityksen lopettaminen _ PRH.md](PRH - Yrityksen lopettaminen _ PRH.md) - PRH - Closing a Company   PRH
+- [PRH - Yrityksen muutokset _ PRH.md](PRH - Yrityksen muutokset _ PRH.md) - PRH - Company Changes   PRH
+- [PRH - Yrityksen perustaminen _ PRH.md](PRH - Yrityksen perustaminen _ PRH.md) - PRH - Establishing a Company   PRH
+- [Powerpoint - SmartArt.md](Powerpoint - SmartArt.md) - Powerpoint - SmartArt
+- [Qt_Group_vision_interview_kit.md](Qt_Group_vision_interview_kit.md) - Qt Group vision interview kit
+- [Satu Lankinen _ Digimarkkinointia _ Yrittäjyyden AT _2025 05 13.md](Satu Lankinen _ Digimarkkinointia _ Yrittäjyyden AT _2025 05 13.md) - Satu Lankinen   Digital Marketing   Entrepreneurship AT  2025 05 13
+- [Sähköinen liiketoiminta.md](Sähköinen liiketoiminta.md) - Electronic Business
+- [T2_Tyosopimus_.md](T2_Tyosopimus_.md) - T2 Employment Contract
+- [T4_Lomautusilmoitus-lomautustodistus.md](T4_Lomautusilmoitus-lomautustodistus.md) - T4 Lay-off Notification-Lay-off Certificate
+- [T5_Irtisanomisilmoitus.md](T5_Irtisanomisilmoitus.md) - T5 Dismissal Notification
+- [T6_Yritysyhteistyon_salassapitosopimus.md](T6_Yritysyhteistyon_salassapitosopimus.md) - T6 Confidentiality Agreement for Business Cooperation
+- [T7_Yrityskaupan_salassapitosopimus.md](T7_Yrityskaupan_salassapitosopimus.md) - T7 Confidentiality Agreement for Business Transaction
+- [T8_Kahdenkeskinen_salassapitosopimus.md](T8_Kahdenkeskinen_salassapitosopimus.md) - T8 Bilateral Confidentiality Agreement
+- [Tietoturva ja tietosuoja 1.md](Tietoturva ja tietosuoja 1.md) - Information Security and Privacy 1
+- [Tutkinto tehtävä ohje .md](Tutkinto tehtävä ohje .md) - Degree Task Instructions
+- [Työkalut tuotteistaminen YAT 22012025.md](Työkalut tuotteistaminen YAT 22012025.md) - Tools Productization YAT 22012025
+- [URNISBN9789523442719.md](URNISBN9789523442719.md) - URNISBN9789523442719
+- [Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md](Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md) - New Business Center FI Formation Guide 2025 ready-digital
+- [V6_Turvallisuusasiakirja_ohjelmapalveluyritykselle.md](V6_Turvallisuusasiakirja_ohjelmapalveluyritykselle.md) - V6 Security Document for Software Service Company
+- [V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md](V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md) - V7 Security Document for Services Containing Risks
+- [V9_Tyosuojelun_toimintaohjelma.md](V9_Tyosuojelun_toimintaohjelma.md) - V9 Occupational Safety Action Program
+- [Varaston kierto_UUSI_YAT.md](Varaston kierto_UUSI_YAT.md) - Inventory Turnover NEW YAT
+- [Word Pitkäasiakirja ohje .md](Word Pitkäasiakirja ohje .md) - Word Long Document Instructions
+- [Word Pitkäasiakirja tehtävä.md](Word Pitkäasiakirja tehtävä.md) - Word Long Document Task
+- [Word Pitkäasiakirja tiedosto Digitaalinen valokuvaus.md](Word Pitkäasiakirja tiedosto Digitaalinen valokuvaus.md) - Word Long Document File Digital Photography
+- [YAT_kannattavuus_vakavaraisuus_maksuvalmius.md](YAT_kannattavuus_vakavaraisuus_maksuvalmius.md) - YAT profitability solvency liquidity
+- [YT2_Liiketoimintasuunnitelma_Invest_Lapua.md](YT2_Liiketoimintasuunnitelma_Invest_Lapua.md) - YT2 Business Plan Invest Lapua
+- [YT3_Liiketoimintasuunnitelma_Lapua.md](YT3_Liiketoimintasuunnitelma_Lapua.md) - YT3 Business Plan Lapua
+- [Yrittäjän riskienhallinta 25022025.md](Yrittäjän riskienhallinta 25022025.md) - Entrepreneur's Risk Management 25022025
+- [Yrityksen perustaminen perustemistoimet 2023.md](Yrityksen perustaminen perustemistoimet 2023.md) - Establishing a Company Formation Measures 2023
+- [Yritysmuodot ja verotus 2025.md](Yritysmuodot ja verotus 2025.md) - Business Forms and Taxation 2025
+- [asiakaspalvelu kuluttajille.md](asiakaspalvelu kuluttajille.md) - Customer Service for Consumers
+- [asiakaspalvelu.md](asiakaspalvelu.md) - Customer Service
+- [asiakirjastandardi_SFS_2487.md](asiakirjastandardi_SFS_2487.md) - Document Standard SFS 2487
+- [budjetointi.md](budjetointi.md) - Budgeting
+- [elo_vinkit_vanhempainvapaa_040920.md](elo_vinkit_vanhempainvapaa_040920.md) - August Tips Parental Leave 040920
+- [esihenkilöiden lainsäädäntö.md](esihenkilöiden lainsäädäntö.md) - Supervisor Legislation
+- [hyvän mainoksen elementtejä.md](hyvän mainoksen elementtejä.md) - Elements of Good Advertising
+- [index.md](index.md) - index
+- [liikeidea toimintamalli.md](liikeidea toimintamalli.md) - Business Idea Operating Model
+- [megatrendit 2026.md](megatrendit 2026.md) - Megatrends 2026
+- [suomi fi yrityksen perustaminen.md](suomi fi yrityksen perustaminen.md) - suomi fi establishing a company
+- [svea verkkokauppatutkimus.md](svea verkkokauppatutkimus.md) - svea e-commerce study
+- [tuotteistamisen näyttötyökalu.md](tuotteistamisen näyttötyökalu.md) - Productization Demonstration Tool
+- [työkaluja tuotteistamiseen.md](työkaluja tuotteistamiseen.md) - Tools for Productization
+- [työlainsäädäntö.md](työlainsäädäntö.md) - Labor Legislation
+- [työsopimuslaki.md](työsopimuslaki.md) - Employment Contract Act
+- [työterveyshuoltolaki.md](työterveyshuoltolaki.md) - Occupational Health Care Act
+- [uuden_yrittajan_verotietoa_2025.md](uuden_yrittajan_verotietoa_2025.md) - Tax Information for New Entrepreneurs 2025
+- [uusyrityskeskus.md](uusyrityskeskus.md) - New Business Center
+- [valuedefinition_changesales_2022.md](valuedefinition_changesales_2022.md) - valuedefinition changesales 2022
+- [yrityksen perustamisopas.md](yrityksen perustamisopas.md) - Company Formation Guide
+- [yritysasiakaspalvelu.md](yritysasiakaspalvelu.md) - Corporate Customer Service

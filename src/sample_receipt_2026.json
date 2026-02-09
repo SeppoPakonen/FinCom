@@ -1,0 +1,164 @@
+{
+  "receipt_document": {
+    "company_name": "Sample Receipt Co 2026",
+    "receipt_date": "04.02.2026",
+    "receipt_number": "REC-2026-001",
+    "payee_info": {
+      "name": "Sample Receipt Oy",
+      "address": "Kassakatu 15, 33100 Tampere",
+      "business_id": "1234567-8",
+      "contact_person": "Kassamies: Kaisa Kassamies",
+      "phone": "0500 123 456",
+      "email": "kaisa.kassamies@samplereceipt.fi",
+      "website": "www.samplereceipt.fi",
+      "vat_registration": "FI12345678"
+    },
+    "payer_info": {
+      "name": "Asiakas Oy",
+      "address": "Asiakaskatu 20, 00100 Helsinki",
+      "business_id": "8765432-1",
+      "contact_person": "Asiakas: Aino Asiakas",
+      "phone": "0400 987 654",
+      "email": "aino.asiakas@asiakas.fi"
+    },
+    "transaction_details": {
+      "transaction_date": "2026-02-01",
+      "transaction_time": "15:00:23",
+      "transaction_id": "TX-2026-001",
+      "location": "Tampere Store",
+      "cash_register_id": "CR-001"
+    },
+    "items": [
+      {
+        "product_name": "Tuote 1: Esimerkki-ikkuna",
+        "quantity": 1,
+        "unit": "kpl",
+        "unit_price_excl_vat": 125.5,
+        "vat_percentage": 25.5,
+        "total_excl_vat": 125.5,
+        "total_vat": 32.0025,
+        "total_incl_vat": 157.5025
+      },
+      {
+        "product_name": "Tuote 2",
+        "quantity": 1,
+        "unit": "kg",
+        "unit_price_excl_vat": 113.5,
+        "vat_percentage": 13.5,
+        "total_excl_vat": 113.5,
+        "total_vat": 15.322500000000002,
+        "total_incl_vat": 128.8225
+      },
+      {
+        "product_name": "Tuote 3",
+        "quantity": 1,
+        "unit": "l",
+        "unit_price_excl_vat": 110.0,
+        "vat_percentage": 10.0,
+        "total_excl_vat": 110.0,
+        "total_vat": 11.0,
+        "total_incl_vat": 121.00000000000001
+      }
+    ],
+    "payment_info": {
+      "payment_method": "Card",
+      "payment_reference": "POS-123456789",
+      "currency": "EUR",
+      "exchange_rate": 1.0
+    },
+    "cashier_info": {
+      "name": "Kaisa Kassamies",
+      "employee_id": "EMP-001"
+    },
+    "store_location": {
+      "name": "Tampere Store",
+      "address": "Kauppakeskus, Kauppakatu 10, 33100 Tampere",
+      "location_id": ""
+    },
+    "exchange_conditions": {
+      "time_limit": "14 days",
+      "condition_requirement": "Item must be in original condition",
+      "receipt_required": true
+    },
+    "return_policy": {
+      "return_period": "30 days",
+      "condition_requirement": "Item must be unused and in original packaging",
+      "refund_method": "Original payment method",
+      "restocking_fee": 0.0
+    },
+    "warranty_terms": {
+      "warranty_period": "12 months",
+      "warranty_scope": "Manufacturing defects",
+      "warranty_exclusions": "Damage due to misuse or normal wear"
+    },
+    "totals": {
+      "subtotal_excl_vat": 349.0,
+      "total_vat": 58.325,
+      "total_incl_vat": 407.325,
+      "vat_breakdown": {
+        "25.5": 32.0025,
+        "13.5": 15.322500000000002,
+        "10.0": 11.0
+      }
+    },
+    "receipt_reference": "REF-2026-001",
+    "vat_calculations": {
+      "vat_0_percent": 0.0,
+      "vat_10_percent": 11.0,
+      "vat_14_percent": 0.0,
+      "vat_24_percent": 0.0
+    }
+  },
+  "analytics": {
+    "total_items": 3,
+    "average_item_value": 135.775,
+    "vat_rate_distribution": {
+      "25.5": {
+        "amount": 32.0025,
+        "percentage_of_total": 54.869267038148294
+      },
+      "13.5": {
+        "amount": 15.322500000000002,
+        "percentage_of_total": 26.27089584226318
+      },
+      "10.0": {
+        "amount": 11.0,
+        "percentage_of_total": 18.859837119588512
+      }
+    },
+    "payment_method_summary": "Card",
+    "transaction_value_category": "Large",
+    "most_expensive_item": {
+      "product_name": "Tuote 1: Esimerkki-ikkuna",
+      "quantity": 1,
+      "unit": "kpl",
+      "unit_price_excl_vat": 125.5,
+      "vat_percentage": 25.5,
+      "total_excl_vat": 125.5,
+      "total_vat": 32.0025,
+      "total_incl_vat": 157.5025
+    },
+    "least_expensive_item": {
+      "product_name": "Tuote 3",
+      "quantity": 1,
+      "unit": "l",
+      "unit_price_excl_vat": 110.0,
+      "vat_percentage": 10.0,
+      "total_excl_vat": 110.0,
+      "total_vat": 11.0,
+      "total_incl_vat": 121.00000000000001
+    }
+  },
+  "compliance_check": {
+    "has_receipt_number": true,
+    "has_transaction_date": true,
+    "has_payee_info": true,
+    "has_items": true,
+    "has_total_amount": true,
+    "has_vat_breakdown": true,
+    "overall_compliant": true
+  },
+  "recommendations": [
+    "Multiple VAT rates applied. Verify correct classification of items."
+  ]
+}

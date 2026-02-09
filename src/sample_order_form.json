@@ -1,0 +1,101 @@
+{
+  "order_confirmation": {
+    "company_name": "Sample Order Co",
+    "order_date": "04.02.2026",
+    "order_number": "ORD-2026-001",
+    "customer_info": {
+      "name": "Kauppakeskus Oy",
+      "address": "Kauppakatu 10",
+      "city": "33100 TAMPERE",
+      "contact_person": "Matti Meikäläinen",
+      "phone": "0500 123 456",
+      "email": "matti.meikalainen@kauppakeskus.fi",
+      "business_id": "1234567-8"
+    },
+    "contact_person": "",
+    "contact_info": "",
+    "order_reference": "Customer reference XX0125",
+    "delivery_info": {
+      "delivery_date": "2026-02-20",
+      "delivery_address": "Toimitusosoite: Esimerkkikatu 15, 33200 Tampere",
+      "delivery_method": "Express delivery"
+    },
+    "payment_terms": {
+      "payment_method": "Bank transfer",
+      "payment_period": "14 days",
+      "late_fee": "10% per annum"
+    },
+    "order_items": [
+      {
+        "product_id": "prod_1",
+        "product_name": "Esimerkki-ikkuna",
+        "quantity": 100,
+        "unit_price_excl_vat": 100.0,
+        "vat_percentage": 25.5,
+        "total_excl_vat": 10000.0,
+        "total_vat": 2550.0,
+        "total_incl_vat": 12549.999999999998
+      },
+      {
+        "product_id": "prod_2",
+        "product_name": "Additional service",
+        "quantity": 5,
+        "unit_price_excl_vat": 2000.0,
+        "vat_percentage": 25.5,
+        "total_excl_vat": 10000.0,
+        "total_vat": 2550.0,
+        "total_incl_vat": 12549.999999999998
+      }
+    ],
+    "inventory_availability": {
+      "prod_1": true,
+      "prod_2": true
+    },
+    "totals": {
+      "total_excl_vat": 20000.0,
+      "total_vat": 5100.0,
+      "total_incl_vat": 25099.999999999996,
+      "discount_amount": 1255.0,
+      "shipping_cost": 50.0,
+      "final_total": 23894.999999999996
+    },
+    "terms_conditions": {
+      "validity_period": "30 days",
+      "cancellation_policy": "Orders can be cancelled within 14 days of placement",
+      "dispute_resolution": "Handled according to Finnish law"
+    },
+    "shipping_info": {
+      "shipping_method": "Express shipping",
+      "shipping_cost": 50.0,
+      "estimated_delivery_time": "2-3 business days",
+      "tracking_available": true
+    },
+    "quality_assurance": {
+      "inspection_required": true,
+      "quality_standards": "ISO 9001",
+      "warranty_period": "12 months"
+    },
+    "return_policy": {
+      "return_period": "30 days",
+      "condition_requirement": "Item must be in original condition",
+      "refund_method": "Original payment method"
+    },
+    "special_notes": "Handle with care - fragile items",
+    "status": "Confirmed",
+    "estimated_delivery": "11.02.2026"
+  },
+  "analytics": {
+    "total_items_ordered": 2,
+    "total_quantity_ordered": 105,
+    "average_item_value": 12549.999999999998,
+    "vat_percentage_breakdown": {
+      "25.5": {
+        "excl_vat": 20000.0,
+        "vat": 5100.0,
+        "incl_vat": 25099.999999999996
+      }
+    },
+    "discount_percentage_applied": 5.0,
+    "shipping_cost_percentage": 0.19920318725099606
+  }
+}

@@ -1,0 +1,1384 @@
+{
+  "id": "relationship_graph_1",
+  "name": "Cross-Document Relationships",
+  "description": "Relationships between data elements across different documentation files",
+  "creation_date": "2026-02-09T20:08:27.248653",
+  "tags": [
+    "cross_document",
+    "automated_generation"
+  ],
+  "nodes": [
+    {
+      "id": "file_0",
+      "element_type": "file",
+      "element_data": {
+        "path": "../docs/business_forms/company_formation_example.md",
+        "extraction_date": "2026-02-09T20:08:27.246984"
+      },
+      "tags": [
+        "file_node"
+      ]
+    },
+    {
+      "id": "keyword_1",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "company",
+        "frequency": 3,
+        "relevance": 0.18181818181818182,
+        "category": "business_term",
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_2",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "registration",
+        "frequency": 4,
+        "relevance": 0.24242424242424243,
+        "category": "business_term",
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_3",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "formation",
+        "frequency": 1,
+        "relevance": 0.06060606060606061,
+        "category": "business_term",
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_4",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "tax",
+        "frequency": 2,
+        "relevance": 0.12121212121212122,
+        "category": "business_term",
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_5",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "vat",
+        "frequency": 1,
+        "relevance": 0.06060606060606061,
+        "category": "business_term",
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_6",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "profit",
+        "frequency": 1,
+        "relevance": 0.06060606060606061,
+        "category": "business_term",
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_7",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "compliance",
+        "frequency": 1,
+        "relevance": 0.06060606060606061,
+        "category": "business_term",
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_8",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "requirement",
+        "frequency": 3,
+        "relevance": 0.18181818181818182,
+        "category": "business_term",
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_9",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "obligation",
+        "frequency": 1,
+        "relevance": 0.06060606060606061,
+        "category": "business_term",
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_10",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "shareholder",
+        "frequency": 3,
+        "relevance": 0.18181818181818182,
+        "category": "business_term",
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_11",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "form",
+        "frequency": 2,
+        "relevance": 0.12121212121212122,
+        "category": "business_term",
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_12",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Requirements",
+        "frequency": 3,
+        "relevance": 0.09090909090909091,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_13",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Finland",
+        "frequency": 3,
+        "relevance": 0.09090909090909091,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_14",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Overview",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_15",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "This",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_16",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Required",
+        "frequency": 2,
+        "relevance": 0.06060606060606061,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_17",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Documents",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_18",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Articles",
+        "frequency": 2,
+        "relevance": 0.06060606060606061,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_19",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Association",
+        "frequency": 2,
+        "relevance": 0.06060606060606061,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_20",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Proof",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_21",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Identity",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_22",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Registered",
+        "frequency": 2,
+        "relevance": 0.06060606060606061,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_23",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Process",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_24",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Prepare",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_25",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Deposit",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_26",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Submit",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_27",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Patent",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_28",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Office",
+        "frequency": 3,
+        "relevance": 0.09090909090909091,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_29",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Await",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_30",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Important",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_31",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Constraints",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_32",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Minimum",
+        "frequency": 3,
+        "relevance": 0.09090909090909091,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_33",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Finnish",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_34",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Obligations",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_35",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Corporate",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_36",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Annual",
+        "frequency": 2,
+        "relevance": 0.06060606060606061,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_37",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Board",
+        "frequency": 1,
+        "relevance": 0.030303030303030304,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "keyword_38",
+      "element_type": "keyword",
+      "element_data": {
+        "term": "Shareholders",
+        "frequency": 2,
+        "relevance": 0.06060606060606061,
+        "category": "proper_noun",
+        "tags": [
+          "capitalized_term"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "position_in_text": null,
+        "related_keywords": []
+      },
+      "tags": [
+        "keyword_node"
+      ]
+    },
+    {
+      "id": "component_39",
+      "element_type": "component",
+      "element_data": {
+        "name": "Prepare Articles",
+        "description": "Component identified in ../docs/business_forms/company_formation_example.md",
+        "properties": {
+          "source_document": "../docs/business_forms/company_formation_example.md"
+        },
+        "data_schema": {
+          "value": "string"
+        },
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md"
+      },
+      "tags": [
+        "component_node"
+      ]
+    },
+    {
+      "id": "component_40",
+      "element_type": "component",
+      "element_data": {
+        "name": "Articles",
+        "description": "Component identified in ../docs/business_forms/company_formation_example.md",
+        "properties": {
+          "source_document": "../docs/business_forms/company_formation_example.md"
+        },
+        "data_schema": {
+          "value": "string"
+        },
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md"
+      },
+      "tags": [
+        "component_node"
+      ]
+    },
+    {
+      "id": "component_41",
+      "element_type": "component",
+      "element_data": {
+        "name": "Proof",
+        "description": "Component identified in ../docs/business_forms/company_formation_example.md",
+        "properties": {
+          "source_document": "../docs/business_forms/company_formation_example.md"
+        },
+        "data_schema": {
+          "value": "string"
+        },
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md"
+      },
+      "tags": [
+        "component_node"
+      ]
+    },
+    {
+      "id": "component_42",
+      "element_type": "component",
+      "element_data": {
+        "name": "Registered",
+        "description": "Component identified in ../docs/business_forms/company_formation_example.md",
+        "properties": {
+          "source_document": "../docs/business_forms/company_formation_example.md"
+        },
+        "data_schema": {
+          "value": "string"
+        },
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md"
+      },
+      "tags": [
+        "component_node"
+      ]
+    },
+    {
+      "id": "component_43",
+      "element_type": "component",
+      "element_data": {
+        "name": "Articles",
+        "description": "Component identified in ../docs/business_forms/company_formation_example.md",
+        "properties": {
+          "source_document": "../docs/business_forms/company_formation_example.md"
+        },
+        "data_schema": {
+          "value": "string"
+        },
+        "tags": [
+          "automated_extraction"
+        ],
+        "source_file": "../docs/business_forms/company_formation_example.md"
+      },
+      "tags": [
+        "component_node"
+      ]
+    },
+    {
+      "id": "constraint_44",
+      "element_type": "constraint",
+      "element_data": {
+        "id": "___docs_business_forms_company_formation_example_md_1",
+        "title": "Automatically detected compliance constraint",
+        "description": "Constraint found in ../docs/business_forms/company_formation_example.md: Required",
+        "constraint_type": "compliance",
+        "condition": "Required",
+        "scope": "document_specific",
+        "severity": "warning",
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "tags": [
+          "automated_extraction",
+          "compliance"
+        ],
+        "related_constraints": [],
+        "validation_logic": null,
+        "error_message": null
+      },
+      "tags": [
+        "constraint_node"
+      ]
+    },
+    {
+      "id": "constraint_45",
+      "element_type": "constraint",
+      "element_data": {
+        "id": "___docs_business_forms_company_formation_example_md_2",
+        "title": "Automatically detected compliance constraint",
+        "description": "Constraint found in ../docs/business_forms/company_formation_example.md: must",
+        "constraint_type": "compliance",
+        "condition": "must",
+        "scope": "document_specific",
+        "severity": "warning",
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "tags": [
+          "automated_extraction",
+          "compliance"
+        ],
+        "related_constraints": [],
+        "validation_logic": null,
+        "error_message": null
+      },
+      "tags": [
+        "constraint_node"
+      ]
+    },
+    {
+      "id": "constraint_46",
+      "element_type": "constraint",
+      "element_data": {
+        "id": "___docs_business_forms_company_formation_example_md_3",
+        "title": "Automatically detected compliance constraint",
+        "description": "Constraint found in ../docs/business_forms/company_formation_example.md: required",
+        "constraint_type": "compliance",
+        "condition": "required",
+        "scope": "document_specific",
+        "severity": "warning",
+        "source_file": "../docs/business_forms/company_formation_example.md",
+        "tags": [
+          "automated_extraction",
+          "compliance"
+        ],
+        "related_constraints": [],
+        "validation_logic": null,
+        "error_message": null
+      },
+      "tags": [
+        "constraint_node"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_0",
+      "source_node_id": "keyword_1",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_1",
+      "source_node_id": "keyword_2",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_2",
+      "source_node_id": "keyword_3",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_3",
+      "source_node_id": "keyword_4",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_4",
+      "source_node_id": "keyword_5",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_5",
+      "source_node_id": "keyword_6",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_6",
+      "source_node_id": "keyword_7",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_7",
+      "source_node_id": "keyword_8",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_8",
+      "source_node_id": "keyword_9",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_9",
+      "source_node_id": "keyword_10",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_10",
+      "source_node_id": "keyword_11",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_11",
+      "source_node_id": "keyword_12",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_12",
+      "source_node_id": "keyword_13",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_13",
+      "source_node_id": "keyword_14",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_14",
+      "source_node_id": "keyword_15",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_15",
+      "source_node_id": "keyword_16",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_16",
+      "source_node_id": "keyword_17",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_17",
+      "source_node_id": "keyword_18",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_18",
+      "source_node_id": "keyword_19",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_19",
+      "source_node_id": "keyword_20",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_20",
+      "source_node_id": "keyword_21",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_21",
+      "source_node_id": "keyword_22",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_22",
+      "source_node_id": "keyword_23",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_23",
+      "source_node_id": "keyword_24",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_24",
+      "source_node_id": "keyword_25",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_25",
+      "source_node_id": "keyword_26",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_26",
+      "source_node_id": "keyword_27",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_27",
+      "source_node_id": "keyword_28",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_28",
+      "source_node_id": "keyword_29",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_29",
+      "source_node_id": "keyword_30",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_30",
+      "source_node_id": "keyword_31",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_31",
+      "source_node_id": "keyword_32",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_32",
+      "source_node_id": "keyword_33",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_33",
+      "source_node_id": "keyword_34",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_34",
+      "source_node_id": "keyword_35",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_35",
+      "source_node_id": "keyword_36",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_36",
+      "source_node_id": "keyword_37",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_37",
+      "source_node_id": "keyword_38",
+      "target_node_id": "file_0",
+      "relationship_type": "CONTAINS",
+      "weight": 0.7,
+      "properties": {
+        "relationship_subtype": "keyword_in_file"
+      }
+    },
+    {
+      "id": "edge_38",
+      "source_node_id": "component_39",
+      "target_node_id": "file_0",
+      "relationship_type": "MENTIONS",
+      "weight": 0.8,
+      "properties": {
+        "relationship_subtype": "component_mentioned_in_file"
+      }
+    },
+    {
+      "id": "edge_39",
+      "source_node_id": "component_40",
+      "target_node_id": "file_0",
+      "relationship_type": "MENTIONS",
+      "weight": 0.8,
+      "properties": {
+        "relationship_subtype": "component_mentioned_in_file"
+      }
+    },
+    {
+      "id": "edge_40",
+      "source_node_id": "component_41",
+      "target_node_id": "file_0",
+      "relationship_type": "MENTIONS",
+      "weight": 0.8,
+      "properties": {
+        "relationship_subtype": "component_mentioned_in_file"
+      }
+    },
+    {
+      "id": "edge_41",
+      "source_node_id": "component_42",
+      "target_node_id": "file_0",
+      "relationship_type": "MENTIONS",
+      "weight": 0.8,
+      "properties": {
+        "relationship_subtype": "component_mentioned_in_file"
+      }
+    },
+    {
+      "id": "edge_42",
+      "source_node_id": "component_43",
+      "target_node_id": "file_0",
+      "relationship_type": "MENTIONS",
+      "weight": 0.8,
+      "properties": {
+        "relationship_subtype": "component_mentioned_in_file"
+      }
+    },
+    {
+      "id": "edge_43",
+      "source_node_id": "constraint_44",
+      "target_node_id": "file_0",
+      "relationship_type": "DEFINED_IN",
+      "weight": 0.9,
+      "properties": {
+        "relationship_subtype": "constraint_defined_in_file"
+      }
+    },
+    {
+      "id": "edge_44",
+      "source_node_id": "constraint_45",
+      "target_node_id": "file_0",
+      "relationship_type": "DEFINED_IN",
+      "weight": 0.9,
+      "properties": {
+        "relationship_subtype": "constraint_defined_in_file"
+      }
+    },
+    {
+      "id": "edge_45",
+      "source_node_id": "constraint_46",
+      "target_node_id": "file_0",
+      "relationship_type": "DEFINED_IN",
+      "weight": 0.9,
+      "properties": {
+        "relationship_subtype": "constraint_defined_in_file"
+      }
+    }
+  ]
+}

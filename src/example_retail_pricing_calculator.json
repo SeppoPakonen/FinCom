@@ -1,0 +1,78 @@
+{
+  "company_name": "Example Retail Co",
+  "year": 2026,
+  "products": {
+    "example_product": {
+      "name": "Esimerkkiproducti",
+      "base_cost": 50.0,
+      "prices_by_model": {
+        "cost_plus": 84.63,
+        "competitive": 97.65,
+        "value_based": 93.0,
+        "penetration": 108.9774,
+        "premium": 145.3032
+      },
+      "recommended_price": 80.6,
+      "competitor_price": 75.0,
+      "target_margin": 0.3,
+      "estimated_volume": 1000
+    }
+  },
+  "pricing_models": {
+    "cost_plus": {
+      "markup_percentage": 0.3
+    },
+    "competitive": {
+      "price_index": 1.0
+    },
+    "value_based": {
+      "value_multiplier": 1.5
+    },
+    "penetration": {
+      "discount_percentage": 0.1
+    },
+    "premium": {
+      "premium_percentage": 0.2
+    }
+  },
+  "competitor_analysis": {
+    "competitor_1": {
+      "name": "Kilpailija 1",
+      "avg_price": 70.0
+    },
+    "competitor_2": {
+      "name": "Kilpailija 2",
+      "avg_price": 80.0
+    },
+    "competitor_3": {
+      "name": "Kilpailija 3",
+      "avg_price": 75.0
+    }
+  },
+  "cost_structure": {
+    "direct_materials": 0.0,
+    "direct_labor": 0.0,
+    "manufacturing_overhead": 0.0,
+    "indirect_costs": 0.0,
+    "distribution_costs": 0.0,
+    "marketing_costs": 0.0,
+    "administrative_costs": 0.0,
+    "other_costs": 0.0
+  },
+  "profitability_metrics": {
+    "example_product": {
+      "revenue_per_unit": 80.6,
+      "cost_per_unit": 50.0,
+      "profit_per_unit": 30.599999999999994,
+      "profit_margin": 0.37965260545905705
+    }
+  },
+  "break_even_analysis": {
+    "example_product": {
+      "fixed_costs": 0.0,
+      "break_even_volume": 0,
+      "break_even_revenue": 0.0
+    }
+  },
+  "price_elasticity_analysis": {}
+}

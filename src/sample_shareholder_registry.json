@@ -1,0 +1,271 @@
+{
+  "company_info": {
+    "name_address": "Malliyritys Oy, Pääkatu 1, 12345 Kotikunta",
+    "domicile": "Kotikunta",
+    "business_id": "1234567-8",
+    "registration_date": "15.3.2020",
+    "business_history": [
+      {
+        "name": "Malliyritys Oy, Kotikunta, alkaen 1.1.2008",
+        "period": "2008-01-01 to present"
+      },
+      {
+        "name": "Malliyritys Ky, Kotikunta, alkaen 1.1.2001",
+        "period": "2001-01-01 to 2007-12-31"
+      },
+      {
+        "name": "T:mi Malliyritys Matti Meikäläinen, alkaen 1.1.1998",
+        "period": "1998-01-01 to 2000-12-31"
+      }
+    ],
+    "industry_code": "25990",
+    "industry_description": "Muu metallituotteiden valmistus"
+  },
+  "total_shares": 450,
+  "total_voting_rights": 400.0,
+  "shareholders": {
+    "shareholder_1": {
+      "name_birthdate_id": "Meikäläinen Matti (010660)",
+      "address": "Kotikatu 12, 00010 Helsinki",
+      "tax_municipality": "Helsinki",
+      "share_count": 90,
+      "share_class": "class_A",
+      "transfer_date": "2008-01-01 00:00:00",
+      "voting_rights": 90,
+      "ownership_percentage": 0.2,
+      "contact_info": {
+        "phone": "",
+        "email": "",
+        "representative": ""
+      }
+    },
+    "shareholder_2": {
+      "name_birthdate_id": "Meikäläinen Mauno (201063)",
+      "address": "Sivukatu 15, 00020 Tampere",
+      "tax_municipality": "Tampere",
+      "share_count": 100,
+      "share_class": "class_A",
+      "transfer_date": "2008-01-01 00:00:00",
+      "voting_rights": 100,
+      "ownership_percentage": 0.2222222222222222,
+      "contact_info": {
+        "phone": "",
+        "email": "",
+        "representative": ""
+      }
+    },
+    "shareholder_3": {
+      "name_birthdate_id": "Meikäläinen Timo (051270)",
+      "address": "Pääkatu 1, 90100 Oulu",
+      "tax_municipality": "Oulu",
+      "share_count": 50,
+      "share_class": "class_A",
+      "transfer_date": "2011-01-01 00:00:00",
+      "voting_rights": 50,
+      "ownership_percentage": 0.1111111111111111,
+      "contact_info": {
+        "phone": "",
+        "email": "",
+        "representative": ""
+      }
+    },
+    "shareholder_4": {
+      "name_birthdate_id": "Meikäläinen Invest Oy (2345678-8)",
+      "address": "Pääkatu 1, 90100 Oulu",
+      "tax_municipality": "Oulu",
+      "share_count": 100,
+      "share_class": "class_B",
+      "transfer_date": "2019-01-01 00:00:00",
+      "voting_rights": 50.0,
+      "ownership_percentage": 0.2222222222222222,
+      "contact_info": {
+        "phone": "",
+        "email": "",
+        "representative": ""
+      }
+    },
+    "shareholder_5": {
+      "name_birthdate_id": "Virtanen Anna (010170)",
+      "address": "Sivukatu 20, 00100 Helsinki",
+      "tax_municipality": "Helsinki",
+      "share_count": 85,
+      "share_class": "class_A",
+      "transfer_date": "2022-05-20 00:00:00",
+      "voting_rights": 85,
+      "ownership_percentage": 0.18888888888888888,
+      "contact_info": {
+        "phone": "",
+        "email": "",
+        "representative": ""
+      }
+    },
+    "shareholder_6": {
+      "name_birthdate_id": "Korhonen Ky (1234567-1)",
+      "address": "Pikkukatu 5, 00200 Helsinki",
+      "tax_municipality": "Helsinki",
+      "share_count": 25,
+      "share_class": "class_A",
+      "transfer_date": "2023-01-10 00:00:00",
+      "voting_rights": 25,
+      "ownership_percentage": 0.05555555555555555,
+      "contact_info": {
+        "phone": "",
+        "email": "",
+        "representative": ""
+      }
+    }
+  },
+  "share_classes": {
+    "class_A": {
+      "name": "Ordinary Shares (A)",
+      "voting_rights": 1,
+      "dividend_rights": 1,
+      "liquidation_rights": 1
+    },
+    "class_B": {
+      "name": "Preference Shares (B)",
+      "voting_rights": 0.5,
+      "dividend_rights": 1.2,
+      "liquidation_rights": 1.1
+    }
+  },
+  "dividend_records": {
+    "dividend_year_1": {
+      "year": 2026,
+      "amount_per_share": 2.5,
+      "total_dividend": 1125.0,
+      "payment_date": "2026-09-30",
+      "shareholders_paid": [
+        "shareholder_1",
+        "shareholder_2",
+        "shareholder_3",
+        "shareholder_4",
+        "shareholder_5",
+        "shareholder_6"
+      ]
+    }
+  },
+  "meeting_attendance": {
+    "meeting_1": {
+      "date": "2026-06-15",
+      "type": "Annual General Meeting",
+      "attendees": [
+        "shareholder_1",
+        "shareholder_2",
+        "shareholder_5"
+      ],
+      "voting_results": {
+        "resolution_1": {
+          "passed": true,
+          "votes_for": 250,
+          "votes_against": 100
+        },
+        "resolution_2": {
+          "passed": false,
+          "votes_for": 150,
+          "votes_against": 200
+        }
+      }
+    }
+  },
+  "share_transfers": {
+    "transfer_1": {
+      "date": "2025-03-10 00:00:00",
+      "from_shareholder": "shareholder_1",
+      "to_shareholder": "shareholder_5",
+      "share_count": 10,
+      "share_class": "class_A",
+      "consideration": 1000.0
+    }
+  },
+  "compliance_records": {
+    "last_registry_update": "2026-02-04",
+    "compliance_status": "Compliant",
+    "next_reporting_date": "2026-12-31",
+    "regulatory_submissions": [
+      {
+        "date": "2025-01-15",
+        "type": "Annual filing",
+        "status": "Submitted"
+      },
+      {
+        "date": "2025-06-20",
+        "type": "Share transfer notification",
+        "status": "Approved"
+      }
+    ]
+  },
+  "majority_shareholders": [
+    {
+      "id": "shareholder_2",
+      "name": "Meikäläinen Mauno (201063)",
+      "ownership_percentage": 0.2222222222222222,
+      "share_count": 100
+    },
+    {
+      "id": "shareholder_4",
+      "name": "Meikäläinen Invest Oy (2345678-8)",
+      "ownership_percentage": 0.2222222222222222,
+      "share_count": 100
+    },
+    {
+      "id": "shareholder_1",
+      "name": "Meikäläinen Matti (010660)",
+      "ownership_percentage": 0.2,
+      "share_count": 90
+    },
+    {
+      "id": "shareholder_5",
+      "name": "Virtanen Anna (010170)",
+      "ownership_percentage": 0.18888888888888888,
+      "share_count": 85
+    },
+    {
+      "id": "shareholder_3",
+      "name": "Meikäläinen Timo (051270)",
+      "ownership_percentage": 0.1111111111111111,
+      "share_count": 50
+    },
+    {
+      "id": "shareholder_6",
+      "name": "Korhonen Ky (1234567-1)",
+      "ownership_percentage": 0.05555555555555555,
+      "share_count": 25
+    }
+  ],
+  "summary_stats": {
+    "total_shareholders": 6,
+    "individual_shareholders": 5,
+    "corporate_shareholders": 1,
+    "largest_individual_holder": {
+      "name_birthdate_id": "Meikäläinen Mauno (201063)",
+      "address": "Sivukatu 15, 00020 Tampere",
+      "tax_municipality": "Tampere",
+      "share_count": 100,
+      "share_class": "class_A",
+      "transfer_date": "2008-01-01 00:00:00",
+      "voting_rights": 100,
+      "ownership_percentage": 0.2222222222222222,
+      "contact_info": {
+        "phone": "",
+        "email": "",
+        "representative": ""
+      }
+    },
+    "largest_corporate_holder": {
+      "name_birthdate_id": "Meikäläinen Invest Oy (2345678-8)",
+      "address": "Pääkatu 1, 90100 Oulu",
+      "tax_municipality": "Oulu",
+      "share_count": 100,
+      "share_class": "class_B",
+      "transfer_date": "2019-01-01 00:00:00",
+      "voting_rights": 50.0,
+      "ownership_percentage": 0.2222222222222222,
+      "contact_info": {
+        "phone": "",
+        "email": "",
+        "representative": ""
+      }
+    }
+  }
+}

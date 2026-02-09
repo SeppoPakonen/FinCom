@@ -1,0 +1,128 @@
+{
+  "company_name": "Sample VAT Company Oy",
+  "calculation_date": "04.02.2026",
+  "company_info": {
+    "name": "Sample VAT Company Oy",
+    "business_id": "1234567-8",
+    "address": "VATkatu 15, 33100 Tampere",
+    "contact_person": "VAT Manager: Veijo VAT",
+    "phone": "0500 123 456",
+    "email": "veijo.vat@samplevatcompany.fi",
+    "vat_registration": "FI12345678"
+  },
+  "vat_periods": {
+    "current_period": "2026-Q1",
+    "previous_period": "2025-Q4",
+    "period_start_date": "2026-01-01",
+    "period_end_date": "2026-03-31",
+    "submission_deadline": "2026-05-12"
+  },
+  "sales_transactions": [
+    {
+      "date": "2026-01-15",
+      "description": "Sale of goods to Customer A",
+      "taxable_amount": 10000.0,
+      "vat_rate": 0.24,
+      "output_vat": 2400.0,
+      "customer": "Customer A Oy",
+      "document_number": "SALE-001"
+    },
+    {
+      "date": "2026-01-20",
+      "description": "Service provision to Customer B",
+      "taxable_amount": 5000.0,
+      "vat_rate": 0.24,
+      "output_vat": 1200.0,
+      "customer": "Customer B Ltd",
+      "document_number": "SALE-002"
+    },
+    {
+      "date": "2026-02-05",
+      "description": "Sale of reduced VAT goods",
+      "taxable_amount": 2000.0,
+      "vat_rate": 0.1,
+      "output_vat": 200.0,
+      "customer": "Customer C Ab",
+      "document_number": "SALE-003"
+    }
+  ],
+  "purchase_transactions": [
+    {
+      "date": "2026-01-10",
+      "description": "Office supplies purchase",
+      "taxable_amount": 1500.0,
+      "vat_rate": 0.24,
+      "input_vat": 360.0,
+      "supplier": "Supplier X Oy",
+      "document_number": "PURCHASE-001"
+    },
+    {
+      "date": "2026-01-25",
+      "description": "Business equipment",
+      "taxable_amount": 8000.0,
+      "vat_rate": 0.24,
+      "input_vat": 1920.0,
+      "supplier": "Supplier Y Ltd",
+      "document_number": "PURCHASE-002"
+    },
+    {
+      "date": "2026-02-10",
+      "description": "Professional services",
+      "taxable_amount": 3000.0,
+      "vat_rate": 0.24,
+      "input_vat": 720.0,
+      "supplier": "Consultant Z Ab",
+      "document_number": "PURCHASE-003"
+    }
+  ],
+  "vat_corrections": [
+    {
+      "date": "2026-02-15",
+      "description": "Correction for previous period error",
+      "amount": -120.0,
+      "type": "error_correction"
+    }
+  ],
+  "calculation": {
+    "total_output_vat": 3800.0,
+    "total_input_vat": 3000.0,
+    "correction_amount": -120.0,
+    "net_vat_payable": 680.0,
+    "vat_recovery_rate": 78.94736842105263
+  },
+  "reporting_analytics": {
+    "total_taxable_sales": 17000.0,
+    "total_taxable_purchases": 12500.0,
+    "vat_efficiency_ratio": 78.94736842105263,
+    "compliance_score": 100.0,
+    "audit_risk_level": "Low"
+  },
+  "vat_return_submissions": [
+    {
+      "period": "2026-Q1",
+      "submission_date": "2026-02-04",
+      "company_info": {
+        "name": "Sample VAT Company Oy",
+        "business_id": "1234567-8",
+        "address": "VATkatu 15, 33100 Tampere",
+        "contact_person": "VAT Manager: Veijo VAT",
+        "phone": "0500 123 456",
+        "email": "veijo.vat@samplevatcompany.fi",
+        "vat_registration": "FI12345678"
+      },
+      "calculation": {
+        "total_output_vat": 3800.0,
+        "total_input_vat": 3000.0,
+        "correction_amount": -120.0,
+        "net_vat_payable": 680.0,
+        "vat_recovery_rate": 78.94736842105263
+      },
+      "sales_transactions_count": 3,
+      "purchase_transactions_count": 3,
+      "corrections_count": 1
+    }
+  ],
+  "recommendations": [
+    "VAT calculations appear to be in good order. All required elements are present."
+  ]
+}

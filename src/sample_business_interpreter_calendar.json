@@ -1,0 +1,271 @@
+{
+  "company_name": "Sample Business Interpreter Oy",
+  "year": 2026,
+  "monthly_activities": {
+    "Tammikuu": {
+      "scheduled_interpretations": 12,
+      "revenue_expected": 8000,
+      "interpreter_hours": 133.33333333333334,
+      "client_meetings": 10,
+      "training_hours": 8,
+      "admin_tasks": 15,
+      "seasonal_factor": 0.25,
+      "utilization_rate": 0.4666666666666667
+    },
+    "Helmikuu": {
+      "scheduled_interpretations": 13,
+      "revenue_expected": 8500,
+      "interpreter_hours": 141.66666666666666,
+      "client_meetings": 10,
+      "training_hours": 10,
+      "admin_tasks": 15,
+      "seasonal_factor": 0.25,
+      "utilization_rate": 0.4
+    },
+    "Maaliskuu": {
+      "scheduled_interpretations": 14,
+      "revenue_expected": 9000,
+      "interpreter_hours": 150.0,
+      "client_meetings": 9,
+      "training_hours": 12,
+      "admin_tasks": 15,
+      "seasonal_factor": 0.25,
+      "utilization_rate": 0.4666666666666667
+    },
+    "Huhtikuu": {
+      "scheduled_interpretations": 16,
+      "revenue_expected": 10000,
+      "interpreter_hours": 166.66666666666666,
+      "client_meetings": 9,
+      "training_hours": 8,
+      "admin_tasks": 15,
+      "seasonal_factor": 0.25,
+      "utilization_rate": 0.4
+    },
+    "Toukokuu": {
+      "scheduled_interpretations": 18,
+      "revenue_expected": 11000,
+      "interpreter_hours": 183.33333333333334,
+      "client_meetings": 8,
+      "training_hours": 10,
+      "admin_tasks": 15,
+      "seasonal_factor": 0.25,
+      "utilization_rate": 0.56
+    },
+    "Kesäkuu": {
+      "scheduled_interpretations": 20,
+      "revenue_expected": 12000,
+      "interpreter_hours": 200.0,
+      "client_meetings": 8,
+      "training_hours": 12,
+      "admin_tasks": 15,
+      "seasonal_factor": 0.25,
+      "utilization_rate": 0.48
+    },
+    "Heinäkuu": {
+      "scheduled_interpretations": 19,
+      "revenue_expected": 11500,
+      "interpreter_hours": 191.66666666666666,
+      "client_meetings": 7,
+      "training_hours": 8,
+      "admin_tasks": 15,
+      "seasonal_factor": 0.25,
+      "utilization_rate": 0.56
+    },
+    "Elokuu": {
+      "scheduled_interpretations": 18,
+      "revenue_expected": 11000,
+      "interpreter_hours": 183.33333333333334,
+      "client_meetings": 7,
+      "training_hours": 10,
+      "admin_tasks": 15,
+      "seasonal_factor": 0.25,
+      "utilization_rate": 0.48
+    },
+    "Syyskuu": {
+      "scheduled_interpretations": 16,
+      "revenue_expected": 10000,
+      "interpreter_hours": 166.66666666666666,
+      "client_meetings": 6,
+      "training_hours": 12,
+      "admin_tasks": 15,
+      "seasonal_factor": 0.25,
+      "utilization_rate": 0.56
+    },
+    "Lokakuu": {
+      "scheduled_interpretations": 15,
+      "revenue_expected": 9500,
+      "interpreter_hours": 158.33333333333334,
+      "client_meetings": 6,
+      "training_hours": 8,
+      "admin_tasks": 15,
+      "seasonal_factor": 0.25,
+      "utilization_rate": 0.4
+    },
+    "Marraskuu": {
+      "scheduled_interpretations": 14,
+      "revenue_expected": 9000,
+      "interpreter_hours": 150.0,
+      "client_meetings": 5,
+      "training_hours": 10,
+      "admin_tasks": 15,
+      "seasonal_factor": 0.25,
+      "utilization_rate": 0.4666666666666667
+    },
+    "Joulukuu": {
+      "scheduled_interpretations": 13,
+      "revenue_expected": 8500,
+      "interpreter_hours": 141.66666666666666,
+      "client_meetings": 5,
+      "training_hours": 12,
+      "admin_tasks": 15,
+      "seasonal_factor": 0.25,
+      "utilization_rate": 0.4
+    }
+  },
+  "seasonal_distribution": {
+    "talvi": 0.211864406779661,
+    "kevät": 0.2542372881355932,
+    "kesä": 0.2923728813559322,
+    "syksy": 0.24152542372881355
+  },
+  "total_annual_revenue": 118000,
+  "utilization_rate": 0.47,
+  "efficiency_metrics": {
+    "utilization_rate_target": 0.8,
+    "billable_hours_per_day": 6,
+    "client_satisfaction_target": 0.95,
+    "on_time_completion_rate": 0.98,
+    "repeat_client_rate": 0.7
+  },
+  "language_services": {
+    "fi_en": {
+      "name": "Finnish-English",
+      "rate_per_hour": 85,
+      "demand_factor": 1.0
+    },
+    "fi_sv": {
+      "name": "Finnish-Swedish",
+      "rate_per_hour": 80,
+      "demand_factor": 1.0
+    },
+    "fi_ru": {
+      "name": "Finnish-Russian",
+      "rate_per_hour": 95,
+      "demand_factor": 1.0
+    },
+    "fi_de": {
+      "name": "Finnish-German",
+      "rate_per_hour": 90,
+      "demand_factor": 1.0
+    },
+    "fi_fr": {
+      "name": "Finnish-French",
+      "rate_per_hour": 0,
+      "demand_factor": 1.0
+    },
+    "fi_es": {
+      "name": "Finnish-Spanish",
+      "rate_per_hour": 0,
+      "demand_factor": 1.0
+    }
+  },
+  "pricing_levels": {
+    "consecutive_interpretation": {
+      "rate_per_hour": 80,
+      "rate_per_day": 600
+    },
+    "simultaneous_interpretation": {
+      "rate_per_hour": 120,
+      "rate_per_day": 900
+    },
+    "whispered_interpretation": {
+      "rate_per_hour": 90,
+      "rate_per_day": 700
+    },
+    "escort_services": {
+      "rate_per_hour": 70,
+      "rate_per_day": 500
+    },
+    "document_translation": {
+      "rate_per_page": 35,
+      "rush_rate_multiplier": 1.5
+    }
+  },
+  "interpreter_staff": {
+    "interpreter_1": {
+      "name": "Interpreeteri: Iina Interpreeteri",
+      "specialties": [
+        "fi_en",
+        "fi_sv"
+      ],
+      "availability_hours": 160
+    },
+    "interpreter_2": {
+      "name": "Interpreter 2",
+      "specialties": [
+        "fi_ru",
+        "fi_en"
+      ],
+      "availability_hours": 160
+    },
+    "interpreter_3": {
+      "name": "Interpreter 3",
+      "specialties": [
+        "fi_de",
+        "fi_fr"
+      ],
+      "availability_hours": 160
+    },
+    "interpreter_4": {
+      "name": "Interpreter 4",
+      "specialties": [
+        "fi_es",
+        "fi_en"
+      ],
+      "availability_hours": 120
+    }
+  },
+  "client_types": {
+    "corporate": {
+      "name": "Corporate clients",
+      "priority": 1,
+      "seasonal_demand": {
+        "talvi": 0.25,
+        "kevät": 0.25,
+        "kesä": 0.2,
+        "syksy": 0.3
+      }
+    },
+    "government": {
+      "name": "Government institutions",
+      "priority": 2,
+      "seasonal_demand": {
+        "talvi": 0.3,
+        "kevät": 0.25,
+        "kesä": 0.15,
+        "syksy": 0.3
+      }
+    },
+    "legal": {
+      "name": "Legal proceedings",
+      "priority": 3,
+      "seasonal_demand": {
+        "talvi": 0.25,
+        "kevät": 0.25,
+        "kesä": 0.25,
+        "syksy": 0.25
+      }
+    },
+    "medical": {
+      "name": "Medical appointments",
+      "priority": 4,
+      "seasonal_demand": {
+        "talvi": 0.3,
+        "kevät": 0.25,
+        "kesä": 0.2,
+        "syksy": 0.25
+      }
+    }
+  }
+}

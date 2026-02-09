@@ -1,0 +1,759 @@
+{
+  "company_name": "Sample Sales Marketing Co",
+  "year": 2026,
+  "marketing_channels": {
+    "advertising_agency": {
+      "name": "Mainos-/mediatoimisto",
+      "budget": 0
+    },
+    "national_newspaper": {
+      "name": "Sanomalehti",
+      "budget": 0
+    },
+    "local_newspaper": {
+      "name": "Paikallislehti",
+      "budget": 0
+    },
+    "periodical": {
+      "name": "Aikakausilehti",
+      "budget": 0
+    },
+    "search_ads": {
+      "name": "Hakukonemainonta/Google AD",
+      "budget": 25000
+    },
+    "online_ads_1": {
+      "name": "Verkkomainonta 1",
+      "budget": 20000
+    },
+    "online_ads_2": {
+      "name": "Verkkomainonta 2",
+      "budget": 15000
+    },
+    "online_ads_3": {
+      "name": "Verkkomainonta 3",
+      "budget": 0
+    },
+    "online_ads_4": {
+      "name": "Verkkomainonta 4",
+      "budget": 0
+    },
+    "online_ads_5": {
+      "name": "Verkkomainonta 5",
+      "budget": 0
+    },
+    "trade_shows_1": {
+      "name": "Messut, näyttelyt 1",
+      "budget": 30000
+    },
+    "trade_shows_2": {
+      "name": "Messut, näyttelyt 2",
+      "budget": 0
+    },
+    "brochures_1": {
+      "name": "Esite 1",
+      "budget": 0
+    },
+    "brochures_2": {
+      "name": "Esite 2",
+      "budget": 0
+    },
+    "direct_mail_1": {
+      "name": "Suoramainos 1",
+      "budget": 0
+    },
+    "direct_mail_2": {
+      "name": "Suoramainos 2",
+      "budget": 0
+    },
+    "promotional_gifts_1": {
+      "name": "Liikelahja 1",
+      "budget": 0
+    },
+    "promotional_gifts_2": {
+      "name": "Liikelahja 2",
+      "budget": 0
+    },
+    "radio_1": {
+      "name": "Radiokanava 1",
+      "budget": 0
+    },
+    "radio_2": {
+      "name": "Radiokanava 2",
+      "budget": 0
+    },
+    "sponsorship_collaboration": {
+      "name": "Sponsorointi/yhteistyö",
+      "budget": 0
+    },
+    "influencer_marketing": {
+      "name": "Vaikuttajamarkkinointi",
+      "budget": 18000
+    },
+    "outdoor_advertising": {
+      "name": "Ulkomainonta",
+      "budget": 0
+    },
+    "tv": {
+      "name": "TV",
+      "budget": 0
+    },
+    "product_demos": {
+      "name": "Tuote-esittelyt",
+      "budget": 12000
+    },
+    "sales_contests": {
+      "name": "Myyntikilpailut",
+      "budget": 0
+    },
+    "other_contests": {
+      "name": "Muut kilpailut",
+      "budget": 0
+    },
+    "website": {
+      "name": "Kotisivut",
+      "budget": 10000
+    }
+  },
+  "sales_channels": {
+    "direct_sales": {
+      "name": "Direct Sales",
+      "budget": 50000
+    },
+    "inside_sales": {
+      "name": "Inside Sales",
+      "budget": 30000
+    },
+    "field_sales": {
+      "name": "Field Sales",
+      "budget": 0
+    },
+    "telemarketing": {
+      "name": "Telemarketing",
+      "budget": 0
+    },
+    "retail_partners": {
+      "name": "Retail Partners",
+      "budget": 0
+    },
+    "distributors": {
+      "name": "Distributors",
+      "budget": 0
+    },
+    "e_commerce": {
+      "name": "E-commerce",
+      "budget": 20000
+    },
+    "wholesale": {
+      "name": "Wholesale",
+      "budget": 0
+    }
+  },
+  "monthly_marketing_allocations": {
+    "advertising_agency": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "national_newspaper": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "local_newspaper": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "periodical": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "search_ads": {
+      "Tam": 2000,
+      "Hel": 2100,
+      "Maa": 2200,
+      "Huh": 2300,
+      "Tou": 2400,
+      "Kesä": 2500,
+      "Hei": 2600,
+      "Elo": 2700,
+      "Syys": 2800,
+      "Loka": 2900,
+      "Mar": 3000,
+      "Jou": 3100
+    },
+    "online_ads_1": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "online_ads_2": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "online_ads_3": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "online_ads_4": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "online_ads_5": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "trade_shows_1": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "trade_shows_2": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "brochures_1": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "brochures_2": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "direct_mail_1": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "direct_mail_2": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "promotional_gifts_1": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "promotional_gifts_2": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "radio_1": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "radio_2": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "sponsorship_collaboration": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "influencer_marketing": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "outdoor_advertising": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "tv": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "product_demos": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "sales_contests": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "other_contests": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "website": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    }
+  },
+  "monthly_sales_allocations": {
+    "direct_sales": {
+      "Tam": 4000,
+      "Hel": 4100,
+      "Maa": 4200,
+      "Huh": 4300,
+      "Tou": 4400,
+      "Kesä": 4500,
+      "Hei": 4600,
+      "Elo": 4700,
+      "Syys": 4800,
+      "Loka": 4900,
+      "Mar": 5000,
+      "Jou": 5100
+    },
+    "inside_sales": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "field_sales": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "telemarketing": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "retail_partners": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "distributors": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "e_commerce": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "wholesale": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    }
+  },
+  "monthly_marketing_spends": {
+    "Tam": 2000,
+    "Hel": 2100,
+    "Maa": 2200,
+    "Huh": 2300,
+    "Tou": 2400,
+    "Kesä": 2500,
+    "Hei": 2600,
+    "Elo": 2700,
+    "Syys": 2800,
+    "Loka": 2900,
+    "Mar": 3000,
+    "Jou": 3100
+  },
+  "monthly_sales_spends": {
+    "Tam": 4000,
+    "Hel": 4100,
+    "Maa": 4200,
+    "Huh": 4300,
+    "Tou": 4400,
+    "Kesä": 4500,
+    "Hei": 4600,
+    "Elo": 4700,
+    "Syys": 4800,
+    "Loka": 4900,
+    "Mar": 5000,
+    "Jou": 5100
+  },
+  "marketing_channel_percentages": {
+    "advertising_agency": 0.0,
+    "national_newspaper": 0.0,
+    "local_newspaper": 0.0,
+    "periodical": 0.0,
+    "search_ads": 19.230769230769234,
+    "online_ads_1": 15.384615384615385,
+    "online_ads_2": 11.538461538461538,
+    "online_ads_3": 0.0,
+    "online_ads_4": 0.0,
+    "online_ads_5": 0.0,
+    "trade_shows_1": 23.076923076923077,
+    "trade_shows_2": 0.0,
+    "brochures_1": 0.0,
+    "brochures_2": 0.0,
+    "direct_mail_1": 0.0,
+    "direct_mail_2": 0.0,
+    "promotional_gifts_1": 0.0,
+    "promotional_gifts_2": 0.0,
+    "radio_1": 0.0,
+    "radio_2": 0.0,
+    "sponsorship_collaboration": 0.0,
+    "influencer_marketing": 13.846153846153847,
+    "outdoor_advertising": 0.0,
+    "tv": 0.0,
+    "product_demos": 9.230769230769232,
+    "sales_contests": 0.0,
+    "other_contests": 0.0,
+    "website": 7.6923076923076925
+  },
+  "sales_channel_percentages": {
+    "direct_sales": 50.0,
+    "inside_sales": 30.0,
+    "field_sales": 0.0,
+    "telemarketing": 0.0,
+    "retail_partners": 0.0,
+    "distributors": 0.0,
+    "e_commerce": 20.0,
+    "wholesale": 0.0
+  },
+  "total_marketing_spend": 130000,
+  "total_sales_spend": 100000,
+  "total_combined_spend": 230000,
+  "target_segments": {
+    "segment_1": {
+      "name": "Primary Segment",
+      "allocation": 0.6,
+      "description": "Primary target: Young professionals aged 25-40"
+    },
+    "segment_2": {
+      "name": "Secondary Segment",
+      "allocation": 0.3,
+      "description": "Secondary target: Middle-aged professionals"
+    },
+    "segment_3": {
+      "name": "Tertiary Segment",
+      "allocation": 0.1,
+      "description": "Tertiary target: Students and young adults"
+    }
+  },
+  "performance_metrics": {
+    "revenue_target": 500000,
+    "marketing_roi_target": 0.3,
+    "sales_roi_target": 0.2,
+    "lead_target": 2000,
+    "conversion_rate_target": 0.05,
+    "cost_per_lead_target": 25,
+    "customer_acquisition_cost_target": 250,
+    "sales_cycle_target": 45
+  },
+  "alignment_score": 1.0
+}

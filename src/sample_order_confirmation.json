@@ -1,0 +1,163 @@
+{
+  "confirmation_document": {
+    "company_name": "Sample Confirmation Oy",
+    "confirmation_date": "04.02.2026",
+    "confirmation_number": "",
+    "supplier_info": {
+      "name": "Sample Confirmation Oy",
+      "address": "Toimittajankatu 15, 33100 Tampere",
+      "business_id": "1234567-8",
+      "contact_person": "Toimittaja: Tiina Toimittaja",
+      "phone": "0500 123 456",
+      "email": "tiina.toimittaja@sampleconfirmation.fi"
+    },
+    "customer_info": {
+      "name": "Asiakas Oy",
+      "address": "Asiakaskatu 20",
+      "city": "00100 Helsinki",
+      "customer_id": "CUST-001",
+      "reference": "Customer reference XX0125",
+      "contact_person": "Asiakas: Aino Asiakas",
+      "phone": "0400 987 654",
+      "email": "aino.asiakas@asiakas.fi"
+    },
+    "original_order_details": {
+      "original_order_number": "ORD-2026-001",
+      "original_order_date": "01.02.2026",
+      "order_total_excl_vat": 1000.0,
+      "order_total_incl_vat": 1255.0,
+      "vat_amount": 255.0
+    },
+    "confirmed_items": [
+      {
+        "product_id": "prod_1",
+        "product_name": "Tuote 1: Esimerkki-ikkuna",
+        "ordered_quantity": 10,
+        "confirmed_quantity": 10,
+        "unit_price_excl_vat": 100.0,
+        "vat_percentage": 25.5,
+        "total_excl_vat": 1000.0,
+        "total_vat": 255.0,
+        "total_incl_vat": 1255.0,
+        "availability_status": "Confirmed",
+        "delivery_date": "11.02.2026"
+      },
+      {
+        "product_id": "prod_2",
+        "product_name": "Tuote 2: Esimerkki-ovi",
+        "ordered_quantity": 5,
+        "confirmed_quantity": 3,
+        "unit_price_excl_vat": 200.0,
+        "vat_percentage": 25.5,
+        "total_excl_vat": 600.0,
+        "total_vat": 153.0,
+        "total_incl_vat": 752.9999999999999,
+        "availability_status": "Partial availability",
+        "delivery_date": "11.02.2026"
+      },
+      {
+        "product_id": "prod_3",
+        "product_name": "Tuote 3: Esimerkki-valaistus",
+        "ordered_quantity": 2,
+        "confirmed_quantity": 0,
+        "unit_price_excl_vat": 150.0,
+        "vat_percentage": 25.5,
+        "total_excl_vat": 0.0,
+        "total_vat": 0.0,
+        "total_incl_vat": 0.0,
+        "availability_status": "Out of stock",
+        "delivery_date": "11.02.2026"
+      }
+    ],
+    "inventory_availability": {
+      "prod_1": "Fully available",
+      "prod_2": "Partial availability (3/5)",
+      "prod_3": "Out of stock"
+    },
+    "delivery_info": {
+      "expected_delivery_date": "10.02.2026",
+      "delivery_method": "Express delivery",
+      "delivery_address": "Asiakaskatu 20, 00100 Helsinki",
+      "shipping_cost": 50.0
+    },
+    "payment_terms": {
+      "payment_method": "Bank transfer",
+      "payment_period": "14 days",
+      "late_fee": "10% per annum",
+      "partial_payments_allowed": false
+    },
+    "terms_conditions": {
+      "validity_period": "The order confirmation is valid for 30 days",
+      "cancellation_policy": "Orders can be cancelled within 14 days of confirmation",
+      "force_majeure": "Standard force majeure clauses apply",
+      "dispute_resolution": "Handled according to Finnish law"
+    },
+    "tracking_info": {
+      "tracking_number": "TK-2026-00123",
+      "tracking_url": "https://tracking.samplecompany.fi/TK-2026-00123",
+      "estimated_delivery": ""
+    },
+    "processing_times": {
+      "order_processing_time": "1-2 business days",
+      "fulfillment_time": "3-5 business days",
+      "total_delivery_time": "5-7 business days"
+    },
+    "special_requests": [
+      "Handle with care - fragile items",
+      "Delivery only during business hours"
+    ],
+    "quality_assurance": {
+      "inspection_process": "All items inspected before shipping",
+      "quality_standards": "ISO 9001",
+      "warranty_period": "12 months",
+      "defect_rate_target": "Less than 1%"
+    },
+    "return_policy": {
+      "return_period": "30 days",
+      "condition_requirement": "Item must be in original condition",
+      "return_shipping_cost": "Customer responsibility unless item is defective",
+      "refund_method": "Original payment method"
+    },
+    "invoice_info": {
+      "invoice_separate_from_shipment": true,
+      "billing_address_same_as_delivery": false,
+      "invoice_date": "",
+      "due_date": ""
+    },
+    "status_updates": [
+      {
+        "date": "03.02.2026",
+        "status": "Order confirmed",
+        "notes": "Initial confirmation sent to customer"
+      },
+      {
+        "date": "04.02.2026",
+        "status": "Processing",
+        "notes": "Items being prepared for shipment"
+      }
+    ],
+    "customer_communication_log": [],
+    "risk_management": {
+      "inventory_shortage_risk": "Low",
+      "delivery_delay_risk": "Low",
+      "payment_default_risk": "Low",
+      "mitigation_strategies": []
+    },
+    "totals": {
+      "subtotal_excl_vat": 1600.0,
+      "total_vat": 408.0,
+      "subtotal_incl_vat": 2008.0,
+      "shipping_cost": 50.0,
+      "final_total": 2058.0
+    }
+  },
+  "analytics": {
+    "total_items_confirmed": 3,
+    "total_quantity_confirmed": 13,
+    "fill_rate": 0.7647058823529411,
+    "average_item_value": 669.3333333333334,
+    "confirmed_value": 2008.0,
+    "out_of_stock_items": 1,
+    "special_requests_count": 2
+  }
+}

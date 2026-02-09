@@ -1,0 +1,103 @@
+{
+  "invoice_document": {
+    "company_name": "Sample Invoice Oy",
+    "invoice_date": "2026-02-03",
+    "invoice_number": "INV-2026-001",
+    "sender_info": {
+      "name": "Sample Invoice Oy",
+      "address": "Laskutuskatu 15, 33100 Tampere",
+      "business_id": "1234567-8",
+      "contact_person": "Laskuttaja: Liisa Laskuttaja",
+      "phone": "0500 123 456",
+      "email": "liisa.laskuttaja@sampleinvoice.fi",
+      "website": "www.sampleinvoice.fi",
+      "vat_registration": "FI12345678"
+    },
+    "receiver_info": {
+      "name": "Asiakas Oy",
+      "address": "Asiakaskatu 20, 00100 Helsinki",
+      "business_id": "8765432-1",
+      "contact_person": "Asiakas: Aino Asiakas",
+      "phone": "0400 987 654",
+      "email": "aino.asiakas@asiakas.fi"
+    },
+    "invoice_items": [
+      {
+        "description": "Esimerkkituote - Sample product",
+        "quantity": 10,
+        "unit": "kpl",
+        "unit_price_excl_vat": 10.0,
+        "vat_percentage": 24.0,
+        "total_excl_vat": 100.0,
+        "total_vat": 24.0,
+        "total_incl_vat": 124.0
+      },
+      {
+        "description": "Additional service",
+        "quantity": 5,
+        "unit": "h",
+        "unit_price_excl_vat": 50.0,
+        "vat_percentage": 24.0,
+        "total_excl_vat": 250.0,
+        "total_vat": 60.0,
+        "total_incl_vat": 310.0
+      }
+    ],
+    "payment_terms": {
+      "payment_method": "Bank transfer",
+      "payment_period_days": 14,
+      "early_payment_discount": 2.0,
+      "early_payment_discount_days": 7,
+      "due_date": "2026-02-17"
+    },
+    "due_date": "2026-02-17",
+    "reference_number": "20002",
+    "bank_account_info": {
+      "iban": "FI0000000012345678",
+      "bic": "SBLOFIHH",
+      "bank_name": "Sample Bank Oy"
+    },
+    "currency": "EUR",
+    "discount_info": {
+      "discount_percentage": 0.0,
+      "discount_reason": ""
+    },
+    "late_payment_interest": 0.07,
+    "delivery_info": {
+      "delivery_date": "2026-01-20",
+      "delivery_method": "Courier service"
+    },
+    "invoice_period": "January 2026",
+    "totals": {
+      "subtotal_excl_vat": 350.0,
+      "total_vat": 84.0,
+      "total_incl_vat": 434.0,
+      "discount_amount": 0,
+      "final_total": 434.0,
+      "vat_breakdown": {
+        "24.0": {
+          "amount": 84.0,
+          "percentage_of_total": 100.0
+        }
+      }
+    },
+    "verification_info": {},
+    "accounting_info": {}
+  },
+  "analytics": {
+    "total_items": 2,
+    "average_item_value": 217.0,
+    "vat_rate_distribution": {
+      "24.0": {
+        "amount": 84.0,
+        "percentage_of_total": 100.0
+      }
+    },
+    "payment_terms_summary": "14 days, Bank transfer",
+    "days_until_due": 12,
+    "invoice_age": 1
+  },
+  "recommendations": [
+    "Invoice appears to be in good order. Payment terms and VAT rates look appropriate."
+  ]
+}

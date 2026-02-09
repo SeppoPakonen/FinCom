@@ -1,0 +1,170 @@
+{
+  "company_name": "Sample Operating Business Oy",
+  "investment_plan": {
+    "land_areas_water_areas_connections": 50000,
+    "new_constructions_buildings_with_vat": 0,
+    "machines_equipment": 100000,
+    "intangible_investments": 0,
+    "working_capital": 30000,
+    "development_investments": 25000,
+    "premises_acquisition": 0,
+    "other_investments": 0
+  },
+  "total_investment_need": 205000,
+  "revenue_projections": {
+    "2027": 650000,
+    "2028": 700000,
+    "2029": 750000,
+    "2030": 800000
+  },
+  "expense_projections": {
+    "2027": {
+      "fixed_costs": 200000,
+      "variable_costs": 227500.0,
+      "personnel_costs": 180000,
+      "marketing_costs": 30000,
+      "operational_costs": 40000,
+      "administrative_costs": 25000,
+      "financial_costs": 10000
+    },
+    "2028": {
+      "fixed_costs": 200000,
+      "variable_costs": 244999.99999999997,
+      "personnel_costs": 180000,
+      "marketing_costs": 30000,
+      "operational_costs": 40000,
+      "administrative_costs": 25000,
+      "financial_costs": 10000
+    },
+    "2029": {
+      "fixed_costs": 200000,
+      "variable_costs": 262500.0,
+      "personnel_costs": 180000,
+      "marketing_costs": 30000,
+      "operational_costs": 40000,
+      "administrative_costs": 25000,
+      "financial_costs": 10000
+    },
+    "2030": {
+      "fixed_costs": 200000,
+      "variable_costs": 280000.0,
+      "personnel_costs": 180000,
+      "marketing_costs": 30000,
+      "operational_costs": 40000,
+      "administrative_costs": 25000,
+      "financial_costs": 10000
+    }
+  },
+  "historical_data": {
+    "2024": {
+      "revenue": 500000,
+      "expenses": 400000,
+      "net_profit": 100000,
+      "assets": 750000,
+      "liabilities": 300000
+    },
+    "2025": {
+      "revenue": 550000,
+      "expenses": 430000,
+      "net_profit": 120000,
+      "assets": 780000,
+      "liabilities": 280000
+    },
+    "2026": {
+      "revenue": 600000,
+      "expenses": 450000,
+      "net_profit": 150000,
+      "assets": 800000,
+      "liabilities": 250000
+    }
+  },
+  "annual_net_income": {
+    "2027": -62500.0,
+    "2028": -30000.0,
+    "2029": 2500.0,
+    "2030": 35000.0
+  },
+  "cumulative_net_income": {
+    "2027": -62500.0,
+    "2028": -92500.0,
+    "2029": -90000.0,
+    "2030": -55000.0
+  },
+  "seasonal_revenue_projections": {
+    "2027": {
+      "Jan": 43333.333333333336,
+      "Feb": 46041.666666666664,
+      "Mar": 51458.33333333333,
+      "Apr": 54166.666666666664,
+      "May": 59583.333333333336,
+      "Jun": 64999.99999999999,
+      "Jul": 67708.33333333333,
+      "Aug": 64999.99999999999,
+      "Sep": 54166.666666666664,
+      "Oct": 51458.33333333333,
+      "Nov": 48750.0,
+      "Dec": 59583.333333333336
+    },
+    "2028": {
+      "Jan": 46666.66666666667,
+      "Feb": 49583.333333333336,
+      "Mar": 55416.666666666664,
+      "Apr": 58333.333333333336,
+      "May": 64166.66666666667,
+      "Jun": 70000.0,
+      "Jul": 72916.66666666667,
+      "Aug": 70000.0,
+      "Sep": 58333.333333333336,
+      "Oct": 55416.666666666664,
+      "Nov": 52500.0,
+      "Dec": 64166.66666666667
+    },
+    "2029": {
+      "Jan": 50000.0,
+      "Feb": 53125.0,
+      "Mar": 59375.0,
+      "Apr": 62500.0,
+      "May": 68750.0,
+      "Jun": 75000.0,
+      "Jul": 78125.0,
+      "Aug": 75000.0,
+      "Sep": 62500.0,
+      "Oct": 59375.0,
+      "Nov": 56250.0,
+      "Dec": 68750.0
+    },
+    "2030": {
+      "Jan": 53333.33333333334,
+      "Feb": 56666.66666666667,
+      "Mar": 63333.333333333336,
+      "Apr": 66666.66666666667,
+      "May": 73333.33333333334,
+      "Jun": 80000.0,
+      "Jul": 83333.33333333334,
+      "Aug": 80000.0,
+      "Sep": 66666.66666666667,
+      "Oct": 63333.333333333336,
+      "Nov": 60000.00000000001,
+      "Dec": 73333.33333333334
+    }
+  },
+  "performance_metrics": {
+    "revenue_growth_rate": 0.09090909090909091,
+    "profit_margin": -0.01896551724137931,
+    "return_on_assets": -0.017703862660944206,
+    "return_on_equity": -0.027500000000000004,
+    "debt_to_equity_ratio": 0.5533333333333335,
+    "current_ratio": 1.5
+  },
+  "benchmarking_comparison": {
+    "industry_avg_revenue_growth": 0.05,
+    "industry_avg_profit_margin": 0.1,
+    "industry_avg_return_on_assets": 0.08,
+    "benchmark_company_revenue": 0,
+    "benchmark_company_profit": 0,
+    "revenue_growth_vs_industry": 0.04090909090909091,
+    "profit_margin_vs_industry": -0.11896551724137931,
+    "roa_vs_industry": -0.0977038626609442,
+    "performance_rating": "Average"
+  }
+}

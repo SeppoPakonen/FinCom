@@ -1,0 +1,403 @@
+{
+  "company_name": "Sample Marketing Co",
+  "year": 2026,
+  "marketing_channels": {
+    "social_media": {
+      "name": "Some",
+      "budget": 12000
+    },
+    "search_ads": {
+      "name": "Hakukonemainonta",
+      "budget": 18000
+    },
+    "display_ads": {
+      "name": "Verkkomainonta",
+      "budget": 15000
+    },
+    "print_ads": {
+      "name": "Lehti",
+      "budget": 8000
+    },
+    "trade_shows": {
+      "name": "Messut, näyttelyt",
+      "budget": 25000
+    },
+    "brochures": {
+      "name": "Esite",
+      "budget": 0
+    },
+    "direct_mail": {
+      "name": "Suoramainos",
+      "budget": 0
+    },
+    "signage": {
+      "name": "Liikelahja",
+      "budget": 0
+    },
+    "radio": {
+      "name": "Radiokanava",
+      "budget": 0
+    },
+    "outdoor": {
+      "name": "Ulkomainonta",
+      "budget": 0
+    },
+    "sponsorship": {
+      "name": "Sponsorointi/yhteistyö",
+      "budget": 0
+    },
+    "influencer": {
+      "name": "Vaikuttajamarkkinointi",
+      "budget": 0
+    },
+    "tv": {
+      "name": "TV",
+      "budget": 0
+    },
+    "product_demo": {
+      "name": "Tuote-esittelyt",
+      "budget": 0
+    },
+    "sales_contest": {
+      "name": "Myyntikilpailut",
+      "budget": 0
+    },
+    "other_contest": {
+      "name": "Muut kilpailut",
+      "budget": 0
+    },
+    "website": {
+      "name": "Kotisivut",
+      "budget": 5000
+    },
+    "content_creation": {
+      "name": "Mainosten valmistukulut",
+      "budget": 10000
+    }
+  },
+  "monthly_allocations": {
+    "social_media": {
+      "Tam": 1000,
+      "Hel": 1100,
+      "Maa": 1200,
+      "Huh": 1300,
+      "Tou": 1400,
+      "Kesä": 1500,
+      "Hei": 1600,
+      "Elo": 1700,
+      "Syys": 1800,
+      "Loka": 1900,
+      "Mar": 2000,
+      "Jou": 2100
+    },
+    "search_ads": {
+      "Tam": 1500,
+      "Hel": 1550,
+      "Maa": 1600,
+      "Huh": 1650,
+      "Tou": 1700,
+      "Kesä": 1750,
+      "Hei": 1800,
+      "Elo": 1850,
+      "Syys": 1900,
+      "Loka": 1950,
+      "Mar": 2000,
+      "Jou": 2050
+    },
+    "display_ads": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "print_ads": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "trade_shows": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "brochures": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "direct_mail": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "signage": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "radio": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "outdoor": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "sponsorship": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "influencer": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "tv": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "product_demo": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "sales_contest": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "other_contest": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "website": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    },
+    "content_creation": {
+      "Tam": 0,
+      "Hel": 0,
+      "Maa": 0,
+      "Huh": 0,
+      "Tou": 0,
+      "Kesä": 0,
+      "Hei": 0,
+      "Elo": 0,
+      "Syys": 0,
+      "Loka": 0,
+      "Mar": 0,
+      "Jou": 0
+    }
+  },
+  "monthly_spends": {
+    "Tam": 2500,
+    "Hel": 2650,
+    "Maa": 2800,
+    "Huh": 2950,
+    "Tou": 3100,
+    "Kesä": 3250,
+    "Hei": 3400,
+    "Elo": 3550,
+    "Syys": 3700,
+    "Loka": 3850,
+    "Mar": 4000,
+    "Jou": 4150
+  },
+  "channel_percentages": {
+    "social_media": 12.903225806451612,
+    "search_ads": 19.35483870967742,
+    "display_ads": 16.129032258064516,
+    "print_ads": 8.60215053763441,
+    "trade_shows": 26.881720430107524,
+    "brochures": 0.0,
+    "direct_mail": 0.0,
+    "signage": 0.0,
+    "radio": 0.0,
+    "outdoor": 0.0,
+    "sponsorship": 0.0,
+    "influencer": 0.0,
+    "tv": 0.0,
+    "product_demo": 0.0,
+    "sales_contest": 0.0,
+    "other_contest": 0.0,
+    "website": 5.376344086021505,
+    "content_creation": 10.75268817204301
+  },
+  "total_marketing_spend": 93000,
+  "performance_metrics": {
+    "revenue_target": 500000,
+    "marketing_roi_target": 0.3,
+    "lead_target": 2000,
+    "conversion_rate_target": 0.05,
+    "cost_per_lead_target": 25,
+    "customer_acquisition_cost_target": 250
+  },
+  "events_calendar": {
+    "q1_events": [
+      "New Year Sale"
+    ],
+    "q2_events": [
+      "Spring Product Launch"
+    ],
+    "q3_events": [
+      "Summer Promotion"
+    ],
+    "q4_events": [
+      "Holiday Campaign"
+    ]
+  },
+  "planned_campaigns": [
+    {
+      "campaign_name": "Summer Social Media Push",
+      "start_date": "2026-06-01",
+      "end_date": "2026-08-31",
+      "budget": 15000,
+      "target_audience": "Young professionals aged 25-40",
+      "channels_used": [
+        "social_media",
+        "display_ads"
+      ],
+      "expected_outcome": "Increase brand awareness and drive 500 new leads"
+    }
+  ]
+}

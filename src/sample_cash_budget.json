@@ -1,0 +1,620 @@
+{
+  "company_name": "Sample Cash Budget Oy",
+  "initial_cash_balance": 50000,
+  "cash_inflows": {
+    "2026-01": {
+      "available_cash_reserves": 5000,
+      "sales_receivables": 6000.0,
+      "sales_revenue": 20000,
+      "grants_other_income": 2000
+    },
+    "2026-02": {
+      "available_cash_reserves": 0,
+      "sales_receivables": 6600.0,
+      "sales_revenue": 22000,
+      "grants_other_income": 0
+    },
+    "2026-03": {
+      "available_cash_reserves": 0,
+      "sales_receivables": 7200.0,
+      "sales_revenue": 24000,
+      "grants_other_income": 0
+    },
+    "2026-04": {
+      "available_cash_reserves": 0,
+      "sales_receivables": 7800.0,
+      "sales_revenue": 26000,
+      "grants_other_income": 0
+    },
+    "2026-05": {
+      "available_cash_reserves": 0,
+      "sales_receivables": 8400.0,
+      "sales_revenue": 28000,
+      "grants_other_income": 2000
+    },
+    "2026-06": {
+      "available_cash_reserves": 0,
+      "sales_receivables": 9000.0,
+      "sales_revenue": 30000,
+      "grants_other_income": 0
+    },
+    "2026-07": {
+      "available_cash_reserves": 0,
+      "sales_receivables": 9600.0,
+      "sales_revenue": 32000,
+      "grants_other_income": 0
+    },
+    "2026-08": {
+      "available_cash_reserves": 0,
+      "sales_receivables": 10200.0,
+      "sales_revenue": 34000,
+      "grants_other_income": 0
+    },
+    "2026-09": {
+      "available_cash_reserves": 0,
+      "sales_receivables": 10800.0,
+      "sales_revenue": 36000,
+      "grants_other_income": 2000
+    },
+    "2026-10": {
+      "available_cash_reserves": 0,
+      "sales_receivables": 11400.0,
+      "sales_revenue": 38000,
+      "grants_other_income": 0
+    },
+    "2026-11": {
+      "available_cash_reserves": 0,
+      "sales_receivables": 12000.0,
+      "sales_revenue": 40000,
+      "grants_other_income": 0
+    },
+    "2026-12": {
+      "available_cash_reserves": 0,
+      "sales_receivables": 12600.0,
+      "sales_revenue": 42000,
+      "grants_other_income": 0
+    }
+  },
+  "cash_outflows": {
+    "2026-01": {
+      "material_supply_costs": 8000,
+      "external_services": 3000,
+      "premises_costs": 2500,
+      "leasing_rent_costs": 2000,
+      "personnel_costs": 15000,
+      "marketing_advertising": 1500,
+      "insurance_costs": 800,
+      "investment_vat_deductible": 0,
+      "investment_non_vat_deductible": 0,
+      "other_fixed_costs": 1200,
+      "interest_financing_costs": 500,
+      "taxes": 2000,
+      "vat": 1000,
+      "net_wages": 10000,
+      "employer_contributions": 3000,
+      "mandatory_staff_benefits": 1000,
+      "voluntary_staff_benefits": 0,
+      "due_supplier_payments_1": 5000,
+      "due_supplier_payments_2": 3000
+    },
+    "2026-02": {
+      "material_supply_costs": 8000,
+      "external_services": 3000,
+      "premises_costs": 2500,
+      "leasing_rent_costs": 2000,
+      "personnel_costs": 15000,
+      "marketing_advertising": 1500,
+      "insurance_costs": 800,
+      "investment_vat_deductible": 0,
+      "investment_non_vat_deductible": 0,
+      "other_fixed_costs": 1200,
+      "interest_financing_costs": 500,
+      "taxes": 2000,
+      "vat": 1000,
+      "net_wages": 10000,
+      "employer_contributions": 3000,
+      "mandatory_staff_benefits": 1000,
+      "voluntary_staff_benefits": 0,
+      "due_supplier_payments_1": 5000,
+      "due_supplier_payments_2": 3000
+    },
+    "2026-03": {
+      "material_supply_costs": 8000,
+      "external_services": 3000,
+      "premises_costs": 2500,
+      "leasing_rent_costs": 2000,
+      "personnel_costs": 15000,
+      "marketing_advertising": 1500,
+      "insurance_costs": 800,
+      "investment_vat_deductible": 0,
+      "investment_non_vat_deductible": 0,
+      "other_fixed_costs": 1200,
+      "interest_financing_costs": 500,
+      "taxes": 2000,
+      "vat": 1000,
+      "net_wages": 10000,
+      "employer_contributions": 3000,
+      "mandatory_staff_benefits": 1000,
+      "voluntary_staff_benefits": 0,
+      "due_supplier_payments_1": 5000,
+      "due_supplier_payments_2": 3000
+    },
+    "2026-04": {
+      "material_supply_costs": 8000,
+      "external_services": 3000,
+      "premises_costs": 2500,
+      "leasing_rent_costs": 2000,
+      "personnel_costs": 15000,
+      "marketing_advertising": 1500,
+      "insurance_costs": 800,
+      "investment_vat_deductible": 0,
+      "investment_non_vat_deductible": 0,
+      "other_fixed_costs": 1200,
+      "interest_financing_costs": 500,
+      "taxes": 2000,
+      "vat": 1000,
+      "net_wages": 10000,
+      "employer_contributions": 3000,
+      "mandatory_staff_benefits": 1000,
+      "voluntary_staff_benefits": 0,
+      "due_supplier_payments_1": 5000,
+      "due_supplier_payments_2": 3000
+    },
+    "2026-05": {
+      "material_supply_costs": 8000,
+      "external_services": 3000,
+      "premises_costs": 2500,
+      "leasing_rent_costs": 2000,
+      "personnel_costs": 15000,
+      "marketing_advertising": 1500,
+      "insurance_costs": 800,
+      "investment_vat_deductible": 0,
+      "investment_non_vat_deductible": 0,
+      "other_fixed_costs": 1200,
+      "interest_financing_costs": 500,
+      "taxes": 2000,
+      "vat": 1000,
+      "net_wages": 10000,
+      "employer_contributions": 3000,
+      "mandatory_staff_benefits": 1000,
+      "voluntary_staff_benefits": 0,
+      "due_supplier_payments_1": 5000,
+      "due_supplier_payments_2": 3000
+    },
+    "2026-06": {
+      "material_supply_costs": 8000,
+      "external_services": 3000,
+      "premises_costs": 2500,
+      "leasing_rent_costs": 2000,
+      "personnel_costs": 15000,
+      "marketing_advertising": 1500,
+      "insurance_costs": 800,
+      "investment_vat_deductible": 0,
+      "investment_non_vat_deductible": 0,
+      "other_fixed_costs": 1200,
+      "interest_financing_costs": 500,
+      "taxes": 2000,
+      "vat": 1000,
+      "net_wages": 10000,
+      "employer_contributions": 3000,
+      "mandatory_staff_benefits": 1000,
+      "voluntary_staff_benefits": 0,
+      "due_supplier_payments_1": 5000,
+      "due_supplier_payments_2": 3000
+    },
+    "2026-07": {
+      "material_supply_costs": 8000,
+      "external_services": 3000,
+      "premises_costs": 2500,
+      "leasing_rent_costs": 2000,
+      "personnel_costs": 15000,
+      "marketing_advertising": 1500,
+      "insurance_costs": 800,
+      "investment_vat_deductible": 0,
+      "investment_non_vat_deductible": 0,
+      "other_fixed_costs": 1200,
+      "interest_financing_costs": 500,
+      "taxes": 2000,
+      "vat": 1000,
+      "net_wages": 10000,
+      "employer_contributions": 3000,
+      "mandatory_staff_benefits": 1000,
+      "voluntary_staff_benefits": 0,
+      "due_supplier_payments_1": 5000,
+      "due_supplier_payments_2": 3000
+    },
+    "2026-08": {
+      "material_supply_costs": 8000,
+      "external_services": 3000,
+      "premises_costs": 2500,
+      "leasing_rent_costs": 2000,
+      "personnel_costs": 15000,
+      "marketing_advertising": 1500,
+      "insurance_costs": 800,
+      "investment_vat_deductible": 0,
+      "investment_non_vat_deductible": 0,
+      "other_fixed_costs": 1200,
+      "interest_financing_costs": 500,
+      "taxes": 2000,
+      "vat": 1000,
+      "net_wages": 10000,
+      "employer_contributions": 3000,
+      "mandatory_staff_benefits": 1000,
+      "voluntary_staff_benefits": 0,
+      "due_supplier_payments_1": 5000,
+      "due_supplier_payments_2": 3000
+    },
+    "2026-09": {
+      "material_supply_costs": 8000,
+      "external_services": 3000,
+      "premises_costs": 2500,
+      "leasing_rent_costs": 2000,
+      "personnel_costs": 15000,
+      "marketing_advertising": 1500,
+      "insurance_costs": 800,
+      "investment_vat_deductible": 0,
+      "investment_non_vat_deductible": 0,
+      "other_fixed_costs": 1200,
+      "interest_financing_costs": 500,
+      "taxes": 2000,
+      "vat": 1000,
+      "net_wages": 10000,
+      "employer_contributions": 3000,
+      "mandatory_staff_benefits": 1000,
+      "voluntary_staff_benefits": 0,
+      "due_supplier_payments_1": 5000,
+      "due_supplier_payments_2": 3000
+    },
+    "2026-10": {
+      "material_supply_costs": 8000,
+      "external_services": 3000,
+      "premises_costs": 2500,
+      "leasing_rent_costs": 2000,
+      "personnel_costs": 15000,
+      "marketing_advertising": 1500,
+      "insurance_costs": 800,
+      "investment_vat_deductible": 0,
+      "investment_non_vat_deductible": 0,
+      "other_fixed_costs": 1200,
+      "interest_financing_costs": 500,
+      "taxes": 2000,
+      "vat": 1000,
+      "net_wages": 10000,
+      "employer_contributions": 3000,
+      "mandatory_staff_benefits": 1000,
+      "voluntary_staff_benefits": 0,
+      "due_supplier_payments_1": 5000,
+      "due_supplier_payments_2": 3000
+    },
+    "2026-11": {
+      "material_supply_costs": 8000,
+      "external_services": 3000,
+      "premises_costs": 2500,
+      "leasing_rent_costs": 2000,
+      "personnel_costs": 15000,
+      "marketing_advertising": 1500,
+      "insurance_costs": 800,
+      "investment_vat_deductible": 0,
+      "investment_non_vat_deductible": 0,
+      "other_fixed_costs": 1200,
+      "interest_financing_costs": 500,
+      "taxes": 2000,
+      "vat": 1000,
+      "net_wages": 10000,
+      "employer_contributions": 3000,
+      "mandatory_staff_benefits": 1000,
+      "voluntary_staff_benefits": 0,
+      "due_supplier_payments_1": 5000,
+      "due_supplier_payments_2": 3000
+    },
+    "2026-12": {
+      "material_supply_costs": 8000,
+      "external_services": 3000,
+      "premises_costs": 2500,
+      "leasing_rent_costs": 2000,
+      "personnel_costs": 15000,
+      "marketing_advertising": 1500,
+      "insurance_costs": 800,
+      "investment_vat_deductible": 0,
+      "investment_non_vat_deductible": 0,
+      "other_fixed_costs": 1200,
+      "interest_financing_costs": 500,
+      "taxes": 2000,
+      "vat": 1000,
+      "net_wages": 10000,
+      "employer_contributions": 3000,
+      "mandatory_staff_benefits": 1000,
+      "voluntary_staff_benefits": 0,
+      "due_supplier_payments_1": 5000,
+      "due_supplier_payments_2": 3000
+    }
+  },
+  "financing_activities": {
+    "2026-01": {
+      "loan_drawdowns": 30000,
+      "loan_repayments": 0,
+      "installment_repayments": 0,
+      "dividends_private_withdrawals": 0,
+      "owner_additional_investments": 0,
+      "investments_deposits": 0
+    },
+    "2026-02": {
+      "loan_drawdowns": 0,
+      "loan_repayments": 0,
+      "installment_repayments": 0,
+      "dividends_private_withdrawals": 0,
+      "owner_additional_investments": 0,
+      "investments_deposits": 0
+    },
+    "2026-03": {
+      "loan_drawdowns": 0,
+      "loan_repayments": 0,
+      "installment_repayments": 0,
+      "dividends_private_withdrawals": 0,
+      "owner_additional_investments": 0,
+      "investments_deposits": 0
+    },
+    "2026-04": {
+      "loan_drawdowns": 0,
+      "loan_repayments": 0,
+      "installment_repayments": 0,
+      "dividends_private_withdrawals": 0,
+      "owner_additional_investments": 0,
+      "investments_deposits": 0
+    },
+    "2026-05": {
+      "loan_drawdowns": 0,
+      "loan_repayments": 0,
+      "installment_repayments": 0,
+      "dividends_private_withdrawals": 0,
+      "owner_additional_investments": 0,
+      "investments_deposits": 0
+    },
+    "2026-06": {
+      "loan_drawdowns": 0,
+      "loan_repayments": 5000,
+      "installment_repayments": 0,
+      "dividends_private_withdrawals": 0,
+      "owner_additional_investments": 0,
+      "investments_deposits": 0
+    },
+    "2026-07": {
+      "loan_drawdowns": 0,
+      "loan_repayments": 0,
+      "installment_repayments": 0,
+      "dividends_private_withdrawals": 0,
+      "owner_additional_investments": 0,
+      "investments_deposits": 0
+    },
+    "2026-08": {
+      "loan_drawdowns": 0,
+      "loan_repayments": 0,
+      "installment_repayments": 0,
+      "dividends_private_withdrawals": 0,
+      "owner_additional_investments": 0,
+      "investments_deposits": 0
+    },
+    "2026-09": {
+      "loan_drawdowns": 0,
+      "loan_repayments": 0,
+      "installment_repayments": 0,
+      "dividends_private_withdrawals": 0,
+      "owner_additional_investments": 0,
+      "investments_deposits": 0
+    },
+    "2026-10": {
+      "loan_drawdowns": 0,
+      "loan_repayments": 0,
+      "installment_repayments": 0,
+      "dividends_private_withdrawals": 0,
+      "owner_additional_investments": 0,
+      "investments_deposits": 0
+    },
+    "2026-11": {
+      "loan_drawdowns": 0,
+      "loan_repayments": 0,
+      "installment_repayments": 0,
+      "dividends_private_withdrawals": 0,
+      "owner_additional_investments": 0,
+      "investments_deposits": 0
+    },
+    "2026-12": {
+      "loan_drawdowns": 0,
+      "loan_repayments": 0,
+      "installment_repayments": 0,
+      "dividends_private_withdrawals": 0,
+      "owner_additional_investments": 10000,
+      "investments_deposits": 0
+    }
+  },
+  "cash_forecast": {
+    "2026-01": {
+      "beginning_balance": 50000,
+      "total_inflows": 33000.0,
+      "total_outflows": 59500,
+      "financing_activities": 30000,
+      "net_cash_flow": 3500.0,
+      "ending_balance": 53500.0,
+      "days_cash_coverage": 26.974789915966387,
+      "cash_surplus_deficit": 43500.0
+    },
+    "2026-02": {
+      "beginning_balance": 53500.0,
+      "total_inflows": 28600.0,
+      "total_outflows": 59500,
+      "financing_activities": 0,
+      "net_cash_flow": -30900.0,
+      "ending_balance": 22600.0,
+      "days_cash_coverage": 11.394957983193278,
+      "cash_surplus_deficit": 12600.0
+    },
+    "2026-03": {
+      "beginning_balance": 22600.0,
+      "total_inflows": 31200.0,
+      "total_outflows": 59500,
+      "financing_activities": 0,
+      "net_cash_flow": -28300.0,
+      "ending_balance": -5700.0,
+      "days_cash_coverage": -2.8739495798319328,
+      "cash_surplus_deficit": -15700.0
+    },
+    "2026-04": {
+      "beginning_balance": -5700.0,
+      "total_inflows": 33800.0,
+      "total_outflows": 59500,
+      "financing_activities": 0,
+      "net_cash_flow": -25700.0,
+      "ending_balance": -31400.0,
+      "days_cash_coverage": -15.831932773109244,
+      "cash_surplus_deficit": -41400.0
+    },
+    "2026-05": {
+      "beginning_balance": -31400.0,
+      "total_inflows": 38400.0,
+      "total_outflows": 59500,
+      "financing_activities": 0,
+      "net_cash_flow": -21100.0,
+      "ending_balance": -52500.0,
+      "days_cash_coverage": -26.47058823529412,
+      "cash_surplus_deficit": -62500.0
+    },
+    "2026-06": {
+      "beginning_balance": -52500.0,
+      "total_inflows": 39000.0,
+      "total_outflows": 59500,
+      "financing_activities": 5000,
+      "net_cash_flow": -15500.0,
+      "ending_balance": -68000.0,
+      "days_cash_coverage": -34.285714285714285,
+      "cash_surplus_deficit": -78000.0
+    },
+    "2026-07": {
+      "beginning_balance": -68000.0,
+      "total_inflows": 41600.0,
+      "total_outflows": 59500,
+      "financing_activities": 0,
+      "net_cash_flow": -17900.0,
+      "ending_balance": -85900.0,
+      "days_cash_coverage": -43.3109243697479,
+      "cash_surplus_deficit": -95900.0
+    },
+    "2026-08": {
+      "beginning_balance": -85900.0,
+      "total_inflows": 44200.0,
+      "total_outflows": 59500,
+      "financing_activities": 0,
+      "net_cash_flow": -15300.0,
+      "ending_balance": -101200.0,
+      "days_cash_coverage": -51.02521008403362,
+      "cash_surplus_deficit": -111200.0
+    },
+    "2026-09": {
+      "beginning_balance": -101200.0,
+      "total_inflows": 48800.0,
+      "total_outflows": 59500,
+      "financing_activities": 0,
+      "net_cash_flow": -10700.0,
+      "ending_balance": -111900.0,
+      "days_cash_coverage": -56.420168067226896,
+      "cash_surplus_deficit": -121900.0
+    },
+    "2026-10": {
+      "beginning_balance": -111900.0,
+      "total_inflows": 49400.0,
+      "total_outflows": 59500,
+      "financing_activities": 0,
+      "net_cash_flow": -10100.0,
+      "ending_balance": -122000.0,
+      "days_cash_coverage": -61.51260504201681,
+      "cash_surplus_deficit": -132000.0
+    },
+    "2026-11": {
+      "beginning_balance": -122000.0,
+      "total_inflows": 52000.0,
+      "total_outflows": 59500,
+      "financing_activities": 0,
+      "net_cash_flow": -7500.0,
+      "ending_balance": -129500.0,
+      "days_cash_coverage": -65.29411764705883,
+      "cash_surplus_deficit": -139500.0
+    },
+    "2026-12": {
+      "beginning_balance": -129500.0,
+      "total_inflows": 54600.0,
+      "total_outflows": 59500,
+      "financing_activities": 10000,
+      "net_cash_flow": 5100.0,
+      "ending_balance": -124400.0,
+      "days_cash_coverage": -62.72268907563026,
+      "cash_surplus_deficit": -134400.0
+    }
+  },
+  "cash_shortfalls": [
+    [
+      "2026-03",
+      15700.0
+    ],
+    [
+      "2026-04",
+      41400.0
+    ],
+    [
+      "2026-05",
+      62500.0
+    ],
+    [
+      "2026-06",
+      78000.0
+    ],
+    [
+      "2026-07",
+      95900.0
+    ],
+    [
+      "2026-08",
+      111200.0
+    ],
+    [
+      "2026-09",
+      121900.0
+    ],
+    [
+      "2026-10",
+      132000.0
+    ],
+    [
+      "2026-11",
+      139500.0
+    ],
+    [
+      "2026-12",
+      134400.0
+    ]
+  ],
+  "financing_suggestions": {
+    "months_with_shortfall": [
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07",
+      "2026-08",
+      "2026-09",
+      "2026-10",
+      "2026-11",
+      "2026-12"
+    ],
+    "total_financing_needed": 932500.0,
+    "recommended_actions": [
+      "Secure credit facility of at least €932,500.00",
+      "Consider delaying non-critical expenditures",
+      "Accelerate receivables collection",
+      "Negotiate extended payment terms with suppliers"
+    ]
+  },
+  "liquidity_metrics": {
+    "minimum_cash_balance_required": 10000,
+    "cash_buffer_days": 45,
+    "credit_facility_available": 50000
+  }
+}

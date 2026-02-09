@@ -1,0 +1,352 @@
+{
+  "package_name": "Sample Excel Exercise Package",
+  "year": 2026,
+  "total_exercises": 5,
+  "completed_exercises": 2,
+  "progress_percentage": 40.0,
+  "average_completion_time": 25.25,
+  "overall_score": 87.5,
+  "exercises": {
+    "exercise_1": {
+      "name": "Basic Operations",
+      "topic": "Basic Excel operations and functions",
+      "instructions": [
+        "Change the header font to Times New Roman, size 18 pt",
+        "Fill month names horizontally with fill handle",
+        "Calculate sums for the 'Yhteensä' row",
+        "Bold the month names and calculated sums",
+        "Format all numbers in the table as currency with no decimals (e.g., 290 €)"
+      ],
+      "data": {
+        "categories": [
+          "Asunto",
+          "Ruoka",
+          "Vaatteet",
+          "Opiskelu",
+          "Matkat",
+          "Harrastukset",
+          "Muut"
+        ],
+        "tammikuu": [
+          290,
+          350,
+          120,
+          20,
+          55,
+          9,
+          62
+        ],
+        "helmikuu": [
+          290,
+          500,
+          60,
+          50,
+          100,
+          10,
+          40
+        ],
+        "maaliskuu": [
+          290,
+          400,
+          60,
+          50,
+          50,
+          15,
+          15
+        ],
+        "huhtikuu": [
+          290,
+          400,
+          25,
+          40,
+          80,
+          10,
+          240
+        ],
+        "sums": [
+          1160,
+          1650,
+          265,
+          160,
+          285,
+          44,
+          397
+        ]
+      },
+      "solution": {},
+      "difficulty": "Beginner",
+      "time_estimate_minutes": 30
+    },
+    "exercise_2": {
+      "name": "Text Formatting",
+      "topic": "Text formatting and cell alignment",
+      "instructions": [
+        "Enter years 2000-2003 as column headers in cells B10:E10",
+        "Add an apostrophe before the year to format as text",
+        "Center-align the year values in cells",
+        "Calculate the sum of employee counts",
+        "Make all text in the table italic"
+      ],
+      "data": {
+        "locations": [
+          "Forssa",
+          "Helsinki",
+          "Tampere",
+          "Oulu"
+        ],
+        "employees_2000": [
+          210,
+          345,
+          298,
+          121
+        ],
+        "employees_2001": [
+          190,
+          356,
+          241,
+          142
+        ],
+        "employees_2002": [
+          185,
+          360,
+          255,
+          154
+        ],
+        "employees_2003": [
+          190,
+          359,
+          280,
+          200
+        ],
+        "row_totals": [
+          975,
+          1420,
+          1174,
+          617
+        ]
+      },
+      "solution": {},
+      "difficulty": "Beginner",
+      "time_estimate_minutes": 25
+    },
+    "exercise_3": {
+      "name": "Column Manipulation",
+      "topic": "Renaming columns and data entry",
+      "instructions": [
+        "Rename the 'Sarakkeet' table to 'Fruits'",
+        "Remove the hash symbols (#) from cells",
+        "Calculate totals in the 'Yhteensä' column and row",
+        "Insert a new row after 'Mustikka' with: 'Puolukka', 60.23, 86.50, 120.06",
+        "Format all numbers as euros"
+      ],
+      "data": {
+        "fruits": [
+          "Omena",
+          "Banaani",
+          "Appelsiini",
+          "Ananas",
+          "Mustikka",
+          "Puolukka"
+        ],
+        "price_1": [
+          25.5,
+          40.2,
+          35.75,
+          55.0,
+          65.3,
+          60.23
+        ],
+        "price_2": [
+          28.0,
+          42.5,
+          37.2,
+          52.0,
+          68.9,
+          86.5
+        ],
+        "price_3": [
+          30.0,
+          45.0,
+          38.5,
+          58.0,
+          70.5,
+          120.06
+        ],
+        "column_totals": [
+          83.5,
+          127.7,
+          111.45,
+          165.0,
+          204.7,
+          266.79
+        ]
+      },
+      "solution": {},
+      "difficulty": "Intermediate",
+      "time_estimate_minutes": 40
+    },
+    "exercise_4": {
+      "name": "Advanced Functions",
+      "topic": "Pivot tables, VLOOKUP, and complex formulas",
+      "instructions": [
+        "Create a pivot table showing sales by product and month",
+        "Use VLOOKUP to match product codes with descriptions",
+        "Apply conditional formatting to highlight values above average",
+        "Create a chart showing sales trends over time"
+      ],
+      "data": {},
+      "solution": {},
+      "difficulty": "Advanced",
+      "time_estimate_minutes": 60
+    },
+    "exercise_5": {
+      "name": "Financial Modeling",
+      "topic": "Financial calculations and modeling",
+      "instructions": [
+        "Build a simple financial model with revenue, costs, and profit projections",
+        "Use formulas to calculate growth rates and profit margins",
+        "Create scenarios with different assumptions",
+        "Perform sensitivity analysis on key variables"
+      ],
+      "data": {},
+      "solution": {},
+      "difficulty": "Advanced",
+      "time_estimate_minutes": 75
+    }
+  },
+  "learning_objectives": {
+    "exercise_1": [
+      "Master basic formatting operations",
+      "Learn to use fill handle effectively",
+      "Practice formula creation for sum calculations",
+      "Understand currency formatting options"
+    ],
+    "exercise_2": [
+      "Learn text formatting techniques",
+      "Understand cell alignment options",
+      "Practice sum calculations across rows/columns",
+      "Apply formatting to entire tables"
+    ],
+    "exercise_3": [
+      "Manipulate column names and data",
+      "Insert new rows with data",
+      "Format numbers as currency",
+      "Practice data entry techniques"
+    ],
+    "exercise_4": [
+      "Create and manipulate pivot tables",
+      "Use VLOOKUP and other lookup functions",
+      "Apply conditional formatting",
+      "Create charts and visualize data"
+    ],
+    "exercise_5": [
+      "Build financial models with Excel",
+      "Use advanced formulas for financial calculations",
+      "Create multiple scenarios",
+      "Perform sensitivity analysis"
+    ]
+  },
+  "difficulty_levels": {
+    "exercise_1": "Beginner",
+    "exercise_2": "Beginner",
+    "exercise_3": "Intermediate",
+    "exercise_4": "Advanced",
+    "exercise_5": "Advanced"
+  },
+  "time_estimates": {
+    "exercise_1": 30,
+    "exercise_2": 25,
+    "exercise_3": 40,
+    "exercise_4": 60,
+    "exercise_5": 75
+  },
+  "user_progress": {
+    "exercise_1": {
+      "started": false,
+      "completed": true,
+      "completion_date": "2026-02-04 15:00:20",
+      "score": 85.0,
+      "attempts": 0,
+      "time_taken": 28.5
+    },
+    "exercise_2": {
+      "started": false,
+      "completed": true,
+      "completion_date": "2026-02-04 15:00:20",
+      "score": 90.0,
+      "attempts": 0,
+      "time_taken": 22.0
+    },
+    "exercise_3": {
+      "started": true,
+      "completed": false,
+      "completion_date": null,
+      "score": 0,
+      "attempts": 1,
+      "time_taken": 0
+    },
+    "exercise_4": {
+      "started": false,
+      "completed": false,
+      "completion_date": null,
+      "score": 0,
+      "attempts": 0,
+      "time_taken": 0
+    },
+    "exercise_5": {
+      "started": false,
+      "completed": false,
+      "completion_date": null,
+      "score": 0,
+      "attempts": 0,
+      "time_taken": 0
+    }
+  },
+  "best_practices": {
+    "general": [
+      "Use keyboard shortcuts to improve efficiency",
+      "Organize data in tables for better management",
+      "Use named ranges for important data",
+      "Apply consistent formatting throughout the workbook"
+    ],
+    "formulas": [
+      "Use absolute vs relative references appropriately",
+      "Test formulas with sample data before applying to full dataset",
+      "Document complex formulas with comments",
+      "Use Excel's formula auditing tools to troubleshoot"
+    ],
+    "charts": [
+      "Choose the right chart type for your data",
+      "Keep charts simple and focused on key insights",
+      "Use consistent colors and formatting",
+      "Include titles, labels, and legends for clarity"
+    ]
+  },
+  "common_mistakes": {
+    "formula_errors": [
+      "Incorrect cell reference types (absolute vs relative)",
+      "Dividing by zero",
+      "Circular references",
+      "Not updating ranges when copying formulas"
+    ],
+    "formatting_errors": [
+      "Inconsistent number formatting",
+      "Not formatting dates properly",
+      "Using too many fonts or colors",
+      "Poor alignment of data"
+    ],
+    "data_errors": [
+      "Not validating data entry",
+      "Mixing data types in columns",
+      "Not removing duplicates",
+      "Incorrect data types causing calculation errors"
+    ]
+  },
+  "performance_metrics": {
+    "total_exercises": 5,
+    "completed_exercises": 2,
+    "progress_percentage": 40.0,
+    "average_completion_time": 25.25,
+    "overall_score": 87.5
+  }
+}

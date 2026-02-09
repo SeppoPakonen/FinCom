@@ -1,0 +1,129 @@
+{
+  "company_name": "Sample Business Oy",
+  "investment_needs": {
+    "premises_and_connection_fees": 10000,
+    "land_premises_shares_franchise": 0,
+    "premises_vat_0": 0,
+    "premises_with_vat": 0,
+    "machines_equipment": 15000,
+    "leasing_finance": 0,
+    "installment_purchase": 0,
+    "business_grants": 0,
+    "initial_stock_insurance_fees": 0,
+    "initial_stock_insurance_fees_vat": 0,
+    "machines_goodwill_no_vat_deduct": 0,
+    "intangible_investments": 0,
+    "vat_refund": 0,
+    "own_funding": 0,
+    "owner_capital_investments": 0,
+    "intangible_development_investments_vat_0": 0,
+    "development_investments_with_vat": 0,
+    "working_capital": 5000
+  },
+  "funding_plan": {
+    "long_term_loans": {
+      "amount": 8000,
+      "financier": "Local Bank",
+      "interest_rate": 3.5,
+      "loan_period_years": 5,
+      "capital": 5000
+    },
+    "bank": {
+      "amount": 0,
+      "interest_rate": 0,
+      "loan_period_years": 0,
+      "capital": 0
+    },
+    "finnvera": {
+      "amount": 0,
+      "interest_rate": 0,
+      "loan_period_years": 0,
+      "capital": 0
+    },
+    "leasing_finance": {
+      "amount": 0,
+      "interest_rate": 0,
+      "loan_period_years": 0,
+      "capital": 0
+    },
+    "installment_purchase": {
+      "amount": 0,
+      "interest_rate": 0,
+      "loan_period_years": 0,
+      "capital": 0
+    },
+    "business_grants": 5000,
+    "support_for_machines_equipment": 0,
+    "other_support": 0,
+    "finnvera_entrepreneur_loan": {
+      "amount": 0,
+      "interest_rate": 0,
+      "loan_period_years": 0,
+      "capital": 0
+    },
+    "own_funding": 12000,
+    "owner_capital_investments": 0
+  },
+  "total_investment_need": 30000,
+  "total_funding_available": 25000,
+  "funding_gap": 5000,
+  "balance_sheet": {
+    "assets": {
+      "fixed_assets": 25000,
+      "current_assets": 5000
+    },
+    "liabilities_and_equity": {
+      "long_term_liabilities": 8000,
+      "short_term_liabilities": 0,
+      "equity": 12000
+    }
+  },
+  "profit_loss_statement": {
+    "2026": {
+      "revenue": 50000,
+      "operating_costs": 60280.0,
+      "net_profit": -10280.0
+    },
+    "2027": {
+      "revenue": 60000,
+      "operating_costs": 60280.0,
+      "net_profit": -280.0
+    },
+    "2028": {
+      "revenue": 70000,
+      "operating_costs": 60280.0,
+      "net_profit": 9720.0
+    },
+    "2029": {
+      "revenue": 80000,
+      "operating_costs": 60280.0,
+      "net_profit": 19720.0
+    }
+  },
+  "cash_flow": {
+    "2026": {
+      "operating_cash_flow": -10280.0,
+      "investment_cash_flow": -7500.0,
+      "financing_cash_flow": 6250.0,
+      "net_cash_flow": -11530.0
+    },
+    "2027": {
+      "operating_cash_flow": -280.0,
+      "investment_cash_flow": -7500.0,
+      "financing_cash_flow": 6250.0,
+      "net_cash_flow": -1530.0
+    },
+    "2028": {
+      "operating_cash_flow": 9720.0,
+      "investment_cash_flow": -7500.0,
+      "financing_cash_flow": 6250.0,
+      "net_cash_flow": 8470.0
+    },
+    "2029": {
+      "operating_cash_flow": 19720.0,
+      "investment_cash_flow": -7500.0,
+      "financing_cash_flow": 6250.0,
+      "net_cash_flow": 18470.0
+    }
+  }
+}

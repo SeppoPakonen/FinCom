@@ -1,0 +1,132 @@
+{
+  "invoice_document": {
+    "company_name": "Sample Rental Co",
+    "invoice_date": "2026-02-01",
+    "invoice_number": "REN-2026-001",
+    "sender_info": {
+      "name": "Sample Rental Oy",
+      "address": "Vuokrakatu 15, 33100 Tampere",
+      "business_id": "1234567-8",
+      "contact_person": "Vuokraaja: Veera Vuokraaja",
+      "phone": "0500 123 456",
+      "email": "veera.vuokraaja@samplerental.fi",
+      "website": "www.samplerental.fi",
+      "vat_registration": "FI12345678"
+    },
+    "receiver_info": {
+      "name": "Asiakas Oy",
+      "address": "Asiakaskatu 20, 00100 Helsinki",
+      "business_id": "8765432-1",
+      "contact_person": "Asiakas: Aino Asiakas",
+      "phone": "0400 987 654",
+      "email": "aino.asiakas@asiakas.fi"
+    },
+    "rental_property_info": {
+      "property_id": "PROP-001",
+      "property_address": "Esimerkkikatu 123, 33200 Tampere",
+      "property_type": "Asuntovaunu",
+      "size_area": 45.5,
+      "features": [
+        "Kitchen",
+        "Balcony",
+        "Parking space"
+      ]
+    },
+    "rental_period": {
+      "start_date": "2026-01-01",
+      "end_date": "2026-01-31",
+      "duration_days": 30,
+      "duration_months": 0.99
+    },
+    "rental_charges": {
+      "base_rent": 650.0,
+      "rent_per_day": 21.67,
+      "rent_per_month": 650.0,
+      "pro_rated_rent": 650.0
+    },
+    "utility_costs": {
+      "water": 25.0,
+      "electricity": 45.0,
+      "heating": 35.0,
+      "internet": 20.0,
+      "other_utilities": 10.0
+    },
+    "additional_services": {
+      "cleaning": 30.0,
+      "maintenance": 0,
+      "parking": 50.0,
+      "storage": 25.0,
+      "other_services": 0
+    },
+    "deposits_guarantees": {
+      "security_deposit": 1000.0,
+      "deposit_return_status": "Pending",
+      "deposit_return_date": "2026-02-15"
+    },
+    "payment_terms": {
+      "payment_method": "Bank transfer",
+      "payment_period_days": 14,
+      "due_date": "2026-02-15",
+      "late_fee_rate": 0.095
+    },
+    "meter_readings": {
+      "water_start": 12345.0,
+      "water_end": 12365.0,
+      "electricity_start": 54321.0,
+      "electricity_end": 54421.0,
+      "heating_start": 9876.0,
+      "heating_end": 9926.0
+    },
+    "property_condition": {
+      "condition_at_start": "Good",
+      "condition_at_end": "Good",
+      "damage_notes": "Minor wear and tear as expected"
+    },
+    "cleaning_maintenance_costs": {
+      "cleaning_cost": 0.0,
+      "maintenance_cost": 15.0,
+      "extra_cleaning_required": false
+    },
+    "damage_extra_charges": {
+      "damage_cost": 0.0,
+      "extra_usage_charges": 0.0,
+      "other_extra_charges": 0
+    },
+    "discount_info": {
+      "discount_percentage": 5.0,
+      "discount_reason": "Long-term customer loyalty discount"
+    },
+    "seasonal_adjustments": {
+      "seasonal_rate_multiplier": 1.0,
+      "seasonal_period": ""
+    },
+    "totals": {
+      "subtotal_excl_vat": 905.0,
+      "discount_amount": 45.25,
+      "total_after_discount_excl_vat": 859.75,
+      "total_vat": 206.34,
+      "total_incl_vat": 1066.09
+    },
+    "late_payment_interest": 0.095,
+    "rental_agreement_info": {
+      "agreement_number": "",
+      "agreement_date": "",
+      "rental_terms": "",
+      "cancellation_policy": ""
+    },
+    "special_notes": "Thank you for your rental business. Please contact us if you have any questions about this invoice."
+  },
+  "analytics": {
+    "total_rental_days": 30,
+    "daily_rate": 21.67,
+    "monthly_rate": 650.0,
+    "cost_per_square_meter": 14.285714285714286,
+    "utility_cost_percentage": 15.702239022971796,
+    "additional_services_percentage": 12.212852573422508,
+    "discount_percentage_applied": 5.0,
+    "seasonal_multiplier_applied": 1.0
+  },
+  "recommendations": [
+    "Rental invoice appears to be in good order. Charges and terms look appropriate."
+  ]
+}

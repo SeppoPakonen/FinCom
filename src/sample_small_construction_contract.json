@@ -1,0 +1,177 @@
+{
+  "contract_document": {
+    "company_name": "Sample Construction Contract Oy",
+    "contract_date": "04.02.2026",
+    "contractor_info": {
+      "name": "Sample Construction Oy",
+      "address": "Rakennuskatu 15, 33100 Tampere",
+      "business_id": "1234567-8",
+      "contact_person": "Urakoitsija: Urpo Urakoitsija",
+      "phone": "0500 123 456",
+      "email": "urpo.urakoitsija@sampleconstruction.fi",
+      "vat_registration": "FI12345678"
+    },
+    "client_info": {
+      "name": "Tilaaja Oy",
+      "address": "Tilaajankatu 20, 00100 Helsinki",
+      "business_id_or_personal_id": "8765432-1",
+      "contact_person": "Tilaaja: Tero Tilaaja",
+      "phone": "0400 987 654",
+      "email": "tero.tilaaja@tilaaja.fi"
+    },
+    "project_description": {
+      "project_name": "Esimerkkirakennusprojekti",
+      "project_location": "Rakennuskatu 123, 33200 Tampere",
+      "project_scope": "Rakennustyö - pienurakka",
+      "work_description": "Uuden rakennuksen peruskorjaus ja sisustustyöt",
+      "special_requirements": "Ympäristöystävälliset materiaalit, meluntorjuntatoimenpiteet"
+    },
+    "work_schedule": {
+      "start_date": "2026-03-01",
+      "end_date": "2026-05-31",
+      "work_days": "Monday-Friday",
+      "work_hours": "07:00-15:00",
+      "estimated_duration_days": 90
+    },
+    "materials_list": [
+      {
+        "name": "Betoni",
+        "description": "Perusbetonimäärä rakenteisiin",
+        "quantity": 50.0,
+        "unit": "m³",
+        "unit_price_excl_vat": 120.0,
+        "vat_rate": 0.255,
+        "total_excl_vat": 6000.0,
+        "total_vat": 1530.0,
+        "total_incl_vat": 7529.999999999999
+      },
+      {
+        "name": "Tiili",
+        "description": "Ulkoseinien tiilet",
+        "quantity": 10000,
+        "unit": "kpl",
+        "unit_price_excl_vat": 0.85,
+        "vat_rate": 0.255,
+        "total_excl_vat": 8500.0,
+        "total_vat": 2167.5,
+        "total_incl_vat": 10667.5
+      },
+      {
+        "name": "Kipsilevyt",
+        "description": "Sisäseinien kipsilevyt",
+        "quantity": 500,
+        "unit": "m²",
+        "unit_price_excl_vat": 12.5,
+        "vat_rate": 0.255,
+        "total_excl_vat": 6250.0,
+        "total_vat": 1593.75,
+        "total_incl_vat": 7843.749999999999
+      }
+    ],
+    "labor_list": [
+      {
+        "role": "Mestarimies",
+        "description": "Rakennusmestarimies työn johdossa",
+        "hours": 400,
+        "hourly_rate": 65.0,
+        "vat_rate": 0.255,
+        "total_excl_vat": 26000.0,
+        "total_vat": 6630.0,
+        "total_incl_vat": 32629.999999999996
+      },
+      {
+        "role": "Aputyöntekijä",
+        "description": "Apurakentajat työmaalla",
+        "hours": 800,
+        "hourly_rate": 25.0,
+        "vat_rate": 0.255,
+        "total_excl_vat": 20000.0,
+        "total_vat": 5100.0,
+        "total_incl_vat": 25099.999999999996
+      }
+    ],
+    "pricing_info": {
+      "pricing_method": "Fixed price",
+      "vat_rate": 0.255,
+      "currency": "EUR",
+      "exchange_rate": 1.0
+    },
+    "payment_terms": {
+      "payment_method": "Bank transfer",
+      "payment_schedule": "Milestone-based",
+      "payment_period": "30 days",
+      "advance_payment_percentage": 0.15,
+      "retention_percentage": 0.05
+    },
+    "delivery_terms": {
+      "delivery_method": "On-site completion",
+      "delivery_location": "Rakennuskatu 123, 33200 Tampere",
+      "delivery_deadline": "2026-05-31"
+    },
+    "quality_guarantee": {
+      "guarantee_period": "12 months",
+      "guarantee_scope": "Construction defects and workmanship",
+      "guarantee_exclusions": "Damage due to misuse, normal wear, or external factors"
+    },
+    "safety_requirements": {
+      "safety_protocols_required": true,
+      "safety_certifications_required": true,
+      "accident_prevention_measures": true,
+      "safety_training_required": true
+    },
+    "environmental_requirements": {
+      "environmental_compliance_required": true,
+      "waste_management_plan": true,
+      "noise_control_measures": true,
+      "dust_control_measures": true
+    },
+    "contract_terms": {
+      "termination_clause": "With 14 days notice",
+      "dispute_resolution": "According to Finnish law",
+      "jurisdiction": "Finnish courts",
+      "applicable_law": "Finnish law"
+    },
+    "penalty_clauses": {},
+    "warranty_terms": {},
+    "liability_exemptions": {},
+    "change_orders": {},
+    "cancellation_terms": {},
+    "work_acceptance": {},
+    "contract_termination": {},
+    "invoicing_procedures": {},
+    "contract_period": {
+      "type": "fixed_term",
+      "start_date": "2026-03-01",
+      "end_date": "2026-05-31",
+      "duration_months": 3
+    },
+    "permits_insurances": {},
+    "totals": {
+      "materials_total_excl_vat": 20750.0,
+      "materials_total_vat": 5291.25,
+      "materials_total_incl_vat": 26041.25,
+      "labor_total_excl_vat": 46000.0,
+      "labor_total_vat": 11730.0,
+      "labor_total_incl_vat": 57729.99999999999,
+      "total_excl_vat": 66750.0,
+      "total_vat": 17021.25,
+      "total_incl_vat": 83771.25,
+      "advance_amount": 12565.6875,
+      "retention_amount": 4188.5625,
+      "net_amount_due": 67017.0
+    }
+  },
+  "analytics": {
+    "total_items": 5,
+    "materials_percentage_of_total": 31.086142322097377,
+    "labor_percentage_of_total": 68.91385767790261,
+    "average_material_cost": 8680.416666666666,
+    "average_labor_cost": 28864.999999999996,
+    "contract_duration_days": 91,
+    "cost_per_day": 920.5631868131868,
+    "vat_impact_percentage": 25.5
+  },
+  "recommendations": [
+    "For contracts over €10,000, consider adding more detailed penalty clauses and milestone payments."
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "company_name": "Sample Business Oy",
+  "offer_date": "04.02.2026",
+  "offer_number": "XX0125",
+  "customer_info": {
+    "name": "Kauppatalo Oy",
+    "address": "Kauppakatu 1",
+    "city": "00001 HELSINKI",
+    "contact_person": "Matti Meikäläinen",
+    "phone": "0500 123 456",
+    "email": ""
+  },
+  "contact_person": "",
+  "contact_info": "",
+  "validity_period": "30 days from offer date",
+  "offer_request_reference": "Toukokuun kampanja",
+  "delivery_info": {
+    "delivery_time": "2 weeks from order",
+    "delivery_method": "Standard delivery",
+    "installation_included": true
+  },
+  "delivery_address": "Keskustakatu 10, Helsinki",
+  "delivery_timeframe": "2 weeks from order",
+  "payment_terms": {
+    "payment_method": "Bank transfer",
+    "payment_period": "30 days",
+    "late_fee": "8% per annum"
+  },
+  "services_offered": [
+    {
+      "name": "Design services",
+      "description": "- Suunnittelu",
+      "quantity": 10,
+      "unit": "h",
+      "unit_price_excl_vat": 62,
+      "vat_percentage": 25.5,
+      "total_excl_vat": 620,
+      "total_vat": 158.1,
+      "total_incl_vat": 778.0999999999999
+    },
+    {
+      "name": "Layout work",
+      "description": "- Lay out - työt",
+      "quantity": 1,
+      "unit": "kpl",
+      "unit_price_excl_vat": 700,
+      "vat_percentage": 25.5,
+      "total_excl_vat": 700,
+      "total_vat": 178.5,
+      "total_incl_vat": 878.4999999999999
+    },
+    {
+      "name": "Printing and mounting of signs",
+      "description": "- ilmoitusten painatus ja pinnoitus",
+      "quantity": 10,
+      "unit": "kpl",
+      "unit_price_excl_vat": 385,
+      "vat_percentage": 25.5,
+      "total_excl_vat": 3850,
+      "total_vat": 981.75,
+      "total_incl_vat": 4831.75
+    },
+    {
+      "name": "Installation of signs to signboards",
+      "description": "- ilmoitusten asennus mainostelineisiin",
+      "quantity": 10,
+      "unit": "kpl",
+      "unit_price_excl_vat": 125,
+      "vat_percentage": 25.5,
+      "total_excl_vat": 1250,
+      "total_vat": 318.75,
+      "total_incl_vat": 1568.7499999999998
+    },
+    {
+      "name": "Store lighting book",
+      "description": "- Myymälän valaistus - kirja",
+      "quantity": 1,
+      "unit": "kpl",
+      "unit_price_excl_vat": 30,
+      "vat_percentage": 10,
+      "total_excl_vat": 30,
+      "total_vat": 3.0,
+      "total_incl_vat": 33.0
+    }
+  ],
+  "totals": {
+    "total_excl_vat": 6450,
+    "total_vat": 1640.1,
+    "total_incl_vat": 8090.099999999999,
+    "discounts_applied": 404.505,
+    "final_total": 7685.594999999999
+  },
+  "terms_conditions": {
+    "validity": "30 days from offer date",
+    "acceptance_period": "Offer valid for acceptance within validity period",
+    "cancellation_policy": "Cancellable with 14 days notice",
+    "dispute_resolution": "Handled according to Finnish law"
+  },
+  "quality_guarantee": {
+    "warranty_period": "12 months",
+    "warranty_scope": "Defects in materials and workmanship",
+    "warranty_exclusions": "Damage due to misuse or normal wear"
+  },
+  "contract_terms": {},
+  "references": [],
+  "project_tracking": {},
+  "cost_tracking": {},
+  "profit_tracking": {},
+  "risk_management": {},
+  "quality_criteria": {},
+  "discounts": {
+    "early_payment_discount": 0.0,
+    "volume_discount": 5.0,
+    "loyalty_discount": 0.0
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "company_name": "Sample Payment Reminder Oy",
+  "reminder_date": "04.02.2026",
+  "sender_info": {
+    "name": "Sample Payment Reminder Oy",
+    "address": "Perintökatu 15, 33100 Tampere",
+    "business_id": "1234567-8",
+    "contact_person": "Perintö: Pekka Perintö",
+    "phone": "0500 123 456",
+    "email": "pekka.perinto@samplepaymentreminder.fi",
+    "bank_account_info": {
+      "iban": "FI0000000012345678",
+      "bic": "SAMPLEBIC",
+      "account_number": ""
+    }
+  },
+  "recipient_info": {
+    "name": "Maksaja Oy",
+    "address": "Maksajankatu 20, 00100 Helsinki",
+    "business_id": "8765432-1",
+    "contact_person": "Maksaja: Maija Maksaja",
+    "phone": "0400 987 654",
+    "email": "maija.maksaja@maksaja.fi"
+  },
+  "outstanding_invoices": [
+    {
+      "invoice_number": "INV-123465",
+      "original_amount": 10000.0,
+      "invoice_date": "2025-10-01",
+      "due_date": "2025-11-01",
+      "days_overdue": 94,
+      "interest_rate": 0.11,
+      "interest_amount": 283.28767123287673,
+      "additional_charges": 5.0,
+      "total_due": 10288.287671232876
+    },
+    {
+      "invoice_number": "INV-123466",
+      "original_amount": 5000.0,
+      "invoice_date": "2025-11-15",
+      "due_date": "2025-12-15",
+      "days_overdue": 49,
+      "interest_rate": 0.11,
+      "interest_amount": 73.83561643835617,
+      "additional_charges": 5.0,
+      "total_due": 5078.835616438356
+    },
+    {
+      "invoice_number": "INV-123467",
+      "original_amount": 2500.0,
+      "invoice_date": "2025-12-20",
+      "due_date": "2026-01-20",
+      "days_overdue": 14,
+      "interest_rate": 0.11,
+      "interest_amount": 10.547945205479452,
+      "additional_charges": 5.0,
+      "total_due": 2515.5479452054797
+    }
+  ],
+  "payment_terms": {
+    "standard_payment_period": 14,
+    "late_payment_interest_rate": 0.11,
+    "reminder_fee": 5.0
+  },
+  "reminder_level": 4,
+  "total_outstanding": 17882.67123287671,
+  "total_with_interest": 17882.67123287671,
+  "escalation_rules": {
+    "level_1_days_overdue": 7,
+    "level_2_days_overdue": 14,
+    "final_notice_days_overdue": 30,
+    "collection_referral_days_overdue": 60
+  },
+  "customer_payment_history": {
+    "payment_frequency": "occasional",
+    "average_days_overdue": 25,
+    "payment_behavior_notes": "Customer has history of delayed payments but eventually pays"
+  },
+  "collection_process": {
+    "status": "second_reminder_sent",
+    "last_contact_date": "2026-01-28",
+    "next_action_date": "2026-02-10",
+    "actions_taken": [
+      {
+        "date": "2026-01-28",
+        "type": "email_reminder",
+        "description": "Sent first payment reminder via email"
+      }
+    ]
+  },
+  "interest_calculations": {
+    "interest_calculation_method": "simple_interest",
+    "interest_base": "euribor_plus",
+    "additional_interest_rate": 0.07
+  },
+  "legal_compliance": {
+    "complies_with_finnish_law": true,
+    "interest_calculation_compliant": true,
+    "reminder_content_compliant": true
+  },
+  "reporting_metrics": {
+    "days_since_invoice": 0,
+    "payment_probability": 0.15,
+    "collection_effort_score": 0,
+    "reminder_level": 4,
+    "max_days_overdue": 94
+  }
+}

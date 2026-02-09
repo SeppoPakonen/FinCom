@@ -1,0 +1,51 @@
+@startuml
+!theme plain
+title Data Extraction Process Sequence
+
+actor "Documentation File" as Doc
+participant "DocumentDataExporter" as Exporter
+participant "Keyword Extractor" as KE
+participant "ECS Extractor" as EE
+participant "Constraint Extractor" as CE
+participant "Metadata Creator" as MC
+participant "Relationship Graph Builder" as RGB
+
+Doc ->> Exporter: extract_from_file(file_path)
+activate Exporter
+
+Exporter ->> KE: _extract_keywords(content, file_path)
+activate KE
+KE -->> Exporter: List<Keyword>
+deactivate KE
+
+Exporter ->> EE: _extract_ecs_elements(content, file_path)
+activate EE
+EE -->> Exporter: ECSArchitecture
+deactivate EE
+
+Exporter ->> CE: _extract_constraints(content, file_path)
+activate CE
+CE -->> Exporter: List<Constraint>
+deactivate CE
+
+Exporter ->> MC: _create_metadata(content, file_path)
+activate MC
+MC -->> Exporter: Metadata
+deactivate MC
+
+Exporter -->> Doc: ExtractedData (keywords, ecs_elements, constraints, metadata)
+
+... Later, when building relationships ...
+
+participant "RelationshipGraph" as RG
+
+Exporter ->> RGB: create_relationship_graph(extracted_data_list)
+activate RGB
+RGB ->> RG: create RelationshipGraph
+RG -->> Exporter: RelationshipGraph
+deactivate RGB
+
+Exporter -->> Doc: RelationshipGraph with connections between elements
+deactivate Exporter
+
+@enduml

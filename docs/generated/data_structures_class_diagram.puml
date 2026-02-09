@@ -1,0 +1,115 @@
+@startuml
+!theme plain
+title Data Structures for Finnish Business Operations Repository
+
+package "Data Structures" {
+  class Keyword {
+    +term: String
+    +frequency: Int
+    +relevance: Float
+    +category: String
+    +tags: List<String>
+    +source_file: String
+    +to_dict(): Dict
+    +from_dict(data: Dict): Keyword
+  }
+
+  class Entity {
+    +name: String
+    +description: String
+    +attributes: Dict<String, Any>
+    +tags: List<String>
+    +source_file: String
+    +to_dict(): Dict
+    +from_dict(data: Dict): Entity
+  }
+
+  class Component {
+    +name: String
+    +description: String
+    +properties: Dict<String, Any>
+    +data_schema: Dict<String, String>
+    +tags: List<String>
+    +source_file: String
+    +to_dict(): Dict
+    +from_dict(data: Dict): Component
+  }
+
+  class System {
+    +name: String
+    +description: String
+    +behavior: String
+    +dependencies: List<String>
+    +triggers: List<String>
+    +tags: List<String>
+    +source_file: String
+    +to_dict(): Dict
+    +from_dict(data: Dict): System
+  }
+
+  class Constraint {
+    +id: String
+    +title: String
+    +description: String
+    +constraint_type: ConstraintType
+    +condition: String
+    +scope: String
+    +severity: SeverityLevel
+    +source_file: String
+    +to_dict(): Dict
+    +from_dict(data: Dict): Constraint
+  }
+
+  class Metadata {
+    +source_file: String
+    +title: String
+    +description: String
+    +tags: List<String>
+    +categories: List<String>
+    +content_type: String
+    +business_domains: List<String>
+    +to_dict(): Dict
+    +from_dict(data: Dict): Metadata
+  }
+
+  class GraphNode {
+    +id: String
+    +element_type: String
+    +element_data: Dict<String, Any>
+    +tags: List<String>
+    +to_dict(): Dict
+    +from_dict(data: Dict): GraphNode
+  }
+
+  class GraphEdge {
+    +id: String
+    +source_node_id: String
+    +target_node_id: String
+    +relationship_type: String
+    +weight: Float
+    +properties: Dict<String, Any>
+    +to_dict(): Dict
+    +from_dict(data: Dict): GraphEdge
+  }
+
+  class RelationshipGraph {
+    +id: String
+    +name: String
+    +description: String
+    +nodes: List<GraphNode>
+    +edges: List<GraphEdge>
+    +to_dict(): Dict
+    +from_dict(data: Dict): RelationshipGraph
+  }
+
+  Keyword ||--|| KeywordCollection : contained_in
+  Entity ||--|| ECSArchitecture : contained_in
+  Component ||--|| ECSArchitecture : contained_in
+  System ||--|| ECSArchitecture : contained_in
+  Constraint ||--|| ConstraintCollection : contained_in
+  
+  GraphNode ||--o{ RelationshipGraph : node_in
+  GraphEdge ||--o{ RelationshipGraph : edge_in
+}
+
+@enduml
