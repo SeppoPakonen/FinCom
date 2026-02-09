@@ -1,0 +1,76 @@
+# Index for financial_planning_budgets
+
+## Description
+This directory contains 69 files related to financial planning budgets. These files were organized from the processed directory based on their content and business function.
+
+## Files in this directory:
+
+- [H14_Capital_Loan_Bond.md](H14_Capital_Loan_Bond.md) - H14 Capital Loan Bond
+- [H15_Bond.md](H15_Bond.md) - H15 Bond
+- [LU011_Week_Calendar_for_Training_1760433672312.md](LU011_Week_Calendar_for_Training_1760433672312.md) - LU011 Week Calendar for Training 1760433672312
+- [Logistics_Costs.md](Logistics_Costs.md) - Logistics Costs
+- [Logistics_Expertise_YAT.md](Logistics_Expertise_YAT.md) - Logistics Expertise YAT
+- [SALES_-_ANSVA.md](SALES_-_ANSVA.md) - SALES - ANSVA
+- [Building_Marketing_Plan_Elements.md](Building_Marketing_Plan_Elements.md) - Building Marketing Plan Elements
+- [Marketing_Communication.md](Marketing_Communication.md) - Marketing Communication
+- [Marketing_Communication_New_Electronic_Basics.md](Marketing_Communication_New_Electronic_Basics.md) - Marketing Communication New Electronic Basics
+- [My_Digital_Environment.md](My_Digital_Environment.md) - My Digital Environment
+- [How_to_Utilize_AIDA_Model.md](How_to_Utilize_AIDA_Model.md) - How to Utilize AIDA Model
+- [Sales_Key_Figures.md](Sales_Key_Figures.md) - Sales Key Figures
+- [PRH_-_Minor_and_Business_Activities__PRH.md](PRH_-_Minor_and_Business_Activities__PRH.md) - PRH - Minor and Business Activities   PRH
+- [PRH_-_Development_of_Digital_Financial_Reporting__PRH.md](PRH_-_Development_of_Digital_Financial_Reporting__PRH.md) - PRH - Development of Digital Financial Reporting   PRH
+- [PRH_-_Digital_Financial_Statement_Vocabulary__PRH.md](PRH_-_Digital_Financial_Statement_Vocabulary__PRH.md) - PRH - Digital Financial Statement Vocabulary   PRH
+- [PRH_-_Beneficial_Owner_Notification__PRH.md](PRH_-_Beneficial_Owner_Notification__PRH.md) - PRH - Beneficial Owner Notification   PRH
+- [PRH_-_Deficiencies_in_Beneficial_Owner_Information_and_Supervision__PRH.md](PRH_-_Deficiencies_in_Beneficial_Owner_Information_and_Supervision__PRH.md) - PRH - Deficiencies in Beneficial Owner Information and Supervision   PRH
+- [PRH_-_European_Economic_Area_(EEA)__PRH.md](PRH_-_European_Economic_Area_(EEA)__PRH.md) - PRH - European Economic Area (EEA)   PRH
+- [PRH_-_Consequences_of_Not_Reporting__PRH.md](PRH_-_Consequences_of_Not_Reporting__PRH.md) - PRH - Consequences of Not Reporting   PRH
+- [PRH_-_Mandatory_Electronic_Service_of_the_Trade_Register_Beginning_in_2026__PRH.md](PRH_-_Mandatory_Electronic_Service_of_the_Trade_Register_Beginning_in_2026__PRH.md) - PRH - Mandatory Electronic Service of the Trade Register Beginning in 2026   PRH
+- [PRH_-_Registered_Office__PRH.md](PRH_-_Registered_Office__PRH.md) - PRH - Registered Office   PRH
+- [PRH_-_What_is_Digital_Financial_Statement___PRH.md](PRH_-_What_is_Digital_Financial_Statement___PRH.md) - PRH - What is Digital Financial Statement    PRH
+- [PRH_-_Late_Payment_Fee__PRH.md](PRH_-_Late_Payment_Fee__PRH.md) - PRH - Late Payment Fee   PRH
+- [PRH_-_Correction_Request_for_Late_Financial_Statement_Fee__PRH.md](PRH_-_Correction_Request_for_Late_Financial_Statement_Fee__PRH.md) - PRH - Correction Request for Late Financial Statement Fee   PRH
+- [PRH_-_Limited_Liability_Company_and_Cooperative_Financial_Statement_at_Risk_of_Removal_from_Trade_Register__PRH.md](PRH_-_Limited_Liability_Company_and_Cooperative_Financial_Statement_at_Risk_of_Removal_from_Trade_Register__PRH.md) - PRH - Limited Liability Company and Cooperative Financial Statement at Risk of Removal from Trade Register   PRH
+- [PRH_-_Limited_Liability_Company_and_Branch_in_the_European_Economic_Area_(EEA)__PRH.md](PRH_-_Limited_Liability_Company_and_Branch_in_the_European_Economic_Area_(EEA)__PRH.md) - PRH - Limited Liability Company and Branch in the European Economic Area (EEA)   PRH
+- [PRH_-_Shareholders__PRH.md](PRH_-_Shareholders__PRH.md) - PRH - Shareholders   PRH
+- [PRH_-_Addresses_and_Contact_Information__PRH.md](PRH_-_Addresses_and_Contact_Information__PRH.md) - PRH - Addresses and Contact Information   PRH
+- [PRH_-_Procuration__PRH.md](PRH_-_Procuration__PRH.md) - PRH - Procuration   PRH
+- [PRH_-_Representation_Provisions_in_Bylaws__PRH.md](PRH_-_Representation_Provisions_in_Bylaws__PRH.md) - PRH - Representation Provisions in Bylaws   PRH
+- [PRH_-_Financial_Statements__PRH.md](PRH_-_Financial_Statements__PRH.md) - PRH - Financial Statements   PRH
+- [PRH_-_Financial_Statement_Taxonomies__PRH.md](PRH_-_Financial_Statement_Taxonomies__PRH.md) - PRH - Financial Statement Taxonomies   PRH
+- [PRH_-_Suspension_of_Operations__PRH.md](PRH_-_Suspension_of_Operations__PRH.md) - PRH - Suspension of Operations   PRH
+- [PRH_-_Frequently_Asked_Questions_about_Late_Financial_Statements__PRH.md](PRH_-_Frequently_Asked_Questions_about_Late_Financial_Statements__PRH.md) - PRH - Frequently Asked Questions about Late Financial Statements   PRH
+- [Powerpoint_-_Exercise_Ergonette.md](Powerpoint_-_Exercise_Ergonette.md) - Powerpoint - Exercise Ergonette
+- [SOME_Calendar_Content_Plan.md](SOME_Calendar_Content_Plan.md) - SOME Calendar Content Plan
+- [Startup_Grant_and_4_Month_Entrepreneurship_Trial.md](Startup_Grant_and_4_Month_Entrepreneurship_Trial.md) - Startup Grant and 4 Month Entrepreneurship Trial
+- [V1_Food_Store_Notification.md](V1_Food_Store_Notification.md) - V1 Food Store Notification
+- [V2_Self-Supervision_Plan.md](V2_Self-Supervision_Plan.md) - V2 Self-Supervision Plan
+- [V8_Consent_for_Processing_Personal_Data.md](V8_Consent_for_Processing_Personal_Data.md) - V8 Consent for Processing Personal Data
+- [Annual_Clock_Template_xxx.md](Annual_Clock_Template_xxx.md) - Annual Clock Template xxx
+- [YAT_tool.md](YAT_tool.md) - YAT tool
+- [YAT_Company_Legislation_Permit-Based_Business_and_Copyright.md](YAT_Company_Legislation_Permit-Based_Business_and_Copyright.md) - YAT Company Legislation Permit-Based Business and Copyright
+- [YT16_Competitor_Analysis.md](YT16_Competitor_Analysis.md) - YT16 Competitor Analysis
+- [YT26_Marketing_and_Sales_Plan_BusinessOulu.md](YT26_Marketing_and_Sales_Plan_BusinessOulu.md) - YT26 Marketing and Sales Plan BusinessOulu
+- [YT26_Marketing_and_Sales_Plan_Lapua.md](YT26_Marketing_and_Sales_Plan_Lapua.md) - YT26 Marketing and Sales Plan Lapua
+- [YT27_Marketing_Plan_Lapua.md](YT27_Marketing_Plan_Lapua.md) - YT27 Marketing Plan Lapua
+- [Company_Sales_and_Marketing_Channels.md](Company_Sales_and_Marketing_Channels.md) - Company Sales and Marketing Channels
+- [Company_Presentation_Ergonette.md](Company_Presentation_Ergonette.md) - Company Presentation Ergonette
+- [Professional's_Handprint_Service.md](Professional's_Handprint_Service.md) - Professional's Handprint Service
+- [Parental_Leave_Tips_040920.md](Parental_Leave_Tips_040920.md) - Parental Leave Tips 040920
+- [index.md](index.md) - index
+- [Baseline_Analysis.md](Baseline_Analysis.md) - Baseline Analysis
+- [Marketing_Plan.md](Marketing_Plan.md) - Marketing Plan
+- [Making_Market_Research.md](Making_Market_Research.md) - Making Market Research
+- [Megatrends_2026.md](Megatrends_2026.md) - Megatrends 2026
+- [Notes.md](Notes.md) - Notes
+- [Service_Design.md](Service_Design.md) - Service Design
+- [Internal_Customer_Service.md](Internal_Customer_Service.md) - Internal Customer Service
+- [Suomi_fi_Productization.md](Suomi_fi_Productization.md) - Suomi fi Productization
+- [Using_AI.md](Using_AI.md) - Using AI
+- [Productization.md](Productization.md) - Productization
+- [Working_Time_Act.md](Working_Time_Act.md) - Working Time Act
+- [Pension.md](Pension.md) - Pension
+- [Tax_Info.md](Tax_Info.md) - Tax Info
+- [Vision_Mission_Values.md](Vision_Mission_Values.md) - Vision Mission Values
+- [Annual_Leave_Act.md](Annual_Leave_Act.md) - Annual Leave Act
+- [Entrepreneur's_Cash.md](Entrepreneur's_Cash.md) - Entrepreneur's Cash
+- [Company's_Permissions_and_Obligations.md](Company's_Permissions_and_Obligations.md) - Company's Permissions and Obligations

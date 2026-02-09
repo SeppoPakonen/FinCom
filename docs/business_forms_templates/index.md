@@ -1,0 +1,147 @@
+# Index for business_forms_templates
+
+## Description
+This directory contains 140 files related to business form templates. These files were organized from the processed directory based on their content and business function.
+
+## Files in this directory:
+
+- [00 Information Security and Data Protection.md](00 Information Security and Data Protection.md) - 00 Information Security and Data Protection
+- [2025 Marketing Basics Competition Methods.md](2025 Marketing Basics Competition Methods.md) - 2025 Marketing Basics Competition Methods
+- [AB Card.md](AB Card.md) - AB Card
+- [Assessment Form Business Operations Tasks.md](Arviointilomake Liiketoiminnan tehtävissä toimiminen.md) - Assessment Form Business Operations Tasks
+- [Assessment Form Sales and Marketing.md](Arviointilomake Myynti ja markkinointi.md) - Assessment Form Sales and Marketing
+- [Assessment Form Business Operations Planning and Launching.md](Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md) - Assessment Form Business Operations Planning and Launching
+- [Assessment Form Developing Products and Services.md](Arviointilomake tuotteiden ja palveluiden kehittäminen.md) - Assessment Form Developing Products and Services
+- [Customer Promise.md](Asiakaslupaus.md) - Customer Promise
+- [Canva Tasks.md](Canva tehtävät.md) - Canva Tasks
+- [DNA Digital Life 2024_open_updated.md](DNA Digitaalinen elämä 2024_open_päivitetty.md) - DNA Digital Life 2024 open updated
+- [Digital Marketing.md](Digitaalinen markkinointi.md) - Digital Marketing
+- [My Digital Environment.md](Digitaalinen ympäristöni.md) - My Digital Environment
+- [Digital Marketing Handbook for Micro and Small Enterprises.md](Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md) - Digital Marketing Handbook for Micro and Small Enterprises
+- [Digital Purchase Paths.md](Digitaaliset ostopolut.md) - Digital Purchase Paths
+- [Digitalization Green Logistics.md](Digitaalisuus_vihreä_logistiikka.md) - Digitalization Green Logistics
+- [Ergonomics, Workplace Well-being and Safety.md](Ergonomia, työhyvinvointi ja työturvallisuus.md) - Ergonomics, Workplace Well-being and Safety
+- [Example Marketing Annual Calendar.md](Esimerkki markkinoinnin vuosikello.md) - Example Marketing Annual Calendar
+- [H10 General Partnership Agreement.md](H10_Avoimen_yhtion_yhtiosopimus.md) - H10 General Partnership Agreement
+- [H11 Limited Partnership Agreement.md](H11_Kommandiittiyhtion_yhtiosopimus.md) - H11 Limited Partnership Agreement
+- [H12 Limited Liability Company Articles of Association.md](H12_Osakeyhtion_yhtiojarjestys.md) - H12 Limited Liability Company Articles of Association
+- [H13 Beneficiary Protection Authorization.md](H13_Edunvalvontavaltuutus.md) - H13 Beneficiary Protection Authorization
+- [H16 SVOP Investment Agreement.md](H16_SVOP-sijoitussopimus.md) - H16 SVOP Investment Agreement
+- [H1 General Board Meeting Minutes.md](H1_Hallituksen_poytakirja_yleinen.md) - H1 General Board Meeting Minutes
+- [H2 Company Meeting Minutes.md](H2_Yhtiokokouksen_poytakirja.md) - H2 Company Meeting Minutes
+- [H3 Extraordinary Company Meeting Minutes.md](H3_Ylimaaraisen_yhtiokokouksen_poytakirja.md) - H3 Extraordinary Company Meeting Minutes
+- [H4 Board Meeting Minutes-Financial Statements.md](H4_Hallituksen_poytakirja-tilinpaatos.md) - H4 Board Meeting Minutes-Financial Statements
+- [H5 Business Plan for Starting Company.md](H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md) - H5 Business Plan for Starting Company
+- [H7 Commercial Premises Lease Agreement.md](H7_Liikehuoneiston_vuokrasopimus.md) - H7 Commercial Premises Lease Agreement
+- [H8 Termination of Lease Agreement.md](H8_Vuokrasopimuksen_purkaminen.md) - H8 Termination of Lease Agreement
+- [H9 Shareholder-Company Member Agreement.md](H9_Osakas-yhtiomiessopimus.md) - H9 Shareholder-Company Member Agreement
+- [Pricing.md](Hinnoittelu.md) - Pricing
+- [Profitability.md](Kannattavuus.md) - Profitability
+- [Practice Task Word Long Document File.md](Kertaustehtävä Word Pitkäasiakirja tiedosto.md) - Practice Task Word Long Document File
+- [Practice Task Word Long Document.md](Kertaustehtävä Word Pitkäasiakirja.md) - Practice Task Word Long Document
+- [L10 Subcontracting Agreement.md](L10_Alihankintasopimus.md) - L10 Subcontracting Agreement
+- [L12 Commission Agreement.md](L12_Toimeksiantosopimus.md) - L12 Commission Agreement
+- [L13 Sales Contract.md](L13_Kauppakirja.md) - L13 Sales Contract
+- [L14 Sales Contract Machines.md](L14_Kauppakirja_koneet.md) - L14 Sales Contract Machines
+- [Song about the Order.md](Laulu tilauksesta.md) - Song about the Order
+- [Business Documents 2 Offer.md](Liikeasiakirjat_2_Tarjous.md) - Business Documents 2 Offer
+- [Business Documents 3 Order.md](Liikeasiakirjat_3_Tilaus.md) - Business Documents 3 Order
+- [Business Documents 5 Invoice.md](Liikeasiakirjat_5_Lasku.md) - Business Documents 5 Invoice
+- [Clarifying the Business Idea Form.md](Liikeidean täsmentäminen_lomake.md) - Clarifying the Business Idea Form
+- [Business Plan Template 2025.md](Liiketoimintasuunnitelma_pohja_2025.md) - Business Plan Template 2025
+- [Logistics Cash Flows.md](Logistiikka_Rahavirrat.md) - Logistics Cash Flows
+- [Logistics Competitive Advantage Service Level.md](Logistiikka_kilpailuetu_palvelutaso.md) - Logistics Competitive Advantage Service Level
+- [Microsoft Forms Task.md](Microsoft Forms- tehtävä.md) - Microsoft Forms Task
+- [Am I an Entrepreneur Summary Autumn24-1.md](Minustako yrittäjä_tiivistelmä_syksy24-1.md) - Am I an Entrepreneur Summary Autumn24-1
+- [Sales-AIDA Model.md](Myynti-AIDA malli.md) - Sales-AIDA Model
+- [Demonstration Material Info.md](Näyttömateriaali_info.md) - Demonstration Material Info
+- [Oulu Region Leader, Business Support 12.3.2025 PSK .md](Oulun Seudun Leader, yritystuet 12.3.2025 PSK .md) - Oulu Region Leader, Business Support 12.3.2025 PSK
+- [PRH - Contribution in Kind _ PRH.md](PRH - Apportti _ PRH.md) - PRH - Contribution in Kind   PRH
+- [PRH - Publishing Documents in Another Language Than Finnish or Swedish _ PRH.md](PRH - Asiakirjojen julkistaminen muulla kielellä kuin suomeksi tai ruotsiksi _ PRH.md) - PRH - Publishing Documents in Another Language Than Finnish or Swedish   PRH
+- [PRH - Housing Company _ PRH.md](PRH - Asunto-osakeyhtiö _ PRH.md) - PRH - Housing Company   PRH
+- [PRH - General Partnership and Limited Partnership _ PRH.md](PRH - Avoin yhtiö ja kommandiittiyhtiö _ PRH.md) - PRH - General Partnership and Limited Partnership   PRH
+- [PRH - Beneficial Ownership Extract and Information Services _ PRH.md](PRH - Edunsaajaote ja tietopalvelut _ PRH.md) - PRH - Beneficial Ownership Extract and Information Services   PRH
+- [PRH - Authorized Representatives _ PRH.md](PRH - Edustamiseen oikeutetut _ PRH.md) - PRH - Authorized Representatives   PRH
+- [PRH - Example of a General Partnership Agreement _ PRH.md](PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md) - PRH - Example of a General Partnership Agreement   PRH
+- [PRH - Example of a Limited Partnership Agreement _ PRH.md](PRH - Esimerkki kommandiittiyhtiön yhtiösopimuksesta _ PRH.md) - PRH - Example of a Limited Partnership Agreement   PRH
+- [PRH - Example of Articles of Incorporation of a Limited Liability Company _ PRH.md](PRH - Esimerkki osakeyhtiön perustamissopimuksesta _ PRH.md) - PRH - Example of Articles of Incorporation of a Limited Liability Company   PRH
+- [PRH - Example of Articles of Incorporation of a Cooperative _ PRH.md](PRH - Esimerkki osuuskunnan perustamissopimuksesta _ PRH.md) - PRH - Example of Articles of Incorporation of a Cooperative   PRH
+- [PRH - Example of Articles of Association _ PRH.md](PRH - Esimerkki yhtiöjärjestyksestä _ PRH.md) - PRH - Example of Articles of Association   PRH
+- [PRH - Missing Personal Identity Code _ PRH.md](PRH - Henkilötunnuksen puuttuminen _ PRH.md) - PRH - Missing Personal Identity Code   PRH
+- [PRH - Mutual Real Estate Company _ PRH.md](PRH - Keskinäinen kiinteistöosakeyhtiö _ PRH.md) - PRH - Mutual Real Estate Company   PRH
+- [PRH - Who is the Beneficiary_ _ PRH.md](PRH - Kuka on edunsaaja_ _ PRH.md) - PRH - Who is the Beneficiary    PRH
+- [PRH - Permit for Those Permanently Residing Outside the EEA _ PRH.md](PRH - Lupa ETAn ulkopuolella pysyvästi asuville _ PRH.md) - PRH - Permit for Those Permanently Residing Outside the EEA   PRH
+- [PRH - Permit for Establishing a Branch Office _ PRH.md](PRH - Lupa sivuliikkeen perustamiseen _ PRH.md) - PRH - Permit for Establishing a Branch Office   PRH
+- [PRH - How Do You Make a Notification_ _ PRH.md](PRH - Miten teet ilmoituksen_ _ PRH.md) - PRH - How Do You Make a Notification    PRH
+- [PRH - Other Business Forms _ PRH.md](PRH - Muut yritysmuodot _ PRH.md) - PRH - Other Business Forms   PRH
+- [PRH - Guided Formation Package in YTJ Service _ PRH.md](PRH - Ohjattu perustamispaketti YTJ-palvelussa _ PRH.md) - PRH - Guided Formation Package in YTJ Service   PRH
+- [PRH - Limited Liability Company _ PRH.md](PRH - Osakeyhtiö _ PRH.md) - PRH - Limited Liability Company   PRH
+- [PRH - Cooperative _ PRH.md](PRH - Osuuskunta _ PRH.md) - PRH - Cooperative   PRH
+- [PRH - Paper Forms _ PRH.md](PRH - Paperilomakkeet _ PRH.md) - PRH - Paper Forms   PRH
+- [PRH - Formation Notification in YTJ Service _ PRH.md](PRH - Perustamisilmoitus YTJ-palvelussa _ PRH.md) - PRH - Formation Notification in YTJ Service   PRH
+- [PRH - Articles of Incorporation _ PRH.md](PRH - Perustamissopimus _ PRH.md) - PRH - Articles of Incorporation   PRH
+- [PRH - Interface for Software Companies _ PRH.md](PRH - Rajapinta ohjelmistoyrityksille _ PRH.md) - PRH - Interface for Software Companies   PRH
+- [PRH - Branch Office _ PRH.md](PRH - Sivuliike _ PRH.md) - PRH - Branch Office   PRH
+- [PRH - Electronic Signature in Trade Register Notifications _ PRH.md](PRH - Sähköinen allekirjoitus kaupparekisteri-ilmoituksissa _ PRH.md) - PRH - Electronic Signature in Trade Register Notifications   PRH
+- [PRH - End of Assignment and Notification of Own Resignation _ PRH.md](PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md) - PRH - End of Assignment and Notification of Own Resignation   PRH
+- [PRH - Processing of Financial Statements in the Trade Register _ PRH.md](PRH - Tilinpäätöksen käsittely kaupparekisterissä _ PRH.md) - PRH - Processing of Financial Statements in the Trade Register   PRH
+- [PRH - Supplementing Financial Statements _ PRH.md](PRH - Tilinpäätöksen täydennys _ PRH.md) - PRH - Supplementing Financial Statements   PRH
+- [PRH - Financial Statements Late _ PRH.md](PRH - Tilinpäätös myöhässä _ PRH.md) - PRH - Financial Statements Late   PRH
+- [PRH - Frequently Asked Questions for Companies _ PRH.md](PRH - Usein kysyttyä yrityksille _ PRH.md) - PRH - Frequently Asked Questions for Companies   PRH
+- [PRH - Articles of Association _ PRH.md](PRH - Yhtiöjärjestys _ PRH.md) - PRH - Articles of Association   PRH
+- [Powerpoint - SmartArt.md](Powerpoint - SmartArt.md) - Powerpoint - SmartArt
+- [Qt Group vision interview kit.md](Qt_Group_vision_interview_kit.md) - Qt Group vision interview kit
+- [Finance_12032025.md](Rahoitus_12032025.md) - Finance 12032025
+- [Satu Lankinen _ Digital Marketing _ Entrepreneurship AT _2025 05 13.md](Satu Lankinen _ Digimarkkinointia _ Yrittäjyyden AT _2025 05 13.md) - Satu Lankinen   Digital Marketing   Entrepreneurship AT  2025 05 13
+- [Electronic Business.md](Sähköinen liiketoiminta.md) - Electronic Business
+- [T2 Employment Contract .md](T2_Tyosopimus_.md) - T2 Employment Contract
+- [T4 Lay-off Notification-Lay-off Certificate.md](T4_Lomautusilmoitus-lomautustodistus.md) - T4 Lay-off Notification-Lay-off Certificate
+- [T5 Dismissal Notification.md](T5_Irtisanomisilmoitus.md) - T5 Dismissal Notification
+- [T6 Business Cooperation Confidentiality Agreement.md](T6_Yritysyhteistyon_salassapitosopimus.md) - T6 Business Cooperation Confidentiality Agreement
+- [T7 Business Transaction Confidentiality Agreement.md](T7_Yrityskaupan_salassapitosopimus.md) - T7 Business Transaction Confidentiality Agreement
+- [T8 Mutual Confidentiality Agreement.md](T8_Kahdenkeskinen_salassapitosopimus.md) - T8 Mutual Confidentiality Agreement
+- [Information Security and Privacy 1.md](Tietoturva ja tietosuoja 1.md) - Information Security and Privacy 1
+- [Degree Task Instructions .md](Tutkinto tehtävä ohje .md) - Degree Task Instructions
+- [Tools Productization YAT 22012025.md](Työkalut tuotteistaminen YAT 22012025.md) - Tools Productization YAT 22012025
+- [URNISBN9789523442719.md](URNISBN9789523442719.md) - URNISBN9789523442719
+- [New Business Center FI Formation Guide 2025 ready-digital.md](Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md) - New Business Center FI Formation Guide 2025 ready-digital
+- [V6 Security Document for Software Service Company.md](V6_Turvallisuusasiakirja_ohjelmapalveluyritykselle.md) - V6 Security Document for Software Service Company
+- [V7 Security Document for Services Containing Risks.md](V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md) - V7 Security Document for Services Containing Risks
+- [V9 Occupational Safety Action Program.md](V9_Tyosuojelun_toimintaohjelma.md) - V9 Occupational Safety Action Program
+- [Inventory Turnover NEW YAT.md](Varaston kierto_UUSI_YAT.md) - Inventory Turnover NEW YAT
+- [Word Long Document Instructions .md](Word Pitkäasiakirja ohje .md) - Word Long Document Instructions
+- [Word Long Document Task.md](Word Pitkäasiakirja tehtävä.md) - Word Long Document Task
+- [Word Long Document File Digital Photography.md](Word Pitkäasiakirja tiedosto Digitaalinen valokuvaus.md) - Word Long Document File Digital Photography
+- [YAT profitability solvency liquidity.md](YAT_kannattavuus_vakavaraisuus_maksuvalmius.md) - YAT profitability solvency liquidity
+- [YT10 Business Plan for Ongoing Business Lapua.md](YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md) - YT10 Business Plan for Ongoing Business Lapua
+- [YT1 Founder's Checklist Lapua.md](YT1_Yrityksen_perustajan_muistilista_Lapua.md) - YT1 Founder's Checklist Lapua
+- [YT2 Business Plan Invest Lapua.md](YT2_Liiketoimintasuunnitelma_Invest_Lapua.md) - YT2 Business Plan Invest Lapua
+- [YT3 Business Plan Lapua.md](YT3_Liiketoimintasuunnitelma_Lapua.md) - YT3 Business Plan Lapua
+- [YT9 Business Plan for Development Project Lapua.md](YT9_Liiketoimintasuunnitelma_kehittamishankkeeseen_Lapua.md) - YT9 Business Plan for Development Project Lapua
+- [Entrepreneur's Risk Management 25022025.md](Yrittäjän riskienhallinta 25022025.md) - Entrepreneur's Risk Management 25022025
+- [Establishing a Company Formation Procedures 2023.md](Yrityksen perustaminen perustemistoimet 2023.md) - Establishing a Company Formation Procedures 2023
+- [Business Forms and Taxation 2025.md](Yritysmuodot ja verotus 2025.md) - Business Forms and Taxation 2025
+- [Customer Service for Consumers.md](asiakaspalvelu kuluttajille.md) - Customer Service for Consumers
+- [Customer Service.md](asiakaspalvelu.md) - Customer Service
+- [Document Standard SFS 2487.md](asiakirjastandardi_SFS_2487.md) - Document Standard SFS 2487
+- [Budgeting.md](budjetointi.md) - Budgeting
+- [Supervisor Legislation.md](esihenkilöiden lainsäädäntö.md) - Supervisor Legislation
+- [Elements of Good Advertising.md](hyvän mainoksen elementtejä.md) - Elements of Good Advertising
+- [index.md](index.md) - index
+- [Business Idea Operating Model.md](liikeidea toimintamalli.md) - Business Idea Operating Model
+- [Startup Grant.md](starttiraha.md) - Startup Grant
+- [suomi fi establishing a company.md](suomi fi yrityksen perustaminen.md) - suomi fi establishing a company
+- [svea e-commerce study.md](svea verkkokauppatutkimus.md) - svea e-commerce study
+- [Financial Plan.md](taloussuunnitelma.md) - Financial Plan
+- [template.md](template.md) - template
+- [Productization Demonstration Tool.md](tuotteistamisen näyttötyökalu.md) - Productization Demonstration Tool
+- [Tools for Productization.md](työkaluja tuotteistamiseen.md) - Tools for Productization
+- [Labour Legislation.md](työlainsäädäntö.md) - Labour Legislation
+- [Employment Contract Act.md](työsopimuslaki.md) - Employment Contract Act
+- [Occupational Health Care Act.md](työterveyshuoltolaki.md) - Occupational Health Care Act
+- [Tax Information for New Entrepreneurs 2025.md](uuden_yrittajan_verotietoa_2025.md) - Tax Information for New Entrepreneurs 2025
+- [New Business Center.md](uusyrityskeskus.md) - New Business Center
+- [valuedefinition changesales 2022.md](valuedefinition_changesales_2022.md) - valuedefinition changesales 2022
+- [Company Formation Guide.md](yrityksen perustamisopas.md) - Company Formation Guide
+- [Corporate Customer Service.md](yritysasiakaspalvelu.md) - Corporate Customer Service
+- [Business Operations Planning.md](yritystoiminnan suunnittelu.md) - Business Operations Planning

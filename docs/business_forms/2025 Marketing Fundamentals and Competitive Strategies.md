@@ -1,99 +1,132 @@
-# Marketing Fundamentals and Competitive Strategies 2025
+# Marketing Basics and Competitive Strategies (2025)
 
-## Overview
-This document outlines fundamental marketing principles and competitive strategies for businesses in 2025. It provides guidance on how to develop effective marketing strategies and maintain competitive advantage in a rapidly evolving marketplace.
+This document compiles essential information about marketing fundamentals, competitive strategies (4P/7P), and marketing planning tools.
 
-## Key Marketing Fundamentals
+---
 
-### 1. Market Research
-- Understanding customer needs and preferences
-- Analyzing market trends and opportunities
-- Evaluating competitor strategies
-- Identifying target audience segments
+## 1. What is marketing?
 
-### 2. Brand Positioning
-- Defining unique value proposition
-- Creating consistent brand identity
-- Communicating brand message effectively
-- Building brand loyalty
+Marketing is not just advertising or individual campaigns, but rather a comprehensive process:
+- **Holistic approach:** Everything that is done in the company. It consists of service design, pricing, marketing communications, and availability.
+- **Definition:** A process of planning and implementing ideas into products, pricing them, communicating about them to markets, and organizing distribution.
+- **Interaction:** It involves human interaction with the aim of achieving transactions that meet the parties' objectives.
+- **Nature:** Marketing is an agile, lean endurance sport—not a sprint or reckless spending.
+- **Advertising vs. Marketing:** Advertising is paid visibility in media. Marketing is everything the company does to make the product sellable (every contact with the customer).
 
-### 3. Marketing Mix (4Ps)
-- Product: Developing offerings that meet customer needs
-- Price: Setting competitive and profitable prices
-- Place: Ensuring product availability through appropriate channels
-- Promotion: Communicating value to target customers
+---
 
-## Competitive Strategies
+## 2. Marketing Competitive Strategies: 7P Model
 
-### 1. Cost Leadership
-- Achieving lowest cost position in industry
-- Streamlining operations for efficiency
-- Leveraging economies of scale
+The traditional 4P model has expanded to the 7P model, which better considers service business:
 
-### 2. Differentiation
-- Creating unique value proposition
-- Innovating products/services
-- Building strong brand identity
+1. **Product/Service (Product):** Productization and service design.
+2. **Pricing (Price):** Market price vs. cost price.
+3. **Availability/Location (Place):** Logistics, accessibility, JIT (Just-On-Time), FIFO (First-In-First-Out).
+4. **Communication (Promotion):** To whom, with what message, with what tools and resources?
+5. **Service Environment (Physical evidence):** Physical and digital frameworks of the operating environment.
+6. **Personnel (People):** Competence and customer service.
+7. **Processes (Processes):** How the service is produced and delivered.
 
-### 3. Focus Strategy
-- Targeting specific market segments
-- Tailoring offerings to niche needs
-- Building deep customer relationships
+---
 
-## Digital Marketing Considerations
+## 3. Marketing Planning and Implementation
 
-### 1. Online Presence
-- Maintaining professional website
-- Active social media engagement
-- Search engine optimization
+### Business Description Steps
+1. **Market Area:** Where do we operate?
+2. **Potential Customers:** Who could buy?
+3. **Needs and Purchase Behavior:** What do customers want and why?
+4. **Segmentation:** Dividing customer groups.
+5. **Marketing Mix (7P):** Applying competitive strategies to target groups.
 
-### 2. Data-Driven Marketing
-- Using analytics to inform decisions
-- Personalizing customer experiences
-- Measuring campaign effectiveness
+### Process Before Actual Marketing
+1. Recognize and identify your expertise.
+2. Understand the customer's need and problem (finding solutions).
+3. Productization ("new beginning").
+4. Marketing (creating interest).
+5. Sales (€).
 
-## Implementation Guidelines
+---
 
-### 1. Budget Allocation
-- Allocate marketing budget based on channel effectiveness
-- Prioritize high-ROI activities
-- Maintain budget flexibility for opportunities
+## 4. Market Knowledge and Analysis
 
-### 2. Target Audience Alignment
-- Ensure all marketing messages align with target audience characteristics
-- Regularly review and update audience profiles
-- Test message effectiveness with audience segments
+### Threefold Division of Analyses
+- **Customer Analysis:** Understanding customers.
+- **Market Analysis:** Understanding market size and potential.
+- **Competitor Analysis:** Understanding competitors' strengths and weaknesses.
 
-### 3. Brand Consistency
-- Maintain consistent brand identity across all channels
-- Follow brand guidelines rigorously
-- Train team members on brand standards
+### Maslow's Hierarchy of Needs in Marketing
+Customers don't buy a product for its own sake, but to satisfy their needs:
+- **Functional Needs:** Specific purpose of use.
+- **Intervening Needs:** Satisfies another need (e.g., recognition, security).
 
-## Performance Measurement
+### Operating Environment Forces (Porter's Five Forces)
+- Industry competitors and current competition.
+- Threat of new entrants.
+- Threat of substitute products or services.
+- Buyers' influence.
+- Suppliers' influence.
 
-### 1. ROI Metrics
-- Define ROI metrics before campaign launch
-- Track cost per acquisition
-- Measure lifetime customer value
+---
 
-### 2. Competitive Monitoring
-- Monitor competitor activities weekly
-- Adjust strategies based on competitive moves
-- Identify market gaps and opportunities
+## 5. Pricing and Profitability
 
-## Constraints and Requirements
+### Factors Affecting Price
+- **Market Price:** What is the market willing to pay?
+- **Cost Price:** Labor cost, production value, or purchase price.
+- **Price Elasticity:** How does demand change with price changes?
 
-### 1. Budget Constraints
-- Marketing budget should not exceed 15% of projected revenue
-- Allocate minimum 30% to digital marketing channels
-- Reserve 10% for experimental campaigns
+### Case Example: Impact of Discount (Joki-Cruise Ltd)
+- **Situation:** 2000 cruises/month, price 100 €, variable costs 60 €/cruise.
+    - Contribution Margin: $2000 \times (100 - 60) = 80,000 \text{ €}$.
+- **Price reduction 10% (Price 90 €):**
+    - How much must be sold to maintain the same contribution margin ($80,000 \text{ €}$)?
+    - Equation: $90X - 60X = 80,000 \rightarrow 30X = 80,000 \rightarrow X = 2666.67$.
+    - **Result:** Sales must increase by 667 cruises (~33%) to maintain the same margin.
 
-### 2. Compliance Requirements
-- All marketing materials must comply with advertising regulations
-- Respect privacy laws in customer communications
-- Maintain transparency in promotional claims
+### Legislation (2023 Changes)
+- Discount marketing rules were updated (e.g., lowest price during the past 30 days must be disclosed).
+- Written confirmation required for phone sales.
 
-### 3. Timeline Requirements
-- Marketing strategies should be reviewed quarterly
-- Annual marketing plan must be submitted by January 15th
-- Campaign performance reports due monthly
+---
+
+## 6. Marketing Communications and Channels
+
+### Communication Stages
+1. **Preparatory Communication:** Creating awareness and familiarity, building brand image.
+2. **Business Transaction Communication:** Making offers, actual business.
+3. **Customer Relationship Communication:** Maintaining customer relationships, preserving satisfaction.
+
+### Communication Coverage Pyramid (Channels)
+- **Mass Media:** TV, radio, magazines.
+- **Online Communication:** WWW, FB, IG, TikTok, Google Ads, blogs.
+- **Targeted:** Direct mail, telemarketing.
+- **Meetings:** Trade shows, presentations, seminars.
+- **Personal:** Sales work.
+- **Efficiency Criterion:** Revenue received / money invested.
+
+### Ad Design (AIDA Model)
+- **Attention (A):** Attention.
+- **Interest (I):** Interest.
+- **Desire (D):** Purchase desire.
+- **Action (A):** Action.
+
+A good ad helps the customer: tells what the product is, what it looks like, what it costs, where to get it, and who it's intended for.
+
+---
+
+## 7. Event Marketing
+
+Events are effective for customer relationship management (e.g., trade shows, product launches, customer events).
+- **Criteria:**
+    1. Planned in advance.
+    2. Objective and target group defined.
+    3. Experientiality, emotional appeal, and interactivity are realized.
+
+---
+
+## 8. Monitoring and Summary
+
+Marketing requires continuous calculation and research:
+- **ROI:** Monitor return on investment and costs relative to benefits.
+- **Customer Experience:** Positive experiences and recommendations are tremendous power.
+- **Continuous Improvement:** Measure results and make small improvements continuously—this improves profitability and creates continuity.

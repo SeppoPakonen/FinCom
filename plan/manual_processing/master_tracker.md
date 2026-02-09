@@ -1,38 +1,31 @@
 # Master Tracker for Manual Documentation Processing
 
 ## Overview
-This file tracks the progress of manually processing all documentation files in the Finnish Business Operations Repository. Each file needs to be processed to add keywords, ECS elements, constraints, and search-engine metadata.
+This file tracks the progress of manually processing all English documentation files from the db_eng directory in the Finnish Business Operations Repository. Each file needs to be processed to add keywords, ECS elements, constraints, and search-engine metadata.
 
 ## Total Files to Process
-- **Total Documentation Files**: 492
-- **Already Processed**: 492 (all files including company_formation_example.md, company_finance_example.md, 2025 Marketing Fundamentals and Competitive Strategies.md, and all others)
-- **Remaining to Process**: 0
-- **Completion Rate**: 100%
+- **Total Documentation Files**: 675
+- **Already Processed**: 0
+- **Remaining to Process**: 675
+- **Completion Rate**: 0.0%
 
 ## Processing Status
-- **Not Started**: 0 files
+- **Not Started**: 675 files
 - **In Progress**: 0 files
-- **Completed**: 492 files
-
-## Files Already Processed
-All documentation files have been processed, including:
-1. `company_formation_example.md` - Completed
-2. `company_finance_example.md` - Completed
-3. `2025 Marketing Fundamentals and Competitive Strategies.md` - Completed
-4. All other files in the documentation repository
+- **Completed**: 0 files
 
 ## Progress Tracking
-Each file had a corresponding task file in `/plan/manual_processing/tasks/` directory that tracked its individual processing status.
+Each file has a corresponding task file in `/plan/manual_processing/tasks/` directory that tracks its individual processing status.
 
 ## Next Steps
-1. All documentation files have been processed
-2. All data structures have been validated
-3. All relationships have been established
-4. All metadata has been captured
-5. Ready for integration with search engine, constraint system, and ECS architecture
+1. Process remaining 675 documentation files systematically
+2. Update individual task files as each file is processed
+3. Update this master tracker periodically
+4. Generate processed data files in `processed_docs/` directory
+5. Ensure all data structures are properly validated
 
 ## Quality Assurance
-- All processed files have keywords, ECS elements, constraints, and metadata
-- Cross-verification between related documents completed
-- Validation of all data structures completed
-- Proper relationship mapping between elements completed
+- All processed files must have keywords, ECS elements, constraints, and metadata
+- Cross-verification between related documents
+- Validation of all data structures
+- Proper relationship mapping between elements

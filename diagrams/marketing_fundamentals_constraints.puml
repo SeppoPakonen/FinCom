@@ -5,6 +5,8 @@ title Marketing Fundamentals and Competitive Strategies - Constraint Relationshi
 package "Marketing Constraints" {
   class "Budget Allocation Constraint" as C1 {
     - Id: constraint_budget_allocation
+    - Title: Marketing Budget Allocation
+    - Description: Marketing budget should be allocated according to channel effectiveness and ROI
     - Type: FINANCIAL
     - Condition: budget_allocation_effectiveness_ratio > 0.7
     - Scope: marketing_budget
@@ -13,6 +15,8 @@ package "Marketing Constraints" {
 
   class "Target Audience Alignment Constraint" as C2 {
     - Id: constraint_target_audience_alignment
+    - Title: Target Audience Alignment
+    - Description: All marketing messages must align with defined target audience characteristics
     - Type: COMPLIANCE
     - Condition: message_audience_match_score >= 0.8
     - Scope: marketing_communication
@@ -21,6 +25,8 @@ package "Marketing Constraints" {
 
   class "Brand Consistency Constraint" as C3 {
     - Id: constraint_brand_consistency
+    - Title: Brand Consistency
+    - Description: All marketing materials must maintain consistent brand identity
     - Type: COMPLIANCE
     - Condition: brand_guideline_adherence_score >= 0.9
     - Scope: brand_management
@@ -29,6 +35,8 @@ package "Marketing Constraints" {
 
   class "ROI Measurement Constraint" as C4 {
     - Id: constraint_roi_measurement
+    - Title: ROI Measurement Requirement
+    - Description: Marketing campaigns must have measurable ROI metrics defined before launch
     - Type: COMPLIANCE
     - Condition: roi_metrics_defined == True
     - Scope: campaign_execution
@@ -37,6 +45,8 @@ package "Marketing Constraints" {
 
   class "Competitive Monitoring Constraint" as C5 {
     - Id: constraint_competitive_monitoring
+    - Title: Competitive Monitoring
+    - Description: Competitor activities should be monitored regularly to inform strategy adjustments
     - Type: PROCEDURAL
     - Condition: competitor_monitoring_frequency >= 'weekly'
     - Scope: competitive_intelligence
@@ -45,38 +55,34 @@ package "Marketing Constraints" {
 }
 
 C1 }|--{ C4 : "budget_roi_related"
-C2 }|--{ C3 : "brand_audience_related"
+C2 }|--{ C3 : "audience_brand_related"
 C3 }|--{ C2 : "consistency_alignment"
 C4 }|--{ C1 : "roi_budget_related"
 C5 }|--{ C2 : "monitoring_alignment"
 
 note bottom of C1
   Marketing budget should be
-  allocated according to channel
-  effectiveness and ROI
+  allocated based on ROI metrics
 end note
 
 note bottom of C2
   All marketing messages must
-  align with defined target
-  audience characteristics
+  align with target audience profile
 end note
 
 note bottom of C3
   All marketing materials must
-  maintain consistent brand identity
+  follow brand guidelines
 end note
 
 note bottom of C4
-  Marketing campaigns must have
-  measurable ROI metrics defined
-  before launch
+  Campaigns must have defined
+  ROI metrics before launch
 end note
 
 note bottom of C5
   Competitor activities should be
-  monitored regularly to inform
-  strategy adjustments
+  monitored regularly
 end note
 
 @enduml

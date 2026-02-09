@@ -1,0 +1,147 @@
+# Index for business_forms_templates
+
+## Description
+This directory contains 140 files related to business form templates. These files were organized from the processed directory based on their content and business function.
+
+## Files in this directory:
+
+- [00 Security and Privacy.md](00 Security and Privacy.md) - 00 Security and Privacy
+- [2025 Marketing Fundamentals and Competitive Strategies.md](2025 Marketing Fundamentals and Competitive Strategies.md) - 2025 Marketing Fundamentals and Competitive Strategies
+- [AB-Card.md](AB-Card.md) - AB-Card
+- [Assessment Form Working in Business Operations.md](Assessment Form Working in Business Operations.md) - Assessment Form Working in Business Operations
+- [Assessment Form Sales and Marketing.md](Assessment Form Sales and Marketing.md) - Assessment Form Sales and Marketing
+- [Assessment Form Planning and Starting Business Operations.md](Assessment Form Planning and Starting Business Operations.md) - Assessment Form Planning and Starting Business Operations
+- [Assessment Form Developing Products and Services.md](Assessment Form Developing Products and Services.md) - Assessment Form Developing Products and Services
+- [Customer Commitment.md](Customer Commitment.md) - Customer Commitment
+- [Canva Assignments.md](Canva Assignments.md) - Canva Assignments
+- [DNA Digital Life 2024_open_updated.md](DNA Digital Life 2024_open_updated.md) - DNA Digital Life 2024 open updated
+- [Digital Marketing.md](Digital Marketing.md) - Digital Marketing
+- [My Digital Environment.md](My Digital Environment.md) - My Digital Environment
+- [Digital Marketing Handbook for Micro and Small Enterprises.md](Digital Marketing Handbook for Micro and Small Enterprises.md) - Digital Marketing Handbook for Micro and Small Enterprises
+- [Digital Purchase Paths.md](Digital Purchase Paths.md) - Digital Purchase Paths
+- [Digitalization and Green Logistics.md](Digitalization and Green Logistics.md) - Digitalization and Green Logistics
+- [Ergonomics, Workplace Well-being and Occupational Safety.md](Ergonomics, Workplace Well-being and Occupational Safety.md) - Ergonomics, Workplace Well-being and Occupational Safety
+- [Example Marketing Year Clock.md](Example Marketing Year Clock.md) - Example Marketing Year Clock
+- [H10 Partnership Agreement for an Open Company.md](H10 Partnership Agreement for an Open Company.md) - H10 Partnership Agreement for an Open Company
+- [H11 Limited Partnership Agreement.md](H11 Limited Partnership Agreement.md) - H11 Limited Partnership Agreement
+- [H12 Articles of Association for a Limited Liability Company.md](H12 Articles of Association for a Limited Liability Company.md) - H12 Articles of Association for a Limited Liability Company
+- [H13 Power of Attorney for Guardianship.md](H13 Power of Attorney for Guardianship.md) - H13 Power of Attorney for Guardianship
+- [H16 SVOP Investment Agreement.md](H16 SVOP Investment Agreement.md) - H16 SVOP Investment Agreement
+- [H1 General Board Meeting Minutes.md](H1 General Board Meeting Minutes.md) - H1 General Board Meeting Minutes
+- [H2 Shareholders' Meeting Minutes.md](H2 Shareholders' Meeting Minutes.md) - H2 Shareholders' Meeting Minutes
+- [H3 Extraordinary Shareholders' Meeting Minutes.md](H3 Extraordinary Shareholders' Meeting Minutes.md) - H3 Extraordinary Shareholders' Meeting Minutes
+- [H4 Board Meeting Minutes - Financial Statements.md](H4 Board Meeting Minutes - Financial Statements.md) - H4 Board Meeting Minutes - Financial Statements
+- [H5 Business Plan for Starting Company.md](H5 Business Plan for Starting Company.md) - H5 Business Plan for Starting Company
+- [H7 Commercial Premises Lease Agreement.md](H7 Commercial Premises Lease Agreement.md) - H7 Commercial Premises Lease Agreement
+- [H8 Terminating a Lease Agreement.md](H8 Terminating a Lease Agreement.md) - H8 Terminating a Lease Agreement
+- [H9 Shareholder-Partnership Agreement.md](H9 Shareholder-Partnership Agreement.md) - H9 Shareholder-Partnership Agreement
+- [Pricing.md](Pricing.md) - Pricing
+- [Profitability.md](Profitability.md) - Profitability
+- [Practice Assignment Word Long Document File.md](Practice Assignment Word Long Document File.md) - Practice Assignment Word Long Document File
+- [Practice Assignment Word Long Document.md](Practice Assignment Word Long Document.md) - Practice Assignment Word Long Document
+- [L10 Subcontracting Agreement.md](L10 Subcontracting Agreement.md) - L10 Subcontracting Agreement
+- [L12 Commission Agreement.md](L12 Commission Agreement.md) - L12 Commission Agreement
+- [L13 Purchase Agreement.md](L13 Purchase Agreement.md) - L13 Purchase Agreement
+- [L14 Purchase Agreement Machines.md](L14 Purchase Agreement Machines.md) - L14 Purchase Agreement Machines
+- [Song for the Order.md](Song for the Order.md) - Song for the Order
+- [Business Documents_2_Offer.md](Business Documents_2_Offer.md) - Business Documents 2 Offer
+- [Business Documents_3_Order.md](Business Documents_3_Order.md) - Business Documents 3 Order
+- [Business Documents_5_Invoice.md](Business Documents_5_Invoice.md) - Business Documents 5 Invoice
+- [Clarifying the Business Idea Form.md](Clarifying the Business Idea Form.md) - Clarifying the Business Idea Form
+- [Business Plan Template 2025.md](Business Plan Template 2025.md) - Business Plan Template 2025
+- [Logistics_Cash Flows.md](Logistics_Cash Flows.md) - Logistics Cash Flows
+- [Logistics_Competitive Advantage and Service Level.md](Logistics_Competitive Advantage and Service Level.md) - Logistics Competitive Advantage and Service Level
+- [Microsoft Forms- Assignment.md](Microsoft Forms- Assignment.md) - Microsoft Forms- Assignment
+- [Am I an Entrepreneur Summary Autumn24-1.md](Am I an Entrepreneur Summary Autumn24-1.md) - Am I an Entrepreneur Summary Autumn24-1
+- [Sales-AIDA Model.md](Sales-AIDA Model.md) - Sales-AIDA Model
+- [Portfolio Material Info.md](Portfolio Material Info.md) - Portfolio Material Info
+- [Oulu Region Leader, Company Benefits 12.3.2025 PSK .md](Oulu Region Leader, Company Benefits 12.3.2025 PSK .md) - Oulu Region Leader, Company Benefits 12.3.2025 PSK
+- [PRH - Contribution in Kind _ PRH.md](PRH - Contribution in Kind _ PRH.md) - PRH - Contribution in Kind   PRH
+- [PRH - Publishing Documents in Another Language Than Finnish or Swedish _ PRH.md](PRH - Publishing Documents in Another Language Than Finnish or Swedish _ PRH.md) - PRH - Publishing Documents in Another Language Than Finnish or Swedish   PRH
+- [PRH - Housing Company _ PRH.md](PRH - Housing Company _ PRH.md) - PRH - Housing Company   PRH
+- [PRH - Open Company and Limited Partnership _ PRH.md](PRH - Open Company and Limited Partnership _ PRH.md) - PRH - Open Company and Limited Partnership   PRH
+- [PRH - Beneficial Owner Information and Information Services _ PRH.md](PRH - Beneficial Owner Information and Information Services _ PRH.md) - PRH - Beneficial Owner Information and Information Services   PRH
+- [PRH - Authorized Representatives _ PRH.md](PRH - Authorized Representatives _ PRH.md) - PRH - Authorized Representatives   PRH
+- [PRH - Example Partnership Agreement for an Open Company _ PRH.md](PRH - Example Partnership Agreement for an Open Company _ PRH.md) - PRH - Example Partnership Agreement for an Open Company   PRH
+- [PRH - Example Limited Partnership Agreement _ PRH.md](PRH - Example Limited Partnership Agreement _ PRH.md) - PRH - Example Limited Partnership Agreement   PRH
+- [PRH - Example Articles of Incorporation for a Limited Liability Company _ PRH.md](PRH - Example Articles of Incorporation for a Limited Liability Company _ PRH.md) - PRH - Example Articles of Incorporation for a Limited Liability Company   PRH
+- [PRH - Example Articles of Incorporation for a Cooperative _ PRH.md](PRH - Example Articles of Incorporation for a Cooperative _ PRH.md) - PRH - Example Articles of Incorporation for a Cooperative   PRH
+- [PRH - Example Articles of Association _ PRH.md](PRH - Example Articles of Association _ PRH.md) - PRH - Example Articles of Association   PRH
+- [PRH - Missing Personal Identity Code _ PRH.md](PRH - Missing Personal Identity Code _ PRH.md) - PRH - Missing Personal Identity Code   PRH
+- [PRH - Mutual Real Estate Company _ PRH.md](PRH - Mutual Real Estate Company _ PRH.md) - PRH - Mutual Real Estate Company   PRH
+- [PRH - Who is the Beneficial Owner_ _ PRH.md](PRH - Who is the Beneficial Owner_ _ PRH.md) - PRH - Who is the Beneficial Owner    PRH
+- [PRH - Permit for Person Living Permanently Outside the EEA _ PRH.md](PRH - Permit for Person Living Permanently Outside the EEA _ PRH.md) - PRH - Permit for Person Living Permanently Outside the EEA   PRH
+- [PRH - Permit for Establishing a Branch _ PRH.md](PRH - Permit for Establishing a Branch _ PRH.md) - PRH - Permit for Establishing a Branch   PRH
+- [PRH - How Do You Make a Notification_ _ PRH.md](PRH - How Do You Make a Notification_ _ PRH.md) - PRH - How Do You Make a Notification    PRH
+- [PRH - Other Business Forms _ PRH.md](PRH - Other Business Forms _ PRH.md) - PRH - Other Business Forms   PRH
+- [PRH - Guided Incorporation Package in YTJ Service _ PRH.md](PRH - Guided Incorporation Package in YTJ Service _ PRH.md) - PRH - Guided Incorporation Package in YTJ Service   PRH
+- [PRH - Limited Liability Company _ PRH.md](PRH - Limited Liability Company _ PRH.md) - PRH - Limited Liability Company   PRH
+- [PRH - Cooperative _ PRH.md](PRH - Cooperative _ PRH.md) - PRH - Cooperative   PRH
+- [PRH - Paper Forms _ PRH.md](PRH - Paper Forms _ PRH.md) - PRH - Paper Forms   PRH
+- [PRH - Incorporation Notification in YTJ Service _ PRH.md](PRH - Incorporation Notification in YTJ Service _ PRH.md) - PRH - Incorporation Notification in YTJ Service   PRH
+- [PRH - Articles of Incorporation _ PRH.md](PRH - Articles of Incorporation _ PRH.md) - PRH - Articles of Incorporation   PRH
+- [PRH - Interface for Software Companies _ PRH.md](PRH - Interface for Software Companies _ PRH.md) - PRH - Interface for Software Companies   PRH
+- [PRH - Branch _ PRH.md](PRH - Branch _ PRH.md) - PRH - Branch   PRH
+- [PRH - Electronic Signature in Trade Register Notifications _ PRH.md](PRH - Electronic Signature in Trade Register Notifications _ PRH.md) - PRH - Electronic Signature in Trade Register Notifications   PRH
+- [PRH - End of Assignment and Notification of Own Departure _ PRH.md](PRH - End of Assignment and Notification of Own Departure _ PRH.md) - PRH - End of Assignment and Notification of Own Departure   PRH
+- [PRH - Processing of Financial Statements in the Trade Register _ PRH.md](PRH - Processing of Financial Statements in the Trade Register _ PRH.md) - PRH - Processing of Financial Statements in the Trade Register   PRH
+- [PRH - Supplementing Financial Statements _ PRH.md](PRH - Supplementing Financial Statements _ PRH.md) - PRH - Supplementing Financial Statements   PRH
+- [PRH - Late Financial Statements _ PRH.md](PRH - Late Financial Statements _ PRH.md) - PRH - Late Financial Statements   PRH
+- [PRH - Frequently Asked Questions for Companies _ PRH.md](PRH - Frequently Asked Questions for Companies _ PRH.md) - PRH - Frequently Asked Questions for Companies   PRH
+- [PRH - Articles of Association _ PRH.md](PRH - Articles of Association _ PRH.md) - PRH - Articles of Association   PRH
+- [Powerpoint - SmartArt.md](Powerpoint - SmartArt.md) - Powerpoint - SmartArt
+- [Qt_Group_vision_interview_kit.md](Qt_Group_vision_interview_kit.md) - Qt Group vision interview kit
+- [Finance_12032025.md](Finance_12032025.md) - Finance 12032025
+- [Satu Lankinen _ Digital Marketing _ Entrepreneurship AT _2025 05 13.md](Satu Lankinen _ Digital Marketing _ Entrepreneurship AT _2025 05 13.md) - Satu Lankinen   Digital Marketing   Entrepreneurship AT  2025 05 13
+- [Electronic Business Operations.md](Electronic Business Operations.md) - Electronic Business Operations
+- [T2_Employment Contract_.md](T2_Employment Contract_.md) - T2 Employment Contract
+- [T4_Lay-off Notification-Lay-off Certificate.md](T4_Lay-off Notification-Lay-off Certificate.md) - T4 Lay-off Notification-Lay-off Certificate
+- [T5_Termination Notification.md](T5_Termination Notification.md) - T5 Termination Notification
+- [T6_Confidentiality Agreement for Business Cooperation.md](T6_Confidentiality Agreement for Business Cooperation.md) - T6 Confidentiality Agreement for Business Cooperation
+- [T7_Confidentiality Agreement for Business Transaction.md](T7_Confidentiality Agreement for Business Transaction.md) - T7 Confidentiality Agreement for Business Transaction
+- [T8_Mutual Confidentiality Agreement.md](T8_Mutual Confidentiality Agreement.md) - T8 Mutual Confidentiality Agreement
+- [Information Security and Data Protection 1.md](Information Security and Data Protection 1.md) - Information Security and Data Protection 1
+- [Degree Assignment Instructions .md](Degree Assignment Instructions .md) - Degree Assignment Instructions
+- [Tools for Productization YAT 22012025.md](Tools for Productization YAT 22012025.md) - Tools for Productization YAT 22012025
+- [URNISBN9789523442719.md](URNISBN9789523442719.md) - URNISBN9789523442719
+- [New Business Center FI Establishment Guide 2025 ready-digi.md](New Business Center FI Establishment Guide 2025 ready-digi.md) - New Business Center FI Establishment Guide 2025 ready-digi
+- [V6_Security Document for Software Service Company.md](V6_Security Document for Software Service Company.md) - V6 Security Document for Software Service Company
+- [V7_Security Document for Services Containing Risks.md](V7_Security Document for Services Containing Risks.md) - V7 Security Document for Services Containing Risks
+- [V9_Workplace Safety Action Plan.md](V9_Workplace Safety Action Plan.md) - V9 Workplace Safety Action Plan
+- [Inventory Turnover_NEW YAT.md](Inventory Turnover_NEW YAT.md) - Inventory Turnover NEW YAT
+- [Word Long Document Instructions .md](Word Long Document Instructions .md) - Word Long Document Instructions
+- [Word Long Document Assignment.md](Word Long Document Assignment.md) - Word Long Document Assignment
+- [Word Long Document File Digital Photography.md](Word Long Document File Digital Photography.md) - Word Long Document File Digital Photography
+- [YAT_Profitability Solvency and Liquidity.md](YAT_Profitability Solvency and Liquidity.md) - YAT Profitability Solvency and Liquidity
+- [YT10_Business Plan for Ongoing Business Lapua.md](YT10_Business Plan for Ongoing Business Lapua.md) - YT10 Business Plan for Ongoing Business Lapua
+- [YT1_Founder's Checklist Lapua.md](YT1_Founder's Checklist Lapua.md) - YT1 Founder's Checklist Lapua
+- [YT2_Business Plan Invest Lapua.md](YT2_Business Plan Invest Lapua.md) - YT2 Business Plan Invest Lapua
+- [YT3_Business Plan Lapua.md](YT3_Business Plan Lapua.md) - YT3 Business Plan Lapua
+- [YT9_Business Plan for Development Project Lapua.md](YT9_Business Plan for Development Project Lapua.md) - YT9 Business Plan for Development Project Lapua
+- [Entrepreneur's Risk Management 25022025.md](Entrepreneur's Risk Management 25022025.md) - Entrepreneur's Risk Management 25022025
+- [Establishing a Company Incorporation Procedures 2023.md](Establishing a Company Incorporation Procedures 2023.md) - Establishing a Company Incorporation Procedures 2023
+- [Business Forms and Taxation 2025.md](Business Forms and Taxation 2025.md) - Business Forms and Taxation 2025
+- [Customer Service for Consumers.md](Customer Service for Consumers.md) - Customer Service for Consumers
+- [Customer Service.md](Customer Service.md) - Customer Service
+- [Document Standard_SFS_2487.md](Document Standard_SFS_2487.md) - Document Standard SFS 2487
+- [Budgeting.md](Budgeting.md) - Budgeting
+- [Supervisor Legislation.md](Supervisor Legislation.md) - Supervisor Legislation
+- [Elements of Good Advertising.md](Elements of Good Advertising.md) - Elements of Good Advertising
+- [index.md](index.md) - index
+- [Business Idea Operating Model.md](Business Idea Operating Model.md) - Business Idea Operating Model
+- [Startup Grant.md](Startup Grant.md) - Startup Grant
+- [Suomi fi Establishing a Company.md](Suomi fi Establishing a Company.md) - Suomi fi Establishing a Company
+- [Svea Online Store Research.md](Svea Online Store Research.md) - Svea Online Store Research
+- [Financial Plan.md](Financial Plan.md) - Financial Plan
+- [template.md](template.md) - template
+- [Productization Tool.md](Productization Tool.md) - Productization Tool
+- [Tools for Productization.md](Tools for Productization.md) - Tools for Productization
+- [Labour Legislation.md](Labour Legislation.md) - Labour Legislation
+- [Employment Contract Act.md](Employment Contract Act.md) - Employment Contract Act
+- [Occupational Health Care Act.md](Occupational Health Care Act.md) - Occupational Health Care Act
+- [Tax Information for New Entrepreneurs 2025.md](Tax Information for New Entrepreneurs 2025.md) - Tax Information for New Entrepreneurs 2025
+- [New Business Center.md](New Business Center.md) - New Business Center
+- [Value Definition Change Sales 2022.md](Value Definition Change Sales 2022.md) - Value Definition Change Sales 2022
+- [Company Establishment Guide.md](Company Establishment Guide.md) - Company Establishment Guide
+- [Business Customer Service.md](Business Customer Service.md) - Business Customer Service
+- [Planning Business Operations.md](Planning Business Operations.md) - Planning Business Operations

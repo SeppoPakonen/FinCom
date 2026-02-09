@@ -2,8 +2,9 @@
 
 ## File Information
 - **File**: `2025 Markkinointi_perusteet_kilpailukeinot.md`
-- **Source Directory**: `/common/active/sblo/Dev/FinCom/docs`
-- **Status**: COMPLETED
+- **Source Directory**: `/common/active/sblo/Dev/Manager/DummyMusicCompany/db_eng/`
+- **Relative Path**: `business_forms_templates/2025 Markkinointi_perusteet_kilpailukeinot.md`
+- **Status**: Pending
 
 ## Processing Requirements
 Process this documentation file to add:
@@ -48,17 +49,16 @@ Process this documentation file to add:
 - Check for cross-references with other documents
 
 ## Notes
-- This file is part of the Finnish Business Operations Repository
+- This file is part of the Finnish Business Operations Repository (English version)
 - All processing should maintain Finnish business context while using English for system elements
 - Follow the same pattern as previously processed files
+- Ensure ECS elements properly represent the business concepts in the document
 
-## Completion Details
-- **Date Completed**: 2026-02-09
-- **Processor**: Manual Processing Script
-- **Output File**: `processed_docs/marketing_fundamentals_finnish_processed.json`
-- **Keywords Extracted**: 8
-- **Entities Identified**: 4
-- **Components Identified**: 3
-- **Systems Identified**: 2
-- **Constraints Extracted**: 5
-- **Metadata Added**: Yes
+## Next Steps
+1. Read and understand the content of `2025 Markkinointi_perusteet_kilpailukeinot.md`
+2. Extract relevant keywords with frequencies and relevance scores
+3. Identify entities, components, and systems in the document
+4. Extract any constraints or requirements mentioned
+5. Add appropriate metadata for search optimization
+6. Save processed data to JSON format
+7. Update this task file to COMPLETED status

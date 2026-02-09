@@ -1,8 +1,8 @@
 @startuml
 !theme plain
-title Marketing Fundamentals and Competitive Strategies ECS Architecture
+title Marketing Fundamentals and Competitive Strategies - ECS Architecture
 
-package "Marketing Fundamentals Domain" {
+package "Marketing Domain" {
   class "Marketing Team" as MT {
     + responsibilities: [market_research, campaign_development, brand_management]
     + skills_required: [analytical_thinking, creativity, communication]
@@ -82,11 +82,30 @@ MC ||--o{ MM : "delivers"
 MC ||--o{ TC : "connects"
 MC ||--o{ "Customer_Insights" : "generates"
 
-MSDP *-- MRD : "uses"
-MSDP *-- BI : "develops"
-MSDP *-- MM : "creates"
+MRD ||--o{ MSDP : "informs"
+MRD ||--o{ CAF : "feeds"
 
-CAF *-- MRD : "uses"
-CAF *-- Comp : "evaluates"
+BI ||--o{ MM : "defines"
+BI ||--o{ "Brand_Positioning" : "establishes"
+
+MM ||--o{ TC : "communicates_to"
+
+MSDP ||--o{ CAF : "includes"
+CAF ||--o{ Comp : "evaluates"
+
+note bottom of MT
+  Marketing team executes
+  marketing strategies
+end note
+
+note bottom of TC
+  Target customers receive
+  marketing messages
+end note
+
+note bottom of Comp
+  Competitors influence
+  strategic decisions
+end note
 
 @enduml
