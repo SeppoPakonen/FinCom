@@ -1,0 +1,50 @@
+/common/active/sblo/Dev/FinCom/docs/00 Security and Privacy for Entrepreneurs.md
+/common/active/sblo/Dev/FinCom/docs/2025 Marketing Fundamentals and Competitive Strategies.md
+/common/active/sblo/Dev/FinCom/docs/AB-Card.md
+/common/active/sblo/Dev/FinCom/docs/ABC of Working Life Rules and Obligations.md
+/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md
+/common/active/sblo/Dev/FinCom/docs/Articles of Association for a Housing Company to be Established.md
+/common/active/sblo/Dev/FinCom/docs/Articles of Association for a Limited Liability Company Template.md
+/common/active/sblo/Dev/FinCom/docs/Articles of Association for an Established Housing Company.md
+/common/active/sblo/Dev/FinCom/docs/Assessment Form Developing Products and Services.md
+/common/active/sblo/Dev/FinCom/docs/Assessment Form Planning and Starting Business Operations.md
+/common/active/sblo/Dev/FinCom/docs/Assessment Form Sales and Marketing.md
+/common/active/sblo/Dev/FinCom/docs/Assessment Form Working in Business Operations.md
+/common/active/sblo/Dev/FinCom/docs/Assignment My Digital Environment PowerPoint.md
+/common/active/sblo/Dev/FinCom/docs/Associations.md
+/common/active/sblo/Dev/FinCom/docs/Base Text Computer Driving License.md
+/common/active/sblo/Dev/FinCom/docs/Base Text Digital Photography.md
+/common/active/sblo/Dev/FinCom/docs/Baseline Analysis.md
+/common/active/sblo/Dev/FinCom/docs/Board Meeting Minutes Financial Statements.md
+/common/active/sblo/Dev/FinCom/docs/Bond Template.md
+/common/active/sblo/Dev/FinCom/docs/Budgeting as an Entrepreneur's Tool.md
+/common/active/sblo/Dev/FinCom/docs/budjetointi.md
+/common/active/sblo/Dev/FinCom/docs/Business Idea and Operating Model Strategic Checklist.md
+/common/active/sblo/Dev/FinCom/docs/Business Idea Form - DummyMusicCompany.md
+/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2025.md
+/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md
+/common/active/sblo/Dev/FinCom/docs/Business Plan Starting Business.md
+/common/active/sblo/Dev/FinCom/docs/Business Support Oulu Region Leader 2023-2027.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Canva Assignments.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Checklist Portfolio and Networking.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Clarifying the Business Idea Guide and Form.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Closing a Company and Notification of Cessation to the Trade Register.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Commercial Premises Lease Agreement Template.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Commission Agreement Template.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Company Change Notification to the Trade Register.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Company's Line of Business in the Trade Register.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Comparison Business Forms and Taxation 2025.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Customer Commitment Principles and Examples.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaaliset ostopolut.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalisuus_vihreä_logistiikka.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Handbook for Micro and Small Businesses.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Purchase Paths and Online Store Planning.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/DNA Digitaalinen elämä 2024_open_päivitetty.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/DNA Digital Life 2024 Research Report.md
+/common/active/sblo/Dev/FinCom/docs/business_forms/DNA Digital Life 2024 Updated.md
