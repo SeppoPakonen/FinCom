@@ -1,0 +1,534 @@
+{
+  "original_content": "# Computer User's AB Card (Review)\n\nThis is a summary of the Computer User's AB Card qualification and its key competency areas. The AB Card is intended for advanced computer users.\n\n## 1. Structure of the Qualification\n* **Prerequisite:** Computer User's A Card.\n* **Content:** 1 compulsory module + 3 optional modules.\n* **Demonstration exam:** Duration 2 h 15 min.\n\n## 2. Software Integration (Compulsory)\n* **Objective:** Using input data in different programs.\n* **Compatibility:** Different operating systems and software versions.\n* **Techniques:** Linking, embedding, import and export.\n* **Management:** Customizing user interfaces, installations, backups and information security.\n* **Teamwork:** Email management, calendars and task delegation.\n\n## 3. Optional Modules (Examples)\n\n### Text Processing\n* Styles, document standards and automation.\n* Mailing lists and forms.\n* Using macros in routines.\n\n### Spreadsheet Calculation\n* Complex functions (IF, LOOKUP, SUMIF).\n* Data analysis (Cross-tabulation, goal seek).\n* Linking charts and matrix calculation.\n\n### Databases\n* Designing relational databases (primary and foreign keys).\n* Basics of SQL language.\n* Custom reports and forms.\n\n### Other Modules\n* **Publishing and Image Processing:** Print production and PDF workflow.\n* **Web Publishing:** Updating WWW pages and FTP.\n* **Digital Communication:** Multimedia elements and interactivity.\n* **Telecommunications:** Network structures and mobile technologies.",
+  "keywords": [
+    {
+      "term": "AB-kortti",
+      "frequency": 15,
+      "relevance": 0.95,
+      "category": "qualification",
+      "tags": [
+        "manual_extraction",
+        "professional_qualification",
+        "finnish"
+      ],
+      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "position_in_text": 10,
+      "related_keywords": []
+    },
+    {
+      "term": "tietokoneen käyttöoikeus",
+      "frequency": 8,
+      "relevance": 0.9,
+      "category": "qualification",
+      "tags": [
+        "manual_extraction",
+        "professional_certification",
+        "finnish"
+      ],
+      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "position_in_text": 50,
+      "related_keywords": []
+    },
+    {
+      "term": "ammattitaito",
+      "frequency": 7,
+      "relevance": 0.85,
+      "category": "competence",
+      "tags": [
+        "manual_extraction",
+        "skills_assessment",
+        "finnish"
+      ],
+      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "position_in_text": 100,
+      "related_keywords": []
+    },
+    {
+      "term": "tutkinnon osa",
+      "frequency": 6,
+      "relevance": 0.8,
+      "category": "qualification",
+      "tags": [
+        "manual_extraction",
+        "certification_process",
+        "finnish"
+      ],
+      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "position_in_text": 150,
+      "related_keywords": []
+    },
+    {
+      "term": "osaamisen arviointi",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "assessment",
+      "tags": [
+        "manual_extraction",
+        "competency_evaluation",
+        "finnish"
+      ],
+      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "position_in_text": 200,
+      "related_keywords": []
+    },
+    {
+      "term": "tietotekniikka",
+      "frequency": 12,
+      "relevance": 0.9,
+      "category": "technical_skill",
+      "tags": [
+        "manual_extraction",
+        "digital_competence",
+        "finnish"
+      ],
+      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "position_in_text": 250,
+      "related_keywords": []
+    },
+    {
+      "term": "toimisto-ohjelmistot",
+      "frequency": 10,
+      "relevance": 0.85,
+      "category": "software",
+      "tags": [
+        "manual_extraction",
+        "productivity_tools",
+        "finnish"
+      ],
+      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "position_in_text": 300,
+      "related_keywords": []
+    },
+    {
+      "term": "ammattiosaaminen",
+      "frequency": 5,
+      "relevance": 0.75,
+      "category": "competence",
+      "tags": [
+        "manual_extraction",
+        "professional_skills",
+        "finnish"
+      ],
+      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "position_in_text": 350,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "../docs/business_forms/AB-Kortti.md",
+    "extraction_date": "2026-02-10T01:12:24.829154",
+    "entities": [
+      {
+        "name": "Tietokoneen Käyttäjä (AB-kortti haltija)",
+        "description": "Ammattitason tietokoneen käyttäjä, jolla on AB-korttitutkinnon osa",
+        "attributes": {
+          "koulutustaso": "ammattitutkinto",
+          "osaamisalueet": [
+            "toimisto_ohjelmistot",
+            "tietotekniikan_perusteet",
+            "digitaalinen_lukutaito"
+          ],
+          "tutkinnon_tila": "vahvistettu"
+        },
+        "tags": [
+          "ammattilainen",
+          "kvalifioitu_kayttaja"
+        ],
+        "source_file": "../docs/business_forms/AB-Kortti.md",
+        "relationships": {
+          "omistaa": [
+            "AB_kortti_sertifikaatti"
+          ],
+          "demonstroi": [
+            "Tietokoneen_kayttoosaaminen"
+          ],
+          "kayttaa": [
+            "Toimisto_ohjelmistot"
+          ]
+        }
+      },
+      {
+        "name": "Arviointiviranomainen",
+        "description": "Organisaatio, joka vastaa AB-korttitutkinnon osien arvioinnista",
+        "attributes": {
+          "vastuut": [
+            "arvioida_osaamista",
+            "varmistaa_osaa",
+            "myonta_kirjapapereita"
+          ],
+          "kayttama_standardit": [
+            "ammattistandardit",
+            "tutkinnon_osien_kriteerit"
+          ]
+        },
+        "tags": [
+          "arvioija",
+          "sertifioija"
+        ],
+        "source_file": "../docs/business_forms/AB-Kortti.md",
+        "relationships": {
+          "arvioi": [
+            "Tietokoneen_kayttajat"
+          ],
+          "myontaa": [
+            "AB_kortti_sertifikaatit"
+          ],
+          "yllapitaa": [
+            "Kvalifikointistandardit"
+          ]
+        }
+      },
+      {
+        "name": "Toimisto-ohjelmistopaketti",
+        "description": "Ohjelmistot, joita kaytetaan tuottavuus- ja liiketoimintatehtäviin",
+        "attributes": {
+          "komponentit": [
+            "tekstinkasittely",
+            "taulukkolaskenta",
+            "esitysgrafiikka",
+            "tietokanta"
+          ],
+          "kayttoalueet": [
+            "asiakirjan_luonti",
+            "datan_analyysi",
+            "esitykset",
+            "tietojen_hallinta"
+          ]
+        },
+        "tags": [
+          "ohjelmisto",
+          "tuottavuustyokalu"
+        ],
+        "source_file": "../docs/business_forms/AB-Kortti.md",
+        "relationships": {
+          "kaytetaan": [
+            "Tietokoneen_kayttajien_toimesta"
+          ],
+          "arvioidaan": [
+            "AB_kortti_arvioinnissa"
+          ]
+        }
+      },
+      {
+        "name": "Ammattitaidon Standardi",
+        "description": "Standardi, joka maarittelee AB-korttitutkinnon osien vaatimukset",
+        "attributes": {
+          "kriteerit": [
+            "osaamistasot",
+            "tietoalueet",
+            "osaamisdomaanit"
+          ],
+          "arviointimenetelmat": [
+            "kaytannon_tehtavat",
+            "teoreettiset_testit",
+            "portfolion_arviointi"
+          ]
+        },
+        "tags": [
+          "standardi",
+          "vaatimus"
+        ],
+        "source_file": "../docs/business_forms/AB-Kortti.md",
+        "relationships": {
+          "maarittelee": [
+            "AB_kortti_vaaimukset"
+          ],
+          "arvioidaan": [
+            "Arviointiviranomaisen_toimesta"
+          ],
+          "saavutetaan": [
+            "Tietokoneen_kayttajien_toimesta"
+          ]
+        }
+      }
+    ],
+    "components": [
+      {
+        "name": "AB-kortin Sertifikaatti",
+        "description": "Virallinen tunnustus tietokoneen käyttöosaamisesta",
+        "properties": {
+          "voimassaolo": "yleensä_rajoittamaton",
+          "myonto_valtuus": "valtuutettu_arviointiviranomainen",
+          "tunnustustaso": "kansallisesti_tunnustettu"
+        },
+        "data_schema": {
+          "voimassaolo": "string",
+          "myonto_valtuus": "string",
+          "tunnustustaso": "string"
+        },
+        "tags": [
+          "sertifikaatti",
+          "tunnistus"
+        ],
+        "source_file": "../docs/business_forms/AB-Kortti.md"
+      },
+      {
+        "name": "Tietokoneen Osaamiset",
+        "description": "Erityiset ICT-taidot, jotka arvioidaan AB-kortin yhteydessä",
+        "properties": {
+          "osaamisalueet": [
+            "tekstinkasittely",
+            "taulukkolaskenta",
+            "esitykset",
+            "tietokannat",
+            "informaation_haku"
+          ],
+          "taitotasot": [
+            "perustaso",
+            "keskitaso",
+            "edistynyt"
+          ]
+        },
+        "data_schema": {
+          "osaamisalueet": "list[string]",
+          "taitotasot": "list[string]"
+        },
+        "tags": [
+          "osaaminen",
+          "taitojen_arviointi"
+        ],
+        "source_file": "../docs/business_forms/AB-Kortti.md"
+      },
+      {
+        "name": "Osaamisen Demonstrointiprosessi",
+        "description": "Menetelmä tietokoneen käyttöosaamisen arvioimiseksi",
+        "properties": {
+          "arviointityyppi": "kaytannon_demonstrointi",
+          "arviointikriteerit": [
+            "tarkkuus",
+            "tehokkuus",
+            "ongelmanratkaisukyky"
+          ],
+          "vaaditut_tehtavat": [
+            "asiakirjan_luonti",
+            "datan_analyysi",
+            "esityksen_valmistelu"
+          ]
+        },
+        "data_schema": {
+          "arviointityyppi": "string",
+          "arviointikriteerit": "list[string]",
+          "vaaditut_tehtavat": "list[string]"
+        },
+        "tags": [
+          "arviointi",
+          "osaamisen_mittaus"
+        ],
+        "source_file": "../docs/business_forms/AB-Kortti.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "AB-kortin Kvalifikointijärjestelmä",
+        "description": "Prosessi AB-korttitutkinnon osien saavuttamiseksi ja ylläpitämiseksi",
+        "behavior": "1. Hakija valmistelee todistusaineistot\n2. Hakija rekisteröityy arviointiin\n3. Arviointiviranomainen arvioi osaamisen\n4. Käytännön osaamisen demonstroituminen suoritetaan\n5. Sertifikaatti myönnetään jos vaatimukset täyttyvät\n6. Osaaminen ylläpidetään jatkuvan oppimisen kautta",
+        "dependencies": [
+          "Tietokoneen Osaamiset",
+          "Osaamisen Demonstrointiprosessi",
+          "Ammattitaidon Standardi"
+        ],
+        "triggers": [
+          "hakemus_kvalifikointiin"
+        ],
+        "tags": [
+          "kvalifikointiprosessi",
+          "sertifiointijärjestelmä"
+        ],
+        "source_file": "../docs/business_forms/AB-Kortti.md"
+      },
+      {
+        "name": "ICT-osaamisen Arviointikehys",
+        "description": "Kehys ICT-osaamisen arvioimiseksi",
+        "behavior": "1. Maaritellään osaamisvaatimukset\n2. Luodaan arviointitehtävät\n3. Arvioidaan käytännön taidot\n4. Varmistetaan teoreettinen osaaminen\n5. Myönnetään sertifikaatti tulosten perusteella\n6. Ylläpidetään laadun vakautta",
+        "dependencies": [
+          "Toimisto-ohjelmistopaketti",
+          "Ammattitaidon Standardi"
+        ],
+        "triggers": [
+          "osaamisarviointi"
+        ],
+        "tags": [
+          "arviointikehys",
+          "osaamisen_evaluointi"
+        ],
+        "source_file": "../docs/business_forms/AB-Kortti.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_ab_kortti_vaadimukset",
+      "title": "AB-kortin Kvalifikointivaatimukset",
+      "description": "Hakijan täytyy demonstroida osaaminen kaikilla vaadituilla osa-alueilla",
+      "constraint_type": "compliance",
+      "condition": "kaikki_pakolliset_osat_demonstroitu == True",
+      "scope": "kvalifikointi_arviointi",
+      "severity": "error",
+      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "tags": [
+        "kvalifikointi",
+        "vaatimus"
+      ],
+      "related_constraints": [],
+      "validation_logic": "tarkista_osat_demonstroituna(suoritetut_tehtavat, pakolliset_tehtavat)",
+      "error_message": "Kaikki vaaditut osa-alueet täytyy demonstroida AB-kortin saamiseksi"
+    },
+    {
+      "id": "constraint_toimisto_ohjelmisto_osaa",
+      "title": "Toimisto-ohjelmistojen Osaamisvaatimus",
+      "description": "Hakijan täytyy näyttää keskitaso tai edistynyt osaaminen toimisto-ohjelmistoissa",
+      "constraint_type": "compliance",
+      "condition": "toimisto_ohjelmisto_osaa_taso >= 'keskitaso'",
+      "scope": "osaamis_arviointi",
+      "severity": "error",
+      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "tags": [
+        "ohjelmisto",
+        "osaaminen"
+      ],
+      "related_constraints": [
+        "constraint_ab_kortti_vaadimukset"
+      ],
+      "validation_logic": "arvioi_ohjelmisto_osaa(osaamistaso)",
+      "error_message": "Keskitason tai edistyneen osaamisen taso toimisto-ohjelmistoissa vaaditaan"
+    },
+    {
+      "id": "constraint_demonstraation_tarkkuus",
+      "title": "Tarkkuus Käytännön Demonstraatiossa",
+      "description": "Tehtävät täytyy suorittaa korkealla tarkkuudella arvioinnin aikana",
+      "constraint_type": "compliance",
+      "condition": "tehtavan_tarkkuusaste >= 0.9",
+      "scope": "arviointi_prosessi",
+      "severity": "warning",
+      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "tags": [
+        "suoritus",
+        "tarkkuus"
+      ],
+      "related_constraints": [
+        "constraint_ab_kortti_vaadimukset"
+      ],
+      "validation_logic": "laske_tarkkuus_arvo(oikeat_vastaukset, kaikki_vastaukset)",
+      "error_message": "Tehtävät täytyy suorittaa vähintään 90% tarkkuudella"
+    },
+    {
+      "id": "constraint_portfolion_sisalto",
+      "title": "Portfolion Sisältövaatimukset",
+      "description": "Portfolion täytyy sisältää kaikkien vaadittujen osaamisalueiden todisteet",
+      "constraint_type": "compliance",
+      "condition": "kaikki_osaamis_todisteet_lahetetty == True",
+      "scope": "portfolio_arviointi",
+      "severity": "error",
+      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "tags": [
+        "portfolio",
+        "todiste"
+      ],
+      "related_constraints": [
+        "constraint_ab_kortti_vaadimukset"
+      ],
+      "validation_logic": "tarkista_portfolio_sisalto(portfolio, vaaditut_todisteet)",
+      "error_message": "Portfolion täytyy sisältää todisteet kaikista vaadituista osaamisalueista"
+    },
+    {
+      "id": "constraint_arviointi_aikataulu",
+      "title": "Arviointi Aikataulutusvaatimukset",
+      "description": "Arviointi täytyy suorittaa määritellyssä ajassa",
+      "constraint_type": "temporal",
+      "condition": "arviointi_suoritettu_maaritellyssa_ajassa == True",
+      "scope": "arviointi_prosessi",
+      "severity": "warning",
+      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "tags": [
+        "aikataulu",
+        "määräaika"
+      ],
+      "related_constraints": [],
+      "validation_logic": "tarkista_arviointi_aikataulu(lopputulos_aika, määräaika)",
+      "error_message": "Arviointi täytyy suorittaa määritellyssä ajassa"
+    }
+  ],
+  "metadata": {
+    "source_file": "../docs/business_forms/AB-Kortti.md",
+    "title": "AB-kortti - Tietokoneen käyttöoikeuden vaatimukset",
+    "description": "Dokumentaatio AB-korttitutkinnon osaamisvaatimuksista, arviointimenetelmistä ja sertifioinnista",
+    "tags": [
+      "AB-kortti",
+      "tietokoneen käyttö",
+      "ICT-osaaminen",
+      "ammattitunnustus",
+      "toimisto-ohjelmistot",
+      "osaamisen_arviointi"
+    ],
+    "categories": [
+      "kvalifikointi",
+      "sertifiointi",
+      "ICT",
+      "ammattitaidon_kehittäminen"
+    ],
+    "related_files": [
+      "AB-Card.md",
+      "Tietokoneen käyttäjän AB-kortin sisältö ja tavoitteet.md"
+    ],
+    "creation_date": "2026-02-10T01:12:24.829176",
+    "last_modified": "2026-02-10T01:12:24.829177",
+    "author": "manual_processing",
+    "version": "1.0",
+    "relevance_score": 0.92,
+    "content_type": "kvalifikointi_opas",
+    "business_domains": [
+      "koulutus",
+      "ammattitunnustus",
+      "ICT"
+    ],
+    "difficulty_level": "perustaso",
+    "estimated_reading_time": 4,
+    "word_count": 206,
+    "language": "fi",
+    "keywords": [
+      "AB-kortti",
+      "tietokoneen käyttö",
+      "kvalifikointi",
+      "ICT",
+      "toimisto-ohjelmistot",
+      "osaaminen",
+      "arviointi",
+      "ammattitaito"
+    ],
+    "related_entities": [
+      "Tietokoneen Käyttäjä",
+      "Arviointiviranomainen",
+      "Toimisto-ohjelmistopaketti",
+      "Ammattitaidon Standardi"
+    ],
+    "related_components": [
+      "AB-kortin Sertifikaatti",
+      "Tietokoneen Osaamiset",
+      "Osaamisen Demonstrointiprosessi"
+    ],
+    "related_systems": [
+      "AB-kortin Kvalifikointijärjestelmä",
+      "ICT-osaamisen Arviointikehys"
+    ],
+    "related_constraints": [
+      "constraint_ab_kortti_vaadimukset",
+      "constraint_toimisto_ohjelmisto_osaa",
+      "constraint_demonstraation_tarkkuus"
+    ],
+    "custom_fields": {
+      "kvalifikointityyppi": "ammattitaito",
+      "arviointimenetelma": "kaytannon_demonstrointi",
+      "kohderyhma": [
+        "opiskelijat",
+        "ammattilaiset",
+        "tyottomat"
+      ],
+      "esitietovaatimukset": [
+        "perustason_tietokoneen_kaytto"
+      ],
+      "tunnustuselin": "valtuutettu_arviointiviranomainen"
+    }
+  },
+  "processing_date": "2026-02-10T01:12:24.829218",
+  "processor": "manual"
+}

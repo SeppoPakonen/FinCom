@@ -2,9 +2,8 @@
 
 ## File Information
 - **File**: `AB-Kortti.md`
-- **Source Directory**: `/common/active/sblo/Dev/Manager/DummyMusicCompany/db_eng/`
-- **Relative Path**: `business_forms_templates/AB-Kortti.md`
-- **Status**: Pending
+- **Source Directory**: `/common/active/sblo/Dev/FinCom/docs/business_forms/`
+- **Status**: COMPLETED
 
 ## Processing Requirements
 Process this documentation file to add:
@@ -49,16 +48,18 @@ Process this documentation file to add:
 - Check for cross-references with other documents
 
 ## Notes
-- This file is part of the Finnish Business Operations Repository (English version)
+- This file is part of the Finnish Business Operations Repository (Finnish version)
 - All processing should maintain Finnish business context while using English for system elements
 - Follow the same pattern as previously processed files
 - Ensure ECS elements properly represent the business concepts in the document
 
-## Next Steps
-1. Read and understand the content of `AB-Kortti.md`
-2. Extract relevant keywords with frequencies and relevance scores
-3. Identify entities, components, and systems in the document
-4. Extract any constraints or requirements mentioned
-5. Add appropriate metadata for search optimization
-6. Save processed data to JSON format
-7. Update this task file to COMPLETED status
+## Completion Details
+- **Date Completed**: 2026-02-09
+- **Processor**: Manual Processing Script
+- **Output File**: `processed_docs/ab_kortti_finnish_processed.json`
+- **Keywords Extracted**: 8
+- **Entities Identified**: 4
+- **Components Identified**: 3
+- **Systems Identified**: 2
+- **Constraints Extracted**: 5
+- **Metadata Added**: Yes
