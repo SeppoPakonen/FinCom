@@ -1,0 +1,113 @@
+@startuml
+!theme plain
+title Constraint Relationships Between Company Formation and Finance
+
+package "Company Formation Constraints" {
+  class "Minimum Share Capital Requirement" as C1 {
+    - Id: constraint_min_share_capital
+    - Type: FINANCIAL
+    - Condition: share_capital >= 2,500
+    - Scope: company_registration
+    - Severity: CRITICAL
+  }
+
+  class "Finnish Registered Office Address Required" as C2 {
+    - Id: constraint_registered_office_address
+    - Type: COMPLIANCE
+    - Condition: registered_office_address.country == 'Finland'
+    - Scope: company_registration
+    - Severity: CRITICAL
+  }
+
+  class "Finnish Resident Director Required" as C3 {
+    - Id: constraint_director_residency
+    - Type: COMPLIANCE
+    - Condition: any(director.resident_of == 'Finland' for director in directors)
+    - Scope: company_governance
+    - Severity: CRITICAL
+  }
+
+  class "VAT Registration Threshold" as C4 {
+    - Id: constraint_vat_registration_turnover
+    - Type: REGULATORY
+    - Condition: annual_turnover > 10,000
+    - Scope: tax_obligation
+    - Severity: WARNING
+  }
+
+  class "Annual Financial Statements Filing" as C5 {
+    - Id: constraint_annual_filing
+    - Type: COMPLIANCE
+    - Condition: annual_filing_required == True
+    - Scope: compliance_reporting
+    - Severity: ERROR
+  }
+}
+
+package "Company Finance Constraints" {
+  class "Annual Financial Statements Filing (Finance)" as C6 {
+    - Id: constraint_annual_financial_statements
+    - Type: COMPLIANCE
+    - Condition: annual_financial_statements_filed == True
+    - Scope: compliance_reporting
+    - Severity: ERROR
+  }
+
+  class "Auditing Requirements" as C7 {
+    - Id: constraint_auditing_requirements
+    - Type: COMPLIANCE
+    - Condition: revenue <= 800000 or (revenue > 800000 and audit_conducted == True)
+    - Scope: compliance_verification
+    - Severity: WARNING
+  }
+
+  class "Directors Liability for Unpaid Taxes" as C8 {
+    - Id: constraint_directors_liability
+    - Type: COMPLIANCE
+    - Condition: taxes_paid == True or director_liability_acknowledged == True
+    - Scope: governance
+    - Severity: CRITICAL
+  }
+
+  class "VAT Registration Threshold (Finance)" as C9 {
+    - Id: constraint_vat_registration
+    - Type: REGULATORY
+    - Condition: annual_turnover <= 10000 or vat_registration_completed == True
+    - Scope: tax_obligation
+    - Severity: ERROR
+  }
+
+  class "Corporate Tax Rate" as C10 {
+    - Id: constraint_corporate_tax_rate
+    - Type: REGULATORY
+    - Condition: corporate_tax_rate == 0.20
+    - Scope: tax_calculation
+    - Severity: INFO
+  }
+}
+
+C1 }|--{ C2 : "related_to"
+C1 }|--{ C3 : "related_to"
+C4 }|--{ C9 : "same_requirement"
+C5 }|--{ C6 : "same_requirement"
+C4 }|--{ C10 : "tax_related"
+C8 }|--{ C3 : "governance_related"
+C7 }|--{ C5 : "compliance_related"
+C7 }|--{ C6 : "compliance_related"
+
+note bottom of C1
+  Minimum share capital must be
+  deposited before registration
+end note
+
+note bottom of C6
+  Annual financial statements
+  must be filed with PRH
+end note
+
+note bottom of C9
+  VAT registration required
+  if turnover exceeds €10,000
+end note
+
+@enduml

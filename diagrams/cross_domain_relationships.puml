@@ -1,0 +1,47 @@
+@startuml
+!theme plain
+title Cross-Domain Data Element Relationships
+
+package "Company Formation Data" {
+  component "Keywords" as FK
+  component "Entities" as FE
+  component "Components" as FC
+  component "Systems" as FS
+  component "Constraints" as FCN
+}
+
+package "Company Finance Data" {
+  component "Keywords" as SK
+  component "Entities" as SE
+  component "Components" as SC
+  component "Systems" as SS
+  component "Constraints" as SCN
+}
+
+FK ||--|| SK : "related_keywords"
+FE ||--|| SE : "shared_entities"
+FC ||--|| SC : "similar_components"
+FS ||--|| SS : "related_systems"
+FCN ||--|| SCN : "shared_constraints"
+
+note top of FK
+  Keywords extracted from
+  company formation document
+end note
+
+note top of SK
+  Keywords extracted from
+  company finance document
+end note
+
+note bottom of SE
+  Same entity type (Oy) with
+  extended attributes in finance
+end note
+
+note bottom of SCN
+  Similar constraints with
+  different IDs but same purpose
+end note
+
+@enduml

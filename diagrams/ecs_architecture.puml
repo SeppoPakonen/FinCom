@@ -1,0 +1,146 @@
+@startuml
+!theme plain
+title ECS Architecture for Finnish Company Formation and Finance
+
+package "Company Formation Domain" {
+  class "Limited Liability Company (Oy)" as Oy1 {
+    + minimum_share_capital: €2,500
+    + shareholders_required: 1
+    + registered_office_required: True
+    + finnish_director_resident_required: True
+  }
+
+  class "Shareholder" as SH1 {
+    + voting_rights: proportional to shares held
+    + liability: limited to investment amount
+  }
+
+  class "Director" as Dir1 {
+    + residency_requirement: Must be Finnish resident
+    + fiduciary_duty: True
+  }
+
+  class "Patent and Registration Office (PRH)" as PRH {
+    + responsibility: Company registration and record keeping
+    + jurisdiction: Finland
+  }
+
+  class "Share Capital" as SC1 {
+    + amount: €2,500 minimum
+    + currency: EUR
+    + requirement: Must be deposited before registration
+  }
+
+  class "Articles of Association" as AA1 {
+    + purpose: Define company's purpose and governance
+    + required: True
+    + content: [Company name, Purpose, Share structure, Governance rules]
+  }
+
+  class "Registered Office Address" as ROA1 {
+    + requirement: True
+    + location: Must be in Finland
+    + purpose: Official correspondence address
+  }
+
+  class "Company Registration Process" as CRP {
+    + behavior: 1. Prepare Articles of Association
+    + behavior: 2. Deposit minimum share capital
+    + behavior: 3. Submit registration to Patent and Registration Office (PRH)
+    + behavior: 4. Await confirmation (typically 2-3 weeks)
+  }
+}
+
+package "Company Finance Domain" {
+  class "Finnish Limited Liability Company (Oy)" as Oy2 {
+    + tax_obligations: [corporate_tax, vat, payroll_tax]
+    + reporting_requirements: [annual_financial_statements]
+    + auditing_requirements: if_revenue_over_800k_eur
+  }
+
+  class "Tax Administration" as TA {
+    + responsibilities: [collect_corporate_tax, manage_vat_system, process_tax_returns]
+    + jurisdiction: Finland
+  }
+
+  class "Employees" as Emp {
+    + tax_implications: [payroll_taxes, social_security_contributions]
+    + reporting_requirements: [employment_details]
+  }
+
+  class "Auditors" as Aud {
+    + requirement: if_company_meets_certain_size_criteria
+    + responsibility: verify_accuracy_of_financial_statements
+  }
+
+  class "Accounting Records" as AR {
+    + requirement: Mandatory for all companies
+    + retention_period: 7 years
+    + content: [income, expenses, assets, liabilities]
+  }
+
+  class "Annual Financial Statements" as AFS {
+    + deadline: by certain date following fiscal year
+    + required_for: all_companies
+    + content: [balance_sheet, income_statement, notes]
+  }
+
+  class "Transaction Records" as TR {
+    + requirement: Mandatory for tax purposes
+    + detail_level: sufficient_to_verify_income_and_expenses
+    + format: can_be_electronic_or_paper
+  }
+
+  class "Financial Reporting System" as FRS {
+    + behavior: 1. Record all financial transactions
+    + behavior: 2. Maintain proper accounting records
+    + behavior: 3. Prepare annual financial statements
+    + behavior: 4. File statements with PRH
+    + behavior: 5. Conduct audit if required
+  }
+
+  class "Tax Compliance System" as TCS {
+    + behavior: 1. Calculate corporate tax (20% of profits)
+    + behavior: 2. Register for VAT if turnover > €10,000 annually
+    + behavior: 3. Calculate and pay payroll taxes for employees
+    + behavior: 4. File tax returns on schedule
+    + behavior: 5. Maintain tax documentation
+  }
+}
+
+Oy1 ||--o{ SH1 : "has"
+Oy1 ||--o{ Dir1 : "managed_by"
+Oy1 ||--|| PRH : "registered_with"
+
+SH1 ||--o{ Oy1 : "owns_shares_in"
+Dir1 ||--o{ Oy1 : "manages"
+
+Oy1 ||--|| SC1 : "has"
+Oy1 ||--|| AA1 : "defined_by"
+Oy1 ||--|| ROA1 : "located_at"
+
+CRP *-- SC1 : "requires"
+CRP *-- AA1 : "requires"
+CRP *-- ROA1 : "requires"
+
+Oy2 ||--o{ TA : "pays_taxes_to"
+Oy2 ||--o{ Emp : "employs"
+Oy2 ||--o{ Aud : "audited_by"
+
+TA ||--o{ Oy2 : "collects_from"
+Emp ||--o{ Oy2 : "paid_by"
+Aud ||--o{ Oy2 : "audits"
+
+Oy2 ||--|| AR : "maintains"
+Oy2 ||--|| AFS : "files"
+Oy2 ||--|| TR : "generates"
+
+FRS *-- AR : "uses"
+FRS *-- AFS : "produces"
+FRS *-- TR : "based_on"
+
+TCS *-- AFS : "uses"
+TCS *-- AR : "reviews"
+TCS *-- TR : "reviews"
+
+@enduml
