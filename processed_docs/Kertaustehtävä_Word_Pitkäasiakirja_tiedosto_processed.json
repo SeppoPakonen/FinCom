@@ -1,0 +1,168 @@
+{
+  "original_content": "# Tietokoneen käyttäjän AB-kortti: Tutkinnon sisältö ja tavoitteet\n\nTämä asiakirja määrittelee ICT-alan ammattitutkinnon osana olevan AB-kortin moduulikohtaiset tavoitteet ja keskeiset sisällöt.\n\n---\n\n## 1. Yleiskuvaus\nTutkinto antaa valmiudet tietotekniikan tehokkaaseen hyödyntämiseen työelämässä. Se soveltuu työssäkäyvän väestön jatkokoulutukseksi A-kortin jälkeen.\n- **Rakenne:** 1 pakollinen ja 3 valinnaista moduulia.\n- **Näyttökoe:** 2 t 15 min.\n\n---\n\n## 2. Tietokoneohjelmien yhteiskäyttö ja tietojen jakaminen (PAK.)\n\n### Tavoitteet\n- Kerran syötetyn tiedon monipuolinen hyödyntäminen eri ohjelmissa.\n- Tiedostomuotojen, tiedonsiirtotapojen (linkitys, upotus) ja ryhmäohjelmien (sähköposti, kalenteri) hallinta.\n- Työaseman ylläpito, suojaus ja varmistukset.\n\n### Keskeinen sisältö\n- **Käyttöjärjestelmä:** Mukauttaminen, verkkoasemat, asennukset, tulostusjonot.\n- **Tiedonsiirto:** Linkittäminen, upottaminen, tuonti/vienti, valmiit liittymät.\n- **Toimistotyökalut:** Kuva-arkistot, kaavaeditorit, grafiikka.\n- **Ryhmäohjelmat:** Sähköpostin asetukset, arkistointi, reaaliaikainen viestintä, ajanhallinta (kalenterit, tehtäväluettelot).\n\n---\n\n## 3. Tekstinkäsittely (Valinnainen)\n\n### Tavoitteet\n- Yrityksen yhtenäisten asiakirjamallien (pohjien) ja lomakkeiden luonti.\n- Monisivuisten ja pitkien asiakirjojen hallinta (sisällysluettelot, hakemistot, tyylit).\n\n### Keskeinen sisältö\n- **Muotoilu:** Tyylit, asiakirjastandardit, palstoitus, jakaminen.\n- **Automatisointi:** Yhdistelytoiminnot (joukkokirjeet, tarrat), makrot, taulukot.\n\n---\n\n## 4. Taulukkolaskenta (Valinnainen)\n\n### Tavoitteet\n- Laskentamallien laatiminen, analysointi ja tulosten visualisointi.\n- Edistyneiden funktioiden ja makrojen käyttö.\n\n### Keskeinen sisältö\n- **Kaaviot:** Laadinta, muokkaus ja linkitys muihin ohjelmiin.\n- **Funktiot:** Min, Max, Keskiarvo, Jos, Summajos, Laskejos, LaskeA, Haku, Kalenteri ja Rahoitus.\n- **Analyysi:** Tavoitteen haku, suodatus, ristiintaulukointi, matriisilaskenta, ehdollinen muotoilu.\n\n---\n\n## 5. Tietokannat (Valinnainen)\n\n### Tavoitteet\n- Relaatiotietokantojen suunnittelu, luonti ja tiedon oikeellisuuden varmistaminen.\n- Räätälöityjen lomakkeiden, raporttien ja kyselyjen toteutus.\n\n### Keskeinen sisältö\n- **Rakenne:** Usean taulukon relaatiot, perus- ja viiteavaimet, viite-eheys.\n- **Kyselyt:** JA/TAI-logiikka, haku-, päivitys-, poisto- ja parametrinen kysely. SQL-kielen hyödyntäminen.\n- **Automatisointi:** Makrot, ohjelmakoodi, alasvetovalikot.\n\n---\n\n## 6. Julkaisu ja kuvankäsittely (Valinnainen)\n\n### Tavoitteet\n- Painotuotteiden tuottaminen (tekstin ja kuvan sovitus).\n- Kuvien editointi ja optimointi eri julkaisukanaviin.\n\n### Keskeinen sisältö\n- **Teoria:** Painoprosessi, tallennusmuodot (PDF), tekijänoikeudet, skannaus.\n- **Käytäntö:** Arkin määrittely, tekstin juoksutus, piirtotyökalut, värihallinta, suodattimet.\n\n---\n\n## 7. Verkkojulkaisun hallinta (Valinnainen)\n\n### Tavoitteet\n- WWW-sivujen päivitys, rakentaminen ja tiedonhaku verkosta.\n- FTP-palveluiden ja hakurobottien tehokas käyttö.\n\n### Keskeinen sisältö\n- **Tuottaminen:** HTML-koodin muokkaus, editorien käyttö, kuvien optimointi verkkoon.\n- **Viestintä:** Sähköposti ja keskusteluryhmät ongelmanratkaisussa.\n\n---\n\n## 8. Digitaalinen viestintä (Valinnainen)\n\n### Tavoitteet\n- Multimedian mahdollisuuksien ymmärtäminen ja digitaalisten esitysten kokoaminen.\n- Mediaelementtien (ääni, video, animaatio) hallinta.\n\n### Keskeinen sisältö\n- **Elementit:** GIF-animaatiot, digitaalinen video, äänen tiedostomuodot ja siirto.\n- **Prosessi:** Sisällön kerroksellisuus ja vuorovaikutus.\n\n---\n\n## 9. Tietoliikenne (Valinnainen)\n\n### Tavoitteet\n- Tietoliikenteen termistön, televerkkojen ja langattoman tiedonsiirron hallinta.\n- Datan ja puheen kulun ymmärtäminen eri verkoissa.\n\n### Keskeinen sisältö\n- **Perusteet:** Informaatioteoria ja perustekniikat.\n- **Verkot:** Tele- ja datasiirtoverkkojen rakenne ja palvelut.\n- **Mobiili:** Radiojärjestelmät, mobiiliverkon perusrakenne ja datasiirto.",
+  "keywords": [
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 3819,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 1427,
+      "related_keywords": []
+    },
+    {
+      "term": "Kertaustehtävä Word Pitkäasiakirja tiedosto",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+    "extraction_date": "2026-02-09T22:21:42.247370",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Kertaustehtävä_Word_Pitkäasiakirja_tiedosto_review",
+      "title": "Kertaustehtävä Word Pitkäasiakirja tiedosto.md Review Required",
+      "description": "Document Kertaustehtävä Word Pitkäasiakirja tiedosto.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Kertaustehtävä Word Pitkäasiakirja tiedosto.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+    "title": "Kertaustehtävä Word Pitkäasiakirja tiedosto",
+    "description": "Documentation file: Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T22:21:42.247377",
+    "last_modified": "2026-02-09T22:21:42.247378",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 429,
+    "language": "en",
+    "keywords": [
+      "form",
+      "standard",
+      "Kertaustehtävä Word Pitkäasiakirja tiedosto"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Kertaustehtävä_Word_Pitkäasiakirja_tiedosto_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Kertaustehtävä Word Pitkäasiakirja tiedosto.md"
+    }
+  },
+  "processing_date": "2026-02-09T22:21:42.247428",
+  "processor": "systematic_batch_processor"
+}

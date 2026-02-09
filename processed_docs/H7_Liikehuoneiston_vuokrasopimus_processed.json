@@ -1,0 +1,140 @@
+{
+  "original_content": "# Liikehuoneiston vuokrasopimus (Malli)\n\nTämä on mallipohja liikehuoneiston vuokraamiseksi. Sopimukseen sovelletaan lakia liikehuoneiston vuokrauksesta (LVHL 482/95), ellei toisin sovita.\n\n---\n\n## Sopimusosapuolet ja kohde\n\n- **Vuokranantaja:**      \n- **Vuokralainen:**      \n- **Huoneiston osoite ja tiedot:**      \n- **Pinta-ala:**       m²\n- **Käyttötarkoitus:**      \n\n---\n\n## Vuokrasuhde ja maksut\n\n- **Vuokra-aika:** Sopimus alkaa   .  .202   ja on voimassa:\n    - [ ] Toistaiseksi (irtisanomisaika    kk).\n    - [ ] Määräaikaisena   .  .202   saakka.\n- **Vuokran määrä:**       € / kk.\n- **Muut maksut:** (Vesi, sähkö, lämpö jne.)      \n- **Vakuus:**       euroa, toimitettava   .  .202   mennessä.\n\n---\n\n## Vuokrasopimuksen ehdot (Tiivistelmä)\n\n1. **Huoneiston kunto:** Vuokralainen on tarkastanut tilat ja hyväksyy ne nykyisessä kunnossa, ellei toisin sovita.\n2. **Käyttö ja hoito:** Vuokralainen on velvollinen hoitamaan huoneistoa huolellisesti ja noudattamaan kiinteistön järjestyssääntöjä sekä viranomaismääräyksiä. Kilpien kiinnittäminen vaatii luvan.\n3. **Kunnossapito:** Vuokralainen vastaa oman toimintansa aiheuttamasta kulutuksesta ja korjaustarpeesta.\n4. **Muutostyöt:** Huoneistossa ei saa suorittaa muutos- tai parannustöitä ilman vuokranantajan kirjallista lupaa.\n5. **Remontit:** Vuokranantajalla on oikeus suorittaa korjaustöitä. Tavanomaisista töistä ilmoitetaan 2 viikkoa ja laajoista 2 kuukautta etukäteen.\n6. **Vuokranalennus:** Vuokralaisella on oikeus vuokranalennukseen tilan ollessa poissa käytöstä vain, jos syy johtuu vuokranantajasta (poislukien lakko, ylivoimainen este tms.).\n\n---\n\n## Allekirjoitukset\nTätä sopimusta on laadittu kaksi (2) samansanaista kappaletta, yksi kummallekin osapuolelle.\n\n**Paikka ja päiväys:**      ,    .    . 202  \n\n____________________________  \n**Vuokranantaja**\n\n____________________________  \n**Vuokralainen**",
+  "keywords": [
+    {
+      "term": "H7 Liikehuoneiston vuokrasopimus",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H7_Liikehuoneiston_vuokrasopimus.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H7_Liikehuoneiston_vuokrasopimus.md",
+    "extraction_date": "2026-02-09T22:21:42.240957",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H7_Liikehuoneiston_vuokrasopimus.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H7_Liikehuoneiston_vuokrasopimus.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H7_Liikehuoneiston_vuokrasopimus.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H7_Liikehuoneiston_vuokrasopimus.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_H7_Liikehuoneiston_vuokrasopimus_review",
+      "title": "H7_Liikehuoneiston_vuokrasopimus.md Review Required",
+      "description": "Document H7_Liikehuoneiston_vuokrasopimus.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H7_Liikehuoneiston_vuokrasopimus.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document H7_Liikehuoneiston_vuokrasopimus.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H7_Liikehuoneiston_vuokrasopimus.md",
+    "title": "H7 Liikehuoneiston vuokrasopimus",
+    "description": "Documentation file: H7_Liikehuoneiston_vuokrasopimus.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T22:21:42.240964",
+    "last_modified": "2026-02-09T22:21:42.240965",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 210,
+    "language": "en",
+    "keywords": [
+      "H7 Liikehuoneiston vuokrasopimus"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_H7_Liikehuoneiston_vuokrasopimus_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "H7_Liikehuoneiston_vuokrasopimus.md"
+    }
+  },
+  "processing_date": "2026-02-09T22:21:42.240992",
+  "processor": "systematic_batch_processor"
+}

@@ -17,7 +17,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/esihenkilöiden lainsäädäntö.md",
-    "extraction_date": "2026-02-09T22:13:15.195174",
+    "extraction_date": "2026-02-09T22:21:42.235595",
     "entities": [
       {
         "name": "Business Entity",
@@ -101,8 +101,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T22:13:15.195181",
-    "last_modified": "2026-02-09T22:13:15.195182",
+    "creation_date": "2026-02-09T22:21:42.235611",
+    "last_modified": "2026-02-09T22:21:42.235612",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -135,6 +135,6 @@
       "original_file_name": "esihenkilöiden lainsäädäntö.md"
     }
   },
-  "processing_date": "2026-02-09T22:13:15.195229",
+  "processing_date": "2026-02-09T22:21:42.235684",
   "processor": "systematic_batch_processor"
 }

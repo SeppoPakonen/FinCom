@@ -1,0 +1,140 @@
+{
+  "original_content": "# Kertaustehtävä: Word-pitkäasiakirja\n\nTämä tehtävä opastaa Word-asiakirjan hallintaan, osien käyttöön ja automaattisten luetteloiden luomiseen.\n\n---\n\n## Tehtävän vaiheet\n\n1. **Otsikoiden numerointi:** Avaa tiedosto \"KERTAUSTEHTÄVÄ\" ja tee ensimmäiseksi asiakirjan otsikoiden numerointi.\n2. **Sisällysluettelon valmistelu:** Lisää pakotettu **osanvaihto** (Section Break) ensimmäisen otsikon eteen omalle sivulleen tulevaa sisällysluetteloa varten.\n3. **Sisällysluettelon luominen:** Luo asiakirjaan sisällysluettelo käyttäen valmista mallia (esim. \"Virallinen\").\n4. **Kansisivun luominen:**\n    - Lisää vielä yksi osanvaihto kansisivua varten.\n    - Kirjoita kansisivulle suurella fontilla ja tehokeinoja käyttäen: **AB-KERTAUSTA**.\n    - Keskitä otsikko sivulle.\n    - Lisää otsikon yläpuolelle aiheeseen liittyvä kuva.\n5. **Osien hallinta:** Asiakirjassa tulee nyt olla 3 erillistä osaa:\n    - Osa 1: Kansisivu\n    - Osa 2: Sisällysluettelo\n    - Osa 3: Tekstiosuus\n6. **Tunnisteiden linkityksen poisto:**\n    - Mene osaan 2 ja poista linkitys edelliseen osaan (Link to Previous) sekä ylä- että alatunnisteesta.\n    - Toista sama osalle 3.\n7. **Ylä- ja alatunnisteiden täyttö:**\n    - **Osa 2 (Sisällysluettelo):** Lisää ylätunnisteeseen keskelle teksti: *Sisällysluettelo*.\n    - **Osa 3 (Tekstiosuus):**\n        - Lisää ylätunnisteeseen keskelle teksti: *Tietokoneen AB-kortti*.\n        - Lisää alatunnisteeseen keskelle sivunumerointi.\n        - Muokkaa sivunumerointi alkamaan numerosta 1.\n8. **Viimeistely:** Päivitä sisällysluettelo ja tallenna valmis asiakirja nimellä **AB-kortti**.",
+  "keywords": [
+    {
+      "term": "Kertaustehtävä Word Pitkäasiakirja",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+    "extraction_date": "2026-02-09T22:21:42.246699",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Kertaustehtävä_Word_Pitkäasiakirja_review",
+      "title": "Kertaustehtävä Word Pitkäasiakirja.md Review Required",
+      "description": "Document Kertaustehtävä Word Pitkäasiakirja.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Kertaustehtävä Word Pitkäasiakirja.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+    "title": "Kertaustehtävä Word Pitkäasiakirja",
+    "description": "Documentation file: Kertaustehtävä Word Pitkäasiakirja.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T22:21:42.246706",
+    "last_modified": "2026-02-09T22:21:42.246707",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 180,
+    "language": "en",
+    "keywords": [
+      "Kertaustehtävä Word Pitkäasiakirja"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Kertaustehtävä_Word_Pitkäasiakirja_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Kertaustehtävä Word Pitkäasiakirja.md"
+    }
+  },
+  "processing_date": "2026-02-09T22:21:42.246736",
+  "processor": "systematic_batch_processor"
+}

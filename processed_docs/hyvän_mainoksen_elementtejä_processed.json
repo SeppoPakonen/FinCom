@@ -1,0 +1,154 @@
+{
+  "original_content": "# Hyvän mainoksen elementtejä ja ideointityökaluja\n\nHyvän mainoksen luominen vaatii useiden tekijöiden tasapainoa. Tavoitteena on herättää potentiaalisen asiakkaan kiinnostus ja ohjata hänet toivottuun toimintaan.\n\n---\n\n## 1. Hyvän mainoksen yleiset periaatteet\n\nVaikka mainoksen sisältö riippuu tuotteesta ja kohdeyleisöstä, seuraavat periaatteet auttavat luomaan toimivia kokonaisuuksia:\n\n- **Kohdennus:** Viestin on oltava räätälöity tarkasti oikealle yleisölle.\n- **Otsikko:** Tarttuva otsikko, joka kiteyttää viestin ja herättää mielenkiinnon.\n- **Visuaalisuus:** Korkealaatuiset kuvat tai grafiikka, jotka tukevat tuotteen viestiä.\n- **Tarjous:** Selkeä ja houkutteleva etu (alennus, ilmainen kokeilu, rajoitettu aika).\n- **Sanamuodot:** Kieli, joka korostaa hyötyjä asiakkaalle ja puhuttelee häntä suoraan.\n- **Tarinankerronta:** Tekee mainoksesta muistettavamman ja helpommin ymmärrettävän.\n- **Sosiaalinen todiste:** Arvostelut, suositukset ja asiantuntijalausunnot rakentavat luottamusta.\n- **Yksinkertaisuus:** Viestin on oltava helppo ymmärtää yhdellä silmäyksellä.\n- **Kutsu toimintaan (CTA):** Vahva ohjaus (esim. \"Osta heti\", \"Lue lisää\", \"Tilaa uutiskirje\").\n- **Optimointi:** A/B-testaus eri elementeillä parhaiden tulosten saavuttamiseksi.\n\n---\n\n## 2. Tehokkaan otsikon ominaisuudet\n\nHyvä otsikko on lyhyt, ytimekäs ja houkutteleva. Tehokkaita keinoja ovat:\n\n- **Kiinnostava kysymys:** \"Tarvitsetko rentouttavan loman?\"\n- **Yllättävä tieto:** \"70 % ihmisistä tekee tämän virheen päivittäin.\"\n- **Tarjous tai etu:** \"Säästä 50 % tänään!\"\n- **Vahva väite:** \"Muuta elämäsi paremmaksi tällä yksinkertaisella ratkaisulla.\"\n- **Käytännöllinen neuvo:** \"Näin saat enemmän aikaa päivässä.\"\n- **Sanaleikit:** Viihdyttävä ja muistettava kieli.\n- **Henkilökohtaisuus:** \"Sinä\" ja \"sinun\" kielenkäyttö.\n- **Positiivinen tunne:** Herättää iloa, innostusta tai kiitollisuutta.\n- **Ristiriita:** Herättää uteliaisuuden, esim. \"Hävitä painoa syömällä enemmän.\"\n\n---\n\n## 3. Työkaluja ideointiin ja toteutukseen\n\nHyödynnä seuraavia digitaalisia työkaluja sisällön suunnittelussa ja grafiikan luomisessa:\n\n- **Suunnittelu ja taitto:** [Canva](https://www.canva.com/fi_fi/)\n- **Tekstit ja ideointi (AI):** [ChatGPT](https://chat.openai.com/)\n- **Kuvien luonti (AI):** [Craiyon](https://www.craiyon.com/) tai [Adobe Firefly](https://firefly.adobe.com/)\n- **Kuvankäsittely ja nopea suunnittelu:** [Adobe Express](https://www.adobe.com/fi/express/)",
+  "keywords": [
+    {
+      "term": "fire",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/hyvän mainoksen elementtejä.md",
+      "position_in_text": 2314,
+      "related_keywords": []
+    },
+    {
+      "term": "hyvän mainoksen elementtejä",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/hyvän mainoksen elementtejä.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/hyvän mainoksen elementtejä.md",
+    "extraction_date": "2026-02-09T22:21:42.243615",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/hyvän mainoksen elementtejä.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/hyvän mainoksen elementtejä.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/hyvän mainoksen elementtejä.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/hyvän mainoksen elementtejä.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_hyvän_mainoksen_elementtejä_review",
+      "title": "hyvän mainoksen elementtejä.md Review Required",
+      "description": "Document hyvän mainoksen elementtejä.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/hyvän mainoksen elementtejä.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document hyvän mainoksen elementtejä.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/hyvän mainoksen elementtejä.md",
+    "title": "hyvän mainoksen elementtejä",
+    "description": "Documentation file: hyvän mainoksen elementtejä.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T22:21:42.243623",
+    "last_modified": "2026-02-09T22:21:42.243624",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 270,
+    "language": "en",
+    "keywords": [
+      "fire",
+      "hyvän mainoksen elementtejä"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_hyvän_mainoksen_elementtejä_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "hyvän mainoksen elementtejä.md"
+    }
+  },
+  "processing_date": "2026-02-09T22:21:42.243662",
+  "processor": "systematic_batch_processor"
+}

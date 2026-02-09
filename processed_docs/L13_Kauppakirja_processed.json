@@ -1,0 +1,140 @@
+{
+  "original_content": "# L13 Kauppakirja\n\nTämä on yleinen kauppakirjapohja irtaimen omaisuuden kauppaan.\n\n## 1. Kaupan osapuolet\n\n### Myyjä\n* **Nimi/Yritys:** __________________________________________________\n* **Henkilötunnus/Y-tunnus:** ______________________________________\n* **Osoite:** ______________________________________________________\n* **Puhelin/Sähköposti:** __________________________________________\n\n### Ostaja\n* **Nimi/Yritys:** __________________________________________________\n* **Henkilötunnus/Y-tunnus:** ______________________________________\n* **Osoite:** ______________________________________________________\n* **Puhelin/Sähköposti:** __________________________________________\n\n## 2. Kaupan kohde\nMyyjä myy ja ostaja ostaa seuraavan omaisuuden:\n__________________________________________________________________________\n__________________________________________________________________________\n\n## 3. Kauppahinta ja maksuehto\n* **Kauppahinta:** __________ euroa.\n* **Maksutapa:** ____________________________________________________\n* **Maksuajankohta:** ________________________________________________\n\n## 4. Omistusoikeuden siirtyminen\nOmistusoikeus kaupan kohteeseen siirtyy ostajalle, kun kauppahinta on kokonaisuudessaan maksettu.\n\n## 5. Hallintaoikeuden siirtyminen ja luovutus\nKaupan kohde luovutetaan ostajan hallintaan:\n[ ] Heti sopimuksen allekirjoituksin.\n[ ] Myöhemmin, ajankohtana: ____________________\n\n## 6. Kaupan kohteen kunto ja vastuu virheistä\nKaupan kohde myydään siinä kunnossa kuin se on myyntihetkellä. Myyjä vakuuttaa antaneensa ostajalle kaikki tiedot, jotka voivat vaikuttaa ostajan ostopäätökseen. Ostaja on tarkastanut kaupan kohteen.\n\n## 7. Muut ehdot\n__________________________________________________________________________\n__________________________________________________________________________\n\n## 8. Allekirjoitukset\nTätä sopimusta on tehty kaksi samanlaista kappaletta, yksi kummallekin osapuolelle.\n\n**Paikka ja aika:** ____________________, ______.______.20______\n\n**Myyjä:** __________________________   **Ostaja:** __________________________",
+  "keywords": [
+    {
+      "term": "L13 Kauppakirja",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md",
+    "extraction_date": "2026-02-09T22:21:42.249227",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_L13_Kauppakirja_review",
+      "title": "L13_Kauppakirja.md Review Required",
+      "description": "Document L13_Kauppakirja.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document L13_Kauppakirja.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md",
+    "title": "L13 Kauppakirja",
+    "description": "Documentation file: L13_Kauppakirja.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T22:21:42.249237",
+    "last_modified": "2026-02-09T22:21:42.249239",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 166,
+    "language": "en",
+    "keywords": [
+      "L13 Kauppakirja"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_L13_Kauppakirja_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "L13_Kauppakirja.md"
+    }
+  },
+  "processing_date": "2026-02-09T22:21:42.249281",
+  "processor": "systematic_batch_processor"
+}

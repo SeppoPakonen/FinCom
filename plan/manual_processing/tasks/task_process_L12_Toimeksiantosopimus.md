@@ -1,7 +1,7 @@
 # Task: Process Documentation File
 
 ## File Information
-- **File**: `Esimerkki markkinoinnin vuosikello.md`
+- **File**: `L12_Toimeksiantosopimus.md`
 - **Source Directory**: `/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/`
 - **Status**: COMPLETED
 
@@ -55,7 +55,7 @@ Process this documentation file to add:
 ## Completion Details
 - **Date Completed**: 2026-02-09
 - **Processor**: Systematic Batch Processor
-- **Output File**: `processed_docs/Esimerkki_markkinoinnin_vuosikello_processed.json`
+- **Output File**: `processed_docs/L12_Toimeksiantosopimus_processed.json`
 - **Keywords Extracted**: 1
 - **Entities Identified**: 1
 - **Components Identified**: 1

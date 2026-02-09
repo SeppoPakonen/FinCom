@@ -1,0 +1,140 @@
+{
+  "original_content": "# Liiketoimintasuunnitelma (Aloittava yritys)\n\nTämä liiketoimintasuunnitelma on tarkoitettu järjestelmälliseen yritystoiminnan suunnitteluun. Se soveltuu erityisesti tilanteisiin, joissa markkinointia, myyntiä, kilpailua ja riskejä on tarpeen arvioida laajasti.\n\n---\n\n## Perustiedot\n- **Yrityksen nimi:**      \n- **Tekijä:**      \n- **Päivämäärä:**   .  .202  \n\n---\n\n## 1. Toimintaympäristöanalyysi\n\n- **Toimiala, tuote tai palvelu:**      \n- **Sijaintipaikka ja markkina-alue:**      \n- **Asiakkaat ja ostopäätökset:**\n    - Määrittele asiakkaasi, heidän määränsä ja ostopäätöskriteerinsä:      \n    - Miksi ja miten asiakkaat hankkivat vastaavia palveluita tällä hetkellä?      \n    - Kuka tekee ostopäätöksen? Ovatko asiakkaat ostouskollisia? (Määrä per vko/kk/vuosi)      \n    - Onko ostokäyttäytyminen muuttumassa?      \n\n---\n\n## 2. Kilpailija-analyysi\n\nArvioi kilpailijoita (määrä, takuuriskit, hintataso, markkinointikeinot, taloudellinen asema).\n- **Kilpailija 1:**      \n- **Kilpailija 2:**      \n- **Omat ylivoimatekijät:** Mitkä ominaisuudet antavat sinulle menestymisen mahdollisuudet?      \n\n---\n\n## 3. Toiminta-ajatus ja liikeidea\n\n- **Toiminta-ajatus:**      \n- **Liikeidea (Voimavarat):**\n    - **Fyysiset:** (Tilat, laitteet, kapasiteetti)      \n    - **Taloudelliset:** (Rahoitus, vakuudet, kasvu)      \n    - **Henkiset:** (Ammattitaito, henkilöstö)      \n- **Imago:** Millaisen mielikuvan haluat antaa ja miten se saavutetaan?      \n\n---\n\n## 4. Markkinointi- ja myyntisuunnitelma\n\n### Markkinointi\n- Käytettävät viestimet ja painotukset (vuodenajat, kohdennus):      \n- **Budjetti:**       € (vrt. YT25-laskelma)\n- Sidosryhmät ja suhteet median edustajiin:      \n- **Toimenpiteet:** (Käyntikortit, logo, domain, verkkokauppa, esitteet, työasut, teippaukset jne.)\n\n### Myynti\n- Myyntityön järjestäminen (itse, myyjät, jälleenmyyjät, verkostot):      \n- **Myyntiargumentit:** (3 tärkeintä väittämää)      \n- Hinnoitteluperusteet ja myyntiehdot:      \n\n---\n\n## 5. Tuotanto ja ostot\n\n- Tuotannon järjestäminen ja tuotantovälineiden hankinta:      \n- Raaka-aineet, ostopalvelut ja alihankinta (toimitusajat, saatavuus):      \n- Toimitilat ja tuotteiden toimitus asiakkaalle:      \n- **Vastuullisuus:** Kierrätys, jätehuolto, päästöt, energiatehokkuus ja vastuulliset toimittajat.\n\n---\n\n## 6. Henkilöstösuunnitelma\n\n- Työntekijöiden määrä, laatu ja pätevyysvaatimukset:      \n- Rekrytointi (läpinäkyvyys, syrjimättömyys):      \n- Motivointi, palkkaus ja työhyvinvoinnin kehittäminen:      \n\n---\n\n## 7. Tuotekehitys ja suojaus\n\n- Tuotekehitystapa ja käytännön toteutus:      \n- Tarvittavat tuotesuojaukset (patentit jne.):      \n\n---\n\n## 8. Taloussuunnitelma\n\n- Kannattavuuden ja maksukyvyn seuranta:      \n- Taloudellinen vastuu (hinnoittelu, velvoitteiden hoito):      \n- Taloushallinnon järjestäminen (laskutus, palkat, verot):      \n- *Liitteenä taloudelliset laskelmat (vrt. YT5).*\n\n---\n\n## 9. Riskien arviointi\n\n- **Omaisuusriskit:**       (Minimointi:      )\n- **Henkilöriskit:**       (Minimointi:      )\n- **Tuotevastuuriskit:**       (Minimointi:      )\n- **Ympäristöriskit:**      \n- **SWOT-analyysi:**\n    - Vahvuudet (Strengths):      \n    - Heikkoudet (Weaknesses):      \n    - Mahdollisuudet (Opportunities):      \n    - Uhat (Threats):      \n\n---\n\n## 10. Visio ja päätavoitteet (5 vuoden päästä)\n\n- **Visio (unelma):**      \n- **Tavoitteet:**\n    - Tuotteet/palvelut:      \n    - Talous:      \n    - Prosessit:      \n    - Asiakkaat:      \n    - Henkilöstö:      \n\n---\n\n## 11. Yrittäjien henkilökuvaukset ja tavoitteet\n\n- **Ammattitaito ja koulutus:**      \n- **Kehittymistarpeet:**      \n- **Henkilökohtaiset tavoitteet (henkiset ja taloudelliset):**      \n- **Menestystä tukevat ominaisuudet:**      \n- **Odotukset yhtiökumppanille:**",
+  "keywords": [
+    {
+      "term": "H5 Aloittavan yrityksen liiketoimintasuunnitelma",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md",
+    "extraction_date": "2026-02-09T22:21:42.240290",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_H5_Aloittavan_yrityksen_liiketoimintasuunnitelma_review",
+      "title": "H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md Review Required",
+      "description": "Document H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md",
+    "title": "H5 Aloittavan yrityksen liiketoimintasuunnitelma",
+    "description": "Documentation file: H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T22:21:42.240297",
+    "last_modified": "2026-02-09T22:21:42.240298",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 381,
+    "language": "en",
+    "keywords": [
+      "H5 Aloittavan yrityksen liiketoimintasuunnitelma"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_H5_Aloittavan_yrityksen_liiketoimintasuunnitelma_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "H5_Aloittavan_yrityksen_liiketoimintasuunnitelma.md"
+    }
+  },
+  "processing_date": "2026-02-09T22:21:42.240346",
+  "processor": "systematic_batch_processor"
+}

@@ -1,97 +1,6 @@
 {
-  "original_content": "# Example: Marketing Annual Calendar (Tauno Building Maintenance)\n\nThis is an example of an annual marketing plan for a small business owner (Tauno Building Maintenance).\n\n---\n\n## Ongoing activities (throughout the year)\n- **Social media:** Post twice a week.\n- **Customer register:** Continuous maintenance and updates.\n\n---\n\n## Monthly activities\n\n### January (Establishment)\n- Setting up a website.\n- Creating Facebook and Instagram accounts.\n- Printing work clothes and car decals.\n\n### February (Visibility)\n- Mapping potential market areas.\n- Creating a printed A5 flyer.\n- Distributing flyers to mailboxes.\n\n### March\n- Paid social media marketing (once a week).\n- Door-to-door visits.\n\n### April\n- Paid social media marketing (twice a week).\n- Establishing a customer register (collecting contacts and marketing permissions).\n\n### May\n- Maintaining customer information in the register.\n\n### June\n- Take 1 week of vacation.\n\n### July\n- Take 2 weeks of vacation.\n\n### August\n- Social media marketing (once a week).\n- Distributing flyers to mailboxes.\n\n### September (Active sales)\n- Paid social media marketing (twice a week).\n- Sending offers to existing customers via email and text message.\n- Door-to-door visits.\n\n### October\n- Paid social media marketing (once a week).\n- Sending offer letters to apartment buildings.\n\n### November\n- Paid social media marketing (once a week).\n- Follow-up: survey after offers to apartment buildings.\n\n### December\n- Sending Christmas cards to existing customers.\n- Take 1 week of vacation.\n\n---\n*Created by: Emilia Takamäki (13.1.2022)*",
+  "original_content": "# Esimerkki: Markkinoinnin vuosikello (Tauno Talotalkkari)\n\nTämä on esimerkki pienyrittäjän (Tauno Talotalkkari) markkinoinnin vuosisuunnitelmasta.\n\n---\n\n## Jatkuvat toimenpiteet (läpi vuoden)\n- **Sometilit:** Päivitys 2 kertaa viikossa.\n- **Asiakasrekisteri:** Jatkuva ylläpito ja päivitys.\n\n---\n\n## Kuukausittaiset toimenpiteet\n\n### Tammikuu (Perustaminen)\n- Kotisivujen perustaminen.\n- Facebook- ja Instagram-tilien perustaminen.\n- Työasun painatus ja auton teippaus.\n\n### Helmikuu (Näkyvyys)\n- Potentiaalisten markkina-alueiden kartoitus.\n- Tulostettavan A5-esitteen laadinta.\n- Esitteiden jakelu postilaatikoihin.\n\n### Maaliskuu\n- Maksullinen somemarkkinointi (1 x vko).\n- Ovelta ovelle -kierrokset.\n\n### Huhtikuu\n- Maksullinen somemarkkinointi (2 x vko).\n- Asiakasrekisterin perustaminen (yhteystietojen kerääminen ja markkinointiluvat).\n\n### Toukokuu\n- Asiakastietojen ylläpito rekisteriin.\n\n### Kesäkuu\n- Pidetään 1 viikko lomaa.\n\n### Heinäkuu\n- Pidetään 2 viikkoa lomaa.\n\n### Elokuu\n- Somemarkkinointi (1 x vko).\n- Esitteiden jakelu postilaatikoihin.\n\n### Syyskuu (Aktiivinen myynti)\n- Maksullinen somemarkkinointi (2 x vko).\n- Tarjousten lähetys kanta-asiakkaille sähköpostilla ja tekstiviestillä.\n- Ovelta ovelle -kierrokset.\n\n### Lokakuu\n- Maksullinen somemarkkinointi (1 x vko).\n- Tarjouskirjeiden lähetys taloyhtiöille.\n\n### Marraskuu\n- Maksullinen somemarkkinointi (1 x vko).\n- Jälkiseuranta: kysely taloyhtiöiden tarjousten perään.\n\n### Joulukuu\n- Joulukorttien lähetys kanta-asiakkaille.\n- Pidetään 1 viikko lomaa.\n\n---\n*Laatija: Emilia Takamäki (13.1.2022)*",
   "keywords": [
-    {
-      "term": "business",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md",
-      "position_in_text": 126,
-      "related_keywords": []
-    },
-    {
-      "term": "formation",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md",
-      "position_in_text": 868,
-      "related_keywords": []
-    },
-    {
-      "term": "form",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md",
-      "position_in_text": 868,
-      "related_keywords": []
-    },
-    {
-      "term": "information",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md",
-      "position_in_text": 866,
-      "related_keywords": []
-    },
-    {
-      "term": "customer",
-      "frequency": 5,
-      "relevance": 0.5,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md",
-      "position_in_text": 264,
-      "related_keywords": []
-    },
-    {
-      "term": "sales",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md",
-      "position_in_text": 1081,
-      "related_keywords": []
-    },
-    {
-      "term": "marketing",
-      "frequency": 9,
-      "relevance": 0.9,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md",
-      "position_in_text": 11,
-      "related_keywords": []
-    },
     {
       "term": "Esimerkki markkinoinnin vuosikello",
       "frequency": 3,
@@ -101,14 +10,14 @@
         "file_name_based",
         "auto_extraction"
       ],
-      "source_file": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Esimerkki markkinoinnin vuosikello.md",
       "position_in_text": 0,
       "related_keywords": []
     }
   ],
   "ecs_elements": {
-    "source_file": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md",
-    "extraction_date": "2026-02-09T22:04:05.394555",
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Esimerkki markkinoinnin vuosikello.md",
+    "extraction_date": "2026-02-09T22:21:42.236426",
     "entities": [
       {
         "name": "Business Entity",
@@ -122,7 +31,7 @@
           "business_entity",
           "document_context"
         ],
-        "source_file": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md",
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Esimerkki markkinoinnin vuosikello.md",
         "relationships": {}
       }
     ],
@@ -131,7 +40,7 @@
         "name": "Document Requirements",
         "description": "Requirements specified in the document",
         "properties": {
-          "specified_in": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md",
+          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Esimerkki markkinoinnin vuosikello.md",
           "type": "business_requirements",
           "complexity": "medium"
         },
@@ -140,7 +49,7 @@
           "requirements",
           "business_rules"
         ],
-        "source_file": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md"
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Esimerkki markkinoinnin vuosikello.md"
       }
     ],
     "systems": [
@@ -156,7 +65,7 @@
           "process",
           "system"
         ],
-        "source_file": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md"
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Esimerkki markkinoinnin vuosikello.md"
       }
     ]
   },
@@ -169,7 +78,7 @@
       "condition": "document_reviewed == True",
       "scope": "document_compliance",
       "severity": "info",
-      "source_file": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Esimerkki markkinoinnin vuosikello.md",
       "tags": [
         "compliance",
         "review"
@@ -180,7 +89,7 @@
     }
   ],
   "metadata": {
-    "source_file": "../docs/business_forms/Esimerkki markkinoinnin vuosikello.md",
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Esimerkki markkinoinnin vuosikello.md",
     "title": "Esimerkki markkinoinnin vuosikello",
     "description": "Documentation file: Esimerkki markkinoinnin vuosikello.md",
     "tags": [
@@ -192,8 +101,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T22:04:05.394562",
-    "last_modified": "2026-02-09T22:04:05.394563",
+    "creation_date": "2026-02-09T22:21:42.236436",
+    "last_modified": "2026-02-09T22:21:42.236437",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -203,16 +112,9 @@
     ],
     "difficulty_level": "intermediate",
     "estimated_reading_time": 1,
-    "word_count": 244,
+    "word_count": 189,
     "language": "en",
     "keywords": [
-      "business",
-      "formation",
-      "form",
-      "information",
-      "customer",
-      "sales",
-      "marketing",
       "Esimerkki markkinoinnin vuosikello"
     ],
     "related_entities": [
@@ -233,6 +135,6 @@
       "original_file_name": "Esimerkki markkinoinnin vuosikello.md"
     }
   },
-  "processing_date": "2026-02-09T22:04:05.394597",
+  "processing_date": "2026-02-09T22:21:42.236477",
   "processor": "systematic_batch_processor"
 }
