@@ -1,0 +1,210 @@
+{
+  "original_content": "# DNA Digital Life 2024 - Research Report\n\nThis document is a condensed summary of a study conducted by DNA in 2024, which describes Finnish people's digital lifestyle, device usage, and attitudes.\n\n---\n\n## 1. Background and Methodology of the Study\n\n- **Objective:** To understand and describe Finnish people's digital lifestyle (research series began in 2017).\n- **Target Group:** All Finnish people over 15 years old (upper age limit removed in 2024).\n- **Data Collection:** March 18–27, 2024 from Nepa's online panels.\n- **Number of Respondents:** 1018 individuals (weighted to represent the population by age and gender).\n\n---\n\n## 2. Smart Device Usage and Prevalence\n\n### Phones\n- **Smartphone ownership:** 98% of Finns own a smartphone.\n- **5G technology:** 56% have a 5G phone in use (significant growth from 2021, when the share was 17%).\n- **Age differences:** 5G usage is prominent among those under 55, but smartphones are common in all age groups (min. 95%).\n\n### Other Devices in Households (Top 5)\n1. Laptop computer: 82%\n2. Smart TV: 61%\n3. Tablet computer: 58%\n4. Desktop computer: 46%\n5. Gaming console: 42%\n\n**Trends:** Smart TV and smartwatch usage is increasing, while regular TV and recording digital boxes are decreasing.\n\n---\n\n## 3. Used Applications and Services\n\nApplication usage has increased in almost all areas.\n\n### Most Popular Application Types (2024):\n- **Banking services:** 83%\n- **Communication (e.g., WhatsApp):** 77%\n- **Maps and routes:** 77%\n- **Social media:** 75%\n- **Mobile payment (e.g., MobilePay):** 65% (+7 percentage points growth from the previous year)\n- **Shopping apps:** 53% (+17 percentage points significant growth)\n\n### Age Group Differences in Applications:\n- **Under 25 years:** Entertainment is emphasized (music, streaming, Snapchat).\n- **Older age groups:** Utility applications are emphasized (banks, maps, security).\n- **25–34 years:** Use all application types evenly, especially mobile payments.\n\n---\n\n## 4. Social Media Usage\n\n### Daily Usage (Top 5):\n1. **WhatsApp:** 70% (most active in all age groups)\n2. **Facebook:** 61%\n3. **Instagram:** 40%\n4. **YouTube (free version):** 38%\n5. **Snapchat:** 25%\n\n**Notes:** Instagram's and especially TikTok's popularity is rising. Half of Finns use WhatsApp numerous times daily.\n\n---\n\n## 5. Future Outlook and Artificial Intelligence\n\n- **Artificial Intelligence:** 49% believe they will use AI (e.g., ChatGPT) regularly or occasionally within the next two years. Among under 25-year-olds, the share is 90%.\n- **Mobile Payment:** Usage is expected to continue growing (78% believe they will use it in the future).\n\n---\n\n## 6. Attitudes Toward Digitalization\n\n- **Benefits:** Digital services are perceived as meaningful, and people want to handle matters online.\n- **Challenges:** \n    - 39% feel digital services hinder concentration.\n    - 38% find it difficult to disconnect from the internet.\n    - 31% are interested in buying used smartphones.\n- **Change:** Attitudes toward rapidly adopting new services have slightly cooled compared to the previous year.",
+  "keywords": [
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/DNA Digital Life 2024 Research Report.md",
+      "position_in_text": 48,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/DNA Digital Life 2024 Research Report.md",
+      "position_in_text": 1279,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/DNA Digital Life 2024 Research Report.md",
+      "position_in_text": 1279,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/DNA Digital Life 2024 Research Report.md",
+      "position_in_text": 6,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/DNA Digital Life 2024 Research Report.md",
+      "position_in_text": 1870,
+      "related_keywords": []
+    },
+    {
+      "term": "DNA Digital Life 2024 Research Report",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "../docs/business_forms/DNA Digital Life 2024 Research Report.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "../docs/business_forms/DNA Digital Life 2024 Research Report.md",
+    "extraction_date": "2026-02-09T22:04:05.389070",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "../docs/business_forms/DNA Digital Life 2024 Research Report.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "../docs/business_forms/DNA Digital Life 2024 Research Report.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "../docs/business_forms/DNA Digital Life 2024 Research Report.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "../docs/business_forms/DNA Digital Life 2024 Research Report.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_DNA_Digital_Life_2024_Research_Report_review",
+      "title": "DNA Digital Life 2024 Research Report.md Review Required",
+      "description": "Document DNA Digital Life 2024 Research Report.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "../docs/business_forms/DNA Digital Life 2024 Research Report.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document DNA Digital Life 2024 Research Report.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "../docs/business_forms/DNA Digital Life 2024 Research Report.md",
+    "title": "DNA Digital Life 2024 Research Report",
+    "description": "Documentation file: DNA Digital Life 2024 Research Report.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T22:04:05.389078",
+    "last_modified": "2026-02-09T22:04:05.389079",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 466,
+    "language": "en",
+    "keywords": [
+      "document",
+      "service",
+      "services",
+      "digital",
+      "security",
+      "DNA Digital Life 2024 Research Report"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_DNA_Digital_Life_2024_Research_Report_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "DNA Digital Life 2024 Research Report.md"
+    }
+  },
+  "processing_date": "2026-02-09T22:04:05.389127",
+  "processor": "systematic_batch_processor"
+}

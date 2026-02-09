@@ -1,0 +1,154 @@
+{
+  "original_content": "# Digitaaliset ostopolut ja verkkokaupan suunnittelu\n\nTämä asiakirja käsittelee digitaalista liiketoimintaa, verkkokaupan menestystekijöitä sekä strategista markkinoinnin suunnittelua asiakkaan ostopolun näkökulmasta.\n\n---\n\n## 1. Digitaalinen liiketoiminta ja kaupan murros\n\nDigitaalinen kauppa kattaa kaiken digitaalisessa ympäristössä tapahtuvan myyntiin tähtäävän toiminnan.\n- **Tavoitteet:** Liikevaihdon kasvattaminen, kannattavuuden parantaminen ja tehokkuuden lisääminen.\n- **Murros:** Ennen valittiin kauppa, nyt valitaan tuote, joka ostetaan asiakkaalle sopivimmasta kanavasta. Valta on siirtynyt asiakkaalle.\n- **Suorakauppa:** Brändit ja valmistajat toimivat yhä enemmän suoraan kuluttajakaupassa (D2C), ohittaen perinteiset jälleenmyyjät.\n\n---\n\n## 2. Verkkokaupan menestystekijät\n\nOnnistunut verkkokauppa perustuu kolmeen pilariin:\n1. **Aito asiakasymmärrys:** Miksi ja mitkä asiakkaat ostavat meiltä?\n2. **Asiakaslupaus:** Merkityksellisyys, erottuvuus ja uskottavuus.\n3. **Strateginen paketointi:** Tarjooman asiakaslähtöinen tuotteistus digitaaliseen muotoon.\n\n### Strategiset valinnat:\n- **Kanavastrategia:** Valintaan vaikuttavat kannattavuus, asiakkuuden omistajuus, asiakashankinnan kustannukset ja brändin hallinta.\n- **Tuotestrategia:** Valikoiman laajuus, katerakenne ja operatiivinen kyvykkyys (logistiikka, skaalautuvuus).\n- **Sisältöstrategia:** Hyvä sisältö on välttämätön kilpailukeino. Se rakentuu asiakastuntemukselle ja yhteisöllisyydelle.\n\n---\n\n## 3. Verkkokaupan perustaminen ja kehittäminen\n\n### Suunnittelun vaiheet:\n- **Tavoitteen asettaminen:** Nykyisten asiakkaiden palvelu vs. kansainvälinen skaalaus.\n- **Alustan valinta:** (Esim. WooCommerce, Shopify, MyCashFlow, Vilkas, Finqu).\n- **Ajanvarausjärjestelmät:** (Esim. Timma, Vello, DigitalBooker).\n- **Käytännön toteutus:** Ulkoasu, rakenne, maksutavat, logistiikka ja testaus eri laitteilla.\n\n---\n\n## 4. Digitaalinen ostopolku ja REAN-malli\n\nOstopolun tunteminen on osa laadukasta asiakaspalvelua. Asiakaspalvelulla on ostopolulla neljä roolia: **Luottamus, Asiantuntemus, Palvelu ja Myynti**.\n\n### REAN-malli ostopolun varrella:\n\n| Vaihe | Tavoite | Toimenpiteet ja mittarit |\n| :--- | :--- | :--- |\n| **REACH (Tavoita)** | Tule löydetyksi. | Sisältömarkkinointi, SEO/SEM, some, vaikuttajat. (Mittari: kävijämäärä, seuraajat). |\n| **ENGAGE (Sitouta)** | Aktivoi ja vakuuta. | Houkutteleva sisältö, automaattiset muistutukset. (Mittari: tykkäykset, jaot, konversio). |\n| **ACTIVATE (Aktivoi)** | Auta toimintaan. | Konversio-optimointi, selkeä ostoprosessi. (Mittari: ostojen määrä, keskiostos). |\n| **NURTURE (Hoivaa)** | Saa palaamaan. | Jälkimarkkinointi, sähköposti, some. (Mittari: uutiskirjeen tilaajat, maininnat). |\n\n---\n\n## 5. Markkinoinnin työkalut: Perinteinen vs. Online\n\n| Perinteinen | Online-vastine |\n| :--- | :--- |\n| Mainonta | Verkkomainonta, retargeting, some-mainonta. |\n| PR | Blogit, uutiskirjeet, artikkelit, keskustelufoorumit. |\n| Messut & Tapahtumat | Webinaarit, virtuaaliesittelyt, chat. |\n| Myyntityö | Chat-botit, webinaarit, liidien generointi. |\n| Puskaradio | Sosiaalinen media, suosittelut, vaikuttajat. |\n\n---\n\n## 6. Sosiaalisen median julkaisukalenteri\n\nSuunnitelmallisuus takaa tavoitteellisen viestinnän:\n- **Päivittäin:** Tarkista kanavat ja reagoi.\n- **Viikoittain:** Julkaise säännöllistä sisältöä.\n- **Kuukausittain:** Suurempi teema, kampanja tai blogipostaus.\n\n---\n\n## 7. Verkkokaupan vastuut ja dokumentit\n\nVerkkokauppiaan on noudatettava kuluttajansuoja- ja tietosuojalakia:\n- **Yhteystiedot:** Yrityksen nimi, sijainti ja selkeät yhteystiedot.\n- **Toimitusehdot:** Maksutavat, toimitusajat ja kulut.\n- **Palautusoikeus:** Yleinen 14 vrk peruutusoikeus. Kustomoiduista tuotteista mainittava erikseen, jos niitä ei voi palauttaa.\n- **Tuotetiedot:** Keskeiset ominaisuudet ja kokonaishinta veroineen.\n- **Vahva tunnistautuminen:** Maksupalveludirektiivin (PSD2) mukaiset pelisäännöt.\n\n---\n\n## 8. Tulevaisuuden haasteet\n- **Yksilöllisyys:** Massapalvelusta siirrytään yksilöllisiin kokemuksiin.\n- **Algoritmit:** Erottautuminen ja löydettävyys hakukoneissa/somessa vaikeutuu.\n- **Yksinkertaisuus:** Teknologian kompleksisuus ei saa pilata käyttäjäkokemusta.\n- **Ympäristö:** Logistiikan ja kulutuskulttuurin kestävyyskysymykset.",
+  "keywords": [
+    {
+      "term": "digital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaaliset ostopolut.md",
+      "position_in_text": 1771,
+      "related_keywords": []
+    },
+    {
+      "term": "Digitaaliset ostopolut",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaaliset ostopolut.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaaliset ostopolut.md",
+    "extraction_date": "2026-02-09T22:13:15.193671",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaaliset ostopolut.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaaliset ostopolut.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaaliset ostopolut.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaaliset ostopolut.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Digitaaliset_ostopolut_review",
+      "title": "Digitaaliset ostopolut.md Review Required",
+      "description": "Document Digitaaliset ostopolut.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaaliset ostopolut.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Digitaaliset ostopolut.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaaliset ostopolut.md",
+    "title": "Digitaaliset ostopolut",
+    "description": "Documentation file: Digitaaliset ostopolut.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T22:13:15.193682",
+    "last_modified": "2026-02-09T22:13:15.193683",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 472,
+    "language": "en",
+    "keywords": [
+      "digital",
+      "Digitaaliset ostopolut"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Digitaaliset_ostopolut_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Digitaaliset ostopolut.md"
+    }
+  },
+  "processing_date": "2026-02-09T22:13:15.193740",
+  "processor": "systematic_batch_processor"
+}

@@ -1,71 +1,6 @@
 {
-  "original_content": "# Computer User's AB Card (Review)\n\nThis is a summary of the Computer User's AB Card qualification and its key competency areas. The AB Card is intended for advanced computer users.\n\n## 1. Structure of the Qualification\n* **Prerequisite:** Computer User's A Card.\n* **Content:** 1 compulsory module + 3 optional modules.\n* **Demonstration exam:** Duration 2 h 15 min.\n\n## 2. Software Integration (Compulsory)\n* **Objective:** Using input data in different programs.\n* **Compatibility:** Different operating systems and software versions.\n* **Techniques:** Linking, embedding, import and export.\n* **Management:** Customizing user interfaces, installations, backups and information security.\n* **Teamwork:** Email management, calendars and task delegation.\n\n## 3. Optional Modules (Examples)\n\n### Text Processing\n* Styles, document standards and automation.\n* Mailing lists and forms.\n* Using macros in routines.\n\n### Spreadsheet Calculation\n* Complex functions (IF, LOOKUP, SUMIF).\n* Data analysis (Cross-tabulation, goal seek).\n* Linking charts and matrix calculation.\n\n### Databases\n* Designing relational databases (primary and foreign keys).\n* Basics of SQL language.\n* Custom reports and forms.\n\n### Other Modules\n* **Publishing and Image Processing:** Print production and PDF workflow.\n* **Web Publishing:** Updating WWW pages and FTP.\n* **Digital Communication:** Multimedia elements and interactivity.\n* **Telecommunications:** Network structures and mobile technologies.",
+  "original_content": "# Tietokoneen käyttäjän AB-kortti (Kertausta)\n\nTämä on kooste Tietokoneen käyttäjän AB-kortti -tutkinnon sisällöstä ja keskeisistä osaamisalueista. AB-kortti on tarkoitettu tietotekniikan tehokäyttäjille.\n\n## 1. Tutkinnon rakenne\n* **Esitieto:** Tietokoneen käyttäjän A-kortti.\n* **Sisältö:** 1 pakollinen moduuli + 3 valinnaista moduulia.\n* **Näyttökoe:** Kesto 2 t 15 min.\n\n## 2. Ohjelmien yhteiskäyttö (Pakollinen)\n* **Tavoite:** Kerran syötetyn tiedon hyödyntäminen eri ohjelmissa.\n* **Yhteensopivuus:** Eri käyttöjärjestelmät ja ohjelmaversiot.\n* **Tekniikat:** Linkittäminen (Linking), upottaminen (Embedding), vienti ja tuonti (Import/Export).\n* **Hallinta:** Käyttöliittymän muokkaus, asennukset, varmuuskopiot ja tietoturva.\n* **Työryhmätyö:** Sähköpostin hallinta, kalenterit ja tehtävien delegointi.\n\n## 3. Valinnaiset moduulit (esimerkkejä)\n\n### Tekstinkäsittely\n* Tyylit, asiakirjastandardit ja automatisointi.\n* Joukkokirjeet ja lomakkeet.\n* Makrojen hyödyntäminen rutiineissa.\n\n### Taulukkolaskenta\n* Monimutkaiset funktiot (Jos, Haku, Summajos).\n* Tiedon analysointi (Ristiintaulukointi, tavoitteen haku).\n* Kaavioiden linkitys ja matriisilaskenta.\n\n### Tietokannat\n* Relaatiotietokantojen suunnittelu (perus- ja viiteavaimet).\n* SQL-kielen perusteet.\n* Räätälöidyt raportit ja lomakkeet.\n\n### Muut moduulit\n* **Julkaisu ja kuvankäsittely:** Painotuotteiden laadinta ja PDF-työnkulku.\n* **Verkkojulkaiseminen:** WWW-sivujen päivitys ja FTP.\n* **Digitaalinen viestintä:** Multimediaelementit ja vuorovaikutteisuus.\n* **Tietoliikenne:** Verkkorakenteet ja mobiiliteknologiat.\n",
   "keywords": [
-    {
-      "term": "formation",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/AB-Kortti.md",
-      "position_in_text": 671,
-      "related_keywords": []
-    },
-    {
-      "term": "process",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/AB-Kortti.md",
-      "position_in_text": 801,
-      "related_keywords": []
-    },
-    {
-      "term": "document",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/AB-Kortti.md",
-      "position_in_text": 822,
-      "related_keywords": []
-    },
-    {
-      "term": "form",
-      "frequency": 3,
-      "relevance": 0.30000000000000004,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/AB-Kortti.md",
-      "position_in_text": 671,
-      "related_keywords": []
-    },
-    {
-      "term": "information",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/AB-Kortti.md",
-      "position_in_text": 669,
-      "related_keywords": []
-    },
     {
       "term": "standard",
       "frequency": 1,
@@ -75,21 +10,8 @@
         "auto_extraction",
         "business_documentation"
       ],
-      "source_file": "../docs/business_forms/AB-Kortti.md",
-      "position_in_text": 831,
-      "related_keywords": []
-    },
-    {
-      "term": "digital",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/AB-Kortti.md",
-      "position_in_text": 1347,
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/AB-Kortti.md",
+      "position_in_text": 894,
       "related_keywords": []
     },
     {
@@ -101,14 +23,14 @@
         "file_name_based",
         "auto_extraction"
       ],
-      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/AB-Kortti.md",
       "position_in_text": 0,
       "related_keywords": []
     }
   ],
   "ecs_elements": {
-    "source_file": "../docs/business_forms/AB-Kortti.md",
-    "extraction_date": "2026-02-09T21:47:08.566495",
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/AB-Kortti.md",
+    "extraction_date": "2026-02-09T22:13:15.183640",
     "entities": [
       {
         "name": "Business Entity",
@@ -122,7 +44,7 @@
           "business_entity",
           "document_context"
         ],
-        "source_file": "../docs/business_forms/AB-Kortti.md",
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/AB-Kortti.md",
         "relationships": {}
       }
     ],
@@ -131,7 +53,7 @@
         "name": "Document Requirements",
         "description": "Requirements specified in the document",
         "properties": {
-          "specified_in": "../docs/business_forms/AB-Kortti.md",
+          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/AB-Kortti.md",
           "type": "business_requirements",
           "complexity": "medium"
         },
@@ -140,7 +62,7 @@
           "requirements",
           "business_rules"
         ],
-        "source_file": "../docs/business_forms/AB-Kortti.md"
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/AB-Kortti.md"
       }
     ],
     "systems": [
@@ -156,7 +78,7 @@
           "process",
           "system"
         ],
-        "source_file": "../docs/business_forms/AB-Kortti.md"
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/AB-Kortti.md"
       }
     ]
   },
@@ -169,7 +91,7 @@
       "condition": "document_reviewed == True",
       "scope": "document_compliance",
       "severity": "info",
-      "source_file": "../docs/business_forms/AB-Kortti.md",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/AB-Kortti.md",
       "tags": [
         "compliance",
         "review"
@@ -180,7 +102,7 @@
     }
   ],
   "metadata": {
-    "source_file": "../docs/business_forms/AB-Kortti.md",
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/AB-Kortti.md",
     "title": "AB Kortti",
     "description": "Documentation file: AB-Kortti.md",
     "tags": [
@@ -192,8 +114,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T21:47:08.566503",
-    "last_modified": "2026-02-09T21:47:08.566504",
+    "creation_date": "2026-02-09T22:13:15.183648",
+    "last_modified": "2026-02-09T22:13:15.183649",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -203,16 +125,10 @@
     ],
     "difficulty_level": "intermediate",
     "estimated_reading_time": 1,
-    "word_count": 206,
+    "word_count": 174,
     "language": "en",
     "keywords": [
-      "formation",
-      "process",
-      "document",
-      "form",
-      "information",
       "standard",
-      "digital",
       "AB Kortti"
     ],
     "related_entities": [
@@ -233,6 +149,6 @@
       "original_file_name": "AB-Kortti.md"
     }
   },
-  "processing_date": "2026-02-09T21:47:08.566534",
+  "processing_date": "2026-02-09T22:13:15.183683",
   "processor": "systematic_batch_processor"
 }

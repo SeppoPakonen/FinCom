@@ -1,97 +1,6 @@
 {
-  "original_content": "# Assessment Form: Sales and Marketing\n\n**Demonstrating Competence / Portfolio Evidence**\n\n**Module:** Sales and Marketing (60 cr)\n\n---\n\n### 1. Basic Information\n* **Student's name:** ________________________________________\n* **Demonstration location:** ___________________________________________\n\n---\n\n### 2. Assessment Statement (Summary)\n__________________________________________________________________________\n__________________________________________________________________________\n\n---\n\n### 3. Assessment Decision\n**The performance is:**\n- [ ] Approved\n- [ ] Failed\n\n**Date:** ____.____.20______\n\n#### Signatures:\n\n**Education Sector Representative:**\n____________________________\n*(PSK Adult Education Center)*\n\n**Working Life Representative:**\n____________________________\n\n---\n\n### 4. Acknowledgment\n**I have received the assessment decision:**\n\n**Student:**\n____________________________",
+  "original_content": "# Arviointilomake: Myynti ja markkinointi\n\n**Osaamisen osoittaminen / Näyttöaineisto**\n\n**Tutkinnon osa:** Myynti ja markkinointi (60 osp)\n\n---\n\n### 1. Perustiedot\n* **Opiskelijan nimi:** ________________________________________\n* **Näyttöpaikka:** ___________________________________________\n\n---\n\n### 2. Arviointilausunto (Yhteenveto)\n__________________________________________________________________________\n__________________________________________________________________________\n\n---\n\n### 3. Arviointipäätös\n**Suoritus on:** \n- [ ] Hyväksytty\n- [ ] Hylätty\n\n**Päiväys:** ____.____.20______\n\n#### Allekirjoitukset:\n\n**Opetusalan edustaja:**  \n____________________________  \n*(PSK-Aikuisopisto)*\n\n**Työelämän edustaja:**  \n____________________________  \n\n---\n\n### 4. Tiedoksianto\n**Olen saanut arviointipäätöksen tiedoksi:**\n\n**Opiskelija:**  \n____________________________\n",
   "keywords": [
-    {
-      "term": "formation",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md",
-      "position_in_text": 152,
-      "related_keywords": []
-    },
-    {
-      "term": "form",
-      "frequency": 3,
-      "relevance": 0.30000000000000004,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md",
-      "position_in_text": 13,
-      "related_keywords": []
-    },
-    {
-      "term": "information",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md",
-      "position_in_text": 150,
-      "related_keywords": []
-    },
-    {
-      "term": "assessment",
-      "frequency": 4,
-      "relevance": 0.4,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md",
-      "position_in_text": 2,
-      "related_keywords": []
-    },
-    {
-      "term": "sales",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md",
-      "position_in_text": 19,
-      "related_keywords": []
-    },
-    {
-      "term": "marketing",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md",
-      "position_in_text": 29,
-      "related_keywords": []
-    },
-    {
-      "term": "working",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md",
-      "position_in_text": 727,
-      "related_keywords": []
-    },
     {
       "term": "Arviointilomake Myynti ja markkinointi",
       "frequency": 3,
@@ -101,14 +10,14 @@
         "file_name_based",
         "auto_extraction"
       ],
-      "source_file": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Myynti ja markkinointi.md",
       "position_in_text": 0,
       "related_keywords": []
     }
   ],
   "ecs_elements": {
-    "source_file": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md",
-    "extraction_date": "2026-02-09T21:47:08.569246",
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Myynti ja markkinointi.md",
+    "extraction_date": "2026-02-09T22:13:15.185030",
     "entities": [
       {
         "name": "Business Entity",
@@ -122,7 +31,7 @@
           "business_entity",
           "document_context"
         ],
-        "source_file": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md",
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Myynti ja markkinointi.md",
         "relationships": {}
       }
     ],
@@ -131,7 +40,7 @@
         "name": "Document Requirements",
         "description": "Requirements specified in the document",
         "properties": {
-          "specified_in": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md",
+          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Myynti ja markkinointi.md",
           "type": "business_requirements",
           "complexity": "medium"
         },
@@ -140,7 +49,7 @@
           "requirements",
           "business_rules"
         ],
-        "source_file": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md"
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Myynti ja markkinointi.md"
       }
     ],
     "systems": [
@@ -156,7 +65,7 @@
           "process",
           "system"
         ],
-        "source_file": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md"
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Myynti ja markkinointi.md"
       }
     ]
   },
@@ -169,7 +78,7 @@
       "condition": "document_reviewed == True",
       "scope": "document_compliance",
       "severity": "info",
-      "source_file": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Myynti ja markkinointi.md",
       "tags": [
         "compliance",
         "review"
@@ -180,7 +89,7 @@
     }
   ],
   "metadata": {
-    "source_file": "../docs/business_forms/Arviointilomake Myynti ja markkinointi.md",
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Myynti ja markkinointi.md",
     "title": "Arviointilomake Myynti ja markkinointi",
     "description": "Documentation file: Arviointilomake Myynti ja markkinointi.md",
     "tags": [
@@ -192,8 +101,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T21:47:08.569252",
-    "last_modified": "2026-02-09T21:47:08.569253",
+    "creation_date": "2026-02-09T22:13:15.185042",
+    "last_modified": "2026-02-09T22:13:15.185044",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -203,16 +112,9 @@
     ],
     "difficulty_level": "intermediate",
     "estimated_reading_time": 1,
-    "word_count": 82,
+    "word_count": 69,
     "language": "en",
     "keywords": [
-      "formation",
-      "form",
-      "information",
-      "assessment",
-      "sales",
-      "marketing",
-      "working",
       "Arviointilomake Myynti ja markkinointi"
     ],
     "related_entities": [
@@ -233,6 +135,6 @@
       "original_file_name": "Arviointilomake Myynti ja markkinointi.md"
     }
   },
-  "processing_date": "2026-02-09T21:47:08.569273",
+  "processing_date": "2026-02-09T22:13:15.185074",
   "processor": "systematic_batch_processor"
 }

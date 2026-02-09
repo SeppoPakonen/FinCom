@@ -1,136 +1,6 @@
 {
-  "original_content": "# Assessment Form: Planning and Starting Business Operations\n\n**Demonstrating Competence / Portfolio Evidence**\n\n**Module:** Planning and Starting Business Operations (60 cr)\n\n---\n\n### 1. Basic Information\n* **Student's name:** ________________________________________\n* **Demonstration location:** ___________________________________________\n  *(E.g. planned company or training placement)*\n\n---\n\n### 2. Demonstrated Competence (Criteria)\n* [ ] Creates a realistic business plan and calculations (YT4/YT5).\n* [ ] Evaluates business risks and proposes methods for their management.\n* [ ] Considers sustainability and responsibility in business operations.\n* [ ] Evaluates the significance of digitalization for company operations.\n* [ ] Makes necessary establishment notifications and ensures insurance.\n\n---\n\n### 3. Assessment Statement (Summary)\n*(This section contains a summary of the demonstrated competencies and the performance of the demonstration)*\n__________________________________________________________________________\n__________________________________________________________________________\n\n---\n\n### 4. Assessment Decision\n**The performance is:**\n- [ ] Approved\n- [ ] Failed\n\n**Date:** ____.____.20______\n\n#### Signatures:\n\n**Education Sector Representative:**\n____________________________\n*(PSK Adult Education Center)*\n\n**Working Life Representative:**\n____________________________\n\n---\n\n### 5. Acknowledgment\n**I have received the assessment decision:**\n\n**Student:**\n____________________________",
+  "original_content": "# Arviointilomake: Yritystoiminnan suunnittelu ja käynnistäminen\n\n**Osaamisen osoittaminen / Näyttöaineisto**\n\n**Tutkinnon osa:** Yritystoiminnan suunnittelu ja käynnistäminen (60 osp)\n\n---\n\n### 1. Perustiedot\n* **Opiskelijan nimi:** ________________________________________\n* **Näyttöpaikka:** ___________________________________________\n  *(Esim. suunnitteilla oleva yritys tai työssäoppimispaikka)*\n\n---\n\n### 2. Näytössä osoitettava osaaminen (Kriteerit)\n* [ ] Laatii realistisen liiketoimintasuunnitelman ja laskelmat (YT4/YT5).\n* [ ] Arvioi yritystoiminnan riskejä ja esittää keinot niiden hallintaan.\n* [ ] Huomioi kestävän kehityksen ja vastuullisuuden liiketoiminnassa.\n* [ ] Arvioi digitalisaation merkityksen yrityksen toiminnalle.\n* [ ] Tekee tarvittavat perustamisilmoitukset ja huolehtii vakuutuksista.\n\n---\n\n### 3. Arviointilausunto (Yhteenveto)\n*(Tähän täytetään yhteenveto osaamisesta ja näytön suorituksesta)*\n__________________________________________________________________________\n__________________________________________________________________________\n\n---\n\n### 4. Arviointipäätös\n**Suoritus on:** \n- [ ] Hyväksytty\n- [ ] Hylätty\n\n**Päiväys:** ____.____.20______\n\n#### Allekirjoitukset:\n\n**Opetusalan edustaja:**  \n____________________________  \n*(PSK-Aikuisopisto)*\n\n**Työelämän edustaja:**  \n____________________________  \n\n---\n\n### 5. Tiedoksianto\n**Olen saanut arviointipäätöksen tiedoksi:**\n\n**Opiskelija:**  \n____________________________",
   "keywords": [
-    {
-      "term": "business",
-      "frequency": 5,
-      "relevance": 0.5,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
-      "position_in_text": 41,
-      "related_keywords": []
-    },
-    {
-      "term": "company",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
-      "position_in_text": 360,
-      "related_keywords": []
-    },
-    {
-      "term": "formation",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
-      "position_in_text": 196,
-      "related_keywords": []
-    },
-    {
-      "term": "form",
-      "frequency": 4,
-      "relevance": 0.4,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
-      "position_in_text": 13,
-      "related_keywords": []
-    },
-    {
-      "term": "information",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
-      "position_in_text": 194,
-      "related_keywords": []
-    },
-    {
-      "term": "assessment",
-      "frequency": 4,
-      "relevance": 0.4,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
-      "position_in_text": 2,
-      "related_keywords": []
-    },
-    {
-      "term": "operations",
-      "frequency": 4,
-      "relevance": 0.4,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
-      "position_in_text": 50,
-      "related_keywords": []
-    },
-    {
-      "term": "planning",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
-      "position_in_text": 19,
-      "related_keywords": []
-    },
-    {
-      "term": "starting",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
-      "position_in_text": 32,
-      "related_keywords": []
-    },
-    {
-      "term": "working",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
-      "position_in_text": 1342,
-      "related_keywords": []
-    },
     {
       "term": "digital",
       "frequency": 1,
@@ -140,8 +10,8 @@
         "auto_extraction",
         "business_documentation"
       ],
-      "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
-      "position_in_text": 692,
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 691,
       "related_keywords": []
     },
     {
@@ -153,14 +23,14 @@
         "file_name_based",
         "auto_extraction"
       ],
-      "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
       "position_in_text": 0,
       "related_keywords": []
     }
   ],
   "ecs_elements": {
-    "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
-    "extraction_date": "2026-02-09T21:47:08.570231",
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+    "extraction_date": "2026-02-09T22:13:15.186347",
     "entities": [
       {
         "name": "Business Entity",
@@ -174,7 +44,7 @@
           "business_entity",
           "document_context"
         ],
-        "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
         "relationships": {}
       }
     ],
@@ -183,7 +53,7 @@
         "name": "Document Requirements",
         "description": "Requirements specified in the document",
         "properties": {
-          "specified_in": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
           "type": "business_requirements",
           "complexity": "medium"
         },
@@ -192,7 +62,7 @@
           "requirements",
           "business_rules"
         ],
-        "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md"
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md"
       }
     ],
     "systems": [
@@ -208,7 +78,7 @@
           "process",
           "system"
         ],
-        "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md"
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md"
       }
     ]
   },
@@ -221,7 +91,7 @@
       "condition": "document_reviewed == True",
       "scope": "document_compliance",
       "severity": "info",
-      "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
       "tags": [
         "compliance",
         "review"
@@ -232,7 +102,7 @@
     }
   ],
   "metadata": {
-    "source_file": "../docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
     "title": "Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen",
     "description": "Documentation file: Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
     "tags": [
@@ -244,8 +114,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T21:47:08.570238",
-    "last_modified": "2026-02-09T21:47:08.570239",
+    "creation_date": "2026-02-09T22:13:15.186355",
+    "last_modified": "2026-02-09T22:13:15.186356",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -255,19 +125,11 @@
     ],
     "difficulty_level": "intermediate",
     "estimated_reading_time": 1,
-    "word_count": 167,
+    "word_count": 137,
     "language": "en",
     "keywords": [
-      "business",
-      "company",
-      "formation",
-      "form",
-      "information",
-      "assessment",
-      "operations",
-      "planning",
-      "starting",
-      "working"
+      "digital",
+      "Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen"
     ],
     "related_entities": [
       "Business Entity"
@@ -287,6 +149,6 @@
       "original_file_name": "Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md"
     }
   },
-  "processing_date": "2026-02-09T21:47:08.570270",
+  "processing_date": "2026-02-09T22:13:15.186383",
   "processor": "systematic_batch_processor"
 }

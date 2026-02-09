@@ -1,0 +1,370 @@
+{
+  "original_content": "# Digital Purchase Paths and Online Store Planning\n\nThis document discusses digital business, factors for e-commerce success, and strategic marketing planning from the perspective of the customer's purchase path.\n\n---\n\n## 1. Digital Business and Commerce Transformation\n\nDigital commerce encompasses all sales-oriented activities in a digital environment.\n- **Objectives:** Increase revenue, improve profitability, and enhance efficiency.\n- **Transformation:** Previously, the store was chosen, now the product is selected and purchased from the most convenient channel for the customer. Power has shifted to the customer.\n- **Direct sales:** Brands and manufacturers increasingly operate directly in consumer sales (D2C), bypassing traditional retailers.\n\n---\n\n## 2. Success Factors for E-commerce\n\nSuccessful e-commerce is based on three pillars:\n1. **Authentic customer understanding:** Why and which customers buy from us?\n2. **Customer commitment:** Meaningfulness, distinctiveness, and credibility.\n3. **Strategic packaging:** Customer-centric product offering transformed into digital format.\n\n### Strategic Choices:\n- **Channel strategy:** Factors affecting the choice include profitability, customer ownership, customer acquisition costs, and brand management.\n- **Product strategy:** Range breadth, category structure, and operational capability (logistics, scalability).\n- **Content strategy:** Good content is an essential competitive advantage. It builds on customer knowledge and community.\n\n---\n\n## 3. Establishing and Developing E-commerce\n\n### Planning stages:\n- **Goal setting:** Serving current customers vs. international scaling.\n- **Platform selection:** (E.g., WooCommerce, Shopify, MyCashFlow, Vilkas, Finqu).\n- **Booking systems:** (E.g., Timma, Vello, DigitalBooker).\n- **Practical implementation:** Appearance, structure, payment methods, logistics, and testing on different devices.\n\n---\n\n## 4. Digital Purchase Path and REAN Model\n\nUnderstanding the purchase path is part of quality customer service. Customer service has four roles along the purchase path: **Trust, Expertise, Service, and Sales**.\n\n### REAN model along the purchase path:\n\n| Stage | Goal | Actions and Metrics |\n| :--- | :--- | :--- |\n| **REACH** | Become found. | Content marketing, SEO/SEM, social media, influencers. (Metric: visitor count, followers). |\n| **ENGAGE** | Activate and convince. | Appealing content, automatic reminders. (Metric: likes, shares, conversion). |\n| **ACTIVATE** | Enable action. | Conversion optimization, clear purchase process. (Metric: number of purchases, average order). |\n| **NURTURE** | Encourage return. | Post-marketing, email, social media. (Metric: newsletter subscribers, mentions). |\n\n---\n\n## 5. Marketing Tools: Traditional vs. Online\n\n| Traditional | Online Equivalent |\n| :--- | :--- |\n| Advertising | Online advertising, retargeting, social media advertising. |\n| PR | Blogs, newsletters, articles, discussion forums. |\n| Trade Shows & Events | Webinars, virtual exhibitions, chat. |\n| Sales Work | Chatbots, webinars, lead generation. |\n| Word of Mouth | Social media, recommendations, influencers. |\n\n---\n\n## 6. Social Media Publication Calendar\n\nPlanning ensures goal-oriented communication:\n- **Daily:** Check channels and respond.\n- **Weekly:** Publish regular content.\n- **Monthly:** Larger theme, campaign, or blog post.\n\n---\n\n## 7. E-commerce Responsibilities and Documents\n\nE-commerce must comply with consumer protection and data protection laws:\n- **Contact information:** Company name, location, and clear contact information.\n- **Delivery terms:** Payment methods, delivery times, and costs.\n- **Return policy:** Standard 14-day cancellation right. Customized products must be separately mentioned if they cannot be returned.\n- **Product information:** Key features and total price including taxes.\n- **Strong identification:** Rules according to the Payment Services Directive (PSD2).\n\n---\n\n## 8. Future Challenges\n- **Individuality:** Moving from mass service to individual experiences.\n- **Algorithms:** Differentiation and discoverability in search engines/social media becomes more difficult.\n- **Simplicity:** Technology complexity must not spoil the user experience.\n- **Environment:** Sustainability issues in logistics and consumption culture.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 84,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 3529,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 260,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 3850,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 2549,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 57,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 260,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 3514,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 13,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 187,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 2021,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 3671,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 3718,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 3917,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 304,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 140,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 42,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "Digital Purchase Paths and Online Store Planning",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+    "extraction_date": "2026-02-09T22:04:05.388128",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Digital_Purchase_Paths_and_Online_Store_Planning_review",
+      "title": "Digital Purchase Paths and Online Store Planning.md Review Required",
+      "description": "Document Digital Purchase Paths and Online Store Planning.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Digital Purchase Paths and Online Store Planning.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "../docs/business_forms/Digital Purchase Paths and Online Store Planning.md",
+    "title": "Digital Purchase Paths and Online Store Planning",
+    "description": "Documentation file: Digital Purchase Paths and Online Store Planning.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T22:04:05.388136",
+    "last_modified": "2026-02-09T22:04:05.388137",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 579,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "tax",
+      "process",
+      "document",
+      "form",
+      "information",
+      "customer",
+      "service"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Digital_Purchase_Paths_and_Online_Store_Planning_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Digital Purchase Paths and Online Store Planning.md"
+    }
+  },
+  "processing_date": "2026-02-09T22:04:05.388198",
+  "processor": "systematic_batch_processor"
+}

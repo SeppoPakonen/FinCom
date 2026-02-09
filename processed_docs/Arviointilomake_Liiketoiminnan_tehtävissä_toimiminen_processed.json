@@ -1,34 +1,8 @@
 {
-  "original_content": "# Assessment Form: Working in Business Operations\n\n**Demonstrating Competence / Portfolio Evidence**\n\n**Module:** Working in Business Operations (30 cr)\n\n---\n\n### 1. Basic Information\n* **Student's name:** ________________________________________\n* **Demonstration location:** ___________________________________________\n  *(E.g. DummyMusicCompany or other existing/planned business)*\n\n---\n\n### 2. Assessment Statement (Summary)\n*(This section contains a summary of the demonstrated competencies and the performance of the demonstration)*\n__________________________________________________________________________\n__________________________________________________________________________\n\n---\n\n### 3. Assessment Decision\n**The performance is:**\n- [ ] Approved\n- [ ] Failed\n\n**Date:** ____.____.20______\n\n#### Signatures:\n\n**Education Sector Representative:**\n____________________________\n*(PSK Adult Education Center)*\n\n**Working Life Representative:**\n____________________________\n*(Company representative / Assessor)*\n\n---\n\n### 4. Acknowledgment\n**I have received the assessment decision:**\n\n**Student:**\n____________________________",
+  "original_content": "# Arviointilomake: Liiketoiminnan tehtävissä toimiminen\n\n**Osaamisen osoittaminen / Näyttöaineisto**\n\n**Tutkinnon osa:** Liiketoiminnan tehtävissä toimiminen (30 osp)\n\n---\n\n### 1. Perustiedot\n* **Opiskelijan nimi:** ________________________________________\n* **Näyttöpaikka:** ___________________________________________\n  *(Esim. DummyMusicCompany tai muu toimiva/suunnitteilla oleva yritys)*\n\n---\n\n### 2. Arviointilausunto (Yhteenveto)\n*(Tähän täytetään yhteenveto osaamisesta ja näytön suorituksesta)*\n__________________________________________________________________________\n__________________________________________________________________________\n\n---\n\n### 3. Arviointipäätös\n**Suoritus on:** \n- [ ] Hyväksytty\n- [ ] Hylätty\n\n**Päiväys:** ____.____.20______\n\n#### Allekirjoitukset:\n\n**Opetusalan edustaja:**  \n____________________________  \n*(PSK-Aikuisopisto)*\n\n**Työelämän edustaja:**  \n____________________________  \n*(Yrityksen edustaja / Arvioija)*\n\n---\n\n### 4. Tiedoksianto\n**Olen saanut arviointipäätöksen tiedoksi:**\n\n**Opiskelija:**  \n____________________________\n",
   "keywords": [
     {
-      "term": "business",
-      "frequency": 3,
-      "relevance": 0.30000000000000004,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
-      "position_in_text": 30,
-      "related_keywords": []
-    },
-    {
       "term": "company",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
-      "position_in_text": 340,
-      "related_keywords": []
-    },
-    {
-      "term": "formation",
       "frequency": 1,
       "relevance": 0.1,
       "category": "business_term",
@@ -36,73 +10,8 @@
         "auto_extraction",
         "business_documentation"
       ],
-      "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
-      "position_in_text": 174,
-      "related_keywords": []
-    },
-    {
-      "term": "form",
-      "frequency": 4,
-      "relevance": 0.4,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
-      "position_in_text": 13,
-      "related_keywords": []
-    },
-    {
-      "term": "information",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
-      "position_in_text": 172,
-      "related_keywords": []
-    },
-    {
-      "term": "assessment",
-      "frequency": 4,
-      "relevance": 0.4,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
-      "position_in_text": 2,
-      "related_keywords": []
-    },
-    {
-      "term": "operations",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
-      "position_in_text": 39,
-      "related_keywords": []
-    },
-    {
-      "term": "working",
-      "frequency": 3,
-      "relevance": 0.30000000000000004,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
-      "position_in_text": 19,
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
+      "position_in_text": 341,
       "related_keywords": []
     },
     {
@@ -114,14 +23,14 @@
         "file_name_based",
         "auto_extraction"
       ],
-      "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
       "position_in_text": 0,
       "related_keywords": []
     }
   ],
   "ecs_elements": {
-    "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
-    "extraction_date": "2026-02-09T21:47:08.568771",
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
+    "extraction_date": "2026-02-09T22:13:15.184384",
     "entities": [
       {
         "name": "Business Entity",
@@ -135,7 +44,7 @@
           "business_entity",
           "document_context"
         ],
-        "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
         "relationships": {}
       }
     ],
@@ -144,7 +53,7 @@
         "name": "Document Requirements",
         "description": "Requirements specified in the document",
         "properties": {
-          "specified_in": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
+          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
           "type": "business_requirements",
           "complexity": "medium"
         },
@@ -153,7 +62,7 @@
           "requirements",
           "business_rules"
         ],
-        "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md"
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md"
       }
     ],
     "systems": [
@@ -169,7 +78,7 @@
           "process",
           "system"
         ],
-        "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md"
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md"
       }
     ]
   },
@@ -182,7 +91,7 @@
       "condition": "document_reviewed == True",
       "scope": "document_compliance",
       "severity": "info",
-      "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
       "tags": [
         "compliance",
         "review"
@@ -193,7 +102,7 @@
     }
   ],
   "metadata": {
-    "source_file": "../docs/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
     "title": "Arviointilomake Liiketoiminnan tehtävissä toimiminen",
     "description": "Documentation file: Arviointilomake Liiketoiminnan tehtävissä toimiminen.md",
     "tags": [
@@ -205,8 +114,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T21:47:08.568778",
-    "last_modified": "2026-02-09T21:47:08.568779",
+    "creation_date": "2026-02-09T22:13:15.184393",
+    "last_modified": "2026-02-09T22:13:15.184394",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -216,17 +125,10 @@
     ],
     "difficulty_level": "intermediate",
     "estimated_reading_time": 1,
-    "word_count": 109,
+    "word_count": 87,
     "language": "en",
     "keywords": [
-      "business",
       "company",
-      "formation",
-      "form",
-      "information",
-      "assessment",
-      "operations",
-      "working",
       "Arviointilomake Liiketoiminnan tehtävissä toimiminen"
     ],
     "related_entities": [
@@ -247,6 +149,6 @@
       "original_file_name": "Arviointilomake Liiketoiminnan tehtävissä toimiminen.md"
     }
   },
-  "processing_date": "2026-02-09T21:47:08.568801",
+  "processing_date": "2026-02-09T22:13:15.184418",
   "processor": "systematic_batch_processor"
 }

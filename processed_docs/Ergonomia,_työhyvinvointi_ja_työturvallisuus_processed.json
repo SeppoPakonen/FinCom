@@ -1,0 +1,140 @@
+{
+  "original_content": "# Ergonomia, työhyvinvointi ja työturvallisuus\n\nTämä asiakirja on kooste työturvallisuuden, ergonomian ja työhyvinvoinnin periaatteista painottuen erityisesti toimisto- ja kaupan alan työhön.\n\n---\n\n## 1. Keskeiset käsitteet\n\n- **Työsuojelu:** Työympäristön ja -olosuhteiden parantamista työntekijöiden työkyvyn turvaamiseksi. Tavoitteena on ennaltaehkäistä tapaturmia ja ammattitauteja (Työturvallisuuslaki 738/2002).\n- **Työhyvinvointi:** Turvallista, terveellistä ja tuottavaa työtä, joka koetaan mielekkääksi ja palkitsevaksi. Se tukee työntekijän elämänhallintaa.\n- **Työturvallisuus:** Työympäristön tila työntekijän terveyden kannalta. Tavoitteena on \"kokonaisturvallisuus\", jossa vahinkoja ei tapahdu työssä eikä vapaa-ajalla.\n\n---\n\n## 2. Työturvallisuusriskit ja hallinta\n\n### Riskit kaupan alalla ja toimistossa:\n- Sähkö- ja paloturvallisuus.\n- Uhka- ja väkivaltatilanteet (ryöstöt, häiriintyneet asiakkaat).\n- Yksin työskentely ja henkinen kuormitus.\n- Fyysiset tekijät: kylmässä työskentely, kuormittavat asennot, nostot ja toistotyö.\n\n### Työnantajan velvollisuudet:\n- **Riskien arviointi:** Työnantajan on järjestelmällisesti selvitettävä työn haitta- ja vaaratekijät. Tarvittaessa on käytettävä ulkopuolisia asiantuntijoita.\n- **Perehdyttäminen:** Työntekijälle on opastettava turvalliset työtavat, koneiden käyttö, suojeluohjeet ja ensiaputoiminta.\n- **Työterveyshuolto:** Lakisääteinen velvollisuus järjestää palvelut sairauksien ehkäisemiseksi ja työkyvyn ylläpitämiseksi.\n\n---\n\n## 3. Ergonomia ja fyysinen kuormitus\n\nErgonomiaa parantamalla vähennetään työn fyysisiä kuormitustekijöitä, kuten staattisia asentoja, jatkuvaa istumista ja toistotyötä.\n\n### Hyvä työpiste ja toimistoergonomia:\n- **Tila:** Yhdelle henkilölle 10–12 m², useammalle 8 m² per henkilö. Työtuolille vähintään 1 m² liikkumistilaa.\n- **Yksilöllisyys:** Huomioitava pituus, raajojen pituus ja vasen-/oikeakätisyys.\n- **Näyttöpäätetyö:** Jos tavalliset lasit eivät sovi työhön, työnantajan on hankittava **näyttöpäätelasit** (Ttl 26 §).\n- **Valaistus ja melu:** Häikäisemätön yleisvalaistus ja häiriötön melutaso.\n\n### Vinkkejä kuormituksen ehkäisyyn:\n- **Nostotekniikka:** Käytä jalkoja (kyykisty), pidä taakka lähellä kehoa, aktivoi vatsalihakset. Älä nosta raskaasti yksin.\n- **Vaihtelu:** Vaihtele asentoa (istu, seiso, liiku) ja tauota työsi säännöllisesti.\n- **Toistotyö:** Ehkäise toistorasitusta suunnittelemalla työ vaihtelevaksi.\n\n---\n\n## 4. Uhka- ja väkivaltatilanteiden kohtaaminen\n\nAsiakaspalvelualoilla on varauduttava uhkaaviin tilanteisiin teknisin laittein (valvonta, hälyttimet) ja toimintaohjein.\n\n### Toimintaohjeet uhkaavassa tilanteessa:\n- Pysy tyynenä, puhu selkeästi ja lyhyesti.\n- Pidä kädet näkyvillä ja säilytä riittävä etäisyys (toisen reviiri).\n- Vältä tuijottamista, nauramista tai huumoria.\n- Älä käännä selkääsi uhkaajalle.\n- Esitä vaatimukset yleisinä (esim. \"Täällä ei saa tupakoida\").\n\n---\n\n## 5. Työsuojelun yhteistoiminta\n\nLaki määrää yhteistyörakenteet työntekijämäärän mukaan:\n- **Työsuojelupäällikkö:** Työnantaja nimeää aina.\n- **Työsuojeluvaltuutettu:** Valittava, jos työntekijöitä on vähintään 10.\n- **Työsuojelutoimikunta:** Perustettava, jos työntekijöitä on säännöllisesti vähintään 20.\n\n---\n\n## 6. Hyödyllisiä resursseja\n\n- **Työterveyslaitos:** [Toimisto- ja tietotyö](https://www.ttl.fi/tyontekija/tuki-liikuntaelinten-terveys/ergonomia/toimisto-ja-tietotyo/)\n- **Työturvallisuuskeskus:** [ttk.fi](https://www.ttk.fi)\n- **Nostaminen ja selän terveys:** [selkakanava.fi](https://selkakanava.fi/nostaminen)\n- **Ergonomiatuotteet:** [ergonomiatuotteet.fi](http://www.ergonomiatuotteet.fi/)",
+  "keywords": [
+    {
+      "term": "Ergonomia, työhyvinvointi ja työturvallisuus",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Ergonomia, työhyvinvointi ja työturvallisuus.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Ergonomia, työhyvinvointi ja työturvallisuus.md",
+    "extraction_date": "2026-02-09T22:13:15.194474",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Ergonomia, työhyvinvointi ja työturvallisuus.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Ergonomia, työhyvinvointi ja työturvallisuus.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Ergonomia, työhyvinvointi ja työturvallisuus.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Ergonomia, työhyvinvointi ja työturvallisuus.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Ergonomia,_työhyvinvointi_ja_työturvallisuus_review",
+      "title": "Ergonomia, työhyvinvointi ja työturvallisuus.md Review Required",
+      "description": "Document Ergonomia, työhyvinvointi ja työturvallisuus.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Ergonomia, työhyvinvointi ja työturvallisuus.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Ergonomia, työhyvinvointi ja työturvallisuus.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Ergonomia, työhyvinvointi ja työturvallisuus.md",
+    "title": "Ergonomia, työhyvinvointi ja työturvallisuus",
+    "description": "Documentation file: Ergonomia, työhyvinvointi ja työturvallisuus.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T22:13:15.194486",
+    "last_modified": "2026-02-09T22:13:15.194488",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 380,
+    "language": "en",
+    "keywords": [
+      "Ergonomia, työhyvinvointi ja työturvallisuus"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Ergonomia,_työhyvinvointi_ja_työturvallisuus_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Ergonomia, työhyvinvointi ja työturvallisuus.md"
+    }
+  },
+  "processing_date": "2026-02-09T22:13:15.194569",
+  "processor": "systematic_batch_processor"
+}

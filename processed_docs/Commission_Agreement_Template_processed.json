@@ -1,0 +1,168 @@
+{
+  "original_content": "# Commission Agreement (Template)\n\nThis is a template for a single commission agreement.\n\n---\n\n## 1. Contracting Parties\n\n- **Commissioner (Client):**      \n- **Commission recipient (Performer):**      \n\n---\n\n## 2. Description of the Task\n*(Define the content, objectives, and schedule of the commission)*\n     \n\n---\n\n## 3. Fee and Expense Reimbursement\n\n- **Fee amount:**      \n- **Expense reimbursement:** (Travel expenses, supplies, etc.)      \n- **Payment terms:**      \n\n---\n\n## 4. Duration and Termination of Agreement\n\n- **Validity:** The agreement is valid [ ] until further notice / [ ] for a fixed term until   .  .202  .\n- **Notice period:**      \n\n---\n\n## 5. Dispute Resolution\n\nDisputes arising from this agreement are primarily attempted to be resolved through negotiations between the parties. If no resolution is reached within 1 month of identifying the dispute, the matter is resolved by an external legal mediator acceptable to both parties. If necessary, the mediator is selected by lot between two candidates. The mediator must provide their decision within one month of selection, and the decision binds both parties without possibility of appeal.\n\n---\n\n## Signatures\n\n**Place and date:**      ,    .    . 202  \n\n____________________________  \n**Commissioner**\n\n____________________________  \n**Commission recipient**",
+  "keywords": [
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Commission Agreement Template.md",
+      "position_in_text": 186,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Commission Agreement Template.md",
+      "position_in_text": 24,
+      "related_keywords": []
+    },
+    {
+      "term": "Commission Agreement Template",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "../docs/business_forms/Commission Agreement Template.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "../docs/business_forms/Commission Agreement Template.md",
+    "extraction_date": "2026-02-09T22:00:28.488605",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "../docs/business_forms/Commission Agreement Template.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "../docs/business_forms/Commission Agreement Template.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "../docs/business_forms/Commission Agreement Template.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "../docs/business_forms/Commission Agreement Template.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Commission_Agreement_Template_review",
+      "title": "Commission Agreement Template.md Review Required",
+      "description": "Document Commission Agreement Template.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "../docs/business_forms/Commission Agreement Template.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Commission Agreement Template.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "../docs/business_forms/Commission Agreement Template.md",
+    "title": "Commission Agreement Template",
+    "description": "Documentation file: Commission Agreement Template.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T22:00:28.488611",
+    "last_modified": "2026-02-09T22:00:28.488612",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 187,
+    "language": "en",
+    "keywords": [
+      "form",
+      "template",
+      "Commission Agreement Template"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Commission_Agreement_Template_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Commission Agreement Template.md"
+    }
+  },
+  "processing_date": "2026-02-09T22:00:28.488637",
+  "processor": "systematic_batch_processor"
+}

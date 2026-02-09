@@ -1,0 +1,266 @@
+{
+  "original_content": "# Elements of Good Advertising and Ideation Tools\n\nCreating good advertising requires balancing multiple elements. The goal is to arouse the interest of potential customers and guide them to the desired action.\n\n---\n\n## 1. General Principles of Good Advertising\n\nAlthough the content of advertising depends on the product and target audience, the following principles help create effective compositions:\n\n- **Targeting:** The message must be precisely tailored to the right audience.\n- **Headline:** Catchy headline that encapsulates the message and arouses interest.\n- **Visuals:** High-quality images or graphics that support the product's message.\n- **Offer:** Clear and attractive benefit (discount, free trial, limited time).\n- **Wording:** Language that emphasizes benefits to the customer and speaks to them directly.\n- **Storytelling:** Makes the advertisement more memorable and easier to understand.\n- **Social proof:** Reviews, recommendations, and expert statements build trust.\n- **Simplicity:** The message must be easy to understand at a glance.\n- **Call to Action (CTA):** Strong guidance (e.g., \"Buy now\", \"Read more\", \"Subscribe to newsletter\").\n- **Optimization:** A/B testing with different elements to achieve the best results.\n\n---\n\n## 2. Features of Effective Headlines\n\nA good headline is short, concise, and attractive. Effective techniques include:\n\n- **Interesting question:** \"Do you need a relaxing vacation?\"\n- **Surprising information:** \"70% of people make this mistake daily.\"\n- **Offer or benefit:** \"Save 50% today!\"\n- **Strong claim:** \"Change your life for the better with this simple solution.\"\n- **Practical advice:** \"This is how you get more time in a day.\"\n- **Wordplay:** Entertaining and memorable language.\n- **Personalization:** Use of \"you\" and \"your\" language.\n- **Positive emotion:** Evokes joy, excitement, or gratitude.\n- **Contradiction:** Arouses curiosity, e.g., \"Lose weight by eating more.\"\n\n---\n\n## 3. Tools for Ideation and Implementation\n\nUtilize the following digital tools in content planning and graphic creation:\n\n- **Design and layout:** [Canva](https://www.canva.com/en_en/)\n- **Text and ideation (AI):** [ChatGPT](https://chat.openai.com/)\n- **Image creation (AI):** [Craiyon](https://www.craiyon.com/) or [Adobe Firefly](https://firefly.adobe.com/)\n- **Image editing and quick design:** [Adobe Express](https://www.adobe.com/en/express/)",
+  "keywords": [
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+      "position_in_text": 1456,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+      "position_in_text": 1456,
+      "related_keywords": []
+    },
+    {
+      "term": "guidance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+      "position_in_text": 1096,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+      "position_in_text": 1454,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+      "position_in_text": 716,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+      "position_in_text": 163,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+      "position_in_text": 2045,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+      "position_in_text": 2020,
+      "related_keywords": []
+    },
+    {
+      "term": "fire",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+      "position_in_text": 2279,
+      "related_keywords": []
+    },
+    {
+      "term": "Elements of Good Advertising and Ideation Tools",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+    "extraction_date": "2026-02-09T22:04:05.390210",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Elements_of_Good_Advertising_and_Ideation_Tools_review",
+      "title": "Elements of Good Advertising and Ideation Tools.md Review Required",
+      "description": "Document Elements of Good Advertising and Ideation Tools.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Elements of Good Advertising and Ideation Tools.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "../docs/business_forms/Elements of Good Advertising and Ideation Tools.md",
+    "title": "Elements of Good Advertising and Ideation Tools",
+    "description": "Documentation file: Elements of Good Advertising and Ideation Tools.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T22:04:05.390217",
+    "last_modified": "2026-02-09T22:04:05.390217",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 326,
+    "language": "en",
+    "keywords": [
+      "formation",
+      "form",
+      "guidance",
+      "information",
+      "limited",
+      "customer",
+      "planning",
+      "digital",
+      "fire",
+      "Elements of Good Advertising and Ideation Tools"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Elements_of_Good_Advertising_and_Ideation_Tools_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Elements of Good Advertising and Ideation Tools.md"
+    }
+  },
+  "processing_date": "2026-02-09T22:04:05.390254",
+  "processor": "systematic_batch_processor"
+}

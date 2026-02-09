@@ -2,7 +2,7 @@
 
 ## File Information
 - **File**: `asiakirjastandardi_SFS_2487.md`
-- **Source Directory**: `/common/active/sblo/Dev/FinCom/docs`
+- **Source Directory**: `/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/`
 - **Status**: COMPLETED
 
 ## Processing Requirements
@@ -56,7 +56,7 @@ Process this documentation file to add:
 - **Date Completed**: 2026-02-09
 - **Processor**: Systematic Batch Processor
 - **Output File**: `processed_docs/asiakirjastandardi_SFS_2487_processed.json`
-- **Keywords Extracted**: 8
+- **Keywords Extracted**: 2
 - **Entities Identified**: 1
 - **Components Identified**: 1
 - **Systems Identified**: 1

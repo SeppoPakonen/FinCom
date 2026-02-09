@@ -1,47 +1,8 @@
 {
-  "original_content": "# Document Standard SFS 2487\n\nThis guide is based on the SFS 2487 standard and defines the layout, tabs and structure of multi-page documents.\n\n---\n\n## 1. Page Settings and Margins\n\n- **Top margin:** 1 cm\n- **Bottom margin:** at least 1 cm (recommended 2 cm)\n- **Left margin:** 2 cm\n- **Right margin:** at least 0.7 cm (recommended 1 cm)\n- **Standard tabs:** Tabs are placed at 23 mm intervals measured from the left edge of the form.\n    - **Tab positions (cm):** C0: 0, C1: 2.3, C2: 4.6, C3: 6.9, C4: 9.2, C5: 11.5, C6: 13.8, C7: 16.1.\n\n---\n\n## 2. Document Parts and Placement\n\nRow numbers according to the standard must be adjusted according to the number of rows in the header. Word starts row numbering from 1 after the header.\n\n### Header (Example with 6-row header)\n1. **Publisher/Sender:** Written in bold (except for private individuals). Position: C0.\n2. **Document name:** Starting with a capital letter (e.g. *Offer*, *Order*). Position: C3.\n3. **Page number:** Included only in multi-page documents in the format `PageNo (TotalPages)`, e.g. `1 (5)`. Position: C6.\n4. **Document supplement:** Clarifying information, e.g. *Certificate of Employment – Temporary*. Position: C3.\n\n### Recipient and Headings\n- **Recipient:** According to the standard, begins on row 7. If the header is 6 rows, write after the header on row 1.\n- **Reference:** Standard row 14. For example, *Your advertisement in HS on 1.11.2009*.\n- **Main heading:** Standard row 16. Written in bold.\n- **Text:** According to the standard, begins on row 20. Text is indented to tab position C2 (4.6 cm).\n\n---\n\n## 3. Dates and Information\n\n- **Date:** In domestic correspondence, use the format `day.month.year` (e.g. 4.11.2009). No leading zeros are used.\n- **Contact information:** Organization name, address (PO box/street address), phone, fax, email, website, Business ID and registered office are usually placed in the header or footer in columns according to the standard.\n\n---\n\n## 4. Closing Entries\n\nSpace is left at the end of the document for signatures and possible additional information:\n\n1. **Closing greeting:** 2 line breaks after the text.\n2. **Publisher/Sender:** 2 line breaks after the greeting, written in CAPITAL LETTERS.\n3. **Signature and name clarification:** 3–5 line breaks after the sender's name. The position/title is written below the name clarification.\n4. **Additional entries:** The words *Attachment*, *Distribution* and *CC* are written at least one row below the name clarification.\n    - Listed attachments are written with a capital first letter.\n\n---\n\n## 5. Footer\n\n- There must be at least 3 empty rows before the footer.\n- Information is usually written in a smaller font than the main text.",
+  "original_content": "# Asiakirjastandardi SFS 2487\n\nTämä ohje perustuu SFS 2487 -standardiin ja määrittelee monisivuisten asiakirjojen asettelun, sarkaimet ja rakenteen.\n\n---\n\n## 1. Sivun asetukset ja reunukset\n\n- **Yläreunus:** 1 cm\n- **Alareunus:** vähintään 1 cm (suositus 2 cm)\n- **Vasen reunus:** 2 cm\n- **Oikea reunus:** vähintään 0,7 cm (suositus 1 cm)\n- **Vakiosarkaus:** Sarkaimet asetetaan 23 mm välein lomakkeen vasemmasta reunasta mitaten.\n    - **Sarkainkohdat (cm):** C0: 0, C1: 2.3, C2: 4.6, C3: 6.9, C4: 9.2, C5: 11.5, C6: 13.8, C7: 16.1.\n\n---\n\n## 2. Asiakirjan osat ja sijoittelu\n\nStandardin mukaiset rivinumerot on suhteutettava ylätunnisteen rivimäärään. Word aloittaa rivinumeroinnin 1:stä ylätunnisteen jälkeen.\n\n### Ylätunniste (Esimerkki 6 rivin tunnisteella)\n1. **Julkaisija/Lähettäjä:** Kirjoitetaan lihavoiden (paitsi yksityishenkilö). Sijainti: C0.\n2. **Asiakirjan nimi:** Alkaen isolla alkukirjaimella (esim. *Tarjous*, *Tilaus*). Sijainti: C3.\n3. **Sivunumero:** Merkitään vain monisivuisiin asiakirjoihin muodossa `Sivunro (Sivumäärä)`, esim. `1 (5)`. Sijainti: C6.\n4. **Asiakirjan täydenne:** Täsmentävä tieto, esim. *Työtodistus – Väliaikainen*. Sijainti: C3.\n\n### Vastaanottaja ja Otsikot\n- **Vastaanottaja:** Alkaa standardin mukaan riviltä 7. Jos ylätunniste on 6 riviä, kirjoitetaan ylätunnisteen jälkeen riville 1.\n- **Viite:** Standardin rivi 14. Kirjoitetaan esim. *Ilmoituksenne HS:ssa 1.11.2009*.\n- **Pääotsikko:** Standardin rivi 16. Kirjoitetaan lihavoiden.\n- **Teksti:** Alkaa standardin mukaan riviltä 20. Teksti sisennetään sarkainkohtaan C2 (4,6 cm).\n\n---\n\n## 3. Päivämäärä ja tiedot\n\n- **Päivämäärä:** Kotimaisessa kirjeenvaihdossa käytetään muotoa `päivä.kuukausi.vuosi` (esim. 4.11.2009). Täydentäviä nollia ei käytetä.\n- **Yhteystiedot:** Organisaation nimi, osoite (PL/katuosoite), puhelin, faksi, sähköposti, verkkosivut, Y-tunnus ja kotipaikka sijoitetaan yleensä ylä- tai alatunnisteeseen standardin mukaisiin sarakkeisiin.\n\n---\n\n## 4. Loppumerkinnät\n\nAsiakirjan loppuun jätetään tilaa allekirjoituksille ja mahdollisille lisätiedoille:\n\n1. **Lopputervehdys:** 2 rivinvaihtoa tekstin jälkeen.\n2. **Julkaisija/Lähettäjä:** 2 rivinvaihtoa tervehdyksen jälkeen, kirjoitetaan ISOILLA KIRJAIMILLA.\n3. **Allekirjoitus ja nimenselvennys:** 3–5 rivinvaihtoa lähettäjän nimen jälkeen. Nimenselvennyksen alle kirjoitetaan ammatti/titteli.\n4. **Lisämerkinnät:** Sanat *Liite*, *Jakelu* ja *Tiedoksi* kirjoitetaan vähintään yhden rivin päähän nimenselvennyksestä.\n    - Mainitut liitteet kirjoitetaan isolla alkukirjaimella.\n\n---\n\n## 5. Alatunniste\n\n- Alatunnisteen edellä on oltava vähintään 3 tyhjää riviä.\n- Tiedot kirjoitetaan yleensä varsinaista tekstiä pienemmällä fonttikoolla.",
   "keywords": [
     {
-      "term": "business",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/asiakirjastandardi_SFS_2487.md",
-      "position_in_text": 1840,
-      "related_keywords": []
-    },
-    {
-      "term": "formation",
-      "frequency": 5,
-      "relevance": 0.5,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/asiakirjastandardi_SFS_2487.md",
-      "position_in_text": 1118,
-      "related_keywords": []
-    },
-    {
-      "term": "document",
-      "frequency": 7,
-      "relevance": 0.7000000000000001,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/asiakirjastandardi_SFS_2487.md",
-      "position_in_text": 2,
-      "related_keywords": []
-    },
-    {
-      "term": "form",
+      "term": "standard",
       "frequency": 8,
       "relevance": 0.8,
       "category": "business_term",
@@ -49,47 +10,8 @@
         "auto_extraction",
         "business_documentation"
       ],
-      "source_file": "../docs/business_forms/asiakirjastandardi_SFS_2487.md",
-      "position_in_text": 429,
-      "related_keywords": []
-    },
-    {
-      "term": "information",
-      "frequency": 5,
-      "relevance": 0.5,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/asiakirjastandardi_SFS_2487.md",
-      "position_in_text": 1116,
-      "related_keywords": []
-    },
-    {
-      "term": "standard",
-      "frequency": 9,
-      "relevance": 0.9,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/asiakirjastandardi_SFS_2487.md",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/asiakirjastandardi_SFS_2487.md",
       "position_in_text": 11,
-      "related_keywords": []
-    },
-    {
-      "term": "starting",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "../docs/business_forms/asiakirjastandardi_SFS_2487.md",
-      "position_in_text": 884,
       "related_keywords": []
     },
     {
@@ -101,14 +23,14 @@
         "file_name_based",
         "auto_extraction"
       ],
-      "source_file": "../docs/business_forms/asiakirjastandardi_SFS_2487.md",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/asiakirjastandardi_SFS_2487.md",
       "position_in_text": 0,
       "related_keywords": []
     }
   ],
   "ecs_elements": {
-    "source_file": "../docs/business_forms/asiakirjastandardi_SFS_2487.md",
-    "extraction_date": "2026-02-09T21:47:08.572850",
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/asiakirjastandardi_SFS_2487.md",
+    "extraction_date": "2026-02-09T22:13:15.188782",
     "entities": [
       {
         "name": "Business Entity",
@@ -122,7 +44,7 @@
           "business_entity",
           "document_context"
         ],
-        "source_file": "../docs/business_forms/asiakirjastandardi_SFS_2487.md",
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/asiakirjastandardi_SFS_2487.md",
         "relationships": {}
       }
     ],
@@ -131,7 +53,7 @@
         "name": "Document Requirements",
         "description": "Requirements specified in the document",
         "properties": {
-          "specified_in": "../docs/business_forms/asiakirjastandardi_SFS_2487.md",
+          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/asiakirjastandardi_SFS_2487.md",
           "type": "business_requirements",
           "complexity": "medium"
         },
@@ -140,7 +62,7 @@
           "requirements",
           "business_rules"
         ],
-        "source_file": "../docs/business_forms/asiakirjastandardi_SFS_2487.md"
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/asiakirjastandardi_SFS_2487.md"
       }
     ],
     "systems": [
@@ -156,7 +78,7 @@
           "process",
           "system"
         ],
-        "source_file": "../docs/business_forms/asiakirjastandardi_SFS_2487.md"
+        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/asiakirjastandardi_SFS_2487.md"
       }
     ]
   },
@@ -169,7 +91,7 @@
       "condition": "document_reviewed == True",
       "scope": "document_compliance",
       "severity": "info",
-      "source_file": "../docs/business_forms/asiakirjastandardi_SFS_2487.md",
+      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/asiakirjastandardi_SFS_2487.md",
       "tags": [
         "compliance",
         "review"
@@ -180,7 +102,7 @@
     }
   ],
   "metadata": {
-    "source_file": "../docs/business_forms/asiakirjastandardi_SFS_2487.md",
+    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/asiakirjastandardi_SFS_2487.md",
     "title": "asiakirjastandardi SFS 2487",
     "description": "Documentation file: asiakirjastandardi_SFS_2487.md",
     "tags": [
@@ -192,8 +114,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T21:47:08.572857",
-    "last_modified": "2026-02-09T21:47:08.572858",
+    "creation_date": "2026-02-09T22:13:15.188793",
+    "last_modified": "2026-02-09T22:13:15.188794",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -202,17 +124,11 @@
       "business_operations"
     ],
     "difficulty_level": "intermediate",
-    "estimated_reading_time": 2,
-    "word_count": 435,
+    "estimated_reading_time": 1,
+    "word_count": 322,
     "language": "en",
     "keywords": [
-      "business",
-      "formation",
-      "document",
-      "form",
-      "information",
       "standard",
-      "starting",
       "asiakirjastandardi SFS 2487"
     ],
     "related_entities": [
@@ -233,6 +149,6 @@
       "original_file_name": "asiakirjastandardi_SFS_2487.md"
     }
   },
-  "processing_date": "2026-02-09T21:47:08.572900",
+  "processing_date": "2026-02-09T22:13:15.188839",
   "processor": "systematic_batch_processor"
 }

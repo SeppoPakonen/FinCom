@@ -5,14 +5,14 @@ This file tracks the progress of manually processing all documentation files in 
 
 ## Total Files to Process
 - **Total Documentation Files**: 294
-- **Already Processed**: 24 (company_formation_example.md, company_finance_example.md, 2025 Marketing Fundamentals and Competitive Strategies.md, 2025 Markkinointi_perusteet_kilpailukeinot.md, plus 20 additional files)
-- **Remaining to Process**: 270
-- **Completion Rate**: 8.16%
+- **Already Processed**: 43 (company_formation_example.md, company_finance_example.md, 2025 Marketing Fundamentals and Competitive Strategies.md, 2025 Markkinointi_perusteet_kilpailukeinot.md, plus 39 additional files)
+- **Remaining to Process**: 251
+- **Completion Rate**: 14.63%
 
 ## Processing Status
-- **Not Started**: 270 files
+- **Not Started**: 251 files
 - **In Progress**: 0 files
-- **Completed**: 24 files
+- **Completed**: 43 files
 
 ## Files Already Processed
 1. `company_formation_example.md` - Completed
@@ -39,12 +39,31 @@ This file tracks the progress of manually processing all documentation files in 
 22. `Associations.md` - Completed
 23. `Base Text Digital Photography.md` - Completed
 24. `budjetointi.md` - Completed
+25. `00 Tietoturvaa ja tietosuojaa.md` - Completed
+26. `2025 Markkinointi_perusteet_kilpailukeinot.md` - Completed
+27. `AB-Kortti.md` - Completed
+28. `Arviointilomake Liiketoiminnan tehtävissä toimiminen.md` - Completed
+29. `Arviointilomake Myynti ja markkinointi.md` - Completed
+30. `Arviointilomake tuotteiden ja palveluiden kehittäminen.md` - Completed
+31. `Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md` - Completed
+32. `Asiakaslupaus.md` - Completed
+33. `asiakaspalvelu kuluttajille.md` - Completed
+34. `asiakaspalvelu.md` - Completed
+35. `asiakirjastandardi_SFS_2487.md` - Completed
+36. `budjetointi.md` - Completed
+37. `Canva tehtävät.md` - Completed
+38. `Digitaalinen markkinointi.md` - Completed
+39. `Digitaalinen ympäristöni.md` - Completed
+40. `Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md` - Completed
+41. `Digitaaliset ostopolut.md` - Completed
+42. `Ergonomia, työhyvinvointi ja työturvallisuus.md` - Completed
+43. `esihenkilöiden lainsäädäntö.md` - Completed
 
 ## Progress Tracking
 Each file has a corresponding task file in `/plan/manual_processing/tasks/` directory that tracks its individual processing status.
 
 ## Next Steps
-1. Process remaining 270 documentation files
+1. Process remaining 251 documentation files
 2. Update individual task files as each file is processed
 3. Update this master tracker periodically
 4. Generate processed data files in `processed_docs/` directory
