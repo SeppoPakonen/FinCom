@@ -1,0 +1,331 @@
+{
+  "original_content": "# Information on the Startup Grant\n\nThe startup grant is a personal support for a starting entrepreneur to secure livelihood during the initial phase of business operations.\n\n## 1. Requirements for Granting\n* **Primary occupation:** Entrepreneurship must be the primary occupation.\n* **Qualifications:** The applicant must have sufficient expertise or education in the field.\n* **Necessity:** The support must be necessary for the entrepreneur's livelihood (not granted if the entrepreneur already receives other income, e.g., salary).\n* **Profitability:** The company must have the prerequisites for ongoing profitable operations.\n* **Competition situation:** The support must not distort local competition.\n\n## 2. Amount and Duration of Support\n* **Amount:** Same as the basic daily allowance (37.21 €/day in 2024–2026).\n* **Payment:** Paid for a maximum of five days per calendar week.\n* **Duration:** Usually 6 months at a time, maximum 12 months.\n* **Taxation:** The startup grant is taxable income for the entrepreneur.\n\n## 3. Application\n* **When:** The application must be submitted **before** starting business operations.\n* **Where:** Applied through the Employment and Economic Development Office (TE services or municipal trial).\n* **Attachments:** Business plan (BP), profitability calculations, and tax debt certificate.\n\n---\n**Important:** Do not register the company or start operations before receiving a positive startup grant decision!",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 153,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 561,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 4,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 956,
+      "related_keywords": []
+    },
+    {
+      "term": "requirements",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 181,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 4,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 1212,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 1212,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 162,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 82,
+      "related_keywords": []
+    },
+    {
+      "term": "employment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 1165,
+      "related_keywords": []
+    },
+    {
+      "term": "salary",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 527,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 1033,
+      "related_keywords": []
+    },
+    {
+      "term": "Information on the Startup Grant",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+    "extraction_date": "2026-02-09T23:01:32.407516",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Information_on_the_Startup_Grant_review",
+      "title": "Information on the Startup Grant.md Review Required",
+      "description": "Document Information on the Startup Grant.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Information on the Startup Grant.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information on the Startup Grant.md",
+    "title": "Information on the Startup Grant",
+    "description": "Documentation file: Information on the Startup Grant.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.407522",
+    "last_modified": "2026-02-09T23:01:32.407523",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 208,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "tax",
+      "requirements",
+      "form",
+      "information",
+      "service",
+      "services",
+      "operations"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Information_on_the_Startup_Grant_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Information on the Startup Grant.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.407555",
+  "processor": "systematic_batch_processor"
+}

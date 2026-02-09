@@ -1,0 +1,266 @@
+{
+  "original_content": "# Logistics Expertise\n\nLogistics is essential for a company's survival. It is the management of information, material, and financial flows throughout the entire supply chain.\n\n## 1. Definition of Logistics\nLogistics means:\n* **Material flow:** Incoming, internal, and outgoing goods flow from raw materials to end consumers.\n* **Information flow:** Movement of information about orders, inventory levels, and schedules.\n* **Financial flow:** Movement of payments in the chain.\n\n## 2. Key Principles (JOT & FIFO)\n* **JOT (Just On Time):** Right products, at the right time, in the right place, and with the right quality at minimum cost.\n* **FIFO (First In, First Out):** The goods that came to inventory first leave it first (especially important for perishable products).\n* **Minimizing waste:** Eliminating unnecessary steps and storage.\n\n## 3. Logistics Objectives\nWith efficient logistics, the following are targeted:\n1. **Better customer service** -> Increases revenue.\n2. **Lower costs** -> Better profit.\n3. **Faster turnover rate** -> Less tied-up capital.\n4. **High delivery reliability** -> Customer satisfaction.\n\n## 4. Components of Competitiveness\n* **Quality:** The customer gets what they want, when they want it.\n* **Price:** Competitive price-quality ratio.\n* **Delivery speed and reliability:** Reliable and fast delivery.\n\n## 5. Logistics Key Figures\n* **Inventory turnover rate:** Purchases at acquisition cost / average inventory.\n* **Average inventory holding time:** 365 / inventory turnover rate.\n* **Service level percentage:** (Delivered orders / Total orders) * 100.\n* **Delivery reliability:** (Error-free orders / Number of deliveries) * 100.\n\n## 6. Contracts and Delivery Terms\nIn commercial contracts, the following are agreed upon:\n* Product specifications and price.\n* Payment terms.\n* **Delivery terms (e.g., Incoterms):** Define who is responsible for costs and when the risk transfers from the seller to the buyer.\n\n---\n**Note:** Always ensure that the accounts receivable turnover rate is faster than the accounts payable turnover time!",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+      "position_in_text": 52,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+      "position_in_text": 98,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+      "position_in_text": 98,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+      "position_in_text": 96,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+      "position_in_text": 1086,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+      "position_in_text": 934,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+      "position_in_text": 943,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+      "position_in_text": 544,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+      "position_in_text": 1679,
+      "related_keywords": []
+    },
+    {
+      "term": "Logistics Expertise",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+    "extraction_date": "2026-02-09T23:01:32.563857",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Logistics_Expertise_review",
+      "title": "Logistics Expertise.md Review Required",
+      "description": "Document Logistics Expertise.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Logistics Expertise.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Expertise.md",
+    "title": "Logistics Expertise",
+    "description": "Documentation file: Logistics Expertise.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.563864",
+    "last_modified": "2026-02-09T23:01:32.563865",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 307,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "form",
+      "information",
+      "liability",
+      "customer",
+      "service",
+      "products",
+      "contract",
+      "Logistics Expertise"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Logistics_Expertise_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Logistics Expertise.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.563899",
+  "processor": "systematic_batch_processor"
+}

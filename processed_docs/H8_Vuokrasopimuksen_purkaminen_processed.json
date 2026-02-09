@@ -1,6 +1,71 @@
 {
-  "original_content": "# Vuokrasopimuksen päättäminen (Malli)\n\nTämä asiakirja toimii mallina liikehuoneiston vuokrasopimuksen päättämiselle. Valitse tilanteeseen sopiva vaihtoehto.\n\n---\n\n## Ilmoitustyyppi\n- [ ] **VUOKRASOPIMUKSEN PÄÄTTÄMISSOPIMUS** (Yhteinen sopimus)\n- [ ] **VAHVISTUS VUOKRASOPIMUKSEN PÄÄTTYMISESTÄ**\n- [ ] **VUOKRANANTAJAN YKSIPUOLINEN ILMOITUS VUOKRASOPIMUKSEN PÄÄTTYMISESTÄ / PURKAMISESTA**\n\n---\n\n## 1. Osapuolet ja kohde\n\n- **Vuokranantaja:**      \n- **Vuokralainen:**      \n- **Huoneiston osoite:**      \n\n---\n\n## 2. Päättymisen ehdot\n\n- **Vuokrasuhde päättyy:**   .  .202  \n- **Päättymisen peruste:**\n    - [ ] Irtisanominen (irtisanomisajan puitteissa).\n    - [ ] Purkaminen (esim. vuokranmaksun laiminlyönti alkaen   .  .202  ).\n    - [ ] Muu syy:      \n\n---\n\n## 3. Vuokravakuus ja kuntotarkastus\n\n- **Vuokravakuus (      €):**\n    - [ ] Palautetaan täysimääräisenä vuokralaisen tilille:      \n    - [ ] Käytetään rästien tai vaurioiden kuittaamiseen.\n- **Kuntotarkastus:**\n    - [ ] Tarkastus suoritettu / suoritetaan   .  .202   klo   :  .\n    - [ ] Huoneisto luovutetaan tyhjennettynä ja siivottuna.\n\n---\n\n## Allekirjoitukset\n\n**Paikka ja päiväys:**      ,    .    . 202  \n\n____________________________  \n**Vuokranantaja**\n\n____________________________  \n**Vuokralainen**\n*(Yksipuolisessa ilmoituksessa vuokralaisen allekirjoitusta ei välttämättä tarvita, mutta tiedoksianto on todistettava)*",
+  "original_content": "# Termination of Lease Agreement (Template)\n\nThis document serves as a template for terminating a commercial premises lease agreement. Select the option that fits your situation.\n\n---\n\n## Notification Type\n- [ ] **LEASE TERMINATION AGREEMENT** (Joint agreement)\n- [ ] **CONFIRMATION OF LEASE TERMINATION**\n- [ ] **LANDLORD'S UNILATERAL NOTIFICATION OF LEASE TERMINATION / CANCELLATION**\n\n---\n\n## 1. Parties and Property\n\n- **Landlord:**\n- **Tenant:**\n- **Premises address:**\n\n---\n\n## 2. Termination Conditions\n\n- **Lease relationship ends:**   .  .202\n- **Reason for termination:**\n    - [ ] Notice to terminate (within the notice period).\n    - [ ] Cancellation (e.g. rent default starting from   .  .202  ).\n    - [ ] Other reason:\n\n---\n\n## 3. Rental Deposit and Condition Inspection\n\n- **Rental deposit (      €):**\n    - [ ] Returned in full to the tenant's account:\n    - [ ] Used to settle outstanding amounts or damages.\n- **Condition inspection:**\n    - [ ] Inspection carried out / will be carried out on   .  .202   at   :  .\n    - [ ] Premises will be handed over empty and cleaned.\n\n---\n\n## Signatures\n\n**Place and date:**      ,    .    . 202\n\n____________________________\n**Landlord**\n\n____________________________\n**Tenant**\n*(In a unilateral notification, the tenant's signature may not be required, but notification must be verified)*",
   "keywords": [
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H8_Vuokrasopimuksen_purkaminen.md",
+      "position_in_text": 50,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H8_Vuokrasopimuksen_purkaminen.md",
+      "position_in_text": 34,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H8_Vuokrasopimuksen_purkaminen.md",
+      "position_in_text": 682,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H8_Vuokrasopimuksen_purkaminen.md",
+      "position_in_text": 23,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H8_Vuokrasopimuksen_purkaminen.md",
+      "position_in_text": 188,
+      "related_keywords": []
+    },
     {
       "term": "H8 Vuokrasopimuksen purkaminen",
       "frequency": 3,
@@ -10,14 +75,14 @@
         "file_name_based",
         "auto_extraction"
       ],
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H8_Vuokrasopimuksen_purkaminen.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H8_Vuokrasopimuksen_purkaminen.md",
       "position_in_text": 0,
       "related_keywords": []
     }
   ],
   "ecs_elements": {
-    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H8_Vuokrasopimuksen_purkaminen.md",
-    "extraction_date": "2026-02-09T22:21:42.241487",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H8_Vuokrasopimuksen_purkaminen.md",
+    "extraction_date": "2026-02-09T23:01:32.648025",
     "entities": [
       {
         "name": "Business Entity",
@@ -31,7 +96,7 @@
           "business_entity",
           "document_context"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H8_Vuokrasopimuksen_purkaminen.md",
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H8_Vuokrasopimuksen_purkaminen.md",
         "relationships": {}
       }
     ],
@@ -40,7 +105,7 @@
         "name": "Document Requirements",
         "description": "Requirements specified in the document",
         "properties": {
-          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H8_Vuokrasopimuksen_purkaminen.md",
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H8_Vuokrasopimuksen_purkaminen.md",
           "type": "business_requirements",
           "complexity": "medium"
         },
@@ -49,7 +114,7 @@
           "requirements",
           "business_rules"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H8_Vuokrasopimuksen_purkaminen.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H8_Vuokrasopimuksen_purkaminen.md"
       }
     ],
     "systems": [
@@ -65,7 +130,7 @@
           "process",
           "system"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H8_Vuokrasopimuksen_purkaminen.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H8_Vuokrasopimuksen_purkaminen.md"
       }
     ]
   },
@@ -78,7 +143,7 @@
       "condition": "document_reviewed == True",
       "scope": "document_compliance",
       "severity": "info",
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H8_Vuokrasopimuksen_purkaminen.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H8_Vuokrasopimuksen_purkaminen.md",
       "tags": [
         "compliance",
         "review"
@@ -89,7 +154,7 @@
     }
   ],
   "metadata": {
-    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H8_Vuokrasopimuksen_purkaminen.md",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H8_Vuokrasopimuksen_purkaminen.md",
     "title": "H8 Vuokrasopimuksen purkaminen",
     "description": "Documentation file: H8_Vuokrasopimuksen_purkaminen.md",
     "tags": [
@@ -101,8 +166,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T22:21:42.241494",
-    "last_modified": "2026-02-09T22:21:42.241495",
+    "creation_date": "2026-02-09T23:01:32.648032",
+    "last_modified": "2026-02-09T23:01:32.648033",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -112,9 +177,14 @@
     ],
     "difficulty_level": "intermediate",
     "estimated_reading_time": 1,
-    "word_count": 161,
+    "word_count": 205,
     "language": "en",
     "keywords": [
+      "document",
+      "template",
+      "starting",
+      "agreement",
+      "notification",
       "H8 Vuokrasopimuksen purkaminen"
     ],
     "related_entities": [
@@ -135,6 +205,6 @@
       "original_file_name": "H8_Vuokrasopimuksen_purkaminen.md"
     }
   },
-  "processing_date": "2026-02-09T22:21:42.241518",
+  "processing_date": "2026-02-09T23:01:32.648061",
   "processor": "systematic_batch_processor"
 }

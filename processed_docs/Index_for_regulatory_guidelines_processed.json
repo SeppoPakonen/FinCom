@@ -1,0 +1,210 @@
+{
+  "original_content": "# Index for regulatory_guidelines\n\n## Description\nThis directory contains 5 files related to regulatory guidelines. These files were organized from the processed directory based on their content and business function.\n\n## Files in this directory:\n\n- [Guide to Planning the Demonstration of Skills in Student Union.md](Guide to Planning the Demonstration of Skills in Student Union.md) - Guide to Planning the Demonstration of Skills in Student Union\n- [PRH - Estate and Business Operations _ PRH.md](PRH - Estate and Business Operations _ PRH.md) - PRH - Estate and Business Operations   PRH\n- [Smoke Detector.md](Smoke Detector.md) - Smoke Detector\n- [V3_Notification_Beauty Salon.md](V3_Notification_Beauty Salon.md) - V3 Notification Beauty Salon\n- [index.md](index.md) - index",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Index for regulatory_guidelines.md",
+      "position_in_text": 199,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Index for regulatory_guidelines.md",
+      "position_in_text": 152,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Index for regulatory_guidelines.md",
+      "position_in_text": 479,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Index for regulatory_guidelines.md",
+      "position_in_text": 260,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Index for regulatory_guidelines.md",
+      "position_in_text": 656,
+      "related_keywords": []
+    },
+    {
+      "term": "Index for regulatory guidelines",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Index for regulatory_guidelines.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Index for regulatory_guidelines.md",
+    "extraction_date": "2026-02-09T23:01:32.404904",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Index for regulatory_guidelines.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Index for regulatory_guidelines.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Index for regulatory_guidelines.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Index for regulatory_guidelines.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Index_for_regulatory_guidelines_review",
+      "title": "Index for regulatory_guidelines.md Review Required",
+      "description": "Document Index for regulatory_guidelines.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Index for regulatory_guidelines.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Index for regulatory_guidelines.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Index for regulatory_guidelines.md",
+    "title": "Index for regulatory guidelines",
+    "description": "Documentation file: Index for regulatory_guidelines.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.404911",
+    "last_modified": "2026-02-09T23:01:32.404912",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 110,
+    "language": "en",
+    "keywords": [
+      "business",
+      "process",
+      "operations",
+      "planning",
+      "notification",
+      "Index for regulatory guidelines"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Index_for_regulatory_guidelines_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Index for regulatory_guidelines.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.404931",
+  "processor": "systematic_batch_processor"
+}

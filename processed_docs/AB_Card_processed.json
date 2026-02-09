@@ -10,7 +10,7 @@
         "auto_extraction",
         "business_documentation"
       ],
-      "source_file": "../docs/business_forms/AB-Card.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md",
       "position_in_text": 802,
       "related_keywords": []
     },
@@ -23,7 +23,7 @@
         "auto_extraction",
         "business_documentation"
       ],
-      "source_file": "../docs/business_forms/AB-Card.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md",
       "position_in_text": 823,
       "related_keywords": []
     },
@@ -36,7 +36,7 @@
         "auto_extraction",
         "business_documentation"
       ],
-      "source_file": "../docs/business_forms/AB-Card.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md",
       "position_in_text": 879,
       "related_keywords": []
     },
@@ -49,7 +49,7 @@
         "auto_extraction",
         "business_documentation"
       ],
-      "source_file": "../docs/business_forms/AB-Card.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md",
       "position_in_text": 832,
       "related_keywords": []
     },
@@ -62,8 +62,47 @@
         "auto_extraction",
         "business_documentation"
       ],
-      "source_file": "../docs/business_forms/AB-Card.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md",
       "position_in_text": 1363,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md",
+      "position_in_text": 681,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md",
+      "position_in_text": 699,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md",
+      "position_in_text": 1188,
       "related_keywords": []
     },
     {
@@ -75,14 +114,14 @@
         "file_name_based",
         "auto_extraction"
       ],
-      "source_file": "../docs/business_forms/AB-Card.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md",
       "position_in_text": 0,
       "related_keywords": []
     }
   ],
   "ecs_elements": {
-    "source_file": "../docs/business_forms/AB-Card.md",
-    "extraction_date": "2026-02-09T21:47:08.564761",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md",
+    "extraction_date": "2026-02-09T23:01:32.623268",
     "entities": [
       {
         "name": "Business Entity",
@@ -96,7 +135,7 @@
           "business_entity",
           "document_context"
         ],
-        "source_file": "../docs/business_forms/AB-Card.md",
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md",
         "relationships": {}
       }
     ],
@@ -105,7 +144,7 @@
         "name": "Document Requirements",
         "description": "Requirements specified in the document",
         "properties": {
-          "specified_in": "../docs/business_forms/AB-Card.md",
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md",
           "type": "business_requirements",
           "complexity": "medium"
         },
@@ -114,7 +153,7 @@
           "requirements",
           "business_rules"
         ],
-        "source_file": "../docs/business_forms/AB-Card.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md"
       }
     ],
     "systems": [
@@ -130,7 +169,7 @@
           "process",
           "system"
         ],
-        "source_file": "../docs/business_forms/AB-Card.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md"
       }
     ]
   },
@@ -143,7 +182,7 @@
       "condition": "document_reviewed == True",
       "scope": "document_compliance",
       "severity": "info",
-      "source_file": "../docs/business_forms/AB-Card.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md",
       "tags": [
         "compliance",
         "review"
@@ -154,7 +193,7 @@
     }
   ],
   "metadata": {
-    "source_file": "../docs/business_forms/AB-Card.md",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/AB-Card.md",
     "title": "AB Card",
     "description": "Documentation file: AB-Card.md",
     "tags": [
@@ -166,8 +205,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T21:47:08.564773",
-    "last_modified": "2026-02-09T21:47:08.564774",
+    "creation_date": "2026-02-09T23:01:32.623274",
+    "last_modified": "2026-02-09T23:01:32.623275",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -185,6 +224,9 @@
       "form",
       "standard",
       "digital",
+      "security",
+      "work",
+      "report",
       "AB Card"
     ],
     "related_entities": [
@@ -205,6 +247,6 @@
       "original_file_name": "AB-Card.md"
     }
   },
-  "processing_date": "2026-02-09T21:47:08.564810",
+  "processing_date": "2026-02-09T23:01:32.623302",
   "processor": "systematic_batch_processor"
 }

@@ -1,0 +1,279 @@
+{
+  "original_content": "# V8: Consent for Processing Personal Data (Template)\n\nThis is a template for consent used when requesting permission to collect and process personal data (GDPR).\n\n---\n\n**1. DATA CONTROLLER**\n* **Company:** __________________________\n* **Contact information:** __________________________\n\n**2. PURPOSE OF PROCESSING**\nWe collect and process your personal data for the following purposes:\n* [ ] Managing customer relationships and providing services\n* [ ] Marketing and sending newsletters\n* [ ] Organizing events\n* [ ] Other: __________________________\n\n**3. DATA BEING COLLECTED**\nWe process the following data: name, email address, phone number, [Other data: ___________].\n\n**4. RETENTION PERIOD**\nYour data will be retained as long as necessary to fulfill the above-mentioned purposes or as required by law.\n\n**5. RIGHTS OF THE DATA SUBJECT**\nYou have the right to:\n* Check the data stored about you.\n* Request correction of incorrect data.\n* **Withdraw your consent at any time.**\n* Request deletion of your data (\"right to be forgotten\").\n\n**6. CONSENT**\n[ ] I give my consent for processing my personal data for the above-mentioned purposes.\n\n[Place and date]\n\n__________________________\nSignature and name",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+      "position_in_text": 196,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+      "position_in_text": 248,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+      "position_in_text": 18,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+      "position_in_text": 248,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+      "position_in_text": 44,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+      "position_in_text": 246,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+      "position_in_text": 403,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+      "position_in_text": 440,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+      "position_in_text": 440,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+      "position_in_text": 455,
+      "related_keywords": []
+    },
+    {
+      "term": "V8 Suostumus henkilotietojen kasittelyyn",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+    "extraction_date": "2026-02-09T23:01:32.382300",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_V8_Suostumus_henkilotietojen_kasittelyyn_review",
+      "title": "V8_Suostumus_henkilotietojen_kasittelyyn.md Review Required",
+      "description": "Document V8_Suostumus_henkilotietojen_kasittelyyn.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document V8_Suostumus_henkilotietojen_kasittelyyn.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V8_Suostumus_henkilotietojen_kasittelyyn.md",
+    "title": "V8 Suostumus henkilotietojen kasittelyyn",
+    "description": "Documentation file: V8_Suostumus_henkilotietojen_kasittelyyn.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.382306",
+    "last_modified": "2026-02-09T23:01:32.382307",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 181,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "process",
+      "form",
+      "template",
+      "information",
+      "customer",
+      "service",
+      "services",
+      "marketing"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_V8_Suostumus_henkilotietojen_kasittelyyn_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "V8_Suostumus_henkilotietojen_kasittelyyn.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.382335",
+  "processor": "systematic_batch_processor"
+}

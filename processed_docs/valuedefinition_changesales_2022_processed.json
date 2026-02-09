@@ -1,0 +1,210 @@
+{
+  "original_content": "# Tool: Value Definition\n\nThe true value of a product or service to the customer is not what the product *does*, but what it *enables*.\n\n## 1. Feature -> Benefit -> Value\nIt's important to distinguish between these three levels:\n\n* **Features:** Technical specifications of the product or content of the service (e.g. \"the device is lightweight\").\n* **Benefits:** What the feature achieves (e.g. \"the device saves time, money or energy\").\n* **Value:** What the customer can do with the achieved benefit (e.g. \"the customer can spend more time with their family\").\n\n## 2. Articulating Value\nUse this formula to clarify your message:\n\n> **\"[Product/Service] brings you [Benefit], which enables you to [Value].\"**\n\n### Example:\n* \"Automatic invoicing software brings you **2 additional hours of free time per week**, which enables you to **focus fully on composing new music**.\"\n\n---\n**Remember:** The customer doesn't buy a drill (feature) or even a hole in the wall (benefit), but the opportunity to hang their beloved artwork on the wall and make their home cozy (value).",
+  "keywords": [
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/valuedefinition_changesales_2022.md",
+      "position_in_text": 599,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/valuedefinition_changesales_2022.md",
+      "position_in_text": 72,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/valuedefinition_changesales_2022.md",
+      "position_in_text": 57,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/valuedefinition_changesales_2022.md",
+      "position_in_text": 1021,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/valuedefinition_changesales_2022.md",
+      "position_in_text": 154,
+      "related_keywords": []
+    },
+    {
+      "term": "valuedefinition changesales 2022",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/valuedefinition_changesales_2022.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/valuedefinition_changesales_2022.md",
+    "extraction_date": "2026-02-09T23:01:32.383662",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/valuedefinition_changesales_2022.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/valuedefinition_changesales_2022.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/valuedefinition_changesales_2022.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/valuedefinition_changesales_2022.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_valuedefinition_changesales_2022_review",
+      "title": "valuedefinition_changesales_2022.md Review Required",
+      "description": "Document valuedefinition_changesales_2022.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/valuedefinition_changesales_2022.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document valuedefinition_changesales_2022.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/valuedefinition_changesales_2022.md",
+    "title": "valuedefinition changesales 2022",
+    "description": "Documentation file: valuedefinition_changesales_2022.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.383669",
+    "last_modified": "2026-02-09T23:01:32.383670",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 173,
+    "language": "en",
+    "keywords": [
+      "form",
+      "customer",
+      "service",
+      "work",
+      "benefit",
+      "valuedefinition changesales 2022"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_valuedefinition_changesales_2022_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "valuedefinition_changesales_2022.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.383693",
+  "processor": "systematic_batch_processor"
+}

@@ -1,0 +1,238 @@
+{
+  "original_content": "# Notes and Strategic Observations\n\nThis is a collection of separate but important observations about planning and developing business operations.\n\n## Product Range and Pricing Strategy\n* **Range is strategy:** The product range itself communicates the company's position.\n* **Premium effect:** By offering extremely high-quality premium products, the price of other products can appear more affordable.\n* **Anchoring:** The \"middle models\" in a price range can subconsciously guide the customer to choose the premium option if the price difference is small but the perceived benefit is large.\n\n## Principles of Operations\n* **Customer understanding:** It's not enough to know *what* the customer buys, but you must understand *why* and how it serves their daily life.\n* **Continuous development:** The business idea is never finished; it changes and evolves based on market feedback.\n* **Resource optimization:** Minimize waste and unnecessary storage (JOT principle).",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md",
+      "position_in_text": 126,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md",
+      "position_in_text": 253,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md",
+      "position_in_text": 487,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md",
+      "position_in_text": 338,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md",
+      "position_in_text": 135,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md",
+      "position_in_text": 102,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md",
+      "position_in_text": 576,
+      "related_keywords": []
+    },
+    {
+      "term": "Notes and Strategic Observations",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md",
+    "extraction_date": "2026-02-09T23:01:32.543901",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Notes_and_Strategic_Observations_review",
+      "title": "Notes and Strategic Observations.md Review Required",
+      "description": "Document Notes and Strategic Observations.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Notes and Strategic Observations.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Notes and Strategic Observations.md",
+    "title": "Notes and Strategic Observations",
+    "description": "Documentation file: Notes and Strategic Observations.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.543908",
+    "last_modified": "2026-02-09T23:01:32.543909",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 142,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "customer",
+      "products",
+      "operations",
+      "planning",
+      "benefit",
+      "Notes and Strategic Observations"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Notes_and_Strategic_Observations_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Notes and Strategic Observations.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.543931",
+  "processor": "systematic_batch_processor"
+}

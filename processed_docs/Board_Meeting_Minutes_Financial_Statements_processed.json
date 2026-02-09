@@ -1,0 +1,224 @@
+{
+  "original_content": "# Board Meeting Minutes (Financial Statements)\n\nThis is a template for board meeting minutes dealing with the approval of financial statements.\n\n---\n\n## Meeting Information\n\n- **Company name:**      \n- **Company's registered office:**      \n- **Number / Year:**      \n- **Date and time:**   .  .202   at   :  \n- **Place:**      \n- **Present:**      \n\n---\n\n## Agenda\n\n### 1. Opening the Meeting\n      opened the meeting.\n\n### 2. Legality and Quorum of the Meeting\nThe meeting was declared legal and quorate.\n\n### 3. Election of Meeting Officials\nThe meeting elected **AA** as chairperson, **BB** as secretary, and **XX** and **YY** as minutes reviewers.\n\n### 4. Review of Minutes\nIt was decided that the minutes are signed immediately after the meeting by the chairperson, secretary and minutes reviewers.\n\n### 5. Approval and Signing of the Company's Financial Statements\nThe company's financial statements for the financial year       were considered.\n*(Record the decision here regarding signing the financial statements and presenting them to the shareholders' meeting)*\n     \n\n---\n\n## Signatures\n\n____________________________  \n**Chairperson**\n\n____________________________  \n**Secretary**\n\n---\n\n## Minutes Review\nWe have reviewed the minutes and confirmed that they correspond to the course of the meeting and the decisions made there.\n\n____________________________  \n**Reviewer**\n\n____________________________  \n**Reviewer**",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Board Meeting Minutes Financial Statements.md",
+      "position_in_text": 178,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Board Meeting Minutes Financial Statements.md",
+      "position_in_text": 163,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Board Meeting Minutes Financial Statements.md",
+      "position_in_text": 163,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Board Meeting Minutes Financial Statements.md",
+      "position_in_text": 58,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Board Meeting Minutes Financial Statements.md",
+      "position_in_text": 161,
+      "related_keywords": []
+    },
+    {
+      "term": "shareholder",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Board Meeting Minutes Financial Statements.md",
+      "position_in_text": 1050,
+      "related_keywords": []
+    },
+    {
+      "term": "Board Meeting Minutes Financial Statements",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Board Meeting Minutes Financial Statements.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Board Meeting Minutes Financial Statements.md",
+    "extraction_date": "2026-02-09T23:01:32.482063",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Board Meeting Minutes Financial Statements.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Board Meeting Minutes Financial Statements.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Board Meeting Minutes Financial Statements.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Board Meeting Minutes Financial Statements.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Board_Meeting_Minutes_Financial_Statements_review",
+      "title": "Board Meeting Minutes Financial Statements.md Review Required",
+      "description": "Document Board Meeting Minutes Financial Statements.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Board Meeting Minutes Financial Statements.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Board Meeting Minutes Financial Statements.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Board Meeting Minutes Financial Statements.md",
+    "title": "Board Meeting Minutes Financial Statements",
+    "description": "Documentation file: Board Meeting Minutes Financial Statements.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.482069",
+    "last_modified": "2026-02-09T23:01:32.482070",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 192,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "form",
+      "template",
+      "information",
+      "shareholder",
+      "Board Meeting Minutes Financial Statements"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Board_Meeting_Minutes_Financial_Statements_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Board Meeting Minutes Financial Statements.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.482098",
+  "processor": "systematic_batch_processor"
+}

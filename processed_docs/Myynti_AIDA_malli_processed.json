@@ -1,0 +1,266 @@
+{
+  "original_content": "# Sales Tool: AIDA Customer Journey\n\nThe AIDA model is a funnel model for sales and marketing that describes the customer's journey from awareness to becoming a loyal customer.\n\n## 1. Funnel stages\n\n| Stage | Description | Example: Jeans Shop |\n| :--- | :--- | :--- |\n| **Awareness** (Attention) | Bring the product to the attention of as many people as possible. Don't push, but tell how you can help. | \"New jeans shop opening at x street! Our collection includes durable jeans for men and women.\" |\n| **Interest** | Create genuine interest in your company specifically. | \"We promise to find you perfectly fitting jeans. Opening offer -30 %!\" |\n| **Desire** | Convince the customer that your product specifically solves their problem. | \"Exclusive domestic jeans with a key tag. €1 from each pair donated to charity.\" |\n| **Action** | Make purchasing as easy and fast as possible. | \"Shop online with multiple payment methods. Free returns and fast delivery to your doorstep.\" |\n\n---\n\n## 2. Nurture - Customer Relationship Management\nSales don't end with the purchase. You get a loyal customer by taking care of them even after the sale:\n* **Rewards:** Loyalty benefits, such as \"every 10th pizza free\" or friend referrals.\n* **Service:** Provide help with product use and ask about satisfaction.\n* **Discoverability:** Ensure that the customer can find you again through social media, Google Maps and websites.\n\n---\n**Remember:** The customer seeks information and comparisons at each stage. Be present where your customers are (blogs, videos, reviews).",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+      "position_in_text": 551,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+      "position_in_text": 1455,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+      "position_in_text": 1455,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+      "position_in_text": 1453,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+      "position_in_text": 19,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+      "position_in_text": 1231,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+      "position_in_text": 84,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+      "position_in_text": 1164,
+      "related_keywords": []
+    },
+    {
+      "term": "Myynti AIDA malli",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+    "extraction_date": "2026-02-09T23:01:32.543362",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Myynti_AIDA_malli_review",
+      "title": "Myynti-AIDA malli.md Review Required",
+      "description": "Document Myynti-AIDA malli.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Myynti-AIDA malli.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Myynti-AIDA malli.md",
+    "title": "Myynti AIDA malli",
+    "description": "Documentation file: Myynti-AIDA malli.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.543369",
+    "last_modified": "2026-02-09T23:01:32.543370",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 260,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "sales",
+      "marketing",
+      "benefit",
+      "Myynti AIDA malli"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Myynti_AIDA_malli_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Myynti-AIDA malli.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.543403",
+  "processor": "systematic_batch_processor"
+}

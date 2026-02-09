@@ -1,6 +1,84 @@
 {
-  "original_content": "# Alihankintasopimus (Malli)\n\nTämä on mallipohja yritysten väliselle alihankintasopimukselle.\n\n---\n\n## 1. Sopijapuolet\n\n- **Tilaaja:**      \n- **Alihankkija:**      \n\n---\n\n## 2. Tehtävän kuvaus\n*(Määrittele suoritettava työ, laatuvaatimukset ja aikataulu)*\n     \n\n---\n\n## 3. Yhteyshenkilöt\n\n- **Tilaajan yhteyshenkilö:**      \n- **Alihankkijan yhteyshenkilö:**      \n\n---\n\n## 4. Korvaukset ja sopimusehdot\n\n- **Työstä maksettava korvaus:**      \n- **Maksuehdot:**      \n- **Muut ehdot:**      \n\n---\n\n## 5. Erimielisyyksien ratkaisu\n\nTästä sopimuksesta mahdollisesti johtuvat erimielisyydet pyritään ensisijaisesti ratkaisemaan osapuolten välisin neuvotteluin. Mikäli ratkaisuun ei ole päästy 1 kuukauden kuluessa erimielisyyden toteamisesta, ratkaistaan riita molempiin osapuoliin nähden ulkopuolisen lainopillisen sovittelijan toimesta. Tarvittaessa sovittelija määrätään arvalla kahden ehdokkaan kesken. Sovittelijan tulee antaa ratkaisunsa kuukauden kuluessa valinnastaan, ja ratkaisu sitoo molempia osapuolia, eikä siitä ole valitusmahdollisuutta.\n\n---\n\n## Allekirjoitukset\n\n**Paikka ja päiväys:**      ,    .    . 202  \n\n____________________________  \n**Tilaaja**\n\n____________________________  \n**Alihankkija**",
+  "original_content": "# Subcontracting Agreement (Template)\n\nThis is a template for a subcontracting agreement between companies.\n\n---\n\n## 1. Contracting Parties\n\n- **Client:**\n- **Subcontractor:**\n\n---\n\n## 2. Description of Work\n*(Define the work to be performed, quality requirements and schedule)*\n\n---\n\n## 3. Contact Persons\n\n- **Client's contact person:**\n- **Subcontractor's contact person:**\n\n---\n\n## 4. Compensation and Terms\n\n- **Payment for the work:**\n- **Payment terms:**\n- **Other terms:**\n\n---\n\n## 5. Dispute Resolution\n\nAny disputes arising from this agreement will primarily be resolved through negotiations between the parties. If no resolution is reached within 1 month of identifying the dispute, the matter will be settled by an independent legal mediator acceptable to both parties. If necessary, the mediator will be chosen by lot between two candidates. The mediator must issue their decision within one month of appointment, and the decision binds both parties without possibility of appeal.\n\n---\n\n## Signatures\n\n**Place and date:**      ,    .    . 202\n\n____________________________\n**Client**\n\n____________________________\n**Subcontractor**",
   "keywords": [
+    {
+      "term": "requirements",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L10_Alihankintasopimus.md",
+      "position_in_text": 251,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L10_Alihankintasopimus.md",
+      "position_in_text": 235,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L10_Alihankintasopimus.md",
+      "position_in_text": 28,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L10_Alihankintasopimus.md",
+      "position_in_text": 203,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L10_Alihankintasopimus.md",
+      "position_in_text": 5,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L10_Alihankintasopimus.md",
+      "position_in_text": 17,
+      "related_keywords": []
+    },
     {
       "term": "L10 Alihankintasopimus",
       "frequency": 3,
@@ -10,14 +88,14 @@
         "file_name_based",
         "auto_extraction"
       ],
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L10_Alihankintasopimus.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L10_Alihankintasopimus.md",
       "position_in_text": 0,
       "related_keywords": []
     }
   ],
   "ecs_elements": {
-    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L10_Alihankintasopimus.md",
-    "extraction_date": "2026-02-09T22:21:42.247846",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L10_Alihankintasopimus.md",
+    "extraction_date": "2026-02-09T23:01:32.410071",
     "entities": [
       {
         "name": "Business Entity",
@@ -31,7 +109,7 @@
           "business_entity",
           "document_context"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L10_Alihankintasopimus.md",
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L10_Alihankintasopimus.md",
         "relationships": {}
       }
     ],
@@ -40,7 +118,7 @@
         "name": "Document Requirements",
         "description": "Requirements specified in the document",
         "properties": {
-          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L10_Alihankintasopimus.md",
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L10_Alihankintasopimus.md",
           "type": "business_requirements",
           "complexity": "medium"
         },
@@ -49,7 +127,7 @@
           "requirements",
           "business_rules"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L10_Alihankintasopimus.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L10_Alihankintasopimus.md"
       }
     ],
     "systems": [
@@ -65,7 +143,7 @@
           "process",
           "system"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L10_Alihankintasopimus.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L10_Alihankintasopimus.md"
       }
     ]
   },
@@ -78,7 +156,7 @@
       "condition": "document_reviewed == True",
       "scope": "document_compliance",
       "severity": "info",
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L10_Alihankintasopimus.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L10_Alihankintasopimus.md",
       "tags": [
         "compliance",
         "review"
@@ -89,7 +167,7 @@
     }
   ],
   "metadata": {
-    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L10_Alihankintasopimus.md",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L10_Alihankintasopimus.md",
     "title": "L10 Alihankintasopimus",
     "description": "Documentation file: L10_Alihankintasopimus.md",
     "tags": [
@@ -101,8 +179,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T22:21:42.247853",
-    "last_modified": "2026-02-09T22:21:42.247854",
+    "creation_date": "2026-02-09T23:01:32.410082",
+    "last_modified": "2026-02-09T23:01:32.410084",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -112,9 +190,15 @@
     ],
     "difficulty_level": "intermediate",
     "estimated_reading_time": 1,
-    "word_count": 125,
+    "word_count": 162,
     "language": "en",
     "keywords": [
+      "requirements",
+      "form",
+      "template",
+      "work",
+      "contract",
+      "agreement",
       "L10 Alihankintasopimus"
     ],
     "related_entities": [
@@ -135,6 +219,6 @@
       "original_file_name": "L10_Alihankintasopimus.md"
     }
   },
-  "processing_date": "2026-02-09T22:21:42.247875",
+  "processing_date": "2026-02-09T23:01:32.410125",
   "processor": "systematic_batch_processor"
 }

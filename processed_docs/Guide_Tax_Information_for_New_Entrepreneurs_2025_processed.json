@@ -1,0 +1,331 @@
+{
+  "original_content": "# Guide: Tax Information for New Entrepreneurs 2025\n\nThis guide summarizes the Tax Administration's instructions for establishing a company, registering it, and handling taxes in 2025.\n\n## 1. Establishing a Company and Registers\n* **Business ID:** You receive the ID immediately after the electronic establishment notification (ytj.fi).\n* **Advance Tax Collection Register:** Shows that the company handles its taxes. Important for customers (household deduction).\n* **VAT Register:** Mandatory if revenue exceeds **20,000 €** (in 2025).\n* **Employer Register:** Mandatory for regular employers.\n\n## 2. Value-Added Tax (VAT)\nVAT is a consumption tax that the company collects from the customer and remits to the state.\n* **General rate:** 25.5% (increased on 1.9.2024).\n* **Reduced rates:** 14% (food, restaurants) and 10% (newspapers, books).\n* **Payment date:** Usually the 12th day of the month in OmaVero.\n\n## 3. Advance Tax and Income Taxation\n* **Advance tax:** Based on the entrepreneur's own estimate of the financial year's income.\n* **Modifying:** If the result appears to deviate from the estimate, adjust the advance tax immediately in OmaVero to avoid residual tax (penalties).\n* **Due date:** The 23rd day of the month.\n\n## 4. Bookkeeping and Receipts\n* All companies have an obligation to keep books. We recommend using an accounting firm.\n* **Receipt:** The seller must always provide the buyer with a receipt showing the VAT separately.\n* **Storage:** Bookkeeping materials must be stored for 6 years from the end of the financial year.\n\n## 5. Employer Obligations\n* Income tax must be withheld from salary and the employer's sickness insurance contribution must be paid.\n* Information must be reported to the **income register** within 5 days of the salary date.\n* Palkka.fi is a good free tool for small employers.\n\n## 6. Electronic Service (OmaVero)\nWhen handling tax matters:\n* Always use the correct **reference number** (found in OmaVero).\n* The reference number determines which tax the payment applies to.\n* If payment difficulties arise, apply for a payment arrangement before taxes go to enforcement.\n\n---\n**Support:** Visit [vero.fi/uusiyritys](https://vero.fi/uusiyritys) and subscribe to the new entrepreneur newsletter package.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 233,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 132,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 15,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 16,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 9,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 15,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 13,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 100,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 432,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 1852,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 1652,
+      "related_keywords": []
+    },
+    {
+      "term": "salary",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 1617,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 1711,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 314,
+      "related_keywords": []
+    },
+    {
+      "term": "obligation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 1290,
+      "related_keywords": []
+    },
+    {
+      "term": "Guide Tax Information for New Entrepreneurs 2025",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+    "extraction_date": "2026-02-09T23:01:32.606411",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Guide_Tax_Information_for_New_Entrepreneurs_2025_review",
+      "title": "Guide Tax Information for New Entrepreneurs 2025.md Review Required",
+      "description": "Document Guide Tax Information for New Entrepreneurs 2025.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Guide Tax Information for New Entrepreneurs 2025.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Tax Information for New Entrepreneurs 2025.md",
+    "title": "Guide Tax Information for New Entrepreneurs 2025",
+    "description": "Documentation file: Guide Tax Information for New Entrepreneurs 2025.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.606418",
+    "last_modified": "2026-02-09T23:01:32.606419",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 343,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "tax",
+      "form",
+      "information",
+      "instructions",
+      "customer",
+      "service",
+      "insurance"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Guide_Tax_Information_for_New_Entrepreneurs_2025_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Guide Tax Information for New Entrepreneurs 2025.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.606460",
+  "processor": "systematic_batch_processor"
+}

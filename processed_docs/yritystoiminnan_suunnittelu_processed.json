@@ -1,0 +1,318 @@
+{
+  "original_content": "# Guide: Stages of Business Planning\n\nStarting a business proceeds systematically from planning to registration and launch.\n\n## 1. Planning and Validation\n* **Business Plan:** Create a business plan and financial plan.\n* **Consultation:** Use the free help from New Business Centers.\n* **Tools (Business Advisor):**\n    - **YT1:** Founder's checklist.\n    - **YT2/YT3:** Business plan templates for different sized companies.\n    - **YT4/YT5:** Financial plans and cash budgets.\n\n## 2. Financing and Permits\n* **Financing needs (YT8):** Calculate how much money is needed and where to get it (own funds, loan, grants).\n* **Startup grant:** Remember to apply for the startup grant **before** the official registration of the company.\n* **Permits:** Identify special permits required by your industry (AVI, Valvira, Tukes, etc.).\n\n## 3. Establishment and Launch\n* **Registration:** Choose a company form and submit the establishment notification in the YTJ service.\n* **Administration:** Open a bank account, get an accountant and take out insurance (YEL is mandatory).\n* **Taxation:** Register in the advance payment and VAT registers.\n\n---\n**Remember:** Careful budgeting and cash flow monitoring are the best insurance for the company's survival.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "position_in_text": 19,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "position_in_text": 724,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "position_in_text": 1072,
+      "related_keywords": []
+    },
+    {
+      "term": "registration",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "position_in_text": 99,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "position_in_text": 897,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "position_in_text": 385,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "position_in_text": 955,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "position_in_text": 28,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "position_in_text": 38,
+      "related_keywords": []
+    },
+    {
+      "term": "budget",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "position_in_text": 470,
+      "related_keywords": []
+    },
+    {
+      "term": "budgeting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "position_in_text": 1162,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "position_in_text": 1038,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "position_in_text": 931,
+      "related_keywords": []
+    },
+    {
+      "term": "yritystoiminnan suunnittelu",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+    "extraction_date": "2026-02-09T23:01:32.363358",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_yritystoiminnan_suunnittelu_review",
+      "title": "yritystoiminnan suunnittelu.md Review Required",
+      "description": "Document yritystoiminnan suunnittelu.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document yritystoiminnan suunnittelu.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/yritystoiminnan suunnittelu.md",
+    "title": "yritystoiminnan suunnittelu",
+    "description": "Documentation file: yritystoiminnan suunnittelu.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.363365",
+    "last_modified": "2026-02-09T23:01:32.363366",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 182,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "tax",
+      "registration",
+      "form",
+      "template",
+      "service",
+      "planning",
+      "starting",
+      "budget"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_yritystoiminnan_suunnittelu_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "yritystoiminnan suunnittelu.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.363393",
+  "processor": "systematic_batch_processor"
+}

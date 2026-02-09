@@ -1,0 +1,292 @@
+{
+  "original_content": "# Logistics, Competitive Advantage and Service Level\n\n## 1. What is logistics?\nLogistics is the planning, management, and movement of resources, with the goal of delivering goods or services efficiently to the customer.\n\n### Key components:\n* **Inventory management:** Receipt, storage, and dispatch. Optimal inventory level without unnecessary costs.\n* **Transportation and distribution:** Road, sea, air, or rail transport.\n* **Order processing:** Receipt and processing at the right time.\n* **Supply chain management (SCM):** Cooperation between suppliers, manufacturers, and distributors.\n* **Information systems:** Utilization of technology (tracking, automation).\n* **Quality control:** Ensuring the quality of products and services.\n\n## 2. Logistics as a competitive advantage\nEfficient logistics can provide the company with significant advantage:\n* **Cost effectiveness:** Savings in storage and transportation enable better margins or more favorable prices.\n* **Delivery speed:** Fast deliveries are critical especially in consumer retail.\n* **Customer satisfaction:** Reliability and precision bind customers.\n* **Environmental friendliness:** Reducing emissions through efficient route planning attracts conscious customers.\n\n## 3. Logistics in the service sector\nEven though services do not involve moving physical goods, logistics is still important:\n* **Customer service management:** Optimization of time and resources (response speed, scheduling).\n* **Personnel management:** Right specialists in the right place at the right time.\n* **Information management:** Effective use of customer profiles and order history in decision-making.\n\n## 4. Logistics service level metrics\nMetrics are used to evaluate logistics performance:\n\n| Metric | Description |\n| :--- | :--- |\n| **OTD (On-Time Delivery)** | Adherence to delivery time according to the agreed schedule. |\n| **Completeness rate (Order Fill Rate)** | Portion of orders delivered completely without errors. |\n| **Delivery reliability** | Ability to deliver without delays or shortages over a long period. |\n| **Inventory turnover rate** | How quickly inventory is sold and replaced (efficiency). |\n| **Delivery costs** | Monitoring of transportation, storage, and administrative costs. |\n| **Customer satisfaction** | Feedback and evaluations of logistics service. |\n\n## 5. Summary\nLogistics enables optimization of resources, improvement of customer experience, and risk management. Regular measurement and analysis are essential for continuous improvement and maintaining competitive advantage.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+      "position_in_text": 820,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+      "position_in_text": 599,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+      "position_in_text": 436,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+      "position_in_text": 599,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+      "position_in_text": 597,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+      "position_in_text": 1081,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+      "position_in_text": 210,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+      "position_in_text": 39,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+      "position_in_text": 717,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+      "position_in_text": 182,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+      "position_in_text": 96,
+      "related_keywords": []
+    },
+    {
+      "term": "Logistics Competitive Advantage and Service Level",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+    "extraction_date": "2026-02-09T23:01:32.562567",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Logistics_Competitive_Advantage_and_Service_Level_review",
+      "title": "Logistics Competitive Advantage and Service Level.md Review Required",
+      "description": "Document Logistics Competitive Advantage and Service Level.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Logistics Competitive Advantage and Service Level.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Competitive Advantage and Service Level.md",
+    "title": "Logistics Competitive Advantage and Service Level",
+    "description": "Documentation file: Logistics Competitive Advantage and Service Level.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.562574",
+    "last_modified": "2026-02-09T23:01:32.562574",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 352,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "process",
+      "form",
+      "information",
+      "liability",
+      "customer",
+      "service",
+      "products",
+      "services"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Logistics_Competitive_Advantage_and_Service_Level_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Logistics Competitive Advantage and Service Level.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.562620",
+  "processor": "systematic_batch_processor"
+}

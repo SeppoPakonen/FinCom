@@ -1,0 +1,318 @@
+{
+  "original_content": "# Template: Employment Contract\n\nThis is a general template for an employment contract. When preparing the contract, the Employment Contracts Act and any applicable collective agreement (CA) must be considered.\n\n## 1. Contracting Parties\n* **Employer:** [Company name and Business ID]\n* **Employee:** [Person's name and personal identity code]\n\n## 2. Terms of Employment\n* **Start date:** ____.____.20______\n* **Duration:** [Indefinite / Fixed-term, reason: __________]\n* **Trial period:** [Duration in months]\n* **Job duties:** [Main duties]\n* **Work location:** [Address or explanation of principles if multiple locations]\n\n## 3. Salary and Working Hours\n* **Salary:** [Amount] € / [hour / month]\n* **Working hours:** [Hours per week / period]\n* **Pay period:** [E.g. once per month, date: ____]\n\n## 4. Annual Leave and Notice Period\n* **Annual leave:** Determined according to the Annual Holidays Act and CA.\n* **Notice period:** Determined according to the Employment Contracts Act and CA.\n\n## 5. Special Obligations (Employment Contracts Act Chapter 3)\n* **Competing activities (Section 3):** The employee may not engage in competing activities that harm the employer during the employment relationship.\n* **Trade secrets (Section 4):** The employee may not improperly use or disclose the employer's trade secrets during the employment relationship or thereafter, if the information was obtained improperly.\n\n---\n**Place and date:** ____________________, ______.______.20______\n\n**Signatures:**\n__________________________   __________________________\n*(Employer)*                 *(Employee)*",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "position_in_text": 272,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "position_in_text": 255,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "position_in_text": 1378,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "position_in_text": 1378,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "position_in_text": 1376,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "position_in_text": 643,
+      "related_keywords": []
+    },
+    {
+      "term": "employment",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "position_in_text": 12,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "position_in_text": 547,
+      "related_keywords": []
+    },
+    {
+      "term": "salary",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "position_in_text": 632,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "position_in_text": 23,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "position_in_text": 176,
+      "related_keywords": []
+    },
+    {
+      "term": "obligation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "position_in_text": 1009,
+      "related_keywords": []
+    },
+    {
+      "term": "T2 Tyosopimus ",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+    "extraction_date": "2026-02-09T23:01:32.503685",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_T2_Tyosopimus__review",
+      "title": "T2_Tyosopimus_.md Review Required",
+      "description": "Document T2_Tyosopimus_.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document T2_Tyosopimus_.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/T2_Tyosopimus_.md",
+    "title": "T2 Tyosopimus ",
+    "description": "Documentation file: T2_Tyosopimus_.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.503692",
+    "last_modified": "2026-02-09T23:01:32.503692",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 219,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "form",
+      "template",
+      "information",
+      "working",
+      "employment",
+      "work",
+      "salary"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_T2_Tyosopimus__review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "T2_Tyosopimus_.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.503724",
+  "processor": "systematic_batch_processor"
+}

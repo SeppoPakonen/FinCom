@@ -1,0 +1,182 @@
+{
+  "original_content": "# Template: Articles of Incorporation for a Cooperative\n\nThis is a template for establishing a cooperative. Modify and add provisions as needed.\n\n## Articles of Incorporation\n\n### 1. Establishment\nWe establish a cooperative whose trade name is: ________________________________ Cooperative.\n\n### 2. Founding Members\nFounding members (name and SSN/Business ID):\n1. ________________________________\n2. ________________________________\n\n### 3. Shares and Payments\n* Each member subscribes to one (1) share.\n* **Subscription price:** ______ € per share.\n* **Payment deadline:** Must be paid at the latest by ______.______.20______\n\n### 4. Management\n* **Board members:** ________________________________, ________________________________\n* **Alternate members:** ________________________________\n* **Chairman:** ________________________________\n* **Managing director (optional):** ________________________________\n\n### 5. Audit (if selected)\n* **Auditor:** ________________________________\n* **Alternate auditor:** ________________________________\n\n### 6. Financial Year and Rules\n* **Financial year:** ______.______. – ______.______.\n* The cooperative's rules are attached as an annex to this articles of incorporation.\n\n---\n\n**Place and time:** ____________________, ______.______.20______\n\n**Signatures:**\n__________________________   __________________________\n*(Member 1)*                  *(Member 2)*",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Articles of Incorporation for a Cooperative.md",
+      "position_in_text": 347,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Articles of Incorporation for a Cooperative.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "cooperative",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Articles of Incorporation for a Cooperative.md",
+      "position_in_text": 44,
+      "related_keywords": []
+    },
+    {
+      "term": "Template Articles of Incorporation for a Cooperative",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Articles of Incorporation for a Cooperative.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Articles of Incorporation for a Cooperative.md",
+    "extraction_date": "2026-02-09T23:01:32.419724",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Articles of Incorporation for a Cooperative.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Articles of Incorporation for a Cooperative.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Articles of Incorporation for a Cooperative.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Articles of Incorporation for a Cooperative.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Template_Articles_of_Incorporation_for_a_Cooperative_review",
+      "title": "Template Articles of Incorporation for a Cooperative.md Review Required",
+      "description": "Document Template Articles of Incorporation for a Cooperative.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Articles of Incorporation for a Cooperative.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Template Articles of Incorporation for a Cooperative.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Articles of Incorporation for a Cooperative.md",
+    "title": "Template Articles of Incorporation for a Cooperative",
+    "description": "Documentation file: Template Articles of Incorporation for a Cooperative.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.419731",
+    "last_modified": "2026-02-09T23:01:32.419731",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 155,
+    "language": "en",
+    "keywords": [
+      "business",
+      "template",
+      "cooperative",
+      "Template Articles of Incorporation for a Cooperative"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Template_Articles_of_Incorporation_for_a_Cooperative_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Template Articles of Incorporation for a Cooperative.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.419755",
+  "processor": "systematic_batch_processor"
+}

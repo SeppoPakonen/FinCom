@@ -1,0 +1,305 @@
+{
+  "original_content": "# Tool: Occupational Safety Action Plan\n\nThis document defines the company's general objectives and practices for occupational safety. Occupational safety refers to the cooperation between the employer and employees to promote health and safety.\n\n---\n\n## 1. Occupational Safety Objectives\n* Prevent workplace accidents and occupational diseases.\n* Maintain and promote employees' work ability and wellbeing.\n* Ensure that each employee knows safe working methods.\n\n## 2. Responsibilities and Authority\n* **Employer/Supervisors:** Responsible for ensuring the work environment is safe and employees are properly oriented.\n* **Employees:** Obligated to follow instructions and report any deficiencies or dangers noticed.\n\n## 3. Description of Work Environment and Risk Assessment\n* Description of work premises and tasks.\n* Risk assessment is performed regularly (or during change phases).\n* Identified hazards and their management methods are recorded in a separate risk assessment.\n\n## 4. Work and Safety Instructions\n* **Orientation:** Each new employee is oriented in safe working methods.\n* **First aid:** The workplace has adequate first aid supplies and responsible persons are designated.\n* **Emergency situations:** Instructions for threats of violence, accidents, or fires.\n\n## 5. Development Targets\n* List items that need improvement (e.g., lighting, ergonomics, updating instructions).\n\n## 6. Occupational Health Care\n* **Service provider:** [Name]\n* **Contract:** [Occupational health care contract date]\n* **Action plan:** Updated annually based on the workplace survey.\n\n## 7. Monitoring and Updates\n* Working conditions are monitored using accident statistics, sick leaves, and workplace climate surveys.\n* The action plan is reviewed and updated at least once a year.\n\n---\n[Place and date]\n__________________________\nEmployer / Occupational Safety Manager",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+      "position_in_text": 67,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+      "position_in_text": 46,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+      "position_in_text": 844,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+      "position_in_text": 658,
+      "related_keywords": []
+    },
+    {
+      "term": "assessment",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+      "position_in_text": 767,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+      "position_in_text": 1433,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+      "position_in_text": 447,
+      "related_keywords": []
+    },
+    {
+      "term": "fire",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+      "position_in_text": 1275,
+      "related_keywords": []
+    },
+    {
+      "term": "safety",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+      "position_in_text": 21,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+      "position_in_text": 299,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+      "position_in_text": 1464,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+      "position_in_text": 675,
+      "related_keywords": []
+    },
+    {
+      "term": "Tool Occupational Safety Action Plan",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+    "extraction_date": "2026-02-09T23:01:32.524712",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Tool_Occupational_Safety_Action_Plan_review",
+      "title": "Tool Occupational Safety Action Plan.md Review Required",
+      "description": "Document Tool Occupational Safety Action Plan.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Tool Occupational Safety Action Plan.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Tool Occupational Safety Action Plan.md",
+    "title": "Tool Occupational Safety Action Plan",
+    "description": "Documentation file: Tool Occupational Safety Action Plan.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.524719",
+    "last_modified": "2026-02-09T23:01:32.524720",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 264,
+    "language": "en",
+    "keywords": [
+      "company",
+      "document",
+      "form",
+      "instructions",
+      "assessment",
+      "service",
+      "working",
+      "fire",
+      "safety",
+      "work"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Tool_Occupational_Safety_Action_Plan_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Tool Occupational Safety Action Plan.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.524752",
+  "processor": "systematic_batch_processor"
+}

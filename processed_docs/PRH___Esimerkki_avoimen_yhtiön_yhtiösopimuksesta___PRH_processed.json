@@ -1,0 +1,238 @@
+{
+  "original_content": "# Template: General Partnership Agreement\n\nThis is a template for establishing a general partnership (Ay).\n\n## General Partnership Agreement\n\nWe, the undersigned, establish the company under the following terms:\n\n### 1. Company name\nThe company's business name is: ________________________________ General Partnership.\n\n### 2. Registered office\nThe company's registered office is: ________________________________\n\n### 3. Business sector\nThe company's business sector is: __________________________________________________\n\n### 4. Partners\nThe partners are:\n1. ________________________________\n2. ________________________________\n\n### 5. Signing the business name\nEach partner signs the business name alone.\n\n### 6. Amending the partnership agreement\nChanges to the partnership agreement must be made by unanimous consent of all partners.\n\n### 7. Application of law\nOtherwise, the Act on General Partnership and Limited Partnership is followed.\n\n### 8. Number of copies and signatures\n______ copies of this partnership agreement have been made, one for each partner and one for the Trade Register.\n\n**Place and date:** ____________________, ______.______.20______\n\n**Signatures:**\n__________________________   __________________________\n*(Partner 1)*              *(Partner 2)*",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
+      "position_in_text": 247,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
+      "position_in_text": 177,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
+      "position_in_text": 912,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
+      "position_in_text": 32,
+      "related_keywords": []
+    },
+    {
+      "term": "partnership",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
+      "position_in_text": 20,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
+      "position_in_text": 847,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Esimerkki avoimen yhtiön yhtiösopimuksesta   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
+    "extraction_date": "2026-02-09T23:01:32.577349",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Esimerkki_avoimen_yhtiön_yhtiösopimuksesta___PRH_review",
+      "title": "PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md Review Required",
+      "description": "Document PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
+    "title": "PRH   Esimerkki avoimen yhtiön yhtiösopimuksesta   PRH",
+    "description": "Documentation file: PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.577356",
+    "last_modified": "2026-02-09T23:01:32.577357",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 158,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "template",
+      "limited",
+      "agreement",
+      "partnership",
+      "application",
+      "PRH   Esimerkki avoimen yhtiön yhtiösopimuksesta   PRH"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Esimerkki_avoimen_yhtiön_yhtiösopimuksesta___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.577382",
+  "processor": "systematic_batch_processor"
+}

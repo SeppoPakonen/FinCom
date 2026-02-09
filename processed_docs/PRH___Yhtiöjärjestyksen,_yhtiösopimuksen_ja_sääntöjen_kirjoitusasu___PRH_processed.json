@@ -1,0 +1,357 @@
+{
+  "original_content": "# Writing Format for Articles of Association, Partnership Agreement and Bylaws in the YTJ Service\n\nThis guide concerns the electronic submission of articles of association, partnership agreement and bylaws in the YTJ service.\n\nBelow on this page you will find information on the following topics:\n\n* [How to proceed in the YTJ service](#how-to-proceed-in-the-ytj-service)\n* [Permitted and prohibited characters and formatting](#permitted-and-prohibited-characters-and-formatting)\n* [Apartment companies and mutual real estate companies: articles of association in the new electronic format](#apartment-companies-and-mutual-real-estate-companies-articles-of-association-in-the-new-electronic-format)\n\n## How to proceed in the YTJ service\n\nWhen establishing a limited liability company, i.e. when filing a\nnotification of establishment in the YTJ service (adding self-prepared documents), \nwrite or copy the entire content of the articles of association into the text field.\n\nWhen notifying of a change to the articles of association, partnership agreement or\nbylaws, change in the service's text field only those sections that\nhave been decided on in the company. However, if the field is completely\nempty, write or copy the entire content of the articles of association, partnership agreement or\nbylaws into it.\n\nYou can copy text from a file on your device and paste it into the field.\nTo remove document formatting, you can first paste the text into your device's\nnotes application and then into the YTJ service text field.\n\nRemember to add line spacing between paragraphs and possible subheadings.\n\nCheck from the preview how the text looks.\nThe articles of association, partnership agreement or bylaws will be registered in the trade register\nin the form in which the text appears in the preview of the draft.\n\nIn the text field, a single line can contain at most 67\ncharacters including spaces. If you use the zoom function in the Firefox browser and zoom\nthe screen to over 100 percent, the text you write in the text field may wrap differently\nin the preview and in the completed notification.\n\nNote:\n\n* You cannot modify the text after you have accepted the notification for signing.\n* Separate\n  instructions exist for apartment companies and mutual real estate companies\n  when the company was established starting from 2019 or the articles of association\n  are notified in the new electronic format. Read more below.\n\n## Permitted and Prohibited Characters and Formatting\n\nThe following characters and formatting are permitted in the YTJ service:\n\n* Finnish and Swedish letters\n* Numbers\n* Period (.), comma (,) and colon (:)\n* Hyphen (-) and slash (/)\n* Paragraph symbol (§) and ampersand (&)\n* Parentheses ()\n* Apostrophe (') and quotation marks (\")\n* Plus sign (+) and exclamation mark (!)\n* Space and line break.\n\nCharacters and formatting other than those listed above are prohibited. For example, the following are prohibited characters:\n\n* Semicolon (;)\n* Multiple consecutive hyphens (-)\n* En dash (–)\n* Letters other than those of Western European languages (other than character set ISO 8859-1, i.e. ISO Latin 1).\n\nThe service highlights prohibited characters in red in the text and\nrequests that they be removed or corrected. After that, check again the content\nand line breaks of the text before continuing with the notification.\n\n## Apartment Companies and Mutual Real Estate Companies: Articles of Association in the New Electronic Format\n\nOperating instructions for apartment companies and mutual real estate companies\nin the YTJ service when notifying articles of association in the new\nelectronic format or modifying an articles of association already in the new format (including all companies established starting from 2019):\n\nThe YTJ service creates the provisions 1–4 of the articles of association based on the information\nand choices you provide. In the text field under \"Other information on the articles of association\", you notify all other\nprovisions of the articles of association starting from provision 5 or 6.\n\nGo to more detailed instructions:\n\n* [Articles of Association of an Apartment Company to be Established](https://www.prh.fi/en/companiesandorganisations/companyformation/establishing_an_apartment_company_and_filing_the_establishment_notification/articles_of_association.html)\n* [Articles of Association of a Mutual Real Estate Company to be Established](https://www.prh.fi/en/companiesandorganisations/companyformation/filing_the_establishment_notification_for_a_mutual_real_estate_company/articles_of_association.html)\n* [Amendment to the Articles of Association of an Apartment Company - Articles of Association in the New Electronic Format in the YTJ Service](https://www.prh.fi/en/companiesandorganisations/companychanges/notification_of_changes_to_an_apartment_company/amending_the_articles_of_association/2019_onwards/articles_of_association_in_new_electronic_format.html)\n* [Amendment to the Articles of Association of a Mutual Real Estate Company - Articles of Association in the New Electronic Format in the YTJ Service](https://www.prh.fi/en/companiesandorganisations/companychanges/notifications_of_changes_1_1/amending_the_articles_of_association/articles_of_association_in_new_electronic_format.html)",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 14,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 776,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 262,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 875,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 23,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 10,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 260,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 2205,
+      "related_keywords": []
+    },
+    {
+      "term": "association",
+      "frequency": 27,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 33,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 766,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 758,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 14,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 90,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 2316,
+      "related_keywords": []
+    },
+    {
+      "term": "fire",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 1936,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 58,
+      "related_keywords": []
+    },
+    {
+      "term": "partnership",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 46,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 1472,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 804,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+    "extraction_date": "2026-02-09T23:01:32.614137",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Yhtiöjärjestyksen,_yhtiösopimuksen_ja_sääntöjen_kirjoitusasu___PRH_review",
+      "title": "PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md Review Required",
+      "description": "Document PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+    "title": "PRH   Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu   PRH",
+    "description": "Documentation file: PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.614145",
+    "last_modified": "2026-02-09T23:01:32.614146",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 3,
+    "word_count": 699,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "document",
+      "form",
+      "information",
+      "instructions",
+      "association",
+      "liability",
+      "limited",
+      "service"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Yhtiöjärjestyksen,_yhtiösopimuksen_ja_sääntöjen_kirjoitusasu___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Yhtiöjärjestyksen, yhtiösopimuksen ja sääntöjen kirjoitusasu _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.614214",
+  "processor": "systematic_batch_processor"
+}

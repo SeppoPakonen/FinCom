@@ -1,0 +1,318 @@
+{
+  "original_content": "# PRH: Removal from Register for Missing Financial Statements\n\nEvery limited liability company and cooperative must report financial statements to the Trade Register annually, even if there is no activity.\n\n## 1. Procedure Steps\n1. **Late fee:** If the notification has not been made within one year of the end of the financial year, PRH first imposes a late fee (150–600 €).\n2. **Reminder letter:** If the notification is still missing, PRH sends a reminder to the YTJ address (response time 3 weeks).\n3. **Public notice:** If the letter does not help, the notice is published in the Official Gazette (response time 3.5 months).\n4. **Decision:** If the financial statements are still not reported, the company is removed from the Trade Register or placed in investigation status.\n\n## 2. Consequences\n* A company removed from the Trade Register **cannot conduct business operations**.\n* Removal can complicate banking and contracts.\n\n## 3. Restoration to the register\n* The company can apply for restoration to the Trade Register when certain conditions are met and after reporting the overdue financial statements.\n\n---\n**Important:** Always keep the company's address and responsible person information up to date so that notices reach the company.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "position_in_text": 862,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "position_in_text": 87,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "position_in_text": 1195,
+      "related_keywords": []
+    },
+    {
+      "term": "procedure",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "position_in_text": 213,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "position_in_text": 1195,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "position_in_text": 1193,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "position_in_text": 77,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "position_in_text": 69,
+      "related_keywords": []
+    },
+    {
+      "term": "cooperative",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "position_in_text": 99,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "position_in_text": 871,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "position_in_text": 922,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "position_in_text": 116,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "position_in_text": 253,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH Removal from Register for Missing Financial Statements",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+    "extraction_date": "2026-02-09T23:01:32.454705",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH_Removal_from_Register_for_Missing_Financial_Statements_review",
+      "title": "PRH Removal from Register for Missing Financial Statements.md Review Required",
+      "description": "Document PRH Removal from Register for Missing Financial Statements.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH Removal from Register for Missing Financial Statements.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Removal from Register for Missing Financial Statements.md",
+    "title": "PRH Removal from Register for Missing Financial Statements",
+    "description": "Documentation file: PRH Removal from Register for Missing Financial Statements.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.454712",
+    "last_modified": "2026-02-09T23:01:32.454713",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 198,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "procedure",
+      "form",
+      "information",
+      "liability",
+      "limited",
+      "cooperative",
+      "operations"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH_Removal_from_Register_for_Missing_Financial_Statements_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH Removal from Register for Missing Financial Statements.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.454751",
+  "processor": "systematic_batch_processor"
+}

@@ -1,0 +1,279 @@
+{
+  "original_content": "# Logistics Costs\n\nLogistics costs form differently depending on the company's industry. Here is a breakdown of cost types in the service sector, retail, online stores, and industry.\n\n## 1. Logistics costs in the service sector\nEven though a service company does not move goods, logistics causes costs:\n* **Personnel:** Salaries, additional benefits, and training.\n* **Movement:** Customer visits, travel compensation, and transportation arrangements.\n* **Information systems:** Customer registers, appointment systems, and monitoring software.\n* **Supplies:** Storage and management of possible materials and supplies.\n* **Cancellation and return costs:** Managing customer refunds and cancellations.\n\n## 2. Logistics costs in retail\n* **Storage:** Rent, shelving space, and storage equipment.\n* **Procurement:** Ordering products, inbound and internal logistics.\n* **Packaging:** Materials and workforce for packaging.\n* **Returns:** Handling and re-stocking of products.\n\n## 3. Logistics costs in online stores\n* **Delivery costs:** Shipping to the customer, transportation fleet, and fuel.\n* **Customer service:** Consulting and problem-solving related to orders.\n* **Marketing and distribution:** Optimizing online visibility and optimizing warehouse location to improve delivery speed.\n\n## 4. Logistics costs in industrial production\n* **Procurement and SCM:** Tracking raw materials and components.\n* **Production logistics:** Moving raw materials to production and finished products to storage.\n* **Storage and distribution:** Storing finished products and shipping to resellers.\n\n---\n\n## Allocation of logistics costs\nCosts are considered in pricing and profit calculation:\n1. **Product-specific allocation:** Calculating the logistics share per product.\n2. **Transferring costs to the customer:** For example, delivery costs as a separate fee.\n3. **Profitability analysis:** Evaluating how logistics affects profit margin.\n\n---\n\n## Artificial Intelligence (AI) in logistics\nAI is utilized in logistics optimization:\n* **Predictive analytics:** Estimating demand with historical data.\n* **Route optimization:** Algorithms minimize fuel consumption and delivery time.\n* **Automation:** Robots and automatic sorting systems in warehouses.\n* **Risk management:** Anticipating natural disasters or market disruptions.\n\n### Known tools:\n* **Blue Yonder:** Demand forecasting and inventory management.\n* **IBM Watson Supply Chain:** Predictive analytics and visibility.\n* **Oracle Logistics Cloud:** Cloud-based route optimization.\n* **FourKites:** Real-time shipment tracking.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+      "position_in_text": 69,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+      "position_in_text": 458,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+      "position_in_text": 35,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+      "position_in_text": 456,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+      "position_in_text": 381,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+      "position_in_text": 130,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+      "position_in_text": 823,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+      "position_in_text": 1172,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+      "position_in_text": 896,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+      "position_in_text": 341,
+      "related_keywords": []
+    },
+    {
+      "term": "Logistics Costs",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+    "extraction_date": "2026-02-09T23:01:32.563267",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Logistics_Costs_review",
+      "title": "Logistics Costs.md Review Required",
+      "description": "Document Logistics Costs.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Logistics Costs.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistics Costs.md",
+    "title": "Logistics Costs",
+    "description": "Documentation file: Logistics Costs.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.563274",
+    "last_modified": "2026-02-09T23:01:32.563274",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 339,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "products",
+      "marketing",
+      "work",
+      "benefit"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Logistics_Costs_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Logistics Costs.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.563312",
+  "processor": "systematic_batch_processor"
+}

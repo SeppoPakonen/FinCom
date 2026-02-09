@@ -1,0 +1,279 @@
+{
+  "original_content": "# Invoice\n\n**Publisher Quote Digital Power Ltd**  \n**Invoice No.:** 2016/LA1xx  \n**Date:** 20.x.2016  \n**Page:** 1 (1)\n\n---\n\n### Invoicer\n**Publisher Quote Digital Power Ltd**  \nPO Box 111, 87101 Kajaani  \nBusiness ID: 234 567-10  \nVAT number: FI123456  \nBank account: FI22 2222 2222 2222 22  \n\n### Recipient\n**Työasu.fi**  \nHansatie 4, 02780 Espoo  \nContact person: Sami Sassi, Sales Manager  \n\n---\n\n## Invoiced Item: Printing of Company Brochures\n**Reference:** Your order 6.5.2016/TI1xx\n\n| Item | Quantity | Unit price | Tax-free total | VAT 24 % | Tax-inclusive total |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| Design and layout work | 20 h | 75.00 € | 1500.00 € | 360.00 € | 1860.00 € |\n| Housing Brochure | 5000 pcs | - | 2400.00 € | 576.00 € | 2976.00 € |\n| Work Shoe Brochure | 3000 pcs | - | 1800.00 € | 432.00 € | 2232.00 € |\n| **TOTAL** | | | **5700.00 €** | **1368.00 €** | **7068.00 €** |\n\n---\n\n## Payment Information\n\n* **Due date:** x.x.2016\n* **Payment terms:** 14 days net\n* **Reference number:** 22222 22222 2222\n* **Late payment interest:** 8.5 %\n* **Notice period:** 7 days",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+      "position_in_text": 206,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+      "position_in_text": 431,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+      "position_in_text": 926,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+      "position_in_text": 524,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+      "position_in_text": 926,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+      "position_in_text": 924,
+      "related_keywords": []
+    },
+    {
+      "term": "housing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+      "position_in_text": 699,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+      "position_in_text": 379,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+      "position_in_text": 29,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+      "position_in_text": 638,
+      "related_keywords": []
+    },
+    {
+      "term": "Invoice",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+    "extraction_date": "2026-02-09T23:01:32.409229",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Invoice_review",
+      "title": "Invoice.md Review Required",
+      "description": "Document Invoice.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Invoice.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Invoice.md",
+    "title": "Invoice",
+    "description": "Documentation file: Invoice.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.409240",
+    "last_modified": "2026-02-09T23:01:32.409241",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 201,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "tax",
+      "form",
+      "information",
+      "housing",
+      "sales",
+      "digital",
+      "work"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Invoice_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Invoice.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.409287",
+  "processor": "systematic_batch_processor"
+}

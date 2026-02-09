@@ -1,0 +1,344 @@
+{
+  "original_content": "# Template: Company Year Clock\n\nA year clock is a tool that helps you schedule recurring business tasks, campaigns and important dates.\n\n| Month | Marketing & Sales | Finance & Administration | Other (Development, HR) |\n| :--- | :--- | :--- | :--- |\n| **January** | Discount sales, planning for next year | Annual notifications, tax cards | Development discussions |\n| **February** | Valentine's Day theme | Advance tax review | Training |\n| **March** | Spring season begins | Annual report completion | Product development |\n| **April** | Easter campaigns | Tax return submission (Partnership) | Vacation planning |\n| **May** | Graduation gifts, summer season | Summer worker orientation | Summer season preparation |\n| **June** | Midsummer, summer events | Vacation pay calculation | Summer vacations |\n| **July** | End of summer rush | | Vacation period |\n| **August** | Back to school theme | Mid-year budget review | Fall planning |\n| **September** | Fall campaigns, trade fairs | Advance taxes | Strategy update |\n| **October** | Fall vacation, dark season themes | | Equipment maintenance |\n| **November** | Black Friday, Father's Day | Next year's budgeting | Christmas parties |\n| **December** | Christmas sales, gift cards | Inventory, thank you to partners | Year-end summary |\n\n---\n**Tip:** Print the year clock on a poster or share it digitally with your team. It helps prevent busy periods and ensures that important tasks are completed on time.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 89,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 12,
+      "related_keywords": []
+    },
+    {
+      "term": "finance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 167,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 329,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 159,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 147,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 282,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 1348,
+      "related_keywords": []
+    },
+    {
+      "term": "budget",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 906,
+      "related_keywords": []
+    },
+    {
+      "term": "budgeting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 1156,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 670,
+      "related_keywords": []
+    },
+    {
+      "term": "partnership",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 582,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 484,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 314,
+      "related_keywords": []
+    },
+    {
+      "term": "Vuosikellopohja xxx",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+    "extraction_date": "2026-02-09T23:01:32.386622",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Vuosikellopohja_xxx_review",
+      "title": "Vuosikellopohja_xxx.md Review Required",
+      "description": "Document Vuosikellopohja_xxx.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Vuosikellopohja_xxx.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Vuosikellopohja_xxx.md",
+    "title": "Vuosikellopohja xxx",
+    "description": "Documentation file: Vuosikellopohja_xxx.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.386632",
+    "last_modified": "2026-02-09T23:01:32.386633",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 251,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "finance",
+      "tax",
+      "template",
+      "sales",
+      "marketing",
+      "planning",
+      "digital",
+      "budget"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Vuosikellopohja_xxx_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Vuosikellopohja_xxx.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.386680",
+  "processor": "systematic_batch_processor"
+}

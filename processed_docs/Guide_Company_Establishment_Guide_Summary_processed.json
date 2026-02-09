@@ -1,0 +1,396 @@
+{
+  "original_content": "# Guide: Company Establishment Guide (Summary)\n\nEstablishing a company is a path that requires enthusiasm, expertise, and careful planning. Here are the most important steps.\n\n## 1. Are you ready to be an entrepreneur?\n* As an entrepreneur, you need independence, risk tolerance, and diverse expertise.\n* **Consultation:** Use free business consulting services (e.g., New Business Center). They help refine your business plan and calculations.\n\n## 2. Social Security and Startup Grant\n* **Startup grant:** Intended for the entrepreneur's living expenses initially. Apply for support in time before starting!\n* **YEL:** Statutory pension insurance, which forms the basis of the entrepreneur's social security (pension, sickness, parenthood).\n\n## 3. Business Forms\n* **Private entrepreneur (Trade name):** Suitable for small-scale operations.\n* **Limited liability company (Ltd):** Recommended if there are multiple owners or if the operations are risky. Shareholders are not personally liable for the company's debts.\n\n## 4. Calculations and Financing\n* **Profitability calculation:** How much do you need to sell to earn the desired salary and cover expenses?\n* **Financing:** Own savings, bank loan, and possible grants. Finnvera can act as a loan guarantor.\n\n## 5. Notifications and Permits\n* Make the establishment notification in the [ytj.fi](https://www.ytj.fi) service.\n* Check if your field requires official permits (e.g., food industry, transportation, healthcare).\n\n## 6. Value-Added Tax (VAT)\n* VAT is a consumption tax added to the sales price. If your revenue is less than 20,000 €/year, you can choose whether to apply for VAT registration.\n\n---\n**Important:** Make written contracts for everything. An oral contract is binding, but proving it is difficult.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 332,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 9,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 1494,
+      "related_keywords": []
+    },
+    {
+      "term": "registration",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 1641,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 654,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 853,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 845,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 352,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 352,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 1544,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 829,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 130,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 598,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 637,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 458,
+      "related_keywords": []
+    },
+    {
+      "term": "salary",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 1133,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 1688,
+      "related_keywords": []
+    },
+    {
+      "term": "shareholder",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 953,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 1267,
+      "related_keywords": []
+    },
+    {
+      "term": "Guide Company Establishment Guide Summary",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+    "extraction_date": "2026-02-09T23:01:32.627785",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Guide_Company_Establishment_Guide_Summary_review",
+      "title": "Guide Company Establishment Guide Summary.md Review Required",
+      "description": "Document Guide Company Establishment Guide Summary.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Guide Company Establishment Guide Summary.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Establishment Guide Summary.md",
+    "title": "Guide Company Establishment Guide Summary",
+    "description": "Documentation file: Guide Company Establishment Guide Summary.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.627791",
+    "last_modified": "2026-02-09T23:01:32.627792",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 261,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "tax",
+      "registration",
+      "form",
+      "liability",
+      "limited",
+      "service",
+      "services",
+      "sales"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Guide_Company_Establishment_Guide_Summary_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Guide Company Establishment Guide Summary.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.627829",
+  "processor": "systematic_batch_processor"
+}

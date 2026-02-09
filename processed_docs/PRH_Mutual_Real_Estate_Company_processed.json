@@ -1,0 +1,331 @@
+{
+  "original_content": "# PRH: Mutual Real Estate Company\n\nA mutual real estate company (koy) is a company form in which shares provide the right to manage a specific space or apartment in the company's building.\n\n## 1. Applicable Law\n* As a rule, the **housing company act** is applied.\n* The articles of association may provide that the limited liability companies act is applied (either completely or partially).\n\n## 2. Establishment\n* **Deadline:** The notification must be made within **3 months** of signing the articles of incorporation.\n* **Costs:** The establishment notification costs 400 €.\n* **Apartment Information System:** New companies automatically belong to the system maintained by the National Land Survey.\n\n## 3. Required Information and Attachments\n* Original articles of incorporation.\n* Board and managing director/property manager's guarantee of compliance with the law.\n* Auditor's certificate of payment of shares.\n* **Articles of Association:** Must be in electronic (structured) form. Includes, among others, the apartment specifications (Section 4).\n\n## 4. Notification\nThe notification is made electronically in the [YTJ service](https://asiointi.ytj.fi/ytjap). The business ID is received immediately after submission.\n\n---\n**Note:** If a board member does not have a Finnish SSN, attach a certified copy of the passport.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 1173,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 26,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 594,
+      "related_keywords": []
+    },
+    {
+      "term": "compliance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 847,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 83,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 592,
+      "related_keywords": []
+    },
+    {
+      "term": "association",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 282,
+      "related_keywords": []
+    },
+    {
+      "term": "housing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 230,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 323,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 315,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 1128,
+      "related_keywords": []
+    },
+    {
+      "term": "guarantee",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 834,
+      "related_keywords": []
+    },
+    {
+      "term": "compliance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 847,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 433,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH Mutual Real Estate Company",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+    "extraction_date": "2026-02-09T23:01:32.444772",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH_Mutual_Real_Estate_Company_review",
+      "title": "PRH Mutual Real Estate Company.md Review Required",
+      "description": "Document PRH Mutual Real Estate Company.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH Mutual Real Estate Company.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Mutual Real Estate Company.md",
+    "title": "PRH Mutual Real Estate Company",
+    "description": "Documentation file: PRH Mutual Real Estate Company.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.444779",
+    "last_modified": "2026-02-09T23:01:32.444780",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 197,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "compliance",
+      "form",
+      "information",
+      "association",
+      "housing",
+      "liability",
+      "limited"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH_Mutual_Real_Estate_Company_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH Mutual Real Estate Company.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.444810",
+  "processor": "systematic_batch_processor"
+}

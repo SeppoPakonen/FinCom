@@ -2,7 +2,7 @@
 
 ## File Information
 - **File**: `L12_Toimeksiantosopimus.md`
-- **Source Directory**: `/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/`
+- **Source Directory**: `/common/active/sblo/Dev/FinCom/docs/english_business_forms/`
 - **Status**: COMPLETED
 
 ## Processing Requirements
@@ -56,7 +56,7 @@ Process this documentation file to add:
 - **Date Completed**: 2026-02-09
 - **Processor**: Systematic Batch Processor
 - **Output File**: `processed_docs/L12_Toimeksiantosopimus_processed.json`
-- **Keywords Extracted**: 1
+- **Keywords Extracted**: 5
 - **Entities Identified**: 1
 - **Components Identified**: 1
 - **Systems Identified**: 1

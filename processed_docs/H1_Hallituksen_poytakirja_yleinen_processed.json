@@ -1,0 +1,224 @@
+{
+  "original_content": "# Template: Board Meeting Minutes\n\nThis is a general template for documenting board meetings.\n\n---\n\n## 1. Basic Information of the Meeting\n* **Company name:** ____________________________________\n* **Time:** ____.____.20______ at ______:______\n* **Place:** ___________________________________________\n* **Present:** [List participants]\n\n## 2. Organization\n* **Chairperson:** ____________________________________\n* **Secretary:** ________________________________________\n* **Minutes reviewers:** __________________________\n* **Validity:** The meeting was declared valid and quorate.\n\n## 3. Matters to be addressed\n*(E.g. approval of financial statements, approval of new investments, appointment of signatories)*\n\n### Matter 1: _____________________________________________\n* **Decision:** __________________________________________\n\n### Matter 2: _____________________________________________\n* **Decision:** __________________________________________\n\n## 4. Conclusion of the Meeting\nThe chairperson concluded the meeting at ______:______.\n\n---\n\n## Signatures\n\n__________________________   __________________________\n*(Chairperson)*            *(Secretary)*\n\n## Minutes Review\nWe have reviewed the minutes and confirmed that they correspond to the course of the meeting.\n\n__________________________   __________________________\n*(Reviewer 1)*             *(Reviewer 2)*",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H1_Hallituksen_poytakirja_yleinen.md",
+      "position_in_text": 143,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H1_Hallituksen_poytakirja_yleinen.md",
+      "position_in_text": 114,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H1_Hallituksen_poytakirja_yleinen.md",
+      "position_in_text": 66,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H1_Hallituksen_poytakirja_yleinen.md",
+      "position_in_text": 114,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H1_Hallituksen_poytakirja_yleinen.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H1_Hallituksen_poytakirja_yleinen.md",
+      "position_in_text": 112,
+      "related_keywords": []
+    },
+    {
+      "term": "H1 Hallituksen poytakirja yleinen",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H1_Hallituksen_poytakirja_yleinen.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H1_Hallituksen_poytakirja_yleinen.md",
+    "extraction_date": "2026-02-09T23:01:32.643885",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H1_Hallituksen_poytakirja_yleinen.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H1_Hallituksen_poytakirja_yleinen.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H1_Hallituksen_poytakirja_yleinen.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H1_Hallituksen_poytakirja_yleinen.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_H1_Hallituksen_poytakirja_yleinen_review",
+      "title": "H1_Hallituksen_poytakirja_yleinen.md Review Required",
+      "description": "Document H1_Hallituksen_poytakirja_yleinen.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H1_Hallituksen_poytakirja_yleinen.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document H1_Hallituksen_poytakirja_yleinen.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H1_Hallituksen_poytakirja_yleinen.md",
+    "title": "H1 Hallituksen poytakirja yleinen",
+    "description": "Documentation file: H1_Hallituksen_poytakirja_yleinen.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.643891",
+    "last_modified": "2026-02-09T23:01:32.643892",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 137,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "document",
+      "form",
+      "template",
+      "information",
+      "H1 Hallituksen poytakirja yleinen"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_H1_Hallituksen_poytakirja_yleinen_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "H1_Hallituksen_poytakirja_yleinen.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.643915",
+  "processor": "systematic_batch_processor"
+}

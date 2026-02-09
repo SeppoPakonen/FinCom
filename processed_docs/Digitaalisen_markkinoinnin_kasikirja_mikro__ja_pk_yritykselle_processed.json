@@ -1,8 +1,34 @@
 {
-  "original_content": "# Digitaalisen markkinoinnin käsikirja mikro- ja pk-yrityksille\n\nTämä asiakirja on tiivistetty kooste laajasta digitaalisen markkinoinnin oppaasta, joka on suunnattu erityisesti kotimaisille mikro- ja PK-yrityksille.\n\n---\n\n## 1. Johdanto ja digitaalinen murros\n\nDigitalisaatio on muuttanut markkinoiden pelisäännöt 2000-luvulla. Yritysten on otettava digitaaliset menetelmät käyttöön pysyäkseen kilpailussa mukana.\n\n### Keskeiset muutostekijät:\n- **Tiedon demokratisoituminen:** Valta on siirtynyt korporaatioilta kuluttajille. Kuluttajien mielipiteet ja suosittelut vaikuttavat ostopäätöksiin enemmän kuin brändiviestintä.\n- **Vaikuttajat:** Perinteisen median rinnalle on noussut uusia mielipidevaikuttajia, jotka ohjaavat huomiota ja muokkaavat käyttäytymistä.\n- **Tietotulva:** Informaatiota on tarjolla valtavasti. Yritysten haasteena on seuloa merkityksellinen data ja viestiä arvolupauksensa sekunneissa.\n- **Maineenhallinta:** Negatiiviset viestit leviävät nopeasti. Maineenhallinnasta on tullut elintärkeä osa viestintää.\n\n---\n\n## 2. Digitaalisen markkinoinnin ainutlaatuiset piirteet\n\nDigitaalinen markkinointi eroaa perinteisestä neljän tekijän kautta:\n1. **Ubiikkius:** Markkinointi on aina läsnä mobiililaitteiden kautta.\n2. **Mitattavuus:** Kaikki toimenpiteet ja niiden tulokset ovat tarkasti analysoitavissa.\n3. **Kohdennettavuus:** Mainontaa voidaan suunnata demografian, sijainnin ja käyttäytymisen mukaan.\n4. **Viraalisuus:** Sisällöt voivat levitä orgaanisesti sosiaalisten verkostojen kautta, mikä lisää niiden uskottavuutta.\n\n---\n\n## 3. SIKS-malli: Digitaalisen markkinoinnin perusta\n\nNykyaikainen digitaalinen markkinointi perustuu SIKS-malliin, joka jaottelee markkinoinnin osa-alueet hallittaviksi kokonaisuuksiksi asiakkaan ostoprosessin mukaan:\n\n| Vaihe | Tavoite | Toimenpiteet |\n| :--- | :--- | :--- |\n| **Saavuta** | Tunnetaan tarve ja hankitaan kävijöitä. | Hakukoneoptimointi (SEO), hakukonemarkkinointi (SEM), brändimainonta. |\n| **Innosta** | Herätetään kiinnostus ja tarjotaan tietoa. | Sisältömarkkinointi, blogit, verkkosivujen sisällöt, interaktiiviset työkalut. |\n| **Konvertoi** | Ohjataan ostopäätökseen ja kauppaan. | Konversio-optimointi (CRO), selkeä ostopolku, laskeutumissivut (LTO). |\n| **Sitouta** | Luodaan kanta-asiakkuus ja suosittelijoita. | Sähköposti, CRM, kanta-asiakasohjelmat, sosiaalinen media. |\n\n---\n\n## 4. Hyperkilpailu ja strategiset painopisteet\n\nDynaamisilla aloilla (esim. viihde, teknologia) vallitsee hyperkilpailu, jossa kilpailuedut eivät ole pysyviä. Menestys vaatii kolmea painopistealuetta:\n1. **Näkemys:** Kyky tunnistaa uusia mahdollisuuksia ja ennakoida tarpeita.\n2. **Suorituskyky:** Kyky reagoida nopeasti ja toimia yllätyksellisesti.\n3. **Taktinen osaaminen:** Kyky muokata pelisääntöjä ja toteuttaa muutoksia organisaatiossa.\n\n---\n\n## 5. Markkinoiden analysointi\n\n### Asiakasanalyysin kolme M-kysymystä:\n- **Millaisia?** Keitä asiakkaat ovat (demografia, trafiikki)?\n- **Miksi?** Mikä on tuotteen arvo asiakkaalle (toiminnalliset ja aineettomat arvot)?\n- **Miten?** Mistä kanavista asiakkaat tulevat ja miten he kuluttavat sisältöä?\n\n### Markkinakäsitteet:\n- **Koko markkina:** Kaikki potentiaaliset asiakkaat.\n- **Potentiaalinen markkina:** Asiakkaat, jotka voidaan saavuttaa olemassa olevilla resursseilla.\n- **Saavutettavissa oleva markkina:** Realistinen osuus potentiaalisesta markkinasta.\n- **Läpäisty markkina (Break-even):** Myynnin määrä, jolla päästään nollatulokseen.\n\n---\n\n## 6. Organisaation digitaalinen kyvykkyys\n\nDigitaalinen kypsyys voidaan jakaa viiteen tasoon:\n- **Taso 1 (Lähtötaso):** Ad hoc -toimintaa ilman strategiaa tai seurantaa.\n- **Taso 2 (Suunnattu):** Markkinointitoimet tukevat muita kampanjoita, volyymipohjainen mittaus.\n- **Taso 3 (Määritetty):** Selkeä strategia, laatuun perustuvat mittarit (KPI), johto sitoutunut.\n- **Taso 4 (Tarkennettu):** Liiketoimintaa tukeva etenemissuunnitelma, integroidut järjestelmät.\n- **Taso 5 (Optimoitu):** Jatkuva optimointi, personoidut asiakaskokemukset, ROI- ja elinkaariarvopohjainen (CLV) johtaminen.",
+  "original_content": "# Digital Marketing Handbook for Micro and Small Businesses\n\nThis document is a condensed summary of a comprehensive digital marketing guide specifically designed for domestic micro and small businesses.\n\n---\n\n## 1. Introduction and Digital Transformation\n\nDigitalization has changed the rules of the market in the 2000s. Companies must adopt digital methods to remain competitive.\n\n### Key transformation factors:\n- **Democratization of information:** Power has shifted from corporations to consumers. Consumer opinions and recommendations influence purchasing decisions more than brand communication.\n- **Influencers:** New opinion leaders have emerged alongside traditional media, directing attention and shaping behavior.\n- **Information flood:** Vast amounts of information are available. Companies' challenge is to filter meaningful data and communicate their value proposition in seconds.\n- **Reputation management:** Negative messages spread quickly. Reputation management has become a vital part of communication.\n\n---\n\n## 2. Unique features of digital marketing\n\nDigital marketing differs from traditional marketing in four ways:\n1. **Ubiquity:** Marketing is always present through mobile devices.\n2. **Measurability:** All actions and their results can be analyzed precisely.\n3. **Targetability:** Advertising can be directed based on demographics, location and behavior.\n4. **Virality:** Content can spread organically through social networks, increasing its credibility.\n\n---\n\n## 3. SIKS Model: Foundation of Digital Marketing\n\nModern digital marketing is based on the SIKS model, which divides marketing into manageable entities according to the customer's purchasing process:\n\n| Phase | Objective | Actions |\n| :--- | :--- | :--- |\n| **Reach** | Become known and attract visitors. | Search engine optimization (SEO), search engine marketing (SEM), brand advertising. |\n| **Inspire** | Generate interest and provide information. | Content marketing, blogs, website content, interactive tools. |\n| **Convert** | Guide to purchase decision and transaction. | Conversion optimization (CRO), clear purchase path, landing pages (LTO). |\n| **Bind** | Create customer loyalty and advocates. | Email, CRM, customer loyalty programs, social media. |\n\n---\n\n## 4. Hypercompetition and strategic priorities\n\nDynamic industries (e.g. entertainment, technology) are characterized by hypercompetition, where competitive advantages are not permanent. Success requires three focus areas:\n1. **Vision:** Ability to identify new opportunities and anticipate needs.\n2. **Performance:** Ability to react quickly and act unexpectedly.\n3. **Tactical expertise:** Ability to modify rules and implement changes in the organization.\n\n---\n\n## 5. Market Analysis\n\n### Three M-questions of customer analysis:\n- **What kind?** Who are the customers (demographics, traffic)?\n- **Why?** What is the product's value to the customer (functional and intangible values)?\n- **How?** Through which channels do customers arrive and how do they consume content?\n\n### Market concepts:\n- **Total market:** All potential customers.\n- **Potential market:** Customers who can be reached with existing resources.\n- **Reachable market:** Realistic portion of the potential market.\n- **Break-even market:** Sales volume at which break-even is achieved.\n\n---\n\n## 6. Organization's digital capability\n\nDigital maturity can be divided into five levels:\n- **Level 1 (Baseline):** Ad hoc activities without strategy or monitoring.\n- **Level 2 (Directed):** Marketing activities support other campaigns, volume-based measurement.\n- **Level 3 (Defined):** Clear strategy, quality-based metrics (KPI), leadership committed.\n- **Level 4 (Refined):** Business-supporting roadmap, integrated systems.\n- **Level 5 (Optimized):** Continuous optimization, personalized customer experiences, ROI and customer lifetime value (CLV) based management.",
   "keywords": [
     {
-      "term": "form",
+      "term": "business",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 49,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 246,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
       "frequency": 1,
       "relevance": 0.1,
       "category": "business_term",
@@ -10,12 +36,103 @@
         "auto_extraction",
         "business_documentation"
       ],
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
-      "position_in_text": 784,
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 1683,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 66,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 246,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 438,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 11,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 1661,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 3274,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 10,
       "related_keywords": []
     },
     {
       "term": "digital",
+      "frequency": 11,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
       "frequency": 1,
       "relevance": 0.1,
       "category": "business_term",
@@ -23,8 +140,8 @@
         "auto_extraction",
         "business_documentation"
       ],
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
-      "position_in_text": 262,
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 1450,
       "related_keywords": []
     },
     {
@@ -36,14 +153,14 @@
         "file_name_based",
         "auto_extraction"
       ],
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
       "position_in_text": 0,
       "related_keywords": []
     }
   ],
   "ecs_elements": {
-    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
-    "extraction_date": "2026-02-09T22:13:15.192905",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+    "extraction_date": "2026-02-09T23:01:32.486432",
     "entities": [
       {
         "name": "Business Entity",
@@ -57,7 +174,7 @@
           "business_entity",
           "document_context"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
         "relationships": {}
       }
     ],
@@ -66,7 +183,7 @@
         "name": "Document Requirements",
         "description": "Requirements specified in the document",
         "properties": {
-          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
           "type": "business_requirements",
           "complexity": "medium"
         },
@@ -75,7 +192,7 @@
           "requirements",
           "business_rules"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md"
       }
     ],
     "systems": [
@@ -91,7 +208,7 @@
           "process",
           "system"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md"
       }
     ]
   },
@@ -104,7 +221,7 @@
       "condition": "document_reviewed == True",
       "scope": "document_compliance",
       "severity": "info",
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
       "tags": [
         "compliance",
         "review"
@@ -115,7 +232,7 @@
     }
   ],
   "metadata": {
-    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
     "title": "Digitaalisen markkinoinnin kasikirja mikro  ja pk yritykselle",
     "description": "Documentation file: Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
     "tags": [
@@ -127,8 +244,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T22:13:15.192913",
-    "last_modified": "2026-02-09T22:13:15.192914",
+    "creation_date": "2026-02-09T23:01:32.486439",
+    "last_modified": "2026-02-09T23:01:32.486440",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -138,12 +255,19 @@
     ],
     "difficulty_level": "intermediate",
     "estimated_reading_time": 2,
-    "word_count": 449,
+    "word_count": 532,
     "language": "en",
     "keywords": [
+      "business",
+      "formation",
+      "process",
+      "document",
       "form",
-      "digital",
-      "Digitaalisen markkinoinnin kasikirja mikro  ja pk yritykselle"
+      "information",
+      "customer",
+      "sales",
+      "marketing",
+      "digital"
     ],
     "related_entities": [
       "Business Entity"
@@ -163,6 +287,6 @@
       "original_file_name": "Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md"
     }
   },
-  "processing_date": "2026-02-09T22:13:15.192979",
+  "processing_date": "2026-02-09T23:01:32.486491",
   "processor": "systematic_batch_processor"
 }

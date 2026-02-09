@@ -1,6 +1,136 @@
 {
-  "original_content": "# L13 Kauppakirja\n\nTämä on yleinen kauppakirjapohja irtaimen omaisuuden kauppaan.\n\n## 1. Kaupan osapuolet\n\n### Myyjä\n* **Nimi/Yritys:** __________________________________________________\n* **Henkilötunnus/Y-tunnus:** ______________________________________\n* **Osoite:** ______________________________________________________\n* **Puhelin/Sähköposti:** __________________________________________\n\n### Ostaja\n* **Nimi/Yritys:** __________________________________________________\n* **Henkilötunnus/Y-tunnus:** ______________________________________\n* **Osoite:** ______________________________________________________\n* **Puhelin/Sähköposti:** __________________________________________\n\n## 2. Kaupan kohde\nMyyjä myy ja ostaja ostaa seuraavan omaisuuden:\n__________________________________________________________________________\n__________________________________________________________________________\n\n## 3. Kauppahinta ja maksuehto\n* **Kauppahinta:** __________ euroa.\n* **Maksutapa:** ____________________________________________________\n* **Maksuajankohta:** ________________________________________________\n\n## 4. Omistusoikeuden siirtyminen\nOmistusoikeus kaupan kohteeseen siirtyy ostajalle, kun kauppahinta on kokonaisuudessaan maksettu.\n\n## 5. Hallintaoikeuden siirtyminen ja luovutus\nKaupan kohde luovutetaan ostajan hallintaan:\n[ ] Heti sopimuksen allekirjoituksin.\n[ ] Myöhemmin, ajankohtana: ____________________\n\n## 6. Kaupan kohteen kunto ja vastuu virheistä\nKaupan kohde myydään siinä kunnossa kuin se on myyntihetkellä. Myyjä vakuuttaa antaneensa ostajalle kaikki tiedot, jotka voivat vaikuttaa ostajan ostopäätökseen. Ostaja on tarkastanut kaupan kohteen.\n\n## 7. Muut ehdot\n__________________________________________________________________________\n__________________________________________________________________________\n\n## 8. Allekirjoitukset\nTätä sopimusta on tehty kaksi samanlaista kappaletta, yksi kummallekin osapuolelle.\n\n**Paikka ja aika:** ____________________, ______.______.20______\n\n**Myyjä:** __________________________   **Ostaja:** __________________________",
+  "original_content": "# L13 Sales Contract\n\nThis is a general template for a sales contract for movable property.\n\n## 1. Parties to the Contract\n\n### Seller\n* **Name/Company:** __________________________________________________\n* **Personal identity code/Business ID:** ______________________________________\n* **Address:** ______________________________________________________\n* **Phone/Email:** __________________________________________\n\n### Buyer\n* **Name/Company:** __________________________________________________\n* **Personal identity code/Business ID:** ______________________________________\n* **Address:** ______________________________________________________\n* **Phone/Email:** __________________________________________\n\n## 2. Subject of the Sale\nThe seller sells and the buyer purchases the following property:\n__________________________________________________________________________\n__________________________________________________________________________\n\n## 3. Purchase Price and Payment Terms\n* **Purchase price:** __________ euros.\n* **Payment method:** ____________________________________________________\n* **Payment timing:** ________________________________________________\n\n## 4. Transfer of Ownership Rights\nOwnership rights to the subject of the sale transfer to the buyer when the full purchase price has been paid.\n\n## 5. Transfer of Possession Rights and Delivery\nThe subject of the sale is delivered into the buyer's possession:\n[ ] Immediately upon signing the contract.\n[ ] Later, at the time: ____________________\n\n## 6. Condition of the Subject of the Sale and Liability for Defects\nThe subject of the sale is sold in the condition it is at the time of sale. The seller warrants that they have given the buyer all information that could affect the buyer's decision to purchase. The buyer has inspected the subject of the sale.\n\n## 7. Other Terms\n__________________________________________________________________________\n__________________________________________________________________________\n\n## 8. Signatures\nTwo identical copies of this agreement have been made, one for each party.\n\n**Place and date:** ____________________, ______.______.20______\n\n**Seller:** __________________________   **Buyer:** __________________________",
   "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
+      "position_in_text": 233,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
+      "position_in_text": 144,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
+      "position_in_text": 1735,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
+      "position_in_text": 1735,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
+      "position_in_text": 40,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
+      "position_in_text": 1733,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
+      "position_in_text": 1580,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
+      "position_in_text": 6,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
+      "position_in_text": 12,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
+      "position_in_text": 2062,
+      "related_keywords": []
+    },
     {
       "term": "L13 Kauppakirja",
       "frequency": 3,
@@ -10,14 +140,14 @@
         "file_name_based",
         "auto_extraction"
       ],
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
       "position_in_text": 0,
       "related_keywords": []
     }
   ],
   "ecs_elements": {
-    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md",
-    "extraction_date": "2026-02-09T22:21:42.249227",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
+    "extraction_date": "2026-02-09T23:01:32.412663",
     "entities": [
       {
         "name": "Business Entity",
@@ -31,7 +161,7 @@
           "business_entity",
           "document_context"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md",
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
         "relationships": {}
       }
     ],
@@ -40,7 +170,7 @@
         "name": "Document Requirements",
         "description": "Requirements specified in the document",
         "properties": {
-          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md",
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
           "type": "business_requirements",
           "complexity": "medium"
         },
@@ -49,7 +179,7 @@
           "requirements",
           "business_rules"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md"
       }
     ],
     "systems": [
@@ -65,7 +195,7 @@
           "process",
           "system"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md"
       }
     ]
   },
@@ -78,7 +208,7 @@
       "condition": "document_reviewed == True",
       "scope": "document_compliance",
       "severity": "info",
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
       "tags": [
         "compliance",
         "review"
@@ -89,7 +219,7 @@
     }
   ],
   "metadata": {
-    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L13_Kauppakirja.md",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L13_Kauppakirja.md",
     "title": "L13 Kauppakirja",
     "description": "Documentation file: L13_Kauppakirja.md",
     "tags": [
@@ -101,8 +231,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T22:21:42.249237",
-    "last_modified": "2026-02-09T22:21:42.249239",
+    "creation_date": "2026-02-09T23:01:32.412675",
+    "last_modified": "2026-02-09T23:01:32.412677",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -112,10 +242,19 @@
     ],
     "difficulty_level": "intermediate",
     "estimated_reading_time": 1,
-    "word_count": 166,
+    "word_count": 242,
     "language": "en",
     "keywords": [
-      "L13 Kauppakirja"
+      "business",
+      "company",
+      "formation",
+      "form",
+      "template",
+      "information",
+      "liability",
+      "sales",
+      "contract",
+      "agreement"
     ],
     "related_entities": [
       "Business Entity"
@@ -135,6 +274,6 @@
       "original_file_name": "L13_Kauppakirja.md"
     }
   },
-  "processing_date": "2026-02-09T22:21:42.249281",
+  "processing_date": "2026-02-09T23:01:32.412732",
   "processor": "systematic_batch_processor"
 }

@@ -1,6 +1,97 @@
 {
-  "original_content": "# SVOP-sijoitussopimus (Malli)\n\nTämä on mallipohja sijoitetun vapaan oman pääoman rahastoon (SVOP) tehtävälle sijoitukselle.\n\n---\n\n## Sopimuksen osapuolet\n- **Sijoittaja:**      \n- **Lainansaaja (Yhtiö):**      \n\n---\n\n## Sijoituksen suuruus ja maksutapa\n- **Sijoitettava pääoma:**       (summa kirjoitettuna) euroa.\n- **Eräpäivä:** Sijoitus maksetaan   .  .202   mennessä.\n- **Tili:** Sijoitus suoritetaan yhtiön tilille nro      \n\n---\n\n## Sopimuksen ehdot\n\n1. **Kirjaaminen taseeseen:** Sijoitettava pääoma merkitään kokonaisuudessaan yhtiön taseeseen vastikkeettomana sijoituksena sijoitetun vapaan oman pääoman rahastoon (muu oman pääoman sijoitus, Osakeyhtiölaki 624/2006, 8:2 §).\n2. **Hallituksen päätös:** Yhtiön hallitus päättää kokouksessaan SVOP-sijoituksen vastaanottamisesta   .  .202   mennessä ja toimittaa kokouspöytäkirjasta oikeaksi todistetun jäljennöksen Sijoittajalle.\n3. **Kirjanpito:** Yhtiö on velvollinen pitämään erillistä kirjanpitoa SVOP-sijoituksista ja pääomanpalautuksista, jotta mahdollisten pääomanpalautusten verovaikutukset voidaan luotettavasti selvittää.\n\n---\n\n## Allekirjoitukset\nTätä sopimusta on laadittu kaksi (2) samansanaista kappaletta, yksi kummallekin osapuolelle.\n\n**Paikka ja päiväys:**      ,    .    . 202  \n\n____________________________  \n**Sijoittaja**\n\n____________________________  \n**Yhtiön puolesta (Hallituksen puheenjohtaja)**",
+  "original_content": "# SVOP Investment Agreement (Template)\n\nThis is a template for an investment to a company's contributed unrestricted equity fund (SVOP - \"Sijoitettu Vapaan Oman Pääoman rahasto\").\n\n---\n\n## Contracting Parties\n- **Investor:**\n- **Borrower (Company):**\n\n---\n\n## Investment Amount and Payment Method\n- **Capital to be invested:**       (amount written in words) euros.\n- **Due date:** The investment is paid by   .  .202  .\n- **Account:** The investment is made to the company's account number\n\n---\n\n## Terms of Agreement\n\n1. **Recording in balance sheet:** The invested capital is recorded in full in the company's balance sheet as an unrestricted equity investment in the company's unrestricted equity fund (other equity investment, Limited Liability Companies Act 624/2006, Section 8:2).\n2. **Board decision:** The company's board decides at its meeting to accept the SVOP investment by   .  .202   and delivers to the Investor a certified copy of the meeting minutes.\n3. **Accounting:** The company is obligated to maintain separate accounting records for SVOP investments and capital returns to reliably determine the tax implications of possible capital returns.\n\n---\n\n## Signatures\nTwo (2) identical copies of this agreement have been made, one for each party.\n\n**Place and date:**      ,    .    . 202\n\n____________________________\n**Investor**\n\n____________________________\n**On behalf of the Company (Chairman of the Board)**",
   "keywords": [
+    {
+      "term": "company",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md",
+      "position_in_text": 82,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md",
+      "position_in_text": 1120,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md",
+      "position_in_text": 29,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md",
+      "position_in_text": 740,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md",
+      "position_in_text": 732,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md",
+      "position_in_text": 189,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md",
+      "position_in_text": 18,
+      "related_keywords": []
+    },
     {
       "term": "H16 SVOP sijoitussopimus",
       "frequency": 3,
@@ -10,14 +101,14 @@
         "file_name_based",
         "auto_extraction"
       ],
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H16_SVOP-sijoitussopimus.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md",
       "position_in_text": 0,
       "related_keywords": []
     }
   ],
   "ecs_elements": {
-    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H16_SVOP-sijoitussopimus.md",
-    "extraction_date": "2026-02-09T22:21:42.239525",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md",
+    "extraction_date": "2026-02-09T23:01:32.643429",
     "entities": [
       {
         "name": "Business Entity",
@@ -31,7 +122,7 @@
           "business_entity",
           "document_context"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H16_SVOP-sijoitussopimus.md",
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md",
         "relationships": {}
       }
     ],
@@ -40,7 +131,7 @@
         "name": "Document Requirements",
         "description": "Requirements specified in the document",
         "properties": {
-          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H16_SVOP-sijoitussopimus.md",
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md",
           "type": "business_requirements",
           "complexity": "medium"
         },
@@ -49,7 +140,7 @@
           "requirements",
           "business_rules"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H16_SVOP-sijoitussopimus.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md"
       }
     ],
     "systems": [
@@ -65,7 +156,7 @@
           "process",
           "system"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H16_SVOP-sijoitussopimus.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md"
       }
     ]
   },
@@ -78,7 +169,7 @@
       "condition": "document_reviewed == True",
       "scope": "document_compliance",
       "severity": "info",
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H16_SVOP-sijoitussopimus.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md",
       "tags": [
         "compliance",
         "review"
@@ -89,7 +180,7 @@
     }
   ],
   "metadata": {
-    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H16_SVOP-sijoitussopimus.md",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H16_SVOP-sijoitussopimus.md",
     "title": "H16 SVOP sijoitussopimus",
     "description": "Documentation file: H16_SVOP-sijoitussopimus.md",
     "tags": [
@@ -101,8 +192,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T22:21:42.239532",
-    "last_modified": "2026-02-09T22:21:42.239533",
+    "creation_date": "2026-02-09T23:01:32.643436",
+    "last_modified": "2026-02-09T23:01:32.643437",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -112,9 +203,16 @@
     ],
     "difficulty_level": "intermediate",
     "estimated_reading_time": 1,
-    "word_count": 142,
+    "word_count": 210,
     "language": "en",
     "keywords": [
+      "company",
+      "tax",
+      "template",
+      "liability",
+      "limited",
+      "contract",
+      "agreement",
       "H16 SVOP sijoitussopimus"
     ],
     "related_entities": [
@@ -135,6 +233,6 @@
       "original_file_name": "H16_SVOP-sijoitussopimus.md"
     }
   },
-  "processing_date": "2026-02-09T22:21:42.239555",
+  "processing_date": "2026-02-09T23:01:32.643477",
   "processor": "systematic_batch_processor"
 }

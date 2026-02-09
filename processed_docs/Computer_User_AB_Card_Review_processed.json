@@ -1,0 +1,252 @@
+{
+  "original_content": "# Computer User AB Card (Review)\n\nThis is a compilation of the Computer User AB Card qualification's content and key competence areas. The AB Card is intended for efficient computer users.\n\n## 1. Qualification Structure\n* **Prerequisite:** Computer User A Card.\n* **Content:** 1 mandatory module + 3 elective modules.\n* **Demonstration Exam:** Duration 2 h 15 min.\n\n## 2. Program Interoperability (Mandatory)\n* **Objective:** Using data entered once in different programs.\n* **Compatibility:** Different operating systems and program versions.\n* **Techniques:** Linking, embedding, import/export.\n* **Management:** User interface customization, installations, backups, and security.\n* **Teamwork:** Email management, calendars, and task delegation.\n\n## 3. Elective Modules (examples)\n\n### Text Processing\n* Styles, document standards, and automation.\n* Mass mailings and forms.\n* Macro utilization in routines.\n\n### Spreadsheet Calculation\n* Complex functions (If, Lookup, SumIf).\n* Data analysis (Cross-tabulation, goal seek).\n* Chart linking and matrix calculations.\n\n### Databases\n* Design of relational databases (primary and foreign keys).\n* Basics of SQL language.\n* Custom reports and forms.\n\n### Other Modules\n* **Publishing and Image Processing:** Layout of print materials and PDF workflow.\n* **Web Publishing:** Updating WWW pages and FTP.\n* **Digital Communication:** Multimedia elements and interactivity.\n* **Telecommunications:** Network structures and mobile technologies.",
+  "keywords": [
+    {
+      "term": "process",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md",
+      "position_in_text": 794,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md",
+      "position_in_text": 815,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md",
+      "position_in_text": 871,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md",
+      "position_in_text": 824,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md",
+      "position_in_text": 1355,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md",
+      "position_in_text": 673,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md",
+      "position_in_text": 691,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md",
+      "position_in_text": 1180,
+      "related_keywords": []
+    },
+    {
+      "term": "Computer User AB Card Review",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md",
+    "extraction_date": "2026-02-09T23:01:32.396559",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Computer_User_AB_Card_Review_review",
+      "title": "Computer User AB Card Review.md Review Required",
+      "description": "Document Computer User AB Card Review.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Computer User AB Card Review.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Computer User AB Card Review.md",
+    "title": "Computer User AB Card Review",
+    "description": "Documentation file: Computer User AB Card Review.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.396565",
+    "last_modified": "2026-02-09T23:01:32.396566",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 205,
+    "language": "en",
+    "keywords": [
+      "process",
+      "document",
+      "form",
+      "standard",
+      "digital",
+      "security",
+      "work",
+      "report",
+      "Computer User AB Card Review"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Computer_User_AB_Card_Review_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Computer User AB Card Review.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.396593",
+  "processor": "systematic_batch_processor"
+}

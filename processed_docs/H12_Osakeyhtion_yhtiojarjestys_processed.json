@@ -1,6 +1,175 @@
 {
-  "original_content": "# Osakeyhtiön yhtiöjärjestys (Malli)\n\nTämä on mallipohja osakeyhtiön yhtiöjärjestykseksi, joka sisältää **lunastuslausekkeen**. Lunastuslausekkeella voidaan rajoittaa osakkeiden siirtymistä ulkopuolisille.\n\n---\n\n## Ohjeita\n- Täytä harmaat kentät.\n- Jos perustat yhtiön ilman lunastusehtoa, voit käyttää PRH:n valmista perustamispakettia osoitteessa [www.prh.fi](http://www.prh.fi).\n- **Osakassopimus:** On suositeltavaa laatia aina, kun yhtiössä on useampi kuin yksi osakas.\n- **Vastuuvapauslauseke:** Tämä on esimerkkimalli; laatija ei vastaa sen sopivuudesta kaikkiin tapauksiin.\n\n---\n\n## Yhtiöjärjestys\n\n### 1. Yhtiön toiminimi ja kotipaikka\n- **Toiminimi:**      \n- **Kotipaikka:**      \n\n### 2. Toimiala\n-      \n- Yhtiö voi omistaa ja hallita arvopapereita, rakennuksia ja kiinteää omaisuutta.\n\n### 3. Hallitus\n- Yhtiön hallitukseen kuuluu 1–5 varsinaista jäsentä. Jos jäseniä on vähemmän kuin kolme, on valittava vähintään yksi varajäsen.\n- Hallituksen toimikausi päättyy valintaa seuraavan varsinaisen yhtiökokouksen päättyessä.\n\n### 4. Tilintarkastajat\n- Yhtiölle valitaan yksi tilintarkastaja ja yksi varatilintarkastaja. Jos tilintarkastajaksi valitaan KHT- tai HTM-yhteisö, varatilintarkastajaa ei tarvitse valita.\n\n### 5. Kutsu yhtiökokoukseen\n- Kutsu varsinaiseen ja ylimääräiseen yhtiökokoukseen on toimitettava osakkaille kirjallisesti viimeistään viikkoa ennen kokousta osakasluetteloon merkittyyn osoitteeseen.\n\n### 6. Varsinainen yhtiökokous\nYhtiökokous pidetään vuosittain hallituksen määräämänä päivänä kuuden kuukauden kuluessa tilikauden päättymisestä. Kokouksessa on:\n- Esitettävä tilinpäätös ja tilintarkastuskertomus.\n- Päätettävä tuloslaskelman ja taseen vahvistamisesta.\n- Päätettävä vastuuvapauden myöntämisestä hallituksen jäsenille ja toimitusjohtajalle.\n- Päätettävä voiton käyttämisestä.\n- Valittava hallituksen jäsenet ja tilintarkastaja.\n\n### 7. Lunastuslauseke\nJos osake siirtyy muulle kuin yhtiön nykyiselle osakkaalle, on siirronsaajan ilmoitettava siitä viipymättä hallitukselle. Nykyisillä osakkailla on oikeus lunastaa siirtyvä osake seuraavin ehdoin:\n- **Rajoitukset:** Lunastusoikeus ei koske perintöön, testamenttiin tai avio-oikeuteen perustuvia saantoja.\n- **Jako:** Jos useat osakkaat haluavat lunastaa, osakkeet jaetaan osakeomistusten suhteessa.\n- **Lunastushinta:** Osapuolten sopima hinta, kuitenkin enintään osakkeen viimeiseen tilinpäätökseen perustuva arvo. Vastikkeettomassa saannossa hinta on tilinpäätökseen perustuva arvo.\n- **Aika:** Lunastusvaatimus on esitettävä yhtiölle kuukauden kuluessa siitä, kun hallitukselle on ilmoitettu osakkeen siirtymisestä.\n\n---\n\n## Allekirjoitukset\n**Paikka ja päiväys:**      ,    /    202  \n\n**Perustajaosakkaat:**  \n____________________________  \n*(Nimenselvennys)*\n\n____________________________  \n*(Nimenselvennys)*",
+  "original_content": "# Articles of Association of a Limited Liability Company (Template)\n\nThis is a template for the articles of association of a limited liability company, which includes a **redemption clause**. The redemption clause can restrict the transfer of shares to outsiders.\n\n---\n\n## Instructions\n- Fill in the gray fields.\n- If you are establishing a company without a redemption clause, you can use PRH's ready-made formation package at [www.prh.fi](http://www.prh.fi).\n- **Shareholders' agreement:** It is recommended to draw up whenever there is more than one shareholder in the company.\n- **Disclaimer:** This is an example template; the creator is not responsible for its suitability in all cases.\n\n---\n\n## Articles of Association\n\n### 1. Company name and registered office\n- **Business name:**\n- **Registered office:**\n\n### 2. Business sector\n-\n- The company may own and manage securities, buildings and real estate.\n\n### 3. Board of directors\n- The company's board of directors consists of 1–5 regular members. If there are fewer than three members, at least one alternate member must be elected.\n- The board's term of office ends at the conclusion of the next ordinary general meeting following the election.\n\n### 4. Auditors\n- The company selects one auditor and one alternate auditor. If the auditor is a KHT or HTM entity, an alternate auditor is not required.\n\n### 5. Invitation to general meeting\n- The invitation to the ordinary and extraordinary general meeting must be delivered in writing to the shareholders at the address recorded in the shareholder register at least one week before the meeting.\n\n### 6. Ordinary general meeting\nThe general meeting is held annually on a date determined by the board within six months of the end of the financial year. The meeting:\n- Presents the financial statements and audit report.\n- Decides on the approval of the income statement and balance sheet.\n- Decides on granting discharge from liability to the members of the board of directors and the managing director.\n- Decides on the allocation of profits.\n- Elects the members of the board of directors and the auditor.\n\n### 7. Redemption clause\nIf a share is transferred to someone other than the company's current shareholders, the transferee must immediately notify the board of directors. Current shareholders have the right to redeem the transferring share under the following conditions:\n- **Restrictions:** The right of redemption does not apply to acquisitions based on inheritance, will or matrimonial property rights.\n- **Distribution:** If several shareholders wish to redeem, the shares are distributed according to the shareholders' shareholdings.\n- **Redemption price:** The price agreed between the parties, however no more than the value of the share based on the latest financial statements. In gratuitous acquisition, the price is the value based on the financial statements.\n- **Time:** The redemption demand must be presented to the company within one month of the notification of the share transfer to the board of directors.\n\n---\n\n## Signatures\n**Place and date:**      ,    /    202\n\n**Founding shareholders:**\n____________________________\n*(Name in clear)*\n\n____________________________\n*(Name in clear)*",
   "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "position_in_text": 773,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 10,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "position_in_text": 49,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "position_in_text": 407,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "position_in_text": 407,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "position_in_text": 58,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "position_in_text": 273,
+      "related_keywords": []
+    },
+    {
+      "term": "association",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "position_in_text": 14,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "position_in_text": 39,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "position_in_text": 31,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "position_in_text": 479,
+      "related_keywords": []
+    },
+    {
+      "term": "shareholder",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "position_in_text": 465,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "position_in_text": 1821,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "position_in_text": 2982,
+      "related_keywords": []
+    },
     {
       "term": "H12 Osakeyhtion yhtiojarjestys",
       "frequency": 3,
@@ -10,14 +179,14 @@
         "file_name_based",
         "auto_extraction"
       ],
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
       "position_in_text": 0,
       "related_keywords": []
     }
   ],
   "ecs_elements": {
-    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
-    "extraction_date": "2026-02-09T22:21:42.238984",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+    "extraction_date": "2026-02-09T23:01:32.641303",
     "entities": [
       {
         "name": "Business Entity",
@@ -31,7 +200,7 @@
           "business_entity",
           "document_context"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
         "relationships": {}
       }
     ],
@@ -40,7 +209,7 @@
         "name": "Document Requirements",
         "description": "Requirements specified in the document",
         "properties": {
-          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
           "type": "business_requirements",
           "complexity": "medium"
         },
@@ -49,7 +218,7 @@
           "requirements",
           "business_rules"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H12_Osakeyhtion_yhtiojarjestys.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md"
       }
     ],
     "systems": [
@@ -65,7 +234,7 @@
           "process",
           "system"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H12_Osakeyhtion_yhtiojarjestys.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md"
       }
     ]
   },
@@ -78,7 +247,7 @@
       "condition": "document_reviewed == True",
       "scope": "document_compliance",
       "severity": "info",
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
       "tags": [
         "compliance",
         "review"
@@ -89,7 +258,7 @@
     }
   ],
   "metadata": {
-    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H12_Osakeyhtion_yhtiojarjestys.md",
     "title": "H12 Osakeyhtion yhtiojarjestys",
     "description": "Documentation file: H12_Osakeyhtion_yhtiojarjestys.md",
     "tags": [
@@ -101,8 +270,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T22:21:42.238991",
-    "last_modified": "2026-02-09T22:21:42.238991",
+    "creation_date": "2026-02-09T23:01:32.641310",
+    "last_modified": "2026-02-09T23:01:32.641311",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -111,11 +280,20 @@
       "business_operations"
     ],
     "difficulty_level": "intermediate",
-    "estimated_reading_time": 1,
-    "word_count": 305,
+    "estimated_reading_time": 2,
+    "word_count": 504,
     "language": "en",
     "keywords": [
-      "H12 Osakeyhtion yhtiojarjestys"
+      "business",
+      "company",
+      "formation",
+      "form",
+      "template",
+      "instructions",
+      "association",
+      "liability",
+      "limited",
+      "agreement"
     ],
     "related_entities": [
       "Business Entity"
@@ -135,6 +313,6 @@
       "original_file_name": "H12_Osakeyhtion_yhtiojarjestys.md"
     }
   },
-  "processing_date": "2026-02-09T22:21:42.239027",
+  "processing_date": "2026-02-09T23:01:32.641361",
   "processor": "systematic_batch_processor"
 }

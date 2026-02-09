@@ -1,0 +1,318 @@
+{
+  "original_content": "# Presentation Draft: Ergonette Ltd (Sales Presentation)\n\nThis is a template for Ergonette Ltd's company presentation. Use this as a basis for creating a PowerPoint presentation (7 slides).\n\n## Slide 1: Title Page\n* **Ergonette Ltd**\n* Office Ergonomics Specialist\n* [Your name / Date]\n\n## Slide 2: Company History and Current Situation\n* Founded: 1988\n* Status: Solid Finnish expert company.\n\n## Slide 3: Business Idea\n* **Core activity:** Improving office ergonomics.\n* **Methods:** Ergonomic products and comprehensive workplace design.\n\n## Slide 4: What is Ergonomics?\n* \"Ergonomics is removing friction between work and the worker.\"\n* **Goal:** Well-being employees and more efficient workplace.\n\n## Slide 5: Products and Services (Overview)\n* Solutions that suit everyone's own workplace.\n* Expert services for room planning.\n\n## Slide 6: Solutions in Detail\n* **Products:** Tools with which you can improve your ergonomics yourself.\n* **Services:** Workplace design and implementation as a hassle-free \"turnkey\" package.\n\n## Slide 7: How to Proceed?\n* Come book an appointment for an **ergonomic assessment**.\n* **Contact us:** Tel. 020 123 456\n* **More information:** [www.ergonette.fi](https://www.ergonette.fi)",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "position_in_text": 406,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "position_in_text": 97,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "position_in_text": 1163,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "position_in_text": 1163,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "position_in_text": 68,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "position_in_text": 1161,
+      "related_keywords": []
+    },
+    {
+      "term": "assessment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "position_in_text": 1103,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "position_in_text": 727,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "position_in_text": 495,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "position_in_text": 727,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "position_in_text": 37,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "position_in_text": 822,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "position_in_text": 522,
+      "related_keywords": []
+    },
+    {
+      "term": "Yritysesittely Ergonette",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+    "extraction_date": "2026-02-09T23:01:32.362107",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Yritysesittely_Ergonette_review",
+      "title": "Yritysesittely Ergonette.md Review Required",
+      "description": "Document Yritysesittely Ergonette.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Yritysesittely Ergonette.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Yritysesittely Ergonette.md",
+    "title": "Yritysesittely Ergonette",
+    "description": "Documentation file: Yritysesittely Ergonette.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.362114",
+    "last_modified": "2026-02-09T23:01:32.362115",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 179,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "form",
+      "template",
+      "information",
+      "assessment",
+      "service",
+      "products",
+      "services"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Yritysesittely_Ergonette_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Yritysesittely Ergonette.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.362142",
+  "processor": "systematic_batch_processor"
+}

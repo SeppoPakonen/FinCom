@@ -1,0 +1,210 @@
+{
+  "original_content": "# Megatrends 2026 – Summary (Sitra)\n\nSitra's 2026 megatrends outlook describes global developments and their impacts on Finland. We live in an era of multiple crises and unrest, which requires extensive renewal.\n\n## 1. People: Direction toward a Long-lived Society\nFinland is shifting toward a society where the majority are elderly.\n* **Population structure:** Birth rate is historically low. Population growth is based solely on immigration.\n* **Opportunities:** Long life is a success. Continuous learning, elimination of age discrimination, and new forms of intergenerational community are needed.\n* **Intergenerationality:** Decision-making must consider the rights of children and future generations.\n\n## 2. Power: World Order Transformation and Democracy\nThe rule-based system is deteriorating and geopolitics intertwines with the economy.\n* **Geopolitics:** Bloc formation (USA, China, BRICS) and the rise of authoritarianism challenge the West. The significance of the EU and NATO for Finland is critical.\n* **Democracy:** Polarization, populist governance, and algorithm-driven public discourse challenge democratic structures.\n* **Renewal:** Democracy requires activism and new forms of participation (e.g., citizen panels).\n\n## 3. Nature: Environmental Crisis and Adaptation\nPlanetary boundaries have largely been exceeded. Nature's carrying capacity determines future limits.\n* **Climate and biodiversity loss:** Tipping points (e.g., ocean current changes) are near. Adapting to weather extremes is essential.\n* **Circular economy:** Transitioning away from overconsumption toward a regenerative economy that enhances nature's vitality.\n* **Security:** Environmental crisis is also a significant security risk.\n\n## 4. Technology: AI Revolutionizes the Foundation\nTechnology develops exponentially and changes work, knowledge production, and decision-making.\n* **Artificial Intelligence (AI):** AI becomes a general-purpose technology like electricity. It can improve productivity, but requires responsible and transparent use.\n* **Agency:** It is essential to maintain human agency and thinking ability, not delegate them to algorithms (\"thinking debt\").\n* **Disruptive technologies:** Quantum technology, synthetic biology, and space technology bring new opportunities and risks.\n\n## 5. New Social Contract\nWe need a new promise for the future:\n* The core values of the welfare state (equality, education) must be adapted to a smaller population base and new technology.\n* A visionary immigration model and commitment to living democracy are needed.\n* Growth emerges from sustainable innovations and high expertise.\n\n---\n*The future is not predetermined, but made together.*",
+  "keywords": [
+    {
+      "term": "formation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Megatrends 2026 Summary Sitra.md",
+      "position_in_text": 738,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Megatrends 2026 Summary Sitra.md",
+      "position_in_text": 553,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Megatrends 2026 Summary Sitra.md",
+      "position_in_text": 1655,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Megatrends 2026 Summary Sitra.md",
+      "position_in_text": 1823,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Megatrends 2026 Summary Sitra.md",
+      "position_in_text": 2313,
+      "related_keywords": []
+    },
+    {
+      "term": "Megatrends 2026 Summary Sitra",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Megatrends 2026 Summary Sitra.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Megatrends 2026 Summary Sitra.md",
+    "extraction_date": "2026-02-09T23:01:32.657854",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Megatrends 2026 Summary Sitra.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Megatrends 2026 Summary Sitra.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Megatrends 2026 Summary Sitra.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Megatrends 2026 Summary Sitra.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Megatrends_2026_Summary_Sitra_review",
+      "title": "Megatrends 2026 Summary Sitra.md Review Required",
+      "description": "Document Megatrends 2026 Summary Sitra.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Megatrends 2026 Summary Sitra.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Megatrends 2026 Summary Sitra.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Megatrends 2026 Summary Sitra.md",
+    "title": "Megatrends 2026 Summary Sitra",
+    "description": "Documentation file: Megatrends 2026 Summary Sitra.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.657861",
+    "last_modified": "2026-02-09T23:01:32.657861",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 368,
+    "language": "en",
+    "keywords": [
+      "formation",
+      "form",
+      "security",
+      "work",
+      "contract",
+      "Megatrends 2026 Summary Sitra"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Megatrends_2026_Summary_Sitra_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Megatrends 2026 Summary Sitra.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.657901",
+  "processor": "systematic_batch_processor"
+}

@@ -1,0 +1,370 @@
+{
+  "original_content": "# Guide: Business Taxation (2025–2026)\n\nThis summary helps new entrepreneurs manage the most important tax obligations and registers.\n\n## 1. Key Registers\n* **Advance Taxation Register:** The company handles its own taxes. Customers can only receive household deductions from registered companies.\n* **VAT Register:** Mandatory if turnover exceeds **20,000 €** (2025).\n* **Employer Register:** Mandatory if you regularly employ workers.\n\n## 2. Advance Tax (Income Tax)\n* Based on the entrepreneur's own estimate of the year's profit.\n* Paid monthly in OmaVero (due date 23rd of the month).\n* **Remember:** Update your estimate immediately if sales increase or decrease significantly to avoid additional tax (penalties).\n\n## 3. Value-Added Tax (VAT)\n* **Standard rate:** 25.5 % (almost all products and services).\n* **Reduced rates:** 13.5 % (food, restaurants) and 10 % (books, newspapers).\n* **Reporting:** Submit VAT return and payment in OmaVero by the 12th day of the following month (e.g. January VAT reported by March 12).\n\n## 4. Employer Obligations\n* If you pay wages:\n    1. Withhold tax according to the employee's tax card.\n    2. Pay the employer's sickness insurance contribution.\n    3. Report information to the **Income Register** within 5 days of the wage payment date.\n\n## 5. OmaVero Tips\n* Always check the reference number carefully.\n* Subscribe to the new entrepreneur newsletter from the Tax Administration.\n* Utilize the chat advisory service on [vero.fi](https://www.vero.fi) website.\n\n---\n**Important:** Keep business and personal finances separate. Save VAT portions and advance taxes always to a separate account awaiting payment.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 9,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 192,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 1210,
+      "related_keywords": []
+    },
+    {
+      "term": "finance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 1556,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 18,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 1210,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 1208,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 223,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 802,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 753,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 789,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 802,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 642,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 1170,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 428,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 895,
+      "related_keywords": []
+    },
+    {
+      "term": "obligation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 107,
+      "related_keywords": []
+    },
+    {
+      "term": "veroinfo",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+    "extraction_date": "2026-02-09T23:01:32.384856",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_veroinfo_review",
+      "title": "veroinfo.md Review Required",
+      "description": "Document veroinfo.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document veroinfo.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/veroinfo.md",
+    "title": "veroinfo",
+    "description": "Documentation file: veroinfo.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.384863",
+    "last_modified": "2026-02-09T23:01:32.384863",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 248,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "finance",
+      "tax",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "standard"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_veroinfo_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "veroinfo.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.384897",
+  "processor": "systematic_batch_processor"
+}

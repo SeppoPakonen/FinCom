@@ -1,0 +1,252 @@
+{
+  "original_content": "# Template: Productization Tools\n\nThis file contains key tools and templates for productizing a business idea.\n\n## Tool 1: Problem and Solution\n*What problem do you remove from your customer's life?*\n\n* **Customer and problem:** [Describe the target group and the challenges they face here]\n* **Solution:** [How does your company solve the problem?]\n* **Benefit to customer:** [What concrete benefit does the customer get? E.g., savings, peace of mind, speed]\n\n## Tool 2: Minimum Viable Product (MVP)\n*How do you make the idea visible as quickly and affordably as possible?*\n\n* **Description:** [E.g., landing page, brochure, video, sketch, or paper model]\n* **Objective:** [What do you want to test with the customer?]\n\n## Tool 3: Product Card\n*Concise sales pitch in written form.*\n\n* **Name:** [The catchy name of the product]\n* **Price:** [Price excluding VAT or including VAT]\n* **Contents:** [What does the package include? List with bullet points]\n\n## Tool 4: Invoice Exercise\n*The invoice is the endpoint of productization.*\n\n* **Task:** Create a sample invoice for your product. When you can invoice clearly, the product is defined precisely enough.\n* **Invoice template:** You can use, for example, Isolta or Zervant templates.\n\n---\n**Remember:** A productized service is easier to purchase because the customer does not need to guess the price or end result.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md",
+      "position_in_text": 96,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md",
+      "position_in_text": 322,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md",
+      "position_in_text": 777,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md",
+      "position_in_text": 182,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md",
+      "position_in_text": 1271,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md",
+      "position_in_text": 754,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md",
+      "position_in_text": 354,
+      "related_keywords": []
+    },
+    {
+      "term": "Template Productization Tools",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md",
+    "extraction_date": "2026-02-09T23:01:32.518763",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Template_Productization_Tools_review",
+      "title": "Template Productization Tools.md Review Required",
+      "description": "Document Template Productization Tools.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Template Productization Tools.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Productization Tools.md",
+    "title": "Template Productization Tools",
+    "description": "Documentation file: Template Productization Tools.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.518769",
+    "last_modified": "2026-02-09T23:01:32.518770",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 217,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "form",
+      "template",
+      "customer",
+      "service",
+      "sales",
+      "benefit",
+      "Template Productization Tools"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Template_Productization_Tools_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Template Productization Tools.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.518797",
+  "processor": "systematic_batch_processor"
+}

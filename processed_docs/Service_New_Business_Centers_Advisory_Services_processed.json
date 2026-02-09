@@ -1,0 +1,331 @@
+{
+  "original_content": "# Service: New Business Centers' Advisory Services\n\nNew Business Centers offer free, confidential, and impartial advice to all interested in entrepreneurship throughout Finland.\n\n## 1. Personal Business Consultation\nMeet an experienced business advisor who coaches you in:\n* **Developing the business idea:** Is your idea sustainable and profitable?\n* **Making calculations:** Sales, financial, and profitability calculations.\n* **Choosing a business form:** Which one suits your situation?\n* **Applying for funding:** Information about startup grants and banks.\n\n## 2. Other Services\n* **Entrepreneurship information:** A good way to start and get basic information at once.\n* **Idea pump:** Test your idea online and receive a preliminary evaluation.\n* **Establishment guide:** Comprehensive information package for the first steps of entrepreneurship.\n* **Networks:** A business advisor can connect you to experts (lawyers, accountants, insurance professionals).\n\n## 3. Monetary Benefits\nCompanies established through New Business Centers receive significant benefits from partners, for example:\n* **Financial management:** Discounts on Netvisor or Holvi services.\n* **Contracts:** Legal document templates and electronic signature (e.g., Docue).\n* **E-commerce:** Trial periods and discounts (e.g., MyCashflow).\n\n## 4. Why Use New Business Centers?\n* **Certainty:** According to studies, 80% of companies using advisory services are still operating after 5 years (compared to only 50% of other companies).\n* **Free of charge:** The service is free for entrepreneurs with support from municipalities and partner companies.\n* **Quality:** The operations have an ISO 9001 quality certificate.\n\n---\n**Find your nearest center:** [uusyrityskeskus.fi](https://www.uusyrityskeskus.fi) and book an appointment for consultation.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 15,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 521,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 1191,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 451,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 1200,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 519,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 42,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 377,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 1645,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 940,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 862,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 982,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 1172,
+      "related_keywords": []
+    },
+    {
+      "term": "Service New Business Centers Advisory Services",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+    "extraction_date": "2026-02-09T23:01:32.491744",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Service_New_Business_Centers_Advisory_Services_review",
+      "title": "Service New Business Centers Advisory Services.md Review Required",
+      "description": "Document Service New Business Centers Advisory Services.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Service New Business Centers Advisory Services.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Service New Business Centers Advisory Services.md",
+    "title": "Service New Business Centers Advisory Services",
+    "description": "Documentation file: Service New Business Centers Advisory Services.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.491757",
+    "last_modified": "2026-02-09T23:01:32.491758",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 246,
+    "language": "en",
+    "keywords": [
+      "business",
+      "formation",
+      "document",
+      "form",
+      "template",
+      "information",
+      "service",
+      "services",
+      "sales",
+      "operations"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Service_New_Business_Centers_Advisory_Services_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Service New Business Centers Advisory Services.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.491814",
+  "processor": "systematic_batch_processor"
+}

@@ -1,0 +1,252 @@
+{
+  "original_content": "# Marketing Tool: AIDA Model\n\nThe AIDA model is a classic marketing tool that describes the customer's purchase process. It can be used to plan effective advertising and sales promotion.\n\n## 1. Model Phases\n\n| Phase | Objective | Methods |\n| :--- | :--- | :--- |\n| **Attention** | Capture the potential customer's attention. | Strong headlines, captivating images, distinctive colors and fonts. |\n| **Interest** | Generate interest in the product or service. | Tell about features and benefits. Use stories and examples. |\n| **Desire** | Create the desire and need to purchase the product right now. | Unique benefits, customer recommendations, limited offers. |\n| **Action** | Prompt the customer to take action (Call to Action). | Clear instruction: \"Buy here\", \"Book an appointment\", \"Subscribe to newsletter\". |\n\n---\n\n## 2. Applying to Practice\n\n### Example: Lunch Restaurant\n1. **Attention:** Social media ad with delicious dish image: \"Hungry? Today's special is waiting!\"\n2. **Interest:** Present the weekly menu highlighting ingredient freshness and chef's expertise.\n3. **Desire:** \"Quick service – you have time to enjoy your lunch in peace.\" Highlight positive Google reviews.\n4. **Action:** \"Book a table now\" or \"Order takeaway and skip the queue.\"\n\n### Example: Cosmetology Business\n1. **Attention:** Quality video of relaxing facial treatment: \"Time for yourself?\"\n2. **Interest:** Tell about the benefits of the treatment (e.g., skin brightening, stress relief) and special methods used.\n3. **Desire:** Before and after pictures, customer experiences. \"New customers get 20% off their first visit.\"\n4. **Action:** \"Book your appointment online\" or \"Buy a gift card now.\"\n\n---\n**Tip:** Always provide an incentive (in the Action phase), such as a free sample or additional benefit, to make the threshold for action as low as possible.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md",
+      "position_in_text": 1288,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md",
+      "position_in_text": 112,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md",
+      "position_in_text": 645,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md",
+      "position_in_text": 92,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md",
+      "position_in_text": 450,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md",
+      "position_in_text": 170,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md",
+      "position_in_text": 485,
+      "related_keywords": []
+    },
+    {
+      "term": "Marketing Tool AIDA Model",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md",
+    "extraction_date": "2026-02-09T23:01:32.652997",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Marketing_Tool_AIDA_Model_review",
+      "title": "Marketing Tool AIDA Model.md Review Required",
+      "description": "Document Marketing Tool AIDA Model.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Marketing Tool AIDA Model.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Marketing Tool AIDA Model.md",
+    "title": "Marketing Tool AIDA Model",
+    "description": "Documentation file: Marketing Tool AIDA Model.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.653004",
+    "last_modified": "2026-02-09T23:01:32.653005",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 289,
+    "language": "en",
+    "keywords": [
+      "business",
+      "process",
+      "limited",
+      "customer",
+      "service",
+      "sales",
+      "marketing",
+      "benefit",
+      "Marketing Tool AIDA Model"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Marketing_Tool_AIDA_Model_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Marketing Tool AIDA Model.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.653049",
+  "processor": "systematic_batch_processor"
+}

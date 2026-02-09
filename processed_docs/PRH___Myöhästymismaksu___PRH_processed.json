@@ -1,0 +1,238 @@
+{
+  "original_content": "# PRH: Late Financial Statement Fee\n\nPRH orders a fee for financial statements reported late to the Trade Register. This guidance applies especially to fiscal years ending on or after December 1, 2024.\n\n## 1. When is the fee ordered?\n* If the company does not report its financial statement within **8 months** of the end of the fiscal year.\n* Applies to limited liability companies, cooperatives and European companies.\n\n## 2. Fee Amount (2024–2026)\nThe fee depends on the length of the delay:\n* **Up to 2 months late:** 150 €.\n* **2–4 months late:** 300 €.\n* **Over 4 months late (or not at all):** 600 €.\n\n## 3. Increases\n* **Double fee:** If the financial statement is late for two or more consecutive fiscal years.\n* **Large companies:** Public limited liability companies (plc) and European companies pay a double fee.\n\n## 4. Collection\n* The **Court Register Centre (ORK)** handles fee collection.\n* If the fee is not paid voluntarily, it can be collected through enforcement proceedings.\n\n---\n**Avoid the fee:** Report your financial statement on time in the [YTJ service](https://www.ytj.fi).",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md",
+      "position_in_text": 243,
+      "related_keywords": []
+    },
+    {
+      "term": "guidance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md",
+      "position_in_text": 121,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md",
+      "position_in_text": 363,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md",
+      "position_in_text": 355,
+      "related_keywords": []
+    },
+    {
+      "term": "cooperative",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md",
+      "position_in_text": 384,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md",
+      "position_in_text": 1072,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md",
+      "position_in_text": 79,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Myöhästymismaksu   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md",
+    "extraction_date": "2026-02-09T23:01:32.533044",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Myöhästymismaksu___PRH_review",
+      "title": "PRH - Myöhästymismaksu _ PRH.md Review Required",
+      "description": "Document PRH - Myöhästymismaksu _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Myöhästymismaksu _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Myöhästymismaksu _ PRH.md",
+    "title": "PRH   Myöhästymismaksu   PRH",
+    "description": "Documentation file: PRH - Myöhästymismaksu _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.533051",
+    "last_modified": "2026-02-09T23:01:32.533052",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 184,
+    "language": "en",
+    "keywords": [
+      "company",
+      "guidance",
+      "liability",
+      "limited",
+      "cooperative",
+      "service",
+      "report",
+      "PRH   Myöhästymismaksu   PRH"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Myöhästymismaksu___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Myöhästymismaksu _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.533079",
+  "processor": "systematic_batch_processor"
+}

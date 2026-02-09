@@ -1,0 +1,279 @@
+{
+  "original_content": "# Tool: Service Design (YAT)\n\nThis guide contains instructions for developing customer understanding and service processes using service design methods.\n\n## 1. Customer Persona\nCreate a description of your typical customer to better understand their needs.\n* **Basic information:** Name, age, profession, education, family and place of residence.\n* **Psychographics:** What do they read? Whom do they listen to? What keeps them awake at night? What prevents them from purchasing?\n* **Empathy map:** What do they feel, think, say and do in relation to your service?\n\n## 2. Customer Journey\nDescribe the customer's stages before, during and after the service.\n* **Example (Matti and the doctor):**\n    1. Concern (Matti reads about diabetes in a magazine).\n    2. Contact (Calling the health center).\n    3. Consultation (The nurse advises on the phone).\n    4. Action (Getting an appointment).\n    5. Encounter (Meeting with the doctor).\n\n## 3. Touchpoints and Swimlane Diagram\nIdentify each moment when the customer interacts with your company (e.g. website, phone, premises).\n* **In a swimlane diagram:**\n    - Customer's actions.\n    - Visible customer service (Frontstage).\n    - Background operations and systems (Backstage).\n\n## 4. Benefit Matrix\nCompare the current service and the new solution based on valuable features for the customer.\n* *Example:* Waiting time: Current 60 min -> New 0 min.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+      "position_in_text": 1036,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+      "position_in_text": 269,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+      "position_in_text": 113,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+      "position_in_text": 269,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+      "position_in_text": 267,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+      "position_in_text": 50,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+      "position_in_text": 78,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+      "position_in_text": 8,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+      "position_in_text": 1194,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+      "position_in_text": 1237,
+      "related_keywords": []
+    },
+    {
+      "term": "YAT työkalu",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+    "extraction_date": "2026-02-09T23:01:32.635010",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_YAT_työkalu_review",
+      "title": "YAT työkalu.md Review Required",
+      "description": "Document YAT työkalu.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document YAT työkalu.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YAT työkalu.md",
+    "title": "YAT työkalu",
+    "description": "Documentation file: YAT työkalu.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.635016",
+    "last_modified": "2026-02-09T23:01:32.635017",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 209,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "process",
+      "form",
+      "information",
+      "instructions",
+      "customer",
+      "service",
+      "operations",
+      "benefit"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_YAT_työkalu_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "YAT työkalu.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.635046",
+  "processor": "systematic_batch_processor"
+}

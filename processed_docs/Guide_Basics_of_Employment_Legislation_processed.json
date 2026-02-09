@@ -1,0 +1,331 @@
+{
+  "original_content": "# Guide: Basics of Employment Legislation\n\nEmployment legislation defines the rights and obligations of the parties in an employment relationship. The rules follow a certain hierarchy.\n\n## 1. Hierarchy of Rules\n1. **Mandatory legislation:** Constitution, Employment Contracts Act, Working Hours Act, etc. (Worse conditions cannot be agreed upon).\n2. **Collective Agreement (TES):** Industry-specific agreement that supplements the law.\n3. **Employment Contract:** Individual agreement between the employer and employee.\n4. **Established Practice:** Habits followed at the workplace for a long time.\n5. **Employer's Right to Direct (Direktio Right):** The employer's right to decide how, when, and where work is performed.\n\n## 2. Key Terms of Employment Contract\nAn employment contract should always be made in writing. It must include:\n* Parties, start date, and duration (indefinite / fixed-term).\n* Trial period (max. 6 months, or half of the fixed-term period).\n* Job duties and place of work.\n* Salary, pay period, and applicable TES.\n* Working hours and determination of annual vacation.\n\n## 3. Ending the Employment Relationship\n* **Dismissal:** The employee does not need a reason (notice period 14 days – 1 month). The employer needs a justified and substantial reason (notice period 14 days – 6 months).\n* **Termination:** The employment relationship ends immediately. Requires a very substantial reason (e.g., serious neglect of duties).\n* **Fixed-term:** Ends automatically without notice period.\n\n## 4. Occupational Safety and Advocacy\n* **Occupational Safety Delegate:** Elected if there are at least 10 employees. Ensures safety and health.\n* **Shop Steward:** Representative of union members, monitors compliance with TES.\n* **GDPR:** The employer may only collect personal information that is necessary for the employment relationship.\n\n## 5. Sickness Absences and Salary Payment\n* If the employment relationship has lasted > 1 month, the employee has the right to full salary from the first sick day + 9 following weekdays (**1+9 rule**).\n* After this, the employer typically applies for sickness allowance for themselves if salary payment continues.\n\n---\n**Note:** Employer costs (TyEL, unemployment insurance, etc.) are a significant part of labor costs in addition to salary expenses.",
+  "keywords": [
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 1791,
+      "related_keywords": []
+    },
+    {
+      "term": "compliance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 1717,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 714,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 1789,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 281,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 2218,
+      "related_keywords": []
+    },
+    {
+      "term": "safety",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 1528,
+      "related_keywords": []
+    },
+    {
+      "term": "compliance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 1717,
+      "related_keywords": []
+    },
+    {
+      "term": "employment",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 19,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 281,
+      "related_keywords": []
+    },
+    {
+      "term": "salary",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 999,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 266,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 363,
+      "related_keywords": []
+    },
+    {
+      "term": "obligation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 89,
+      "related_keywords": []
+    },
+    {
+      "term": "Guide Basics of Employment Legislation",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+    "extraction_date": "2026-02-09T23:01:32.596976",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Guide_Basics_of_Employment_Legislation_review",
+      "title": "Guide Basics of Employment Legislation.md Review Required",
+      "description": "Document Guide Basics of Employment Legislation.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Guide Basics of Employment Legislation.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Basics of Employment Legislation.md",
+    "title": "Guide Basics of Employment Legislation",
+    "description": "Documentation file: Guide Basics of Employment Legislation.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.596983",
+    "last_modified": "2026-02-09T23:01:32.596984",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 343,
+    "language": "en",
+    "keywords": [
+      "formation",
+      "compliance",
+      "form",
+      "information",
+      "working",
+      "insurance",
+      "safety",
+      "compliance",
+      "employment",
+      "work"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Guide_Basics_of_Employment_Legislation_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Guide Basics of Employment Legislation.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.597025",
+  "processor": "systematic_batch_processor"
+}

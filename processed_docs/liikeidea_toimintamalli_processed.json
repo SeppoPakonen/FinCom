@@ -1,0 +1,357 @@
+{
+  "original_content": "# Business Idea and Operating Model: Strategic Checklist\n\nThis document helps analyze and develop a company's business idea and operating model.\n\n## 1. Cornerstones of the Business Idea\n* [ ] **What?** What benefit or value do you provide to the customer? What problem is solved?\n* [ ] **For whom?** Who is your ideal customer? Who belongs to the core group?\n* [ ] **How?** With what resources and processes does the product/service come into being?\n\n## 2. Competitive Advantage (What makes you better?)\n* [ ] Strong and unique product portfolio.\n* [ ] Competitive pricing (justified).\n* [ ] Flexibility and ability to adapt to demand.\n* [ ] Responsibility and sustainable operations (ESG).\n* [ ] Excellent customer service.\n\n## 3. Market Knowledge\n* [ ] **Industry:** Is the industry growing or declining? What are the megatrends?\n* [ ] **Competitors:** What are their strengths and weaknesses?\n* [ ] **Availability:** What are the best sales channels?\n\n## 4. Risk Management\n* **Business risks:** Decision-making under uncertainty.\n* **Accident risks:** Personnel, property, information security.\n* **Financial risks:** Solvency and cash flow.\n* **Entrepreneur's endurance:** Personal performance capacity.\n\n### Risk management methods:\n1. **Avoid:** Don't take unnecessary risks.\n2. **Reduce:** Plan and anticipate.\n3. **Transfer:** Insurance and contracts.\n4. **Retain:** Acknowledge and accept calculated risks.\n\n## 5. Modeling Tools\nRecommended tools for visualizing the business idea:\n* **BMC** (Business Model Canvas)\n* **Lean Canvas**\n* **BSP** (Business Plan)\n\n---\n*A business idea can and should change during operations. \"It's not counted until it's on the market.\"*",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 100,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 1079,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 398,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 63,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 1079,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 1077,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 246,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 425,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 938,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 673,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 1336,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 1089,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 207,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 1350,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 642,
+      "related_keywords": []
+    },
+    {
+      "term": "liikeidea toimintamalli",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+    "extraction_date": "2026-02-09T23:01:32.558514",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_liikeidea_toimintamalli_review",
+      "title": "liikeidea toimintamalli.md Review Required",
+      "description": "Document liikeidea toimintamalli.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document liikeidea toimintamalli.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/liikeidea toimintamalli.md",
+    "title": "liikeidea toimintamalli",
+    "description": "Documentation file: liikeidea toimintamalli.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.558523",
+    "last_modified": "2026-02-09T23:01:32.558524",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 259,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "process",
+      "document",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "sales"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_liikeidea_toimintamalli_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "liikeidea toimintamalli.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.558583",
+  "processor": "systematic_batch_processor"
+}

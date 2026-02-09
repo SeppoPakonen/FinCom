@@ -1,0 +1,266 @@
+{
+  "original_content": "# Guide: Planning the Demonstration of Skills (Student Union)\n\nThis guide advises how to plan your portfolio, i.e., the demonstration of your skills in the PSK Adult Education Center student union.\n\n## 1. Logging In\n* Log in to the student union with your own credentials.\n* Select the **Education** tab.\n\n## 2. Planning the Portfolio\n* Click the relevant **qualification unit** (note: click the qualification unit level, not the sub-items below it).\n* Select the **Portfolios** tab.\n* If you cannot write content, contact the responsible instructor.\n\n## 3. Filling in Content\n* Expand the writing fields.\n* **Portfolio Plan (Work Tasks):** Write down in what practical work tasks you plan to demonstrate your skills.\n* **Assessment Criteria:** Use the qualification requirements as help and ensure that the planned tasks match the assessment criteria.\n* **Documents:** List the documents that support the demonstration of skills. Submit them according to the instructor's instructions before the assessment.\n* Remember to **save** at the end.\n\n## 4. Information Flow and Assessment\n* **Workplace Instructor:** Send the plan to your instructor for information (e.g., by email or through the eHoks system).\n* **Self-assessment:** After completing the portfolio, you can write a self-assessment in the same view.\n* **Results:** When the portfolio has been assessed, the grade and justification can be found under the qualification unit. Professional qualifications are assessed as pass/fail.",
+  "keywords": [
+    {
+      "term": "formation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+      "position_in_text": 1053,
+      "related_keywords": []
+    },
+    {
+      "term": "requirements",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+      "position_in_text": 767,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+      "position_in_text": 857,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+      "position_in_text": 1053,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+      "position_in_text": 1051,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+      "position_in_text": 973,
+      "related_keywords": []
+    },
+    {
+      "term": "assessment",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+      "position_in_text": 722,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+      "position_in_text": 9,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+      "position_in_text": 626,
+      "related_keywords": []
+    },
+    {
+      "term": "Guide Planning the Demonstration of Skills Student Union",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+    "extraction_date": "2026-02-09T23:01:32.604382",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Guide_Planning_the_Demonstration_of_Skills_Student_Union_review",
+      "title": "Guide Planning the Demonstration of Skills Student Union.md Review Required",
+      "description": "Document Guide Planning the Demonstration of Skills Student Union.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Guide Planning the Demonstration of Skills Student Union.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Planning the Demonstration of Skills Student Union.md",
+    "title": "Guide Planning the Demonstration of Skills Student Union",
+    "description": "Documentation file: Guide Planning the Demonstration of Skills Student Union.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.604389",
+    "last_modified": "2026-02-09T23:01:32.604390",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 228,
+    "language": "en",
+    "keywords": [
+      "formation",
+      "requirements",
+      "document",
+      "form",
+      "information",
+      "instructions",
+      "assessment",
+      "planning",
+      "work",
+      "Guide Planning the Demonstration of Skills Student Union"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Guide_Planning_the_Demonstration_of_Skills_Student_Union_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Guide Planning the Demonstration of Skills Student Union.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.604422",
+  "processor": "systematic_batch_processor"
+}

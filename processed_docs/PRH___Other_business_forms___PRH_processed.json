@@ -1,0 +1,318 @@
+{
+  "original_content": "# PRH: Financial Statements for Other Business Forms\n\nThis guide concerns filing financial statements to the Trade Register for savings banks, insurance and mortgage associations, and European economic interest groupings.\n\n## 1. Schedule and Responsibility\n* **Deadline:** Within 6 months of the end of the financial year.\n* **Signatory:** The responsible person registered in the Trade Register. A power of attorney does not entitle to signing.\n\n## 2. Notification (YTJ service)\n* Notification is made electronically at [asiointi.ytj.fi](https://asiointi.ytj.fi/ytjap).\n* **Fee:** Free of charge.\n* **Contents:** The notification must contain all statutory financial statement documents.\n\n## 3. After Registration\n* PRH may register the financial statement automatically.\n* The register extract is sent to the address reported by the company.\n* Financial statement information is public and available from the [Virre service](https://virre.prh.fi).\n\n---\n**Tip:** You can authorize an agent (e.g. accounting firm) to file the notification on your behalf in the YTJ service.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "position_in_text": 38,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "position_in_text": 835,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "position_in_text": 868,
+      "related_keywords": []
+    },
+    {
+      "term": "registration",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "position_in_text": 702,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "position_in_text": 678,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "position_in_text": 47,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "position_in_text": 866,
+      "related_keywords": []
+    },
+    {
+      "term": "association",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "position_in_text": 166,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "position_in_text": 471,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "position_in_text": 143,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "position_in_text": 819,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "position_in_text": 453,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "position_in_text": 242,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Other business forms   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+    "extraction_date": "2026-02-09T23:01:32.539272",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Other_business_forms___PRH_review",
+      "title": "PRH - Other business forms _ PRH.md Review Required",
+      "description": "Document PRH - Other business forms _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Other business forms _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Other business forms _ PRH.md",
+    "title": "PRH   Other business forms   PRH",
+    "description": "Documentation file: PRH - Other business forms _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.539278",
+    "last_modified": "2026-02-09T23:01:32.539279",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 152,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "registration",
+      "document",
+      "form",
+      "information",
+      "association",
+      "service",
+      "insurance"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Other_business_forms___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Other business forms _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.539307",
+  "processor": "systematic_batch_processor"
+}

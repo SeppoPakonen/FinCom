@@ -2,7 +2,7 @@
 
 ## File Information
 - **File**: `Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md`
-- **Source Directory**: `/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/`
+- **Source Directory**: `/common/active/sblo/Dev/FinCom/docs/english_business_forms/`
 - **Status**: COMPLETED
 
 ## Processing Requirements
@@ -56,7 +56,7 @@ Process this documentation file to add:
 - **Date Completed**: 2026-02-09
 - **Processor**: Systematic Batch Processor
 - **Output File**: `processed_docs/Digitaalisen_markkinoinnin_kasikirja_mikro__ja_pk_yritykselle_processed.json`
-- **Keywords Extracted**: 3
+- **Keywords Extracted**: 12
 - **Entities Identified**: 1
 - **Components Identified**: 1
 - **Systems Identified**: 1

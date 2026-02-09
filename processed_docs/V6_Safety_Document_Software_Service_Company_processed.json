@@ -1,0 +1,266 @@
+{
+  "original_content": "# V6: Safety Document (Software Service Company)\n\nThis document has been prepared according to the Consumer Safety Act (920/2011). It describes how the safety of the service has been arranged.\n\n---\n\n**1. SERVICE PROVIDER**\n* **Company:** __________________________\n* **Responsible person:** __________________________\n\n**2. DESCRIPTION OF THE SERVICE**\n* What does the service include and who is it intended for (target group)?\n__________________________\n\n**3. IDENTIFICATION AND MANAGEMENT OF RISKS**\n* Identify risks related to the service (e.g., weather, terrain, equipment).\n* Measures to eliminate or reduce risks.\n\n**4. STAFF COMPETENCE**\n* Required licenses and training (e.g., first aid training, climbing instructor qualification).\n* Orientation and continuous training.\n\n**5. CUSTOMER INSTRUCTION**\n* How are customers guided before and during the service?\n* Ensuring understanding of instructions.\n\n**6. EQUIPMENT AND DEVICES**\n* Equipment inspection and maintenance plan.\n* Use of personal protective equipment.\n\n**7. EMERGENCIES AND ACCIDENTS**\n* Procedures for accident situations.\n* Emergency number (112) and the company's own emergency plan.\n* Accident record keeping and reporting to authorities (Tukes).\n\n**8. UPDATES**\n* The document is reviewed at least once a year or when operations change.\n\n---\n[Place and date]\n__________________________\nResponsible person",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+      "position_in_text": 40,
+      "related_keywords": []
+    },
+    {
+      "term": "procedure",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+      "position_in_text": 1060,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+      "position_in_text": 13,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+      "position_in_text": 895,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+      "position_in_text": 786,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+      "position_in_text": 32,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+      "position_in_text": 1295,
+      "related_keywords": []
+    },
+    {
+      "term": "safety",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+      "position_in_text": 6,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+      "position_in_text": 1189,
+      "related_keywords": []
+    },
+    {
+      "term": "V6 Safety Document Software Service Company",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+    "extraction_date": "2026-02-09T23:01:32.380586",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_V6_Safety_Document_Software_Service_Company_review",
+      "title": "V6 Safety Document Software Service Company.md Review Required",
+      "description": "Document V6 Safety Document Software Service Company.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document V6 Safety Document Software Service Company.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V6 Safety Document Software Service Company.md",
+    "title": "V6 Safety Document Software Service Company",
+    "description": "Documentation file: V6 Safety Document Software Service Company.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.380593",
+    "last_modified": "2026-02-09T23:01:32.380593",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 190,
+    "language": "en",
+    "keywords": [
+      "company",
+      "procedure",
+      "document",
+      "instructions",
+      "customer",
+      "service",
+      "operations",
+      "safety",
+      "report",
+      "V6 Safety Document Software Service Company"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_V6_Safety_Document_Software_Service_Company_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "V6 Safety Document Software Service Company.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.380619",
+  "processor": "systematic_batch_processor"
+}

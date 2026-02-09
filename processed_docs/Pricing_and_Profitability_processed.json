@@ -1,0 +1,331 @@
+{
+  "original_content": "# Pricing and Profitability\n\nPricing is the most significant single factor for a company's profitability. This document compiles essential information about pricing strategies, models, and practical implementation.\n\n---\n\n## 1. Basic Principles of Pricing\n\n> \"If you are a professional in your field, you don't need trainee prices to start with, but prices should be set appropriately from the beginning.\" (Jutta Westerlund, New Business Center)\n\n- **Value indicator:** Price indicates the value of the product or service to the customer.\n- **Markets and competition:** Price is determined by supply and demand and can either weaken or enhance competitive advantage.\n- **Revenue and margin:** Each additional euro earned from a product directly affects profitability.\n- **Positioning:** Price targets the product to the desired customer segment and creates a price perception.\n\n---\n\n## 2. Pricing Strategy and Models\n\nA consistent strategy integrates pricing into the company's and product's growth plan.\n\n### Pricing Models:\n- **Cost-based:** Price is based on calculated costs. The risk is underpricing if all costs are not considered.\n- **Time-based:** Traditional expert model (hourly or daily rate).\n- **Monthly billing:** Regular charging for the service.\n- **Fixed list price:** Clear price list that can be customized with additional modules.\n- **Quote:** Customized price based on discussions (common in competitive situations or public procurement).\n- **Expert pricing:** Customer pays for expertise; different levels of experts have different prices.\n    - **Minimum charge:** Ensures profitability of small jobs.\n    - **Maximum price:** Determines the maximum price for the customer.\n- **Franchising:** Right to use a business concept in exchange for compensation.\n\n---\n\n## 3. Determining Sales Price\n\n### Pricing Policies:\n- **Skimming:** High price at launch or for exceptionally high-quality products (image pricing).\n- **Standard pricing:** Following the industry's general price level or largest competitors.\n- **Penetration:** Low price to enter the market quickly.\n- **Volume pricing:** Low price to achieve large sales volumes (requires low unit costs).\n\n### Determination Methods:\n1. **Market-based:** Price - profit target = target cost (what the product can cost the company).\n2. **Contribution margin pricing:** Planned price - variable costs = contribution margin. Margins must exceed fixed costs (salaries, rents).\n3. **Cost-plus pricing (Profit addition):** Manufacturing costs + fixed costs + desired profit + taxes = absolute minimum price.\n\n---\n\n## 4. Discounts and Price Increases\n\n### Dangers of discounts:\nDiscounts eat into margins very effectively. **A 5% discount requires 25% additional sales (if gross margin is 25%)!**\n\n**Effect of discount percentage on required sales growth:**\n| Discount % | Margin 15% | Margin 20% | Margin 25% | Margin 30% |\n| :--- | :--- | :--- | :--- | :--- |\n| **2 %** | +15 % | +11 % | +9 % | +7 % |\n| **5 %** | +50 % | **+33 %** | +25 % | +20 % |\n| **10 %** | +200 % | +100 % | +67 % | +50 % |\n\n### When does a customer deserve a discount?\n- Large one-time orders or customer loyalty.\n- Quick decision-making or off-season purchasing.\n- Low sensitivity to advertising.\n- Immediate payment of invoices or flexible delivery time.\n\n### Price increases:\nPrices should be raised annually by inflation. If you neglect 2–3% increases for 3 years, you have practically given a ~9% discount, which requires up to 15% sales increase to compensate.\n\n---\n\n## 5. Determining Costs\n\n- **Direct costs:** Materials, salaries, logistics.\n- **Indirect costs:** Premises, advertising, administration (distributed among all products).\n\n---\n\n## 6. Value-Added Tax Rates (2026)\n\n- **25.5 %:** General tax rate.\n- **13.5 %:** Food, restaurant services, books, medicines, sports services, accommodation, etc.\n- **10 %:** Newspapers and periodicals.\n- **0 % / Tax-exempt:** Export outside the EU, education, healthcare, financial services, copyrights.\n\n---\n\n## 7. How to Start Pricing?\n\n1. **Identify costs:** Use financial planning (YT4/YT5).\n2. **Know the market:** Ensure demand and familiarize yourself with competitors' prices.\n3. **Define and justify:** Decide the price and prepare to justify it to the customer with added value factors (customer service, warranty, image).\n4. **Consider the entrepreneur:** Remember to include your own vacation and sick days in the price.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 428,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 81,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 141,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 2538,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 111,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 141,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 139,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 528,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 513,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 1937,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 1907,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 3786,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 1801,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 4065,
+      "related_keywords": []
+    },
+    {
+      "term": "Pricing and Profitability",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+    "extraction_date": "2026-02-09T23:01:32.461646",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Pricing_and_Profitability_review",
+      "title": "Pricing and Profitability.md Review Required",
+      "description": "Document Pricing and Profitability.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Pricing and Profitability.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Pricing and Profitability.md",
+    "title": "Pricing and Profitability",
+    "description": "Documentation file: Pricing and Profitability.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.461653",
+    "last_modified": "2026-02-09T23:01:32.461654",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 3,
+    "word_count": 684,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "tax",
+      "document",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "standard"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Pricing_and_Profitability_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Pricing and Profitability.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.461720",
+  "processor": "systematic_batch_processor"
+}

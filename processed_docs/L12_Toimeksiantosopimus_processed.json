@@ -1,6 +1,58 @@
 {
-  "original_content": "# Toimeksiantosopimus (Malli)\n\nTämä on mallipohja yksittäisen toimeksiannon sopimiseksi.\n\n---\n\n## 1. Sopijapuolet\n\n- **Toimeksiantaja (Tilaaja):**      \n- **Toimeksiannon saaja (Suorittaja):**      \n\n---\n\n## 2. Tehtävän kuvaus\n*(Määrittele toimeksiannon sisältö, tavoitteet ja aikataulu)*\n     \n\n---\n\n## 3. Palkkio ja kulujen korvaaminen\n\n- **Palkkion määrä:**      \n- **Kulujen korvaaminen:** (Matkakulut, tarvikkeet jne.)      \n- **Maksuehto:**      \n\n---\n\n## 4. Sopimuksen kesto ja irtisanominen\n\n- **Voimassaolo:** Sopimus on voimassa [ ] toistaiseksi / [ ] määräajan   .  .202   saakka.\n- **Irtisanomisaika:**      \n\n---\n\n## 5. Erimielisyyksien ratkaisu\n\nTästä sopimuksesta mahdollisesti johtuvat erimielisyydet pyritään ensisijaisesti ratkaisemaan osapuolten välisin neuvotteluin. Mikäli ratkaisuun ei ole päästy 1 kuukauden kuluessa erimielisyyden toteamisesta, ratkaistaan riita molempiin osapuoliin nähden ulkopuolisen lainopillisen sovittelijan toimesta. Tarvittaessa sovittelija määrätään arvalla kahden ehdokkaan kesken. Sovittelijan tulee antaa ratkaisunsa kuukauden kuluessa valinnastaan, ja ratkaisu sitoo molempia osapuolia, eikä siitä ole valitusmahdollisuutta.\n\n---\n\n## Allekirjoitukset\n\n**Paikka ja päiväys:**      ,    .    . 202  \n\n____________________________  \n**Toimeksiantaja**\n\n____________________________  \n**Toimeksiannon saaja**",
+  "original_content": "# Commission Agreement (Template)\n\nThis is a template for a single commission agreement.\n\n---\n\n## 1. Contracting Parties\n\n- **Commissioner (Client):**\n- **Commission recipient (Performer):**\n\n---\n\n## 2. Description of Task\n*(Define the content of the commission, objectives and schedule)*\n\n---\n\n## 3. Fee and Expense Reimbursement\n\n- **Fee amount:**\n- **Expense reimbursement:** (Travel expenses, supplies, etc.)\n- **Payment terms:**\n\n---\n\n## 4. Duration and Termination\n\n- **Validity:** The agreement is valid [ ] indefinitely / [ ] for a fixed term until   .  .202  .\n- **Notice period:**\n\n---\n\n## 5. Dispute Resolution\n\nAny disputes arising from this agreement will primarily be resolved through negotiations between the parties. If no resolution is reached within 1 month of identifying the dispute, the matter will be settled by an independent legal mediator acceptable to both parties. If necessary, the mediator will be chosen by lot between two candidates. The mediator must issue their decision within one month of appointment, and the decision binds both parties without possibility of appeal.\n\n---\n\n## Signatures\n\n**Place and date:**      ,    .    . 202\n\n____________________________\n**Commissioner**\n\n____________________________\n**Commission recipient**",
   "keywords": [
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L12_Toimeksiantosopimus.md",
+      "position_in_text": 180,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L12_Toimeksiantosopimus.md",
+      "position_in_text": 24,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L12_Toimeksiantosopimus.md",
+      "position_in_text": 101,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L12_Toimeksiantosopimus.md",
+      "position_in_text": 13,
+      "related_keywords": []
+    },
     {
       "term": "L12 Toimeksiantosopimus",
       "frequency": 3,
@@ -10,14 +62,14 @@
         "file_name_based",
         "auto_extraction"
       ],
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L12_Toimeksiantosopimus.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L12_Toimeksiantosopimus.md",
       "position_in_text": 0,
       "related_keywords": []
     }
   ],
   "ecs_elements": {
-    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L12_Toimeksiantosopimus.md",
-    "extraction_date": "2026-02-09T22:21:42.248500",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L12_Toimeksiantosopimus.md",
+    "extraction_date": "2026-02-09T23:01:32.410783",
     "entities": [
       {
         "name": "Business Entity",
@@ -31,7 +83,7 @@
           "business_entity",
           "document_context"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L12_Toimeksiantosopimus.md",
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L12_Toimeksiantosopimus.md",
         "relationships": {}
       }
     ],
@@ -40,7 +92,7 @@
         "name": "Document Requirements",
         "description": "Requirements specified in the document",
         "properties": {
-          "specified_in": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L12_Toimeksiantosopimus.md",
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L12_Toimeksiantosopimus.md",
           "type": "business_requirements",
           "complexity": "medium"
         },
@@ -49,7 +101,7 @@
           "requirements",
           "business_rules"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L12_Toimeksiantosopimus.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L12_Toimeksiantosopimus.md"
       }
     ],
     "systems": [
@@ -65,7 +117,7 @@
           "process",
           "system"
         ],
-        "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L12_Toimeksiantosopimus.md"
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L12_Toimeksiantosopimus.md"
       }
     ]
   },
@@ -78,7 +130,7 @@
       "condition": "document_reviewed == True",
       "scope": "document_compliance",
       "severity": "info",
-      "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L12_Toimeksiantosopimus.md",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L12_Toimeksiantosopimus.md",
       "tags": [
         "compliance",
         "review"
@@ -89,7 +141,7 @@
     }
   ],
   "metadata": {
-    "source_file": "/common/active/sblo/Dev/Manager/DummyMusicCompany/db/business_forms/L12_Toimeksiantosopimus.md",
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/L12_Toimeksiantosopimus.md",
     "title": "L12 Toimeksiantosopimus",
     "description": "Documentation file: L12_Toimeksiantosopimus.md",
     "tags": [
@@ -101,8 +153,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-09T22:21:42.248506",
-    "last_modified": "2026-02-09T22:21:42.248507",
+    "creation_date": "2026-02-09T23:01:32.410798",
+    "last_modified": "2026-02-09T23:01:32.410800",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -112,9 +164,13 @@
     ],
     "difficulty_level": "intermediate",
     "estimated_reading_time": 1,
-    "word_count": 146,
+    "word_count": 183,
     "language": "en",
     "keywords": [
+      "form",
+      "template",
+      "contract",
+      "agreement",
       "L12 Toimeksiantosopimus"
     ],
     "related_entities": [
@@ -135,6 +191,6 @@
       "original_file_name": "L12_Toimeksiantosopimus.md"
     }
   },
-  "processing_date": "2026-02-09T22:21:42.248530",
+  "processing_date": "2026-02-09T23:01:32.410845",
   "processor": "systematic_batch_processor"
 }

@@ -1,0 +1,252 @@
+{
+  "original_content": "# PRH: Missing Personal Identity Code\n\nA personal identity code may be missing from Trade Register information if the person was registered before 1994 or if a foreign person received the code later.\n\n## 1. Why is the code important?\n* The person **cannot sign** electronic change notifications in the YTJ service if the code is missing.\n* The code must be reported so that electronic transactions work in the future.\n\n## 2. How to report the code free of charge\nYou can report a missing personal identity code **free of charge** if you are not reporting other matters at the same time.\n1. **Forms:** Fill in form Y4 (Ltd) or Y5 (GP/LP) + attachment form + separate **personal information form**.\n2. **Notation:** Write in the \"Additional information for PRH\" section of the Y form that you are reporting personal identity codes.\n3. **Note:** Report all the company's responsible persons' codes at the same time.\n\n## 3. People without a Finnish SSN\nIf a person does not have a Finnish personal identity code:\n* The date of birth is entered in the register.\n* A certified copy of the passport or driver's license must be attached to the notification.\n\n---\n**Reporting:** Submit the notification using the online form at [turvaviesti.prh.fi/ilmoitus-kaupparekisteriin](https://turvaviesti.prh.fi/ilmoitus-kaupparekisteriin).",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+      "position_in_text": 858,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+      "position_in_text": 101,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+      "position_in_text": 101,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+      "position_in_text": 99,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+      "position_in_text": 306,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+      "position_in_text": 398,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+      "position_in_text": 357,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+      "position_in_text": 281,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Henkilötunnuksen puuttuminen   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+    "extraction_date": "2026-02-09T23:01:32.631863",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Henkilötunnuksen_puuttuminen___PRH_review",
+      "title": "PRH - Henkilötunnuksen puuttuminen _ PRH.md Review Required",
+      "description": "Document PRH - Henkilötunnuksen puuttuminen _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Henkilötunnuksen puuttuminen _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+    "title": "PRH   Henkilötunnuksen puuttuminen   PRH",
+    "description": "Documentation file: PRH - Henkilötunnuksen puuttuminen _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.631870",
+    "last_modified": "2026-02-09T23:01:32.631871",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 210,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "form",
+      "information",
+      "service",
+      "work",
+      "report",
+      "notification",
+      "PRH   Henkilötunnuksen puuttuminen   PRH"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Henkilötunnuksen_puuttuminen___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Henkilötunnuksen puuttuminen _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.631899",
+  "processor": "systematic_batch_processor"
+}

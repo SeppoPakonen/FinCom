@@ -1,0 +1,396 @@
+{
+  "original_content": "# PRH: Mandatory Electronic Processing in the Trade Register from 2026\n\nStarting January 1, 2026, most companies must handle Trade Register affairs electronically.\n\n## 1. Who is affected by the change?\n* **Mandatory:** Limited liability companies, cooperatives, general partnerships and limited partnerships.\n* **Not affected:** Business name entrepreneurs (private entrepreneurs), associations and foundations.\n\n## 2. What must be reported electronically?\n* Formation, change and termination notifications.\n* Financial statements and various applications.\n* Corrections and supplements to previous notifications.\n\n## 3. Service Channels\n* **YTJ service:** [ytj.fi](https://www.ytj.fi).\n* **PRH's online forms:** Used in situations that cannot be handled in YTJ.\n* **Note:** Notifications will not be accepted by email. Processing requires strong authentication.\n\n## 4. Why is the change being made?\n* Faster registration and utilization of information.\n* Fewer errors due to digital guidance.\n* Based on the new Trade Register Act.\n\n---\n**Instructions:** Updated instructions will be available from January 1, 2026 at [prh.fi](https://www.prh.fi) and [ytj.fi](https://www.ytj.fi).",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 329,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 459,
+      "related_keywords": []
+    },
+    {
+      "term": "registration",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 909,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 28,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 459,
+      "related_keywords": []
+    },
+    {
+      "term": "guidance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 984,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 941,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 1040,
+      "related_keywords": []
+    },
+    {
+      "term": "association",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 382,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 227,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 219,
+      "related_keywords": []
+    },
+    {
+      "term": "cooperative",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 248,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 621,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 72,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 976,
+      "related_keywords": []
+    },
+    {
+      "term": "partnership",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 270,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 432,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 543,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 493,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+    "extraction_date": "2026-02-09T23:01:32.664195",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Kaupparekisterin_pakollinen_sähköinen_asiointi_2026_alkaen___PRH_review",
+      "title": "PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md Review Required",
+      "description": "Document PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+    "title": "PRH   Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen   PRH",
+    "description": "Documentation file: PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.664202",
+    "last_modified": "2026-02-09T23:01:32.664203",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 158,
+    "language": "en",
+    "keywords": [
+      "business",
+      "formation",
+      "registration",
+      "process",
+      "form",
+      "guidance",
+      "information",
+      "instructions",
+      "association",
+      "liability"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Kaupparekisterin_pakollinen_sähköinen_asiointi_2026_alkaen___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Kaupparekisterin pakollinen sähköinen asiointi 2026 alkaen _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.664231",
+  "processor": "systematic_batch_processor"
+}

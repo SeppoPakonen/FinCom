@@ -1,0 +1,238 @@
+{
+  "original_content": "# Template: Housing Company Articles of Incorporation\n\nThis is a template for establishing a housing company or mutual real estate company.\n\n## Articles of Incorporation\n\nWe, the undersigned, establish a housing company / mutual real estate company:\n\n### 1. Trade Name\nThe company's trade name is: ________________________________\n\n### 2. Shares\nWe subscribe to the company's shares as follows:\n* **Shareholder:** ________________________________ (name and SSN/Business ID)\n* **Numbers:** ______ – ______\n\n### 3. Payments and Conditions\n* **Subscription price:** ______ € per share.\n* **Payment deadline:** Must be paid at the latest by ______.______.20______\n* **Charge obligation begins:** ______.______.20______\n* **Management right begins:** ______.______.20______\n\n### 4. Appointments\n* **Board members:** ________________________________, ________________________________\n* **Chairman:** ________________________________\n* **Property manager / Managing director:** ________________________________\n* **Auditor:** ________________________________\n\n### 5. Financial Year\nThe first financial year ends: ______.______.20______\n\n### 6. Authorization\nWe authorize [Name] to make any corrections required by PRH to this agreement on behalf of all shareholders.\n\n---\n**Date:** ____________________, ______.______.20______\n\n**Signatures:**\n__________________________   __________________________\n*(Shareholder 1)*                 *(Shareholder 2)*",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md",
+      "position_in_text": 461,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md",
+      "position_in_text": 20,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "housing",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md",
+      "position_in_text": 12,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md",
+      "position_in_text": 1219,
+      "related_keywords": []
+    },
+    {
+      "term": "shareholder",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md",
+      "position_in_text": 399,
+      "related_keywords": []
+    },
+    {
+      "term": "obligation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md",
+      "position_in_text": 671,
+      "related_keywords": []
+    },
+    {
+      "term": "Template Housing Company Articles of Incorporation",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md",
+    "extraction_date": "2026-02-09T23:01:32.516029",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Template_Housing_Company_Articles_of_Incorporation_review",
+      "title": "Template Housing Company Articles of Incorporation.md Review Required",
+      "description": "Document Template Housing Company Articles of Incorporation.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Template Housing Company Articles of Incorporation.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Template Housing Company Articles of Incorporation.md",
+    "title": "Template Housing Company Articles of Incorporation",
+    "description": "Documentation file: Template Housing Company Articles of Incorporation.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.516036",
+    "last_modified": "2026-02-09T23:01:32.516037",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 166,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "template",
+      "housing",
+      "agreement",
+      "shareholder",
+      "obligation",
+      "Template Housing Company Articles of Incorporation"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Template_Housing_Company_Articles_of_Incorporation_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Template Housing Company Articles of Incorporation.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.516062",
+  "processor": "systematic_batch_processor"
+}

@@ -1,0 +1,168 @@
+{
+  "original_content": "# Tool: Competitor Analysis\n\nUse this table to compare your company with main competitors.\n\n| Feature | Our Company | Competitor 1 | Competitor 2 |\n| :--- | :--- | :--- | :--- |\n| **Revenue & Profitability** | | | |\n| **Staff Size** | | | |\n| **Location & Premises** | | | |\n| **Product Range Breadth** | | | |\n| **Price Level** | | | |\n| **Marketing Skills & Visibility** | | | |\n| **Strongest Points** | | | |\n| **Weakest Points** | | | |\n\n---\n\n## Analysis Results\n1. **Where are we superior?**\n__________________________________________________________________________\n2. **What are the most critical development areas compared to competitors?**\n__________________________________________________________________________\n3. **How do we respond to competitor actions?**\n__________________________________________________________________________",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT16_Kilpailija-analyysi.md",
+      "position_in_text": 60,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT16_Kilpailija-analyysi.md",
+      "position_in_text": 341,
+      "related_keywords": []
+    },
+    {
+      "term": "YT16 Kilpailija analyysi",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT16_Kilpailija-analyysi.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT16_Kilpailija-analyysi.md",
+    "extraction_date": "2026-02-09T23:01:32.365053",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT16_Kilpailija-analyysi.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT16_Kilpailija-analyysi.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT16_Kilpailija-analyysi.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT16_Kilpailija-analyysi.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_YT16_Kilpailija_analyysi_review",
+      "title": "YT16_Kilpailija-analyysi.md Review Required",
+      "description": "Document YT16_Kilpailija-analyysi.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT16_Kilpailija-analyysi.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document YT16_Kilpailija-analyysi.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT16_Kilpailija-analyysi.md",
+    "title": "YT16 Kilpailija analyysi",
+    "description": "Documentation file: YT16_Kilpailija-analyysi.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.365060",
+    "last_modified": "2026-02-09T23:01:32.365060",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 127,
+    "language": "en",
+    "keywords": [
+      "company",
+      "marketing",
+      "YT16 Kilpailija analyysi"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_YT16_Kilpailija_analyysi_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "YT16_Kilpailija-analyysi.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.365079",
+  "processor": "systematic_batch_processor"
+}

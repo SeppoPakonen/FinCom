@@ -1,0 +1,238 @@
+{
+  "original_content": "# PRH: Address and Contact Information\n\nA company must keep at least one mailing or visiting address up to date in the Trade Register.\n\n## 1. Information to Report\n* **Mailing address:** (Mandatory)\n* **Visiting address:** (Optional)\n* **Other public information:** Phone number, email address, and website address.\n* **Note:** All reported contact information is public and visible in the YTJ search.\n\n## 2. Reporting\n* **Fee:** Free of charge.\n* **Method:** Electronically at [asiointi.ytj.fi](https://asiointi.ytj.fi/ytjap).\n* **Automation:** An address change made in the YTJ service is usually registered immediately.\n\n## 3. Points to Note\n* **Mail:** An address change in the Trade Register does not automatically transmit to the Postal Service. Make a separate move notification to the Post.\n* **Monitoring:** You can check the registered information in [YTJ's company search](https://tietopalvelu.ytj.fi).\n* **Confirmation:** PRH does not send a separate register extract for an address change only.\n\n---\n**Registered office:** If the company changes municipality, it usually requires a bylaw amendment and is a different matter than just an address change.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md",
+      "position_in_text": 42,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md",
+      "position_in_text": 29,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md",
+      "position_in_text": 29,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md",
+      "position_in_text": 27,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md",
+      "position_in_text": 580,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md",
+      "position_in_text": 157,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md",
+      "position_in_text": 773,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH Address and Contact Information",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md",
+    "extraction_date": "2026-02-09T23:01:32.618942",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH_Address_and_Contact_Information_review",
+      "title": "PRH Address and Contact Information.md Review Required",
+      "description": "Document PRH Address and Contact Information.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH Address and Contact Information.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Address and Contact Information.md",
+    "title": "PRH Address and Contact Information",
+    "description": "Documentation file: PRH Address and Contact Information.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.618948",
+    "last_modified": "2026-02-09T23:01:32.618949",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 170,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "form",
+      "information",
+      "service",
+      "report",
+      "notification",
+      "PRH Address and Contact Information"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH_Address_and_Contact_Information_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH Address and Contact Information.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.618974",
+  "processor": "systematic_batch_processor"
+}

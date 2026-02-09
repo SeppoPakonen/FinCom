@@ -1,0 +1,279 @@
+{
+  "original_content": "# Invoice\n\n**PrintQuote Digital Power Ltd**\n**Invoice no.:** 2016/INV1xx\n**Date:** 20.x.2016\n**Page:** 1 (1)\n\n---\n\n### Invoice Sender\n**PrintQuote Digital Power Ltd**\nPO Box 111, 87101 Kajaani\nBusiness ID: 234 567-10\nVAT number: FI123456\nBank account: FI22 2222 2222 2222 22\n\n### Recipient\n**WorkHousing.fi**\nHansatie 4, 02780 Espoo\nContact: Sami Sassi, Sales Manager\n\n---\n\n## Invoice Item: Company Brochure Printing\n**Reference:** Your order 5.6.2016/ORD1xx\n\n| Item | Quantity | Unit price | Subtotal excl. tax | VAT 24 % | Total incl. tax |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| Design and layout work | 20 h | 75.00 € | 1500.00 € | 360.00 € | 1860.00 € |\n| WorkHousing Brochure | 5000 pcs | - | 2400.00 € | 576.00 € | 2976.00 € |\n| WorkShoes Brochure | 3000 pcs | - | 1800.00 € | 432.00 € | 2232.00 € |\n| **TOTAL** | | | **5700.00 €** | **1368.00 €** | **7068.00 €** |\n\n---\n\n## Payment Information\n\n* **Due date:** x.x.2016\n* **Payment terms:** 14 days net\n* **Reference number:** 22222 22222 2222\n* **Late payment interest:** 8.5 %\n* **Notice period:** 7 days",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+      "position_in_text": 193,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+      "position_in_text": 391,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+      "position_in_text": 899,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+      "position_in_text": 508,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+      "position_in_text": 899,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+      "position_in_text": 897,
+      "related_keywords": []
+    },
+    {
+      "term": "housing",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+      "position_in_text": 296,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+      "position_in_text": 354,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+      "position_in_text": 24,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+      "position_in_text": 292,
+      "related_keywords": []
+    },
+    {
+      "term": "Liikeasiakirjat 5 Lasku",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+    "extraction_date": "2026-02-09T23:01:32.557805",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Liikeasiakirjat_5_Lasku_review",
+      "title": "Liikeasiakirjat_5_Lasku.md Review Required",
+      "description": "Document Liikeasiakirjat_5_Lasku.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Liikeasiakirjat_5_Lasku.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_5_Lasku.md",
+    "title": "Liikeasiakirjat 5 Lasku",
+    "description": "Documentation file: Liikeasiakirjat_5_Lasku.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.557812",
+    "last_modified": "2026-02-09T23:01:32.557813",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 199,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "tax",
+      "form",
+      "information",
+      "housing",
+      "sales",
+      "digital",
+      "work"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Liikeasiakirjat_5_Lasku_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Liikeasiakirjat_5_Lasku.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.557848",
+  "processor": "systematic_batch_processor"
+}

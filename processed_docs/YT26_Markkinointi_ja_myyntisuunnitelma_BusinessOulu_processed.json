@@ -1,0 +1,238 @@
+{
+  "original_content": "# Template: Marketing and Sales Plan\n\nThis plan specifies how the company reaches customers and makes sales.\n\n## 1. Current Situation and Segments\n* **Customer Groups:** List the most important customer segments and their share of sales.\n* **Where do customers come from?** (E.g. recommendations, web, cold calls).\n* **Competitive advantage:** Why does the customer choose us right now?\n\n## 2. SWOT Analysis (Four Fields)\n* **Strengths:** [Own internal, now]\n* **Weaknesses:** [Own internal, now]\n* **Opportunities:** [External, future]\n* **Threats:** [External, future]\n\n## 3. Goals and Actions\n* **Sales Target:** [Amount €] per month/year.\n* **Marketing Actions:**\n    - Social media (channels and frequency).\n    - Website and SEO.\n    - Events and trade fairs.\n    - Direct sales and customer meetings.\n* **Budget:** Amount allocated for marketing.\n\n## 4. Strategic Choices\n* **Pricing Strategy:** [E.g. market-based / premium].\n* **Image:** How do we want customers to perceive us?\n* **Environmental Strategy:** How is responsibility reflected in marketing?\n* **Growth Plan:** Situation in 5 years.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md",
+      "position_in_text": 66,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md",
+      "position_in_text": 82,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md",
+      "position_in_text": 26,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md",
+      "position_in_text": 12,
+      "related_keywords": []
+    },
+    {
+      "term": "budget",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md",
+      "position_in_text": 812,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md",
+      "position_in_text": 1025,
+      "related_keywords": []
+    },
+    {
+      "term": "YT26 Markkinointi ja myyntisuunnitelma BusinessOulu",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md",
+    "extraction_date": "2026-02-09T23:01:32.366137",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu_review",
+      "title": "YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md Review Required",
+      "description": "Document YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md",
+    "title": "YT26 Markkinointi ja myyntisuunnitelma BusinessOulu",
+    "description": "Documentation file: YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.366144",
+    "last_modified": "2026-02-09T23:01:32.366145",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 162,
+    "language": "en",
+    "keywords": [
+      "company",
+      "template",
+      "customer",
+      "sales",
+      "marketing",
+      "budget",
+      "responsibility",
+      "YT26 Markkinointi ja myyntisuunnitelma BusinessOulu"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "YT26_Markkinointi_ja_myyntisuunnitelma_BusinessOulu.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.366170",
+  "processor": "systematic_batch_processor"
+}

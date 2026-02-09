@@ -1,0 +1,238 @@
+{
+  "original_content": "# Marketing: Customer Understanding and Mix Models\n\nModern marketing has shifted from product-centered (4P) to customer-centered (4C) approach.\n\n## 1. From Business Perspective (4P) to Customer Perspective (4C)\n\n| 4P (Traditional) | 4C (Modern) | Explanation |\n| :--- | :--- | :--- |\n| **Product** | **Customer Solution** | What problem does the product solve for the customer? |\n| **Price** | **Cost to Customer** | What is the total cost to the customer (time, effort, money)? |\n| **Place** | **Convenience** | How convenient is it for the customer to purchase? |\n| **Promotion** | **Communication** | Is the communication two-way and engaging? |\n\n## 2. Service Industry Specifics\nIn services, additional factors are emphasized:\n* **People:** Interaction between staff and customers.\n* **Process:** How smoothly is the service delivered?\n* **Physical Evidence:** Tangible proof of service quality (reviews, testimonials, environment).\n\n## 3. Development Needs\nReview your marketing if:\n* Sales growth stagnates.\n* Certain customer segments are no longer profitable.\n* A competitor stands out more clearly in the customer's daily life.\n\n---\n**Remember:** Customers don't buy features, they buy solutions to their problems.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md",
+      "position_in_text": 156,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md",
+      "position_in_text": 790,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md",
+      "position_in_text": 13,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md",
+      "position_in_text": 656,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md",
+      "position_in_text": 686,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md",
+      "position_in_text": 990,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "markkinointisuunnitelma",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md",
+    "extraction_date": "2026-02-09T23:01:32.653683",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_markkinointisuunnitelma_review",
+      "title": "markkinointisuunnitelma.md Review Required",
+      "description": "Document markkinointisuunnitelma.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document markkinointisuunnitelma.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/markkinointisuunnitelma.md",
+    "title": "markkinointisuunnitelma",
+    "description": "Documentation file: markkinointisuunnitelma.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.653689",
+    "last_modified": "2026-02-09T23:01:32.653690",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 187,
+    "language": "en",
+    "keywords": [
+      "business",
+      "process",
+      "customer",
+      "service",
+      "services",
+      "sales",
+      "marketing",
+      "markkinointisuunnitelma"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_markkinointisuunnitelma_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "markkinointisuunnitelma.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.653716",
+  "processor": "systematic_batch_processor"
+}

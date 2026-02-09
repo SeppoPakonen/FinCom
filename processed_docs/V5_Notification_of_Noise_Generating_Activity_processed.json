@@ -1,0 +1,224 @@
+{
+  "original_content": "# V5: Notification of Noise-Generating Activity\n\nThis notification is made to the municipality's environmental protection authority at least 30 days before starting the activity (Environmental Protection Act 118 §).\n\n---\n\n**1. NOTIFIER INFORMATION**\n* **Name:** __________________________\n* **Contact information:** __________________________\n\n**2. ACTIVITY DESCRIPTION**\n* [ ] Outdoor concert or other public event\n* [ ] Construction work or excavation (during night time or weekends)\n* [ ] Other temporary noise-generating activity\n\n**3. LOCATION AND TIME OF ACTIVITY**\n* **Location:** __________________________\n* **Dates:** __________________________\n* **Times:** __________________________\n\n**4. NOISE SOURCES AND MITIGATION**\n* Description of noise-generating machines or equipment (e.g., sound systems, drilling vehicles):\n__________________________\n* Measures to limit noise disturbances:\n__________________________\n\n**5. COMMUNICATION**\n* How will residents of the nearby area and other targets (e.g., hospitals, daycare centers) be informed about the noise?\n__________________________\n\n**6. SIGNATURE**\n\n[Place and date]\n\n__________________________\nNotifier",
+  "keywords": [
+    {
+      "term": "formation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V5 Notification of Noise-Generating Activity.md",
+      "position_in_text": 238,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V5 Notification of Noise-Generating Activity.md",
+      "position_in_text": 238,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V5 Notification of Noise-Generating Activity.md",
+      "position_in_text": 236,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V5 Notification of Noise-Generating Activity.md",
+      "position_in_text": 156,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V5 Notification of Noise-Generating Activity.md",
+      "position_in_text": 435,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V5 Notification of Noise-Generating Activity.md",
+      "position_in_text": 6,
+      "related_keywords": []
+    },
+    {
+      "term": "V5 Notification of Noise Generating Activity",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V5 Notification of Noise-Generating Activity.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V5 Notification of Noise-Generating Activity.md",
+    "extraction_date": "2026-02-09T23:01:32.380111",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V5 Notification of Noise-Generating Activity.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V5 Notification of Noise-Generating Activity.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V5 Notification of Noise-Generating Activity.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V5 Notification of Noise-Generating Activity.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_V5_Notification_of_Noise_Generating_Activity_review",
+      "title": "V5 Notification of Noise-Generating Activity.md Review Required",
+      "description": "Document V5 Notification of Noise-Generating Activity.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V5 Notification of Noise-Generating Activity.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document V5 Notification of Noise-Generating Activity.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/V5 Notification of Noise-Generating Activity.md",
+    "title": "V5 Notification of Noise Generating Activity",
+    "description": "Documentation file: V5 Notification of Noise-Generating Activity.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.380118",
+    "last_modified": "2026-02-09T23:01:32.380119",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 141,
+    "language": "en",
+    "keywords": [
+      "formation",
+      "form",
+      "information",
+      "starting",
+      "work",
+      "notification",
+      "V5 Notification of Noise Generating Activity"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_V5_Notification_of_Noise_Generating_Activity_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "V5 Notification of Noise-Generating Activity.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.380143",
+  "processor": "systematic_batch_processor"
+}

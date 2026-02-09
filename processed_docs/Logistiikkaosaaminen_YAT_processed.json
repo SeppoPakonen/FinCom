@@ -1,0 +1,266 @@
+{
+  "original_content": "# Logistics Competence\n\nLogistics is essential for a company's survival. It involves managing information flows, material flows and financial flows throughout the entire supply chain.\n\n## 1. Definition of Logistics\nLogistics refers to:\n* **Material flow:** Incoming, internal and outgoing goods flow from raw materials to end consumers.\n* **Information flow:** Movement of information about orders, inventory levels and schedules.\n* **Financial flow:** Movement of payments in the chain.\n\n## 2. Key Principles (JIT & FIFO)\n* **JIT (Just In Time):** Right products, at the right time, in the right place and with the right quality at minimum cost.\n* **FIFO (First In, First Out):** Goods that arrive first in the warehouse are shipped out first (especially important for perishable products).\n* **Minimizing waste:** Eliminating unnecessary steps and storage.\n\n## 3. Logistics Objectives\nWith efficient logistics, the goals are:\n1. **Better customer service** -> Increased revenue.\n2. **Lower costs** -> Better profits.\n3. **Faster turnover rate** -> Less capital tied up.\n4. **High delivery reliability** -> Customer satisfaction.\n\n## 4. Elements of Competitive Ability\n* **Quality:** Customer gets what they want, when they want it.\n* **Price:** Competitive price-quality ratio.\n* **Delivery speed and reliability:** Reliable and fast delivery.\n\n## 5. Logistics Key Figures\n* **Inventory turnover rate:** Purchases at acquisition cost / average inventory.\n* **Average inventory holding time:** 365 / inventory turnover rate.\n* **Service level percentage:** (Delivered orders / Total orders) * 100.\n* **Delivery reliability:** (Error-free orders / Number of deliveries) * 100.\n\n## 6. Agreements and Delivery Terms\nCommercial agreements specify:\n* Product specifications and price.\n* Payment terms.\n* **Delivery terms (e.g. Incoterms):** Determine who is responsible for costs and when risk transfers from seller to buyer.\n\n---\n**Note:** Always ensure that accounts receivable turnover is faster than accounts payable turnover!",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+      "position_in_text": 53,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+      "position_in_text": 96,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+      "position_in_text": 96,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+      "position_in_text": 94,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+      "position_in_text": 1093,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+      "position_in_text": 940,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+      "position_in_text": 949,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+      "position_in_text": 555,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+      "position_in_text": 1684,
+      "related_keywords": []
+    },
+    {
+      "term": "Logistiikkaosaaminen YAT",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+    "extraction_date": "2026-02-09T23:01:32.565299",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Logistiikkaosaaminen_YAT_review",
+      "title": "Logistiikkaosaaminen YAT.md Review Required",
+      "description": "Document Logistiikkaosaaminen YAT.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Logistiikkaosaaminen YAT.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Logistiikkaosaaminen YAT.md",
+    "title": "Logistiikkaosaaminen YAT",
+    "description": "Documentation file: Logistiikkaosaaminen YAT.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.565306",
+    "last_modified": "2026-02-09T23:01:32.565307",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 297,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "form",
+      "information",
+      "liability",
+      "customer",
+      "service",
+      "products",
+      "agreement",
+      "Logistiikkaosaaminen YAT"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Logistiikkaosaaminen_YAT_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Logistiikkaosaaminen YAT.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.565341",
+  "processor": "systematic_batch_processor"
+}

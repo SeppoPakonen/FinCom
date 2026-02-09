@@ -1,0 +1,318 @@
+{
+  "original_content": "# PRH: Late Financial Statement Submission to the Trade Register\n\nIf a company is late in submitting its financial statement, it must act immediately to avoid serious penalties.\n\n## 1. Consequences of Negligence\n* **Late fee:** PRH automatically imposes a fee (150–600 €) on all limited liability companies and cooperatives whose financial statements are delayed more than 8 months after the end of the financial year.\n* **Fine threat:** PRH may require the responsible person to submit information under threat of penalty.\n* **Removal from register:** If the financial statement is not submitted within one year of the end of the financial year, PRH initiates removal proceedings from the Trade Register.\n\n## 2. Action Guide\n1. **Report immediately:** Submit the notification immediately in the YTJ service.\n2. **Attachments:** Ensure all required documents are included (income statement, balance sheet, notes and minutes).\n3. **Paper form:** If you cannot use the YTJ service, use the paper form (note: processing fee 100 €).\n\n## 3. After Registration\n* Once the financial statement is registered, the company receives a register extract.\n* The registered information is public and immediately visible in the Virre service.\n\n---\n**Additional information:** See frequently asked questions about late financial statements at [prh.fi](https://www.prh.fi/en/companiesandcommunities/financialstatements/company_financial_statement_late/frequently_asked_questions_about_late_financial_statements.html).",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "position_in_text": 71,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "position_in_text": 489,
+      "related_keywords": []
+    },
+    {
+      "term": "registration",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "position_in_text": 1042,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "position_in_text": 1006,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "position_in_text": 849,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "position_in_text": 489,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "position_in_text": 487,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "position_in_text": 287,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "position_in_text": 279,
+      "related_keywords": []
+    },
+    {
+      "term": "cooperative",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "position_in_text": 311,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "position_in_text": 800,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "position_in_text": 731,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "position_in_text": 764,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Tilinpäätös myöhässä   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+    "extraction_date": "2026-02-09T23:01:32.469807",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Tilinpäätös_myöhässä___PRH_review",
+      "title": "PRH - Tilinpäätös myöhässä _ PRH.md Review Required",
+      "description": "Document PRH - Tilinpäätös myöhässä _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Tilinpäätös myöhässä _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH - Tilinpäätös myöhässä _ PRH.md",
+    "title": "PRH   Tilinpäätös myöhässä   PRH",
+    "description": "Documentation file: PRH - Tilinpäätös myöhässä _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.469814",
+    "last_modified": "2026-02-09T23:01:32.469815",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 203,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "registration",
+      "process",
+      "document",
+      "form",
+      "information",
+      "liability",
+      "limited",
+      "cooperative"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Tilinpäätös_myöhässä___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Tilinpäätös myöhässä _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.469844",
+  "processor": "systematic_batch_processor"
+}

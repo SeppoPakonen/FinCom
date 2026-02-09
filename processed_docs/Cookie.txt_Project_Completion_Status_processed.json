@@ -1,0 +1,318 @@
+{
+  "original_content": "# Cookie.txt: Project Completion Status\n\nCompleted:\n- All tasks in plan/handling_input_data/convert_to_raw_text (programmatic extraction)\n- All tasks in plan/handling_input_data/convert_to_markdown (programmatic drafting)\n- All tasks in plan/handling_input_data/refine_markdown (manual refinement)\n- Identification of all .xlsx files and their purposes\n- YT4_Financial_Plan_Lapua.xlsx converted to Python script\n- YT4_Financial_Plan_BusinessOulu.xlsx converted to Python script\n- YT5_Financial_Plan_Lapua.xlsx converted to Python script\n- YT6_Profit_Plan_for_New_Company_Lapua.xlsx converted to Python script\n- YT22_Profit_Plan_for_Existing_Company_Lapua.xlsx converted to Python script\n- YT23_Cash_Budget_Lapua.xlsx converted to Python script\n- YT24_Company_Value_Assessment_Calculator.xlsx converted to Python script\n- YT25_Marketing_Budget_and_Annual_Clock.xlsx converted to Python script\n- YT25_Sales_Marketing_Budget.xlsx converted to Python script\n- YT28_Sales_Plan.xlsx converted to Python script\n- Monthly_Sales_Budget.xlsx converted to Python script\n- Developing_Marketing_Annual_Clock_Strategy.xlsx converted to Python script\n- Annual_Clock - businessadvisor.fi.xlsx converted to Python script\n- Excel Exercise Package 1.xlsx converted to Python script\n- H6_Shareholder_List.xlsx converted to Python script\n- T1_Travel_Expenses_2026.xlsx converted to Python script\n- L1_Offer.xlsx converted to Python script\n- L2_Request_for_Offer.xlsx converted to Python script\n- L3_Order.xlsx converted to Python script\n- L4_Order_Confirmation.xlsx converted to Python script\n- L5_Invoice_Form (1).xlsx converted to Python script\n- L5_Invoice_Form_2026.xlsx converted to Python script\n- L6_Rental_Invoice.xlsx converted to Python script\n- L7_Receipt_2026.xlsx converted to Python script\n- L8_Payment_Reminder.xlsx converted to Python script\n- L9_Demand_for_Payment.xlsx converted to Python script\n- L11_Small_Construction_Contract_1.xlsx converted to Python script\n- L15_Domestic_Trade_VAT_Calculations_for_Accounting.xlsx converted to Python script\n\nPhase complete: Convert Spreadsheets to Python scripts (using converter.py).\nAll 26 main business-related .xlsx files have been successfully converted to Python scripts.\nRemaining files in material directory appear to be duplicates of already processed files.\n\nPhase complete: Verification and validation of Python implementations.\nAll 30 Python implementations have been verified and validated:\n- All scripts run without errors\n- All scripts produce expected outputs\n- All 30 Python scripts have corresponding example scripts\n- All example scripts run correctly\n\nPhase complete: Deployment and documentation preparation.\nCreated comprehensive documentation and deployment package for all Python implementations.\n\nPhase complete: Data organization and structuring.\nAll 419 files from processed directory have been organized to db directory with proper structure, indexing, deduplication, and keywording.\n- Files categorized into 9 main categories\n- Index files created for each category\n- Metadata and keywords applied to all files\n- Cross-referencing system implemented\n- Verification completed successfully\n\nPhase complete: System integration and optimization.\nIntegrated all systems and optimized for business use.\n\nPhase complete: Database translation project setup.\nAll files from db directory have been cataloged and individual manual translation tasks created.\n- 421 files identified for translation from Finnish to English\n- Individual task tracking files created for each file (task_001 to task_421)\n- All tasks are currently marked as \"not done\" to be worked on systematically\n\nPhase pending: Translation execution.\nAll 421 files need to be manually translated from Finnish to English in the db_eng directory:\n- Individual translation tasks to be completed systematically\n- All files must be manually translated with preserved formatting\n- All translated files placed in corresponding db_eng subdirectories\n- No automated translation tools to be used - manual translation required\n- All titles of files must be translated as well\n\nNext Phase: Project completion and documentation.\nNext Task: Finalize all project documentation and prepare completion report.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "position_in_text": 433,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "position_in_text": 563,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "position_in_text": 2290,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "position_in_text": 2642,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "position_in_text": 1585,
+      "related_keywords": []
+    },
+    {
+      "term": "assessment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "position_in_text": 765,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "position_in_text": 899,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "position_in_text": 826,
+      "related_keywords": []
+    },
+    {
+      "term": "budget",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "position_in_text": 699,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "position_in_text": 3609,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "position_in_text": 1918,
+      "related_keywords": []
+    },
+    {
+      "term": "shareholder",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "position_in_text": 1268,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "position_in_text": 4207,
+      "related_keywords": []
+    },
+    {
+      "term": "Cookie.txt Project Completion Status",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+    "extraction_date": "2026-02-09T23:01:32.398102",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Cookie.txt_Project_Completion_Status_review",
+      "title": "Cookie.txt Project Completion Status.md Review Required",
+      "description": "Document Cookie.txt Project Completion Status.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Cookie.txt Project Completion Status.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Cookie.txt Project Completion Status.md",
+    "title": "Cookie.txt Project Completion Status",
+    "description": "Documentation file: Cookie.txt Project Completion Status.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.398108",
+    "last_modified": "2026-02-09T23:01:32.398109",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 515,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "process",
+      "document",
+      "form",
+      "assessment",
+      "sales",
+      "marketing",
+      "budget",
+      "work"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Cookie.txt_Project_Completion_Status_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Cookie.txt Project Completion Status.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.398157",
+  "processor": "systematic_batch_processor"
+}

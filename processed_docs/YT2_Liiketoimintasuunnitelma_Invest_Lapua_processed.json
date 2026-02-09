@@ -1,0 +1,344 @@
+{
+  "original_content": "# Template: Business Plan (Starting Company)\n\nThis template is intended for the company founder to plan the business idea and operations.\n\n## 1. Entrepreneur's Background\n* **Expertise:** Education, work experience and professional skills.\n* **Motivation:** Why are you becoming an entrepreneur and what are your strengths?\n\n## 2. Business Idea (What, for whom, how?)\n* **Summary:** Brief description of the operations.\n* **Products and services:** What exactly is sold?\n\n## 3. Sales and Marketing\n* **Market:** Customer numbers and demand situation.\n* **Competitors:** 3 most important competitors.\n* **Tools:** Logo, business cards, website, social media, brochures, vehicle graphics, etc.\n* **Customer acquisition:** How do you get your first customer?\n\n## 4. Implementation Plan\n* **Investments:** Machines, equipment and premises.\n* **Production:** Where are raw materials obtained from? Will subcontracting be used?\n* **Responsibility:** How do you consider the environment (energy, recycling)?\n\n## 5. Personnel and Finances\n* **Team:** Required workforce and recruitment method.\n* **Financial management:** How is invoicing and accounting handled?\n* **Financing:** Own capital, loans and collateral.\n\n## 6. Risks and Goals\n* **Risk management:** Most important threats and their minimization.\n* **Main goals:** Where is the company in 5 years?",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 12,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 36,
+      "related_keywords": []
+    },
+    {
+      "term": "finance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 1022,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 512,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 437,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 424,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 437,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 478,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 488,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 126,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 27,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 199,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 901,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 926,
+      "related_keywords": []
+    },
+    {
+      "term": "YT2 Liiketoimintasuunnitelma Invest Lapua",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+    "extraction_date": "2026-02-09T23:01:32.367869",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_YT2_Liiketoimintasuunnitelma_Invest_Lapua_review",
+      "title": "YT2_Liiketoimintasuunnitelma_Invest_Lapua.md Review Required",
+      "description": "Document YT2_Liiketoimintasuunnitelma_Invest_Lapua.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document YT2_Liiketoimintasuunnitelma_Invest_Lapua.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+    "title": "YT2 Liiketoimintasuunnitelma Invest Lapua",
+    "description": "Documentation file: YT2_Liiketoimintasuunnitelma_Invest_Lapua.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.367882",
+    "last_modified": "2026-02-09T23:01:32.367884",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 193,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "finance",
+      "template",
+      "customer",
+      "service",
+      "products",
+      "services",
+      "sales",
+      "marketing"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_YT2_Liiketoimintasuunnitelma_Invest_Lapua_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "YT2_Liiketoimintasuunnitelma_Invest_Lapua.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.367933",
+  "processor": "systematic_batch_processor"
+}

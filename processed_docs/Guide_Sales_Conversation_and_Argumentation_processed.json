@@ -1,0 +1,252 @@
+{
+  "original_content": "# Guide: Sales Conversation and Argumentation\n\nA successful sales conversation is a process that requires listening skills, situational awareness, and courage to propose a solution.\n\n## 1. First Impression and Contact\nYou have only a few seconds to gain the customer's trust.\n* **Observe:** How does the customer arrive? What mood are they in?\n* **Opening:** Avoid just saying \"How can I help?\" Try more engaging openings.\n* **Trust:** Expertise, fluency of speech, and neat appearance build trust.\n\n## 2. Needs Assessment and Question Types\nDon't guess, ask. A good salesperson is a good listener.\n* **Narrative question:** \"Tell me more about your situation...\"\n* **Trial question:** \"How have you solved this previously?\"\n* **Locking question:** \"If we do this, do we then agree?\"\n* **Alternative question:** \"Do you prefer this or that?\"\n\n## 3. Argumentation (Logic and Emotion)\n* **Social proof:** \"This is our most popular model...\"\n* **Scarcity:** \"Only a few left at this price.\"\n* **Authority:** \"Experts recommend this because...\"\n* **Reciprocity:** Give valuable information or sample first.\n\n## 4. Handling Objections\nAn objection often indicates interest or uncertainty.\n* **\"Yes, but...\"** Show that you understand the customer's concern before responding.\n* **Reframing:** If the price is high, break down what it includes.\n* **Counter-question:** Get the customer to justify their position so you can address it.\n\n## 5. Closing the Deal\nWatch for buying signals (e.g., the customer examines the product carefully or leans forward).\n* **Direct request:** \"Shall we make the deals?\"\n* **Boomerang method:** Turn the objection into a selling point (e.g., small size = portability).\n* **Future description:** \"After this, you'll notice that your work becomes significantly easier.\"\n\n## 6. Follow-up\nThe customer relationship doesn't end with the sale.\n* **Ensure satisfaction:** Ask for feedback and help with product implementation.\n* **Engagement:** Tell about updates and offers. A satisfied customer recommends!",
+  "keywords": [
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md",
+      "position_in_text": 1076,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md",
+      "position_in_text": 84,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md",
+      "position_in_text": 1076,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md",
+      "position_in_text": 1074,
+      "related_keywords": []
+    },
+    {
+      "term": "assessment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md",
+      "position_in_text": 512,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md",
+      "position_in_text": 258,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md",
+      "position_in_text": 9,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md",
+      "position_in_text": 1758,
+      "related_keywords": []
+    },
+    {
+      "term": "Guide Sales Conversation and Argumentation",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md",
+    "extraction_date": "2026-02-09T23:01:32.605777",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Guide_Sales_Conversation_and_Argumentation_review",
+      "title": "Guide Sales Conversation and Argumentation.md Review Required",
+      "description": "Document Guide Sales Conversation and Argumentation.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Guide Sales Conversation and Argumentation.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Sales Conversation and Argumentation.md",
+    "title": "Guide Sales Conversation and Argumentation",
+    "description": "Documentation file: Guide Sales Conversation and Argumentation.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.605783",
+    "last_modified": "2026-02-09T23:01:32.605784",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 308,
+    "language": "en",
+    "keywords": [
+      "formation",
+      "process",
+      "form",
+      "information",
+      "assessment",
+      "customer",
+      "sales",
+      "work",
+      "Guide Sales Conversation and Argumentation"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Guide_Sales_Conversation_and_Argumentation_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Guide Sales Conversation and Argumentation.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.605819",
+  "processor": "systematic_batch_processor"
+}

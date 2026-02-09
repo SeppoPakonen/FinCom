@@ -1,0 +1,370 @@
+{
+  "original_content": "# PRH: Establishing a Housing Company\n\nA housing company (as-oy) is formed by registering it in the Trade Register. New companies are automatically included in the apartment information system.\n\n## 1. Schedule and Responsible Personnel\n* **Deadline:** The establishment notification must be made within **3 months** of signing the articles of incorporation. Delaying results in the establishment lapsing.\n* **Signatory:** One of the board members.\n\n## 2. Costs\n* **Establishment notification:** 400 €.\n* **Auxiliary trade name:** 75 € / name.\n\n## 3. Required Attachments\n1. Original, signed articles of incorporation.\n2. Board and property manager's guarantee of compliance with the law.\n3. Auditor's certificate of payment of shares.\n4. Possible attachments to the articles of association (e.g., liability distribution table).\n5. Copies of identification documents for persons who do not have a Finnish personal identity code.\n\n## 4. Notification (YTJ service)\n* Notification is made electronically at [asiointi.ytj.fi](https://asiointi.ytj.fi/ytjap).\n* The articles of association are provided in electronic form. Sections 1–4 are standardized and the service creates them based on the provided information.\n* The list of shareholders is transmitted directly from the service to the National Land Survey.\n\n## 5. Monitoring\n* The business ID is received immediately after submission.\n* Processing can be monitored in the [Virre information service](https://virre.prh.fi).\n\n---\n**Note!** Do not attach documents containing sensitive information (e.g., health information) or home addresses unless specifically requested.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 1331,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 30,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 176,
+      "related_keywords": []
+    },
+    {
+      "term": "compliance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 663,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 1387,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 856,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 68,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 174,
+      "related_keywords": []
+    },
+    {
+      "term": "association",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 778,
+      "related_keywords": []
+    },
+    {
+      "term": "housing",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 22,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 797,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 953,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 1133,
+      "related_keywords": []
+    },
+    {
+      "term": "guarantee",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 650,
+      "related_keywords": []
+    },
+    {
+      "term": "compliance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 663,
+      "related_keywords": []
+    },
+    {
+      "term": "shareholder",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 1224,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 270,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH Establishing a Housing Company",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+    "extraction_date": "2026-02-09T23:01:32.431535",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH_Establishing_a_Housing_Company_review",
+      "title": "PRH Establishing a Housing Company.md Review Required",
+      "description": "Document PRH Establishing a Housing Company.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH Establishing a Housing Company.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/PRH Establishing a Housing Company.md",
+    "title": "PRH Establishing a Housing Company",
+    "description": "Documentation file: PRH Establishing a Housing Company.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.431541",
+    "last_modified": "2026-02-09T23:01:32.431542",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 229,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "compliance",
+      "process",
+      "document",
+      "form",
+      "information",
+      "association",
+      "housing"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH_Establishing_a_Housing_Company_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH Establishing a Housing Company.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.431574",
+  "processor": "systematic_batch_processor"
+}

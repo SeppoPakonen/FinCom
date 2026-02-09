@@ -1,0 +1,409 @@
+{
+  "original_content": "# Guide: Company Financial Planning (YT4 & YT5)\n\nAn important part of the business plan is financial calculations, which ensure the profitability of operations and adequacy of financing.\n\n## 1. Calculation Programs\n* **YT4:** Financial plan for a new company (small businesses, fewer than 3 employees).\n* **YT5:** Financial plan for an existing or more extensive new company (more products, industry comparison).\n* **Important:** Always use **Microsoft Excel** for calculations (Google Sheets does not properly support all formulas).\n\n## 2. Salaries and Additional Costs (2026)\n* **YEL entrepreneur:** Works in the company > 4 months, 18–68 years old.\n    - Minimum earned income: 9,423.09 €/year.\n    - Income qualifying for unemployment benefits: 15,481 €/year.\n    - New entrepreneurs receive a 22 % discount on contributions for the first 4 years.\n* **Employees (TyEL):** Additional costs for salaries are approximately 36 % (including insurance, collective agreement supplements, sick pay).\n* **Benefits in kind:** Meal allowance (lunch) approximately 150 €/month, phone allowance 20 €/month.\n\n## 3. Operating Expenses (excluding VAT)\nFor budgeting purposes:\n* **Premises:** In Oulu approximately 8–15 €/m², best locations 16–25 €/m². Remember security deposit (1–3 months).\n* **Electricity:** approximately 0.14 €/kWh (including transmission).\n* **Marketing:** Small businesses approximately 2–5 % of revenue, growth-oriented approximately 10 %.\n* **Accounting:** Small business approximately 1,500 €/year + financial statements 400 €.\n* **Insurance:** Liability and legal protection insurance are essential. Hair salon approximately 200 €/year, construction industry starting from 600 €/year.\n\n## 4. Travel Expenses (2026)\n* Mileage allowance: 0.55 €/km.\n* Full day allowance (> 10 h): 54 €.\n* Partial day allowance (> 6 h): 25 €.\n\n## 5. Value-Added Tax Rates (2026)\n* **25.5 %:** Standard rate (clothing, electronics, hairdressers, accounting firms, cleaning).\n* **13.5 %:** Food, restaurants, accommodation, books, sports, medicines.\n* **10 %:** Newspapers, TV broadcasting.\n* **Minor activity:** If revenue is below 20,000 €/year, there is no VAT obligation.\n\n---\n**Tip:** Budget the first year conservatively. By the third year at the latest, the entrepreneur should earn at least 10 % more than as an employee in a comparable position as compensation for risk.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 74,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 9,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 1857,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 523,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 1559,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 1888,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 381,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 1354,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 149,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 27,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 1674,
+      "related_keywords": []
+    },
+    {
+      "term": "budget",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 1144,
+      "related_keywords": []
+    },
+    {
+      "term": "budgeting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 1144,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 940,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 1249,
+      "related_keywords": []
+    },
+    {
+      "term": "employment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 728,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 602,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 739,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 962,
+      "related_keywords": []
+    },
+    {
+      "term": "obligation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 2157,
+      "related_keywords": []
+    },
+    {
+      "term": "taloussuunnitelma",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+    "extraction_date": "2026-02-09T23:01:32.509104",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_taloussuunnitelma_review",
+      "title": "taloussuunnitelma.md Review Required",
+      "description": "Document taloussuunnitelma.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document taloussuunnitelma.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/taloussuunnitelma.md",
+    "title": "taloussuunnitelma",
+    "description": "Documentation file: taloussuunnitelma.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.509110",
+    "last_modified": "2026-02-09T23:01:32.509111",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 345,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "tax",
+      "form",
+      "liability",
+      "standard",
+      "products",
+      "marketing",
+      "operations",
+      "planning"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_taloussuunnitelma_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "taloussuunnitelma.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.509154",
+  "processor": "systematic_batch_processor"
+}

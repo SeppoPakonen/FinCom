@@ -1,0 +1,182 @@
+{
+  "original_content": "# Power of Attorney for Welfare Affairs (Template)\n\nThis is a template for creating a power of attorney for welfare affairs. The power of attorney is intended to ensure that matters are handled in case the principal later becomes unable to take care of them personally.\n\n---\n\n## 1. Parties\n\n- **Principal:**       (Name and personal identity code)\n- **Attorney:**       (Name and personal identity code)\n- **Secondary attorney:**       (Handles matters if the primary attorney does not accept the task or is permanently unable to perform it)\n- **Substitute attorney:**       (Handles matters during temporary impediment or inability)\n\n---\n\n## 2. Power of Attorney and its Entry into Force\n\nI authorize the above-mentioned person to represent me and handle my affairs as follows:\n- **Scope of authorization:**\n- **Parallel authorizations:** *(Remove if necessary)* A total of    powers of attorney have been made, and they are intended to enter into force simultaneously.\n\n**Entry into force:** I designate this power of attorney to enter into force if I become unable to take care of my affairs due to illness, mental impairment, deteriorated health condition or similar reason.\n\n---\n\n## 3. Signature\n\n**Place and date:**      ,    /    202\n\n____________________________\n**Principal's signature**\n\n---\n\n## 4. Declaration of Witness\n\nAs witnesses present at the same time, we certify that the principal      , whose identity we have verified, has personally signed this power of attorney. We declare that he/she has made the authorization voluntarily and been able to understand its meaning.\n\n### Witness 1\n- **Signature:** ____________________________\n- **Name:**\n- **Address:**\n\n### Witness 2\n- **Signature:** ____________________________\n- **Name:**\n- **Address:**",
+  "keywords": [
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H13_Edunvalvontavaltuutus.md",
+      "position_in_text": 533,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H13_Edunvalvontavaltuutus.md",
+      "position_in_text": 41,
+      "related_keywords": []
+    },
+    {
+      "term": "declaration",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H13_Edunvalvontavaltuutus.md",
+      "position_in_text": 1309,
+      "related_keywords": []
+    },
+    {
+      "term": "H13 Edunvalvontavaltuutus",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H13_Edunvalvontavaltuutus.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H13_Edunvalvontavaltuutus.md",
+    "extraction_date": "2026-02-09T23:01:32.641915",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H13_Edunvalvontavaltuutus.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H13_Edunvalvontavaltuutus.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H13_Edunvalvontavaltuutus.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H13_Edunvalvontavaltuutus.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_H13_Edunvalvontavaltuutus_review",
+      "title": "H13_Edunvalvontavaltuutus.md Review Required",
+      "description": "Document H13_Edunvalvontavaltuutus.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H13_Edunvalvontavaltuutus.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document H13_Edunvalvontavaltuutus.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/H13_Edunvalvontavaltuutus.md",
+    "title": "H13 Edunvalvontavaltuutus",
+    "description": "Documentation file: H13_Edunvalvontavaltuutus.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.641922",
+    "last_modified": "2026-02-09T23:01:32.641923",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 262,
+    "language": "en",
+    "keywords": [
+      "form",
+      "template",
+      "declaration",
+      "H13 Edunvalvontavaltuutus"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_H13_Edunvalvontavaltuutus_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "H13_Edunvalvontavaltuutus.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.641953",
+  "processor": "systematic_batch_processor"
+}

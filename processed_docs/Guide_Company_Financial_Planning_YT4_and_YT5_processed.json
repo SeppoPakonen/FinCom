@@ -1,0 +1,383 @@
+{
+  "original_content": "# Guide: Company Financial Planning (YT4 & YT5)\n\nAn important part of a business plan is financial calculations, which ensure the profitability of operations and adequacy of financing.\n\n## 1. Calculation Programs\n* **YT4:** Financial plan for a starting company (small businesses, fewer than 3 employees).\n* **YT5:** Financial plan for an existing or more extensive starting company (more products, industry comparison).\n* **Important:** Always use **Microsoft Excel** for calculations (Google Sheets does not properly support all formulas).\n\n## 2. Salaries and Additional Costs (2026)\n* **YEL entrepreneur:** Works in the company for > 4 months, aged 18–68.\n    - Minimum earned income: 9,423.09 €/year.\n    - Income qualifying for unemployment security: 15,481 €/year.\n    - New entrepreneurs receive a 22% discount on fees for the first 4 years.\n* **Employees (TyEL):** Additional costs for salaries are approximately 36% (includes insurance, TES supplements, sick pay).\n* **Fringe benefits:** Meal allowance (lunch) approximately 150 €/month, phone allowance 20 €/month.\n\n## 3. Operating Expenses (VAT 0%)\nFor budgeting purposes:\n* **Premises:** In Oulu approximately 8–15 €/m², best locations 16–25 €/m². Remember security deposit (1–3 months).\n* **Electricity:** approximately 0.14 €/kWh (includes transmission).\n* **Marketing:** Small businesses approximately 2–5% of revenue, growth-oriented approximately 10%.\n* **Bookkeeping:** Small business approximately 1,500 €/year + annual accounts 400 €.\n* **Insurance:** Liability and legal protection insurance are essential. Beauty salon approximately 200 €/year, construction industry starting from 600 €/year.\n\n## 4. Travel Expenses (2026)\n* Mileage compensation: 0.55 €/km.\n* Full-day allowance (> 10 h): 54 €.\n* Half-day allowance (> 6 h): 25 €.\n\n## 5. Value-Added Tax Rates (2026)\n* **25.5%:** General rate (clothing, electronics, beauty salons, accounting firms, cleaning).\n* **13.5%:** Food, restaurants, accommodation, books, sports, medicines.\n* **10%:** Magazines, TV operations.\n* **Minor operations:** If revenue is less than 20,000 €/year, there is no VAT obligation.\n\n---\n**Tip:** Budget the first year conservatively. By the third year at the latest, the entrepreneur should earn at least 10% more than as an employee in a similar job as compensation for risk.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 72,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 9,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 1822,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 531,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 1522,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 389,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 1323,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 147,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 27,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 245,
+      "related_keywords": []
+    },
+    {
+      "term": "budget",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 1114,
+      "related_keywords": []
+    },
+    {
+      "term": "budgeting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 1114,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 935,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 746,
+      "related_keywords": []
+    },
+    {
+      "term": "employment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 735,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 610,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 985,
+      "related_keywords": []
+    },
+    {
+      "term": "obligation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 2122,
+      "related_keywords": []
+    },
+    {
+      "term": "Guide Company Financial Planning YT4 and YT5",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+    "extraction_date": "2026-02-09T23:01:32.598297",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Guide_Company_Financial_Planning_YT4_and_YT5_review",
+      "title": "Guide Company Financial Planning YT4 and YT5.md Review Required",
+      "description": "Document Guide Company Financial Planning YT4 and YT5.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Guide Company Financial Planning YT4 and YT5.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Guide Company Financial Planning YT4 and YT5.md",
+    "title": "Guide Company Financial Planning YT4 and YT5",
+    "description": "Documentation file: Guide Company Financial Planning YT4 and YT5.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.598303",
+    "last_modified": "2026-02-09T23:01:32.598304",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 335,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "tax",
+      "form",
+      "liability",
+      "products",
+      "marketing",
+      "operations",
+      "planning",
+      "starting"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Guide_Company_Financial_Planning_YT4_and_YT5_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Guide Company Financial Planning YT4 and YT5.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.598345",
+  "processor": "systematic_batch_processor"
+}

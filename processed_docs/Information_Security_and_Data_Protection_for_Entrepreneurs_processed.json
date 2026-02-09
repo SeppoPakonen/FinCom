@@ -1,0 +1,396 @@
+{
+  "original_content": "# Information Security and Data Protection for Entrepreneurs\n\nThis document compiles essential information about information security, data protection, and contemporary digital threats. The content is based on various expert sources and news articles.\n\n---\n\n## 1. Key Information Security Terms for Entrepreneurs\n\n### Cloud Services\nTraditionally, programs have been stored on personal computers, but cloud services (network of servers) offer a significantly more secure and convenient solution.\n- **Benefits:** Access to applications and files from anywhere and anytime; data does not disappear if the device is damaged.\n\n### Microsoft 365 (M-365)\nThe world's most popular business-oriented cloud service (approximately 1.2 billion users).\n- **Tenant:** A single M-365 account that contains all the organization's users, domains, and subscriptions.\n- **AD (Active Directory):** Microsoft's user database service that enables single sign-on (SSO) to various services (e.g., M-365, Moodle).\n\n### Domain Name\nA name service that grants the right to use the company name on websites (e.g., `ullanleipomo.fi`) and emails. Multiple domains can be linked to the same M-365 service as parallel addresses.\n\n### SSL (Secure Sockets Layer)\nA certificate that indicates the trustworthiness of a website (HTTPS indicator). Protects communication between the company and customers, which is essential for example in online stores.\n\n### Email Protection\nEmail's SMTP protocol is inherently insecure.\n- **Encrypted email:** Confidential messages should be encrypted. The EU recommends encryption for citizens.\n- **Azure Information Protection (AIP):** A cybersecurity license for protecting documents and emails. Enables defining access rights and verifying usage.\n\n---\n\n## 2. Data Protection vs. Information Security\n\n- **Data Protection (Privacy):** Refers to people's fundamental rights regarding the processing of their personal data. It concerns respecting privacy and having the right to decide how their data is used.\n- **Information Security (Security):** Means protecting information from destruction and unauthorized use. Information security requirements are part of data protection, but they are also needed for protecting non-personal information.\n\n---\n\n## 3. Legislation\n\n### Finland's Data Protection Act\n- Parliament approved a national law supplementing the EU's data protection regulation (GDPR) on 13.11.2018 (confirmed on 5.12.2018).\n- The law entered into force on 1.1.2019, replacing the Personal Data Act.\n- **Why a national law?** Although the EU regulation is directly applicable law, it leaves room for national discretion, which the data protection law specifies and clarifies.\n\n---\n\n## 4. Current Threats and Examples\n\n### Identity Theft\n- In 2020, over 750,000 Finns became targets of companies (over 2,000 daily).\n- **Prices of data on the black market:**\n    - Social Security Number: 1 €\n    - Credit/debit card: 5–110 €\n    - Fullz info package (name, SSN, account details): 30 €\n    - PayPal account: 20–200 €\n- **Vastaamo data breach (2020):** Criminals gained access to names, addresses, social security numbers, and patient records. Leaked data can be used for subscription fraud.\n- **Protection:** Credit freeze is advisable if identity theft is suspected or documents disappear.\n\n### Personal Identity Code (HETU) Change\n- Vastaamo victims applied for new personal identity codes, but being a victim of a data breach alone is not currently sufficient grounds for a change under current legislation.\n- Changing the code is difficult because it is intended to be permanent, and it may not eliminate all misuse (the old code may remain in systems).\n- HETU reform has been planned (working group 2018), aiming to develop the code and improve identity management.\n\n### Phishing and Fraud\n- **Fake calls:** Scammers pose as technical support (e.g., \"Windows scammers\").\n- **Tori.fi / Posti / Postnord:** Messages are sent in the names of online stores and shipping companies to fish for credit card information.\n- **Hafnium:** A China-based state-sponsored threat actor that skillfully attacks corporate systems.\n- **Clumsy attempts:** Examples include poorly formatted \"secure email\" notifications (e.g., fake OP messages) that redirect to external sites.\n\n### Mobile Device Threats\n- **TikTok:** The app's own browser can track every screen and keyboard tap (keylogging), which enables collecting passwords and card information.\n- **iPhone (iOS):** The myth of complete security was shattered when attacks were found that installed malware simply by visiting a website (iOS versions 10–12).\n- **Android apps:** McAfee found \"Clicker\" malware in multiple apps downloaded up to 20 million times.\n    - *Malicious apps (examples):* High-Speed Camera, Smart Task Manager, Flashlight+, Quick Note, Currency Converter, Joycode.\n- **Clast82:** Dropper malware that spread via apps like Cake VPN, Pacific VPN, and QR/Barcode Scanner MAX. It takes control of the device and targets financial transaction apps.\n\n---\n\n## 5. Common Mistakes and Considerations\n\n- **Carelessness and misunderstanding:** Many scams succeed because users don't recognize danger or update their devices.\n- **Copyright:** Copying images from the internet \"for personal use\" or school projects can lead to compensation claims. The European Court of Justice (ECJ) has ruled that using someone else's work always requires the creator's permission (cf. the German student case, 400 € compensation).\n- **Finnish Communications Regulatory Authority and National Cyber Security Centre:** Provide current information and answers to victims.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 674,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 1055,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 13,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 4,
+      "related_keywords": []
+    },
+    {
+      "term": "requirements",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 2138,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 1889,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 67,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 15,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 4,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 13,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 1358,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 324,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 324,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 3702,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 169,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 14,
+      "related_keywords": []
+    },
+    {
+      "term": "regulation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 2381,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 420,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 500,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 522,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 4203,
+      "related_keywords": []
+    },
+    {
+      "term": "Information Security and Data Protection for Entrepreneurs",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+    "extraction_date": "2026-02-09T23:01:32.408317",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Information_Security_and_Data_Protection_for_Entrepreneurs_review",
+      "title": "Information Security and Data Protection for Entrepreneurs.md Review Required",
+      "description": "Document Information Security and Data Protection for Entrepreneurs.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Information Security and Data Protection for Entrepreneurs.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Information Security and Data Protection for Entrepreneurs.md",
+    "title": "Information Security and Data Protection for Entrepreneurs",
+    "description": "Documentation file: Information Security and Data Protection for Entrepreneurs.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.408324",
+    "last_modified": "2026-02-09T23:01:32.408325",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 4,
+    "word_count": 818,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "requirements",
+      "process",
+      "document",
+      "form",
+      "information",
+      "customer",
+      "service"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Information_Security_and_Data_Protection_for_Entrepreneurs_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Information Security and Data Protection for Entrepreneurs.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.408400",
+  "processor": "systematic_batch_processor"
+}

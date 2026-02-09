@@ -1,0 +1,279 @@
+{
+  "original_content": "# Order Confirmation\n\n**WorkHousing.fi / Finn-Tech Finland Ltd**\n**Order no.:** 2016/ORD1xx\n**Date:** 20.5.2016\n**Page:** 1 (1)\n\n---\n\n### Customer\n**Finn-Tech Finland Ltd / WorkHousing.fi**\nHansatie 4, 02780 Espoo\nBusiness ID: 123456-9\nPhone: 040 689 4108\nContact: Sami Sassi, Sales Manager\n\n### Supplier\n**PrintQuote Digital Power Ltd**\nPO Box 111, 87101 Kajaani\nContact: Ville Virtanen, Sales Manager\n\n---\n\n## Order Description: Company Brochure Printing\n\nThank you for your quotation (5.6. no. 2016/Q1xx) and we hereby order the design, layout and printing of product brochures as follows:\n\n### 1. Services\n* **Design and layout work:** As quoted, 75.00 €/h + VAT 24 %\n\n### 2. Products\n* **WorkHousing Brochure (5000 pcs):**\n    - A4 landscape, 170 g/m² Gallerie Art Silk, 4/4 color.\n    - Price: 2400.00 € + VAT 24 % (total 2976.00 €)\n* **WorkShoes Brochure (3000 pcs):**\n    - A4 landscape, 170 g/m² Gallerie Art Silk, 4/4 color.\n    - Price: 1800.00 € + VAT 24 % (total 2232.00 €)\n\n---\n\n## Delivery Terms\n\n* **Delivery time:** Monday 19.9.2016\n* **Delivery terms:** Delivered to destination in Espoo (General delivery terms of the Graphic Industry)\n* **Payment terms:** 14 days net\n\n---\n\n**Best regards,**\n\nWorkHousing.fi / Finn-Tech Finland Ltd\nSami Sassi\nSales Manager",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+      "position_in_text": 214,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+      "position_in_text": 431,
+      "related_keywords": []
+    },
+    {
+      "term": "housing",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+      "position_in_text": 28,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+      "position_in_text": 138,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+      "position_in_text": 601,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+      "position_in_text": 680,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+      "position_in_text": 601,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+      "position_in_text": 277,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+      "position_in_text": 318,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+      "position_in_text": 24,
+      "related_keywords": []
+    },
+    {
+      "term": "Liikeasiakirjat 3 Tilaus",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+    "extraction_date": "2026-02-09T23:01:32.556993",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Liikeasiakirjat_3_Tilaus_review",
+      "title": "Liikeasiakirjat_3_Tilaus.md Review Required",
+      "description": "Document Liikeasiakirjat_3_Tilaus.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Liikeasiakirjat_3_Tilaus.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Liikeasiakirjat_3_Tilaus.md",
+    "title": "Liikeasiakirjat 3 Tilaus",
+    "description": "Documentation file: Liikeasiakirjat_3_Tilaus.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.556999",
+    "last_modified": "2026-02-09T23:01:32.557000",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 198,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "housing",
+      "customer",
+      "service",
+      "products",
+      "services",
+      "sales",
+      "digital",
+      "work"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Liikeasiakirjat_3_Tilaus_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Liikeasiakirjat_3_Tilaus.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.557035",
+  "processor": "systematic_batch_processor"
+}

@@ -1,0 +1,210 @@
+{
+  "original_content": "# Examples: Vision, Mission and Values\n\nThis compilation contains examples of visions, missions and values of well-known companies as inspiration for building your own strategy.\n\n## 1. Finnish Companies\n\n### **Marimekko**\n* **Vision:** The world's most captivating design brand and pioneer in pattern expertise.\n* **Values:** Working together, authenticity, courage, fairness and joie de vivre.\n\n### **Valio**\n* **Mission:** We create well-being and taste experiences responsibly.\n* **Vision:** Valio is the world's most innovative dairy and food company.\n\n### **Fazer**\n* **Mission:** Food that matters.\n* **Vision:** Towards perfect days.\n* **Values:** Nordic freedom, fearless creativity and genuine relationships.\n\n### **Nokia**\n* **Vision:** Create technology that connects the world.\n* **Values:** Trust, challenge and continuous learning.\n\n## 2. International Companies\n\n### **Tesla**\n* **Mission:** Accelerate the world's transition to sustainable energy.\n\n### **IKEA**\n* **Vision:** Create a better everyday life for ordinary people.\n\n### **Patagonia**\n* **Mission:** Save our home planet (We're in business to save our home planet).\n\n---\n\n## 3. What can be learned from these?\n1. **Brevity is an asset:** The best vision is one that every employee can memorize.\n2. **Evoke emotion:** Mission answers the question \"Why do we exist?\" and gives meaning to work.\n3. **Concreteness:** Values should be visible in daily choices and customer interactions.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Examples Vision Mission and Values.md",
+      "position_in_text": 1108,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Examples Vision Mission and Values.md",
+      "position_in_text": 547,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Examples Vision Mission and Values.md",
+      "position_in_text": 1436,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Examples Vision Mission and Values.md",
+      "position_in_text": 326,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Examples Vision Mission and Values.md",
+      "position_in_text": 326,
+      "related_keywords": []
+    },
+    {
+      "term": "Examples Vision Mission and Values",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Examples Vision Mission and Values.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Examples Vision Mission and Values.md",
+    "extraction_date": "2026-02-09T23:01:32.587834",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Examples Vision Mission and Values.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Examples Vision Mission and Values.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Examples Vision Mission and Values.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Examples Vision Mission and Values.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Examples_Vision_Mission_and_Values_review",
+      "title": "Examples Vision Mission and Values.md Review Required",
+      "description": "Document Examples Vision Mission and Values.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Examples Vision Mission and Values.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Examples Vision Mission and Values.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Examples Vision Mission and Values.md",
+    "title": "Examples Vision Mission and Values",
+    "description": "Documentation file: Examples Vision Mission and Values.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.587841",
+    "last_modified": "2026-02-09T23:01:32.587841",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 211,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "customer",
+      "working",
+      "work",
+      "Examples Vision Mission and Values"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Examples_Vision_Mission_and_Values_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Examples Vision Mission and Values.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.587869",
+  "processor": "systematic_batch_processor"
+}

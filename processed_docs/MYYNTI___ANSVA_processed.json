@@ -1,0 +1,224 @@
+{
+  "original_content": "# Sales Tool: ANSVA Persuasion Model\n\nANSVA is an effective model for constructing sales presentations and influencing customers. It emphasizes solution-focused approaches and identifying customer needs.\n\n## 1. Model Structure\n\n* **Attention:** Start with an interesting story, statement or question. Capture the customer's interest immediately.\n* **Need:** Help the customer recognize their problem and desire change.\n* **Satisfaction:** Present the solution and justify it (e.g. experiences, studies, expert opinions).\n* **Visualization:** Describe the benefits in practice. Anticipate objections and address them in advance.\n* **Action:** Give a direct and clear call to action. Make taking action as easy as possible.\n\n## 2. Sales Approach Across Different Channels\nToday's sales approach is rarely a single monologue. It may be fragmented across different channels:\n* **Social media:** Short stories and insights.\n* **Chat services:** Quick responses and needs assessment.\n* **Sales meetings:** In-depth interaction and challenging to find the best solution.\n\n---\n**Remember:** The focus is always on the customer. The sales approach cannot be identical for all customers, but must be tailored to each customer's situation.",
+  "keywords": [
+    {
+      "term": "assessment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/MYYNTI - ANSVA.md",
+      "position_in_text": 966,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/MYYNTI - ANSVA.md",
+      "position_in_text": 119,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/MYYNTI - ANSVA.md",
+      "position_in_text": 928,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/MYYNTI - ANSVA.md",
+      "position_in_text": 928,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/MYYNTI - ANSVA.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/MYYNTI - ANSVA.md",
+      "position_in_text": 555,
+      "related_keywords": []
+    },
+    {
+      "term": "MYYNTI   ANSVA",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/MYYNTI - ANSVA.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/MYYNTI - ANSVA.md",
+    "extraction_date": "2026-02-09T23:01:32.542609",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/MYYNTI - ANSVA.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/MYYNTI - ANSVA.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/MYYNTI - ANSVA.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/MYYNTI - ANSVA.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_MYYNTI___ANSVA_review",
+      "title": "MYYNTI - ANSVA.md Review Required",
+      "description": "Document MYYNTI - ANSVA.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/MYYNTI - ANSVA.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document MYYNTI - ANSVA.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/MYYNTI - ANSVA.md",
+    "title": "MYYNTI   ANSVA",
+    "description": "Documentation file: MYYNTI - ANSVA.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.542615",
+    "last_modified": "2026-02-09T23:01:32.542616",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 175,
+    "language": "en",
+    "keywords": [
+      "assessment",
+      "customer",
+      "service",
+      "services",
+      "sales",
+      "benefit",
+      "MYYNTI   ANSVA"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_MYYNTI___ANSVA_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "MYYNTI - ANSVA.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.542641",
+  "processor": "systematic_batch_processor"
+}

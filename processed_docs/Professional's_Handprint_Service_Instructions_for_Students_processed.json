@@ -1,0 +1,224 @@
+{
+  "original_content": "# Professional's Handprint Service: Instructions for Students\n\nWelcome to study responsible and sustainable practices in your field. This guide assists you in using the service.\n\n---\n\n## 1. Login Credentials and Sign-in\n\nYour teacher has two options to add you to the course:\n\n### 1.1. Registering to a group via link\nYour teacher shares a link (e.g., via email or Moodle).\n1. Click the link.\n2. Enter the required information.\n3. Click **Create credentials and join the group**.\n4. You are directed to the *My Courses* page and can start studying.\n\n### 1.2. Logging in with teacher-created credentials\nIf the teacher has created credentials for you, you have received an email containing login information.\n1. Log in at: [https://kadenjalki.fi/kirjaudu/](https://kadenjalki.fi/kirjaudu/).\n2. Enter your email address and the password you received in the email.\n3. **Note!** Be careful not to copy extra spaces into the password.\n4. If you forget the password, use the **Forgot password?** function.\n5. Change the password on the first login on the *Profile* page.\n\n---\n\n## 2. Profile Information and Management\n\nYou can find your information in the upper right corner under **Profile**.\n\n### 2.1. Editing User Information\nIn the profile, you can edit:\n- First name, last name, and username (note: the username cannot be changed).\n- Email address (should be changed after graduation to continue downloading certificates later).\n- Password.\n- Profile picture.\n\n### 2.2. Achievement Certificates\nYou can find all your completed certificates in your profile. You can download them as PDF files to your computer.\n\n### 2.3. Personal Data Management (GDPR)\nYou have the right to manage your data:\n- You can request a summary of collected data.\n- You can request deletion of your data if the educational institution or employer no longer requires retention of educational information.\n\n---\n\n## 3. Completing the Course\n\nYou can find your courses under **My Courses**.\n- **Green mark:** Course is completed.\n- **Blue mark:** Course is ongoing.\n\n### 3.1. Course Structure\nCourses are divided into **modules**, which consist of **lessons**.\n- Studying one lesson takes approximately 5–15 minutes.\n- After going through the content, click **Mark as complete**.\n- If sustainability is new to you, start with the *Introduction to Sustainable Development* course.\n\n### 3.2. Tasks and Tests\n1. **Reflection tasks:** Encourage thinking about work sustainability. Do not affect passing, but the teacher may require completing them.\n2. **Competency tests:** Each module ends with a test (6–12 questions).\n    - Passing requirement: **80% of points**.\n    - If you don't pass, you can retry immediately or return to review the material.\n\n### 3.3. Progress Tracking\nThe progress bar at the top of the page shows your status. The *breadcrumb* indicates where in the course you are.\n\n### 3.4. Receiving a Certificate\nThe course is completed when all competency tests are passed.\n1. Complete the final test.\n2. Answer the feedback survey.\n3. Download the competency certificate or check your email.\n\n---\n\n## 4. Giving Feedback\n\nYou can provide feedback via the **Give Feedback** button on each page. Feedback is especially valuable if:\n- The content was interesting or unnecessary.\n- The text contains difficult words or is too challenging.\n- You notice technical defects.",
+  "keywords": [
+    {
+      "term": "formation",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Professional's Handprint Service Instructions for Students.md",
+      "position_in_text": 417,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Professional's Handprint Service Instructions for Students.md",
+      "position_in_text": 417,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Professional's Handprint Service Instructions for Students.md",
+      "position_in_text": 415,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Professional's Handprint Service Instructions for Students.md",
+      "position_in_text": 36,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Professional's Handprint Service Instructions for Students.md",
+      "position_in_text": 27,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Professional's Handprint Service Instructions for Students.md",
+      "position_in_text": 2426,
+      "related_keywords": []
+    },
+    {
+      "term": "Professional's Handprint Service Instructions for Students",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Professional's Handprint Service Instructions for Students.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Professional's Handprint Service Instructions for Students.md",
+    "extraction_date": "2026-02-09T23:01:32.670812",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Professional's Handprint Service Instructions for Students.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Professional's Handprint Service Instructions for Students.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Professional's Handprint Service Instructions for Students.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Professional's Handprint Service Instructions for Students.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Professional's_Handprint_Service_Instructions_for_Students_review",
+      "title": "Professional's Handprint Service Instructions for Students.md Review Required",
+      "description": "Document Professional's Handprint Service Instructions for Students.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Professional's Handprint Service Instructions for Students.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Professional's Handprint Service Instructions for Students.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/Professional's Handprint Service Instructions for Students.md",
+    "title": "Professional's Handprint Service Instructions for Students",
+    "description": "Documentation file: Professional's Handprint Service Instructions for Students.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.670819",
+    "last_modified": "2026-02-09T23:01:32.670820",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 527,
+    "language": "en",
+    "keywords": [
+      "formation",
+      "form",
+      "information",
+      "instructions",
+      "service",
+      "work",
+      "Professional's Handprint Service Instructions for Students"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Professional's_Handprint_Service_Instructions_for_Students_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Professional's Handprint Service Instructions for Students.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.670871",
+  "processor": "systematic_batch_processor"
+}

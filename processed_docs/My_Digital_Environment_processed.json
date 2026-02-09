@@ -1,0 +1,224 @@
+{
+  "original_content": "# My Digital Environment\n\n**Author:** Seppo Pakonen  \n**Date:** 2.11.2025\n\nThis document describes the technology, software, and information acquisition methods I use daily.\n\n## 1. Daily Equipment\n* **Computer:** Powerful custom workstation (equivalent in performance to a 2021 MacBook Pro).\n* **Mobile device:** OnePlus 9 Pro smartphone.\n\n## 2. Operating Systems\nI use various environments flexibly as needed:\n* **Gentoo Linux (Plasma):** My primary operating system due to speed and customizability.\n* **Windows 11:** For traditional software needs.\n* **MacOS Sequoia (Hackintosh):** For utilizing the Apple ecosystem.\n* **FreeBSD (Plasma):** Unix-based alternative.\n\n## 3. Social Media and Information Acquisition\n* **Used platforms:** Threads, Instagram, Facebook, TikTok, X (formerly Twitter), Gettr, VK.\n* **Primary use:** Writing to Threads and updating music artist profiles.\n* **News sources:**\n    - **Technology:** Hacker News (Web & Android).\n    - **General news:** Wikipedia: Current Events.\n    - **Tool:** RSS feeds (with Feeder Android app).\n\n## 4. Workflow and Philosophy\n* **PC focus:** I prefer to do work on a large screen rather than on a phone.\n* **Flexibility:** I use the best tool for each task, regardless of the operating system.\n* **Information management:** I aim for curated and efficient information acquisition, avoiding unnecessary information noise.",
+  "keywords": [
+    {
+      "term": "formation",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/My Digital Environment.md",
+      "position_in_text": 131,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/My Digital Environment.md",
+      "position_in_text": 80,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/My Digital Environment.md",
+      "position_in_text": 131,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/My Digital Environment.md",
+      "position_in_text": 129,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/My Digital Environment.md",
+      "position_in_text": 5,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/My Digital Environment.md",
+      "position_in_text": 229,
+      "related_keywords": []
+    },
+    {
+      "term": "My Digital Environment",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/My Digital Environment.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/My Digital Environment.md",
+    "extraction_date": "2026-02-09T23:01:32.630794",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/My Digital Environment.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/My Digital Environment.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/My Digital Environment.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/My Digital Environment.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_My_Digital_Environment_review",
+      "title": "My Digital Environment.md Review Required",
+      "description": "Document My Digital Environment.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/My Digital Environment.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document My Digital Environment.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/english_business_forms/My Digital Environment.md",
+    "title": "My Digital Environment",
+    "description": "Documentation file: My Digital Environment.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-09T23:01:32.630800",
+    "last_modified": "2026-02-09T23:01:32.630801",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 197,
+    "language": "en",
+    "keywords": [
+      "formation",
+      "document",
+      "form",
+      "information",
+      "digital",
+      "work",
+      "My Digital Environment"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_My_Digital_Environment_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "My Digital Environment.md"
+    }
+  },
+  "processing_date": "2026-02-09T23:01:32.630827",
+  "processor": "systematic_batch_processor"
+}
