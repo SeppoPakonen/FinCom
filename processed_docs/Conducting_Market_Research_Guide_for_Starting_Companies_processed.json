@@ -1,0 +1,305 @@
+{
+  "original_content": "# Conducting Market Research – Guide for Starting Companies\n\nMarket research is an essential step to ensure the success of business operations. It transforms assumptions into knowledge.\n\n## 1. Key Research Methods\n* **Surveys and interviews:** Collect information directly from potential customers. Use tools such as Microsoft Forms or conduct face-to-face interviews.\n* **Observation:** Monitor customer behavior in a real environment.\n* **Online research:** Utilize industry publications, statistics (e.g., Statistics Finland) and existing research reports.\n\n## 2. Competitor Analysis\nResearch your competitors:\n* What do they offer?\n* What is their price level?\n* What marketing strategies do they use?\n* What do customers say about them (reviews, social media)?\n\n## 3. Defining and Understanding the Target Group\n* Define who your ideal customer is.\n* Research their needs, preferences, and factors affecting their purchasing decisions.\n* The better you understand your target group, the more effectively you can target your marketing.\n\n## 4. Continuous Testing and Monitoring\n* **A/B testing:** Try two different versions of an ad or message and see which works better.\n* **Social media listening:** Monitor conversations and feedback related to your industry.\n* **Test marketing:** Pilot a product or service on a small scale before a wide release. Gather feedback and make corrections in time.\n\n## 5. Monitoring Trends\nStay up to date:\n* Technological innovations.\n* Changes in legislation.\n* Broader changes in consumer behavior (e.g., importance of responsibility).",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+      "position_in_text": 123,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+      "position_in_text": 254,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+      "position_in_text": 152,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+      "position_in_text": 252,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+      "position_in_text": 288,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+      "position_in_text": 1307,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+      "position_in_text": 672,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+      "position_in_text": 132,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+      "position_in_text": 41,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+      "position_in_text": 1161,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+      "position_in_text": 551,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+      "position_in_text": 1558,
+      "related_keywords": []
+    },
+    {
+      "term": "Conducting Market Research Guide for Starting Companies",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+    "extraction_date": "2026-02-11T01:39:46.163482",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Conducting_Market_Research_Guide_for_Starting_Companies_review",
+      "title": "Conducting Market Research Guide for Starting Companies.md Review Required",
+      "description": "Document Conducting Market Research Guide for Starting Companies.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Conducting Market Research Guide for Starting Companies.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Conducting Market Research Guide for Starting Companies.md",
+    "title": "Conducting Market Research Guide for Starting Companies",
+    "description": "Documentation file: Conducting Market Research Guide for Starting Companies.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-11T01:39:46.163489",
+    "last_modified": "2026-02-11T01:39:46.163490",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 235,
+    "language": "en",
+    "keywords": [
+      "business",
+      "formation",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "marketing",
+      "operations",
+      "starting",
+      "work"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Conducting_Market_Research_Guide_for_Starting_Companies_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Conducting Market Research Guide for Starting Companies.md"
+    }
+  },
+  "processing_date": "2026-02-11T01:39:46.163522",
+  "processor": "systematic_batch_processor"
+}

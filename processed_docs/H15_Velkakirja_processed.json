@@ -1,0 +1,224 @@
+{
+  "original_content": "# Bond (Template)\n\nThis is a general template for a bond.\n\n---\n\n## Debt Obligation\n\nThe debtor commits to paying the debt, interest and possible late interest to the creditor according to the terms of this bond.\n\n### 1. Parties and Amount of Debt\n- **Creditor:**\n- **Debtor:**\n- **Principal of debt:**       euros.\n\n### 2. Interest and Repayment\n- **Annual interest:**       percent.\n- **Interest payments:** Due monthly starting from   .  .202\n- **Default interest:** Default interest of       percent is charged on overdue amounts from the due date to the payment date.\n- **Amortizations:** Principal is amortized in equal installments every       months starting from   .  .202\n- **Final due date:**   .  .202\n\n### 3. Cancellation of Debt\nThe creditor has the right to cancel the debt immediately for repayment in the following situations:\n- The debtor delays payment of an installment or interest and does not rectify the omission within 14 days of notice.\n- The savings account serving as collateral for the debt is converted to cash.\n- The debtor is declared bankrupt or subject to corporate reorganization (or applies for these him/herself).\n\n---\n\n## Signatures\nTwo (2) identical copies of this bond have been prepared, one for each party.\n\n**Place and date:**      ,    .    . 202\n\n____________________________\n**Debtor**\n\n____________________________\n**Creditor**",
+  "keywords": [
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/H15_Velkakirja.md",
+      "position_in_text": 8,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/H15_Velkakirja.md",
+      "position_in_text": 421,
+      "related_keywords": []
+    },
+    {
+      "term": "obligation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/H15_Velkakirja.md",
+      "position_in_text": 72,
+      "related_keywords": []
+    },
+    {
+      "term": "cash",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/H15_Velkakirja.md",
+      "position_in_text": 1034,
+      "related_keywords": []
+    },
+    {
+      "term": "credit",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/H15_Velkakirja.md",
+      "position_in_text": 166,
+      "related_keywords": []
+    },
+    {
+      "term": "debt",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/H15_Velkakirja.md",
+      "position_in_text": 67,
+      "related_keywords": []
+    },
+    {
+      "term": "H15 Velkakirja",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/H15_Velkakirja.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/H15_Velkakirja.md",
+    "extraction_date": "2026-02-11T01:39:46.169213",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/H15_Velkakirja.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/H15_Velkakirja.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/H15_Velkakirja.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/H15_Velkakirja.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_H15_Velkakirja_review",
+      "title": "H15_Velkakirja.md Review Required",
+      "description": "Document H15_Velkakirja.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/H15_Velkakirja.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document H15_Velkakirja.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/H15_Velkakirja.md",
+    "title": "H15 Velkakirja",
+    "description": "Documentation file: H15_Velkakirja.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-11T01:39:46.169220",
+    "last_modified": "2026-02-11T01:39:46.169221",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 211,
+    "language": "en",
+    "keywords": [
+      "template",
+      "starting",
+      "obligation",
+      "cash",
+      "credit",
+      "debt",
+      "H15 Velkakirja"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_H15_Velkakirja_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "H15_Velkakirja.md"
+    }
+  },
+  "processing_date": "2026-02-11T01:39:46.169251",
+  "processor": "systematic_batch_processor"
+}

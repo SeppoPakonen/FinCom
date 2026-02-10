@@ -1,0 +1,279 @@
+{
+  "original_content": "# Presentation Draft: Ergonette Ltd\n\nThis is a PowerPoint presentation outline for introducing Ergonette Ltd.\n\n## Slide 1: Company Introduction\n* **Ergonette Ltd**\n* Established: 1988\n* Status: Solid Finnish expert company.\n\n## Slide 2: Business Idea\n* **Core activity:** Improving office ergonomics.\n* **Methods:** Ergonomic products and comprehensive workplace design.\n\n## Slide 3: What is Ergonomics?\n* \"Ergonomics is removing friction between work and the worker.\"\n* **Goal:** Well-being employees and more efficient workplace.\n\n## Slide 4: Products and Services\n* **Products:** Tools that enable everyone to improve their own ergonomics.\n* **Services:** Design and implementation of ergonomic workplaces as a turnkey package.\n\n## Slide 5: How to Proceed?\n* Come book an appointment for an **ergonomic assessment**.\n* **Contact us:** Tel. 020 123 456\n* **More information:** [www.ergonette.fi](https://www.ergonette.fi)",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+      "position_in_text": 237,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+      "position_in_text": 123,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+      "position_in_text": 866,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+      "position_in_text": 866,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+      "position_in_text": 864,
+      "related_keywords": []
+    },
+    {
+      "term": "assessment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+      "position_in_text": 806,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+      "position_in_text": 558,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+      "position_in_text": 326,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+      "position_in_text": 558,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+      "position_in_text": 353,
+      "related_keywords": []
+    },
+    {
+      "term": "Powerpoint   harjoitus Ergonette",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+    "extraction_date": "2026-02-11T01:39:46.185707",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Powerpoint___harjoitus_Ergonette_review",
+      "title": "Powerpoint - harjoitus Ergonette.md Review Required",
+      "description": "Document Powerpoint - harjoitus Ergonette.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Powerpoint - harjoitus Ergonette.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Powerpoint - harjoitus Ergonette.md",
+    "title": "Powerpoint   harjoitus Ergonette",
+    "description": "Documentation file: Powerpoint - harjoitus Ergonette.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-11T01:39:46.185713",
+    "last_modified": "2026-02-11T01:39:46.185714",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 130,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "form",
+      "information",
+      "assessment",
+      "service",
+      "products",
+      "services",
+      "work"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Powerpoint___harjoitus_Ergonette_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Powerpoint - harjoitus Ergonette.md"
+    }
+  },
+  "processing_date": "2026-02-11T01:39:46.185737",
+  "processor": "systematic_batch_processor"
+}

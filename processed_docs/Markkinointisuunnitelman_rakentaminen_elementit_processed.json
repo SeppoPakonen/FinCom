@@ -1,0 +1,292 @@
+{
+  "original_content": "# Elements of a Marketing Plan\n\nUse this checklist to ensure that your company's marketing plan is comprehensive and strategically strong.\n\n## 1. Analysis (Where are we?)\n* **Industry:** Market size and trends.\n* **Competitors:** Who else does the same thing and how are they performing?\n* **Own resources:** SWOT (Strengths, Weaknesses, Opportunities, Threats).\n\n## 2. Strategy (How do we differentiate?)\n* **Segmentation:** Precisely defined customer groups.\n* **Positioning:** What position do we take in the customer's mind?\n* **Competitive advantage:** Why does the customer choose us (price, quality, service)?\n\n## 3. Objectives (What do we want?)\n* **Sales:** Euros, quantities.\n* **Brand:** Growth in awareness, desired image.\n* **Customers:** New customer acquisition and customer retention.\n\n## 4. Actions (What do we do?)\n* **Product:** Range and added value factors.\n* **Price:** Pricing model and discount policy.\n* **Availability:** Sales channels (online store, brick-and-mortar, representatives).\n* **Communication:** Advertising, social media, newsletters, PR.\n\n## 5. Measurement (How did we succeed?)\n* **KPI (Key Performance Indicators):** Trackable metrics (e.g. conversion rate, NPS).\n* **Budget:** Cost management.\n* **Annual calendar:** Timing of activities.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+      "position_in_text": 71,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+      "position_in_text": 279,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+      "position_in_text": 444,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+      "position_in_text": 607,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+      "position_in_text": 658,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+      "position_in_text": 16,
+      "related_keywords": []
+    },
+    {
+      "term": "budget",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+      "position_in_text": 1210,
+      "related_keywords": []
+    },
+    {
+      "term": "strategy",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+      "position_in_text": 370,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+      "position_in_text": 1225,
+      "related_keywords": []
+    },
+    {
+      "term": "acquisition",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+      "position_in_text": 765,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+      "position_in_text": 658,
+      "related_keywords": []
+    },
+    {
+      "term": "Markkinointisuunnitelman rakentaminen elementit",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+    "extraction_date": "2026-02-11T01:39:46.177816",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Markkinointisuunnitelman_rakentaminen_elementit_review",
+      "title": "Markkinointisuunnitelman rakentaminen_elementit.md Review Required",
+      "description": "Document Markkinointisuunnitelman rakentaminen_elementit.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Markkinointisuunnitelman rakentaminen_elementit.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointisuunnitelman rakentaminen_elementit.md",
+    "title": "Markkinointisuunnitelman rakentaminen elementit",
+    "description": "Documentation file: Markkinointisuunnitelman rakentaminen_elementit.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-11T01:39:46.177823",
+    "last_modified": "2026-02-11T01:39:46.177824",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 180,
+    "language": "en",
+    "keywords": [
+      "company",
+      "form",
+      "customer",
+      "service",
+      "sales",
+      "marketing",
+      "budget",
+      "strategy",
+      "management",
+      "acquisition"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Markkinointisuunnitelman_rakentaminen_elementit_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Markkinointisuunnitelman rakentaminen_elementit.md"
+    }
+  },
+  "processing_date": "2026-02-11T01:39:46.177851",
+  "processor": "systematic_batch_processor"
+}

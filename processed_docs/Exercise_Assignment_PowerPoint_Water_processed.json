@@ -1,0 +1,210 @@
+{
+  "original_content": "# Exercise Assignment: PowerPoint (Water)\n\nThe objective of this assignment is to create a basic presentation about water and its properties.\n\n## Presentation Requirements\n* **Slide count:** 4–5 slides.\n* **Design:** Use an appropriate design template (Theme) or background color.\n* **Illustrations:** Add images related to the topic to the presentation.\n\n## Slide Content\n\n### Slide 1: Title Page\n* Topic: PowerPoint Course / Exercise 2\n* Your name and date.\n\n### Slide 2: Water in Facts\n* Chemical formula: H2O.\n* Consists of hydrogen and oxygen.\n* Properties: Clear, colorless, and tasteless liquid.\n* Melting point 0°C, boiling point 100°C.\n* **Reflection:** If 55–80% of human body weight is water, how many liters of water are in you?\n\n### Slide 3: Water Cycle\n* Evaporation from seas.\n* Precipitates to land.\n* Forms freshwater bodies.\n* Flows back to the sea.\n\n### Slide 4: Humans and Water\n* **Water loss:**\n    - Through skin: 0.5 l\n    - Through breathing: 0.5 l\n    - Otherwise: 1.5 l\n* **Water intake:**\n    - From food: 0.7 l\n    - From drinks: 1.5 l\n    - From metabolism: 0.3 l",
+  "keywords": [
+    {
+      "term": "requirements",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Exercise Assignment PowerPoint Water.md",
+      "position_in_text": 159,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Exercise Assignment PowerPoint Water.md",
+      "position_in_text": 500,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Exercise Assignment PowerPoint Water.md",
+      "position_in_text": 243,
+      "related_keywords": []
+    },
+    {
+      "term": "loss",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Exercise Assignment PowerPoint Water.md",
+      "position_in_text": 909,
+      "related_keywords": []
+    },
+    {
+      "term": "flow",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Exercise Assignment PowerPoint Water.md",
+      "position_in_text": 845,
+      "related_keywords": []
+    },
+    {
+      "term": "Exercise Assignment PowerPoint Water",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Exercise Assignment PowerPoint Water.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/Exercise Assignment PowerPoint Water.md",
+    "extraction_date": "2026-02-11T01:39:46.153806",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/Exercise Assignment PowerPoint Water.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/Exercise Assignment PowerPoint Water.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/Exercise Assignment PowerPoint Water.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/Exercise Assignment PowerPoint Water.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Exercise_Assignment_PowerPoint_Water_review",
+      "title": "Exercise Assignment PowerPoint Water.md Review Required",
+      "description": "Document Exercise Assignment PowerPoint Water.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Exercise Assignment PowerPoint Water.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Exercise Assignment PowerPoint Water.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/Exercise Assignment PowerPoint Water.md",
+    "title": "Exercise Assignment PowerPoint Water",
+    "description": "Documentation file: Exercise Assignment PowerPoint Water.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-11T01:39:46.153813",
+    "last_modified": "2026-02-11T01:39:46.153814",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 183,
+    "language": "en",
+    "keywords": [
+      "requirements",
+      "form",
+      "template",
+      "loss",
+      "flow",
+      "Exercise Assignment PowerPoint Water"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Exercise_Assignment_PowerPoint_Water_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Exercise Assignment PowerPoint Water.md"
+    }
+  },
+  "processing_date": "2026-02-11T01:39:46.153841",
+  "processor": "systematic_batch_processor"
+}

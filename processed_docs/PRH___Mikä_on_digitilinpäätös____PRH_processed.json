@@ -1,0 +1,396 @@
+{
+  "original_content": "# PRH: What is a digital financial statement?\n\nA digital financial statement refers to a financial statement that is structured in a machine-readable and structured format using the IXBRL standard.\n\n## 1. How does it work?\n* **IXBRL:** Combines text and numbers into machine-readable code. The report is simultaneously both a human-readable XHTML page and machine-processable data.\n* **Taxonomy:** Defines a standardized structure that ensures all statutory information is included.\n\n## 2. Benefits to the company\n* **Speed:** Registration can happen as early as the next business day.\n* **Quality:** Taxonomy guides filling and reduces errors.\n* **Finance:** Facilitates obtaining credit ratings and foreign financing (data is language-independent).\n\n## 3. Benefits to information users\n* Enables automatic comparison and analysis of data without manual work.\n* Ensures data integrity and that required sections are found.\n\n## 4. When is it mandatory?\n* Mandatory for sustainability reporting companies.\n* Optional but recommended for all limited liability companies.\n\n---\n**Viewing:** Digital financial statements are public and can be found in the [Virre information service](https://virre.prh.fi).",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 572,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 506,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 460,
+      "related_keywords": []
+    },
+    {
+      "term": "finance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 649,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 386,
+      "related_keywords": []
+    },
+    {
+      "term": "registration",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 527,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 364,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 165,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 458,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 1048,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 1040,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 1170,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 188,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 17,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 217,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 490,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 294,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 1048,
+      "related_keywords": []
+    },
+    {
+      "term": "credit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 682,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Mikä on digitilinpäätös    PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+    "extraction_date": "2026-02-11T01:39:46.193318",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Mikä_on_digitilinpäätös____PRH_review",
+      "title": "PRH - Mikä on digitilinpäätös_ _ PRH.md Review Required",
+      "description": "Document PRH - Mikä on digitilinpäätös_ _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Mikä on digitilinpäätös_ _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Mikä on digitilinpäätös_ _ PRH.md",
+    "title": "PRH   Mikä on digitilinpäätös    PRH",
+    "description": "Documentation file: PRH - Mikä on digitilinpäätös_ _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-11T01:39:46.193326",
+    "last_modified": "2026-02-11T01:39:46.193327",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 172,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "finance",
+      "tax",
+      "registration",
+      "process",
+      "form",
+      "information",
+      "liability"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Mikä_on_digitilinpäätös____PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Mikä on digitilinpäätös_ _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-11T01:39:46.193356",
+  "processor": "systematic_batch_processor"
+}

@@ -1,0 +1,252 @@
+{
+  "original_content": "# PRH: Addresses and Contact Information\n\nA company must keep at least one postal or visiting address current in the Trade Register.\n\n## 1. Information to report\n* **Postal address:** (Mandatory)\n* **Visiting address:** (Optional)\n* **Other public information:** Phone number, email address and website address.\n* **Note:** All reported contact information is public and visible in the YTJ search.\n\n## 2. Reporting\n* **Fee:** Free of charge.\n* **Method:** Electronically at [asiointi.ytj.fi](https://asiointi.ytj.fi/ytjap).\n* **Automation:** An address change made in the YTJ service is usually registered immediately.\n\n## 3. Important notes\n* **Post office:** An address change in the Trade Register does not automatically transfer to the postal service. Make a separate change of address notification to the Post Office.\n* **Monitoring:** You can check the registered information in the [YTJ company search](https://tietopalvelu.ytj.fi).\n* **Confirmation:** PRH does not send a separate register extract for an address change only.\n\n---\n**Registered office:** If a company changes municipality, this usually requires an amendment to the articles of association and is a different matter than a simple address change.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md",
+      "position_in_text": 44,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md",
+      "position_in_text": 31,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md",
+      "position_in_text": 31,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md",
+      "position_in_text": 29,
+      "related_keywords": []
+    },
+    {
+      "term": "association",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md",
+      "position_in_text": 1151,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md",
+      "position_in_text": 576,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md",
+      "position_in_text": 155,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md",
+      "position_in_text": 790,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Osoite  ja yhteystiedot   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md",
+    "extraction_date": "2026-02-11T01:39:46.197137",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Osoite__ja_yhteystiedot___PRH_review",
+      "title": "PRH - Osoite- ja yhteystiedot _ PRH.md Review Required",
+      "description": "Document PRH - Osoite- ja yhteystiedot _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Osoite- ja yhteystiedot _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osoite- ja yhteystiedot _ PRH.md",
+    "title": "PRH   Osoite  ja yhteystiedot   PRH",
+    "description": "Documentation file: PRH - Osoite- ja yhteystiedot _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-11T01:39:46.197144",
+    "last_modified": "2026-02-11T01:39:46.197145",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 176,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "form",
+      "information",
+      "association",
+      "service",
+      "report",
+      "notification",
+      "PRH   Osoite  ja yhteystiedot   PRH"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Osoite__ja_yhteystiedot___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Osoite- ja yhteystiedot _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-11T01:39:46.197170",
+  "processor": "systematic_batch_processor"
+}

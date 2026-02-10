@@ -1,0 +1,357 @@
+{
+  "original_content": "# Digital Marketing Communication\n\nDigitalization offers even small businesses the opportunity to stand out and reach large audiences with bold and authentic content.\n\n## 1. Building a brand online\n* **Uniqueness:** Tell what is different about your company.\n* **Stories:** People love stories. Tell about the company's history, everyday challenges and successes.\n* **Values:** Show which values guide your actions.\n\n## 2. Social media (SMM)\nBe present where your customers are too.\n* **Discoverability:** Guide customers to your services.\n* **Speed:** Respond to questions quickly – people don't want to wait for days.\n* **Authenticity:** Be yourself. Bold and relaxed approach works better in social media than rigid corporate communication.\n* **Visuals:** Use videos, infographics and high-quality images.\n\n## 3. Websites and E-commerce\n* Websites are not just for information, but an investment in sales.\n* Manage your website yourself, so you can react quickly to changes and save on maintenance costs.\n* Remember that a website without marketing is like a shop in the middle of the forest – no one finds it without directions.\n\n## 4. Measuring success (KPI)\nMonitor marketing effectiveness with metrics:\n* **Financial metrics:** Revenue, profit, gross margin.\n* **Marketing metrics:** Conversion rate (how many visitors buy), click-through rate (CTR), open rate (newsletters).\n* **Customer metrics:** NPS (Net Promoter Score) or recommendation rate.\n* **Operational metrics:** Delivery time, customer service response time.\n\n## 5. Examples of digital marketing success\n* **Maxin Kala:** A brick-and-mortar fish shop that went viral on social media by combining quality product offering with active Facebook marketing. Lines formed at the door as people came from far away.\n\n---\n*Start small: Your own voice and style are best found through doing.*",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 68,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 250,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 870,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 870,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 868,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 464,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 530,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 530,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 902,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 10,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 679,
+      "related_keywords": []
+    },
+    {
+      "term": "revenue",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 1235,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 1244,
+      "related_keywords": []
+    },
+    {
+      "term": "investment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 888,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 902,
+      "related_keywords": []
+    },
+    {
+      "term": "Markkinointiviestintä uusi sähköinen lähtökohtia",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+    "extraction_date": "2026-02-11T01:39:46.179791",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Markkinointiviestintä_uusi_sähköinen_lähtökohtia_review",
+      "title": "Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md Review Required",
+      "description": "Document Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+    "title": "Markkinointiviestintä uusi sähköinen lähtökohtia",
+    "description": "Documentation file: Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-11T01:39:46.179798",
+    "last_modified": "2026-02-11T01:39:46.179799",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 280,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "services",
+      "sales",
+      "marketing"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Markkinointiviestintä_uusi_sähköinen_lähtökohtia_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Markkinointiviestintä_uusi_sähköinen_lähtökohtia.md"
+    }
+  },
+  "processing_date": "2026-02-11T01:39:46.179836",
+  "processor": "systematic_batch_processor"
+}

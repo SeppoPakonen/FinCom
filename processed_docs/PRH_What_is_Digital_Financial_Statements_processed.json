@@ -1,0 +1,383 @@
+{
+  "original_content": "# PRH: What is digital financial statements?\n\nDigital financial statements refers to financial statements that are formatted in a machine-readable and structured format using the IXBRL standard.\n\n## 1. How does it work?\n* **IXBRL:** Combines text and numbers into machine-readable code. The report is simultaneously a human-readable XHTML page and machine-processable data.\n* **Taxonomy:** Defines a standardized structure that ensures all statutory information is included.\n\n## 2. Benefits to the company\n* **Speed:** Registration occurs at best already the next working day.\n* **Quality:** Taxonomy guides completion and reduces errors.\n* **Financing:** Facilitates obtaining credit ratings and foreign financing (data is language-independent).\n\n## 3. Benefits to information users\n* Enables automatic comparison and analysis of information without manual work.\n* Ensures the integrity of the material and the finding of statutory sections.\n\n## 4. When is it mandatory?\n* Mandatory for sustainability reporting companies.\n* Possible and recommended for all limited liability companies.\n\n---\n**Review:** Digital financial statements are public and available from the [Virre information service](https://virre.prh.fi).",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 498,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 452,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 378,
+      "related_keywords": []
+    },
+    {
+      "term": "registration",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 519,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 356,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 115,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 450,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 1067,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 1059,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 1187,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 185,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 564,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 15,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 214,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 482,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 291,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 1067,
+      "related_keywords": []
+    },
+    {
+      "term": "credit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 678,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH What is Digital Financial Statements",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+    "extraction_date": "2026-02-11T01:39:46.211156",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH_What_is_Digital_Financial_Statements_review",
+      "title": "PRH What is Digital Financial Statements.md Review Required",
+      "description": "Document PRH What is Digital Financial Statements.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH What is Digital Financial Statements.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH What is Digital Financial Statements.md",
+    "title": "PRH What is Digital Financial Statements",
+    "description": "Documentation file: PRH What is Digital Financial Statements.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-11T01:39:46.211165",
+    "last_modified": "2026-02-11T01:39:46.211167",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 168,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "tax",
+      "registration",
+      "process",
+      "form",
+      "information",
+      "liability",
+      "limited",
+      "service"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH_What_is_Digital_Financial_Statements_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH What is Digital Financial Statements.md"
+    }
+  },
+  "processing_date": "2026-02-11T01:39:46.211207",
+  "processor": "systematic_batch_processor"
+}

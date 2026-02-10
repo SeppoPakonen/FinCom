@@ -1,0 +1,266 @@
+{
+  "original_content": "# Conducting Market Research – Guide for New Businesses\n\nMarket research is an essential step to ensure business success. It transforms assumptions into knowledge.\n\n## 1. Key Research Methods\n* **Surveys and Interviews:** Collect information directly from potential customers. Use tools like Microsoft Forms or conduct face-to-face interviews.\n* **Observation:** Monitor customer behavior in real environments.\n* **Online Research:** Utilize industry publications, statistics (e.g. Statistics Finland) and existing research reports.\n\n## 2. Competitor Analysis\nResearch your competitors:\n* What do they offer?\n* What is their price level?\n* What marketing strategies do they use?\n* What do customers say about them (reviews, social media)?\n\n## 3. Target Group Identification and Understanding\n* Define who your ideal customer is.\n* Research their needs, preferences and factors affecting their purchasing decisions.\n* The better you understand your target group, the more effectively you can target your marketing.\n\n## 4. Continuous Testing and Monitoring\n* **A/B Testing:** Try two different versions of an ad or message to see which performs better.\n* **Social Media Listening:** Monitor conversations and feedback related to your industry.\n* **Test Marketing:** Pilot a product or service on a small scale before a wide release. Gather feedback and make corrections in a timely manner.\n\n## 5. Trend Monitoring\nStay up to date:\n* Technological innovations.\n* Legislative changes.\n* Broader changes in consumer behavior (e.g. importance of responsibility).",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+      "position_in_text": 45,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+      "position_in_text": 232,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+      "position_in_text": 130,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+      "position_in_text": 230,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+      "position_in_text": 266,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+      "position_in_text": 1283,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+      "position_in_text": 645,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+      "position_in_text": 524,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+      "position_in_text": 1540,
+      "related_keywords": []
+    },
+    {
+      "term": "markkinointitutkimuksen teko",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+    "extraction_date": "2026-02-11T01:39:46.178450",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_markkinointitutkimuksen_teko_review",
+      "title": "markkinointitutkimuksen teko.md Review Required",
+      "description": "Document markkinointitutkimuksen teko.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document markkinointitutkimuksen teko.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/markkinointitutkimuksen teko.md",
+    "title": "markkinointitutkimuksen teko",
+    "description": "Documentation file: markkinointitutkimuksen teko.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-11T01:39:46.178456",
+    "last_modified": "2026-02-11T01:39:46.178457",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 230,
+    "language": "en",
+    "keywords": [
+      "business",
+      "formation",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "marketing",
+      "report",
+      "responsibility",
+      "markkinointitutkimuksen teko"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_markkinointitutkimuksen_teko_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "markkinointitutkimuksen teko.md"
+    }
+  },
+  "processing_date": "2026-02-11T01:39:46.178489",
+  "processor": "systematic_batch_processor"
+}

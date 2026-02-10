@@ -1,0 +1,331 @@
+{
+  "original_content": "# Capital Loan Bond (Template)\n\nThis is a template for a capital loan bond. A capital loan is a loan whose repayment and interest are limited in the manner prescribed in the Limited Liability Companies Act.\n\n---\n\n## Terms of the Bond\n\n### 1. Loan Parties and Amount\n- **Lender:**      \n- **Borrower (Company):**      \n- **Loan capital:**       euros.\n\n### 2. Loan Repayment\nThe principal and interest of the loan may only be repaid in the company's settlement and bankruptcy with a lower priority than other debts. Otherwise, the principal may be returned and interest paid only to the extent that the company's free equity capital and the total amount of all capital loans exceed the amount of loss according to the balance sheet of the company's latest concluded financial year or a more recent financial statement at the time of payment.\n\nIf the above conditions do not limit it, the capital loan is repaid:\n- **Repayment:**       euros on the last day of each month.\n- **Start date:**   .  .202  \n\n### 3. Interest\n- Annual interest is the base interest rate of the Ministry of Finance plus       percentage points.\n- If interest cannot be paid (see section 2), it is paid based on the first financial statement that allows payment.\n- Interest accrued on the loan that is not booked as an expense is reported annually in the financial statement's appendices.\n\n### 4. Collateral\nThe company or its subsidiary does not provide collateral for the payment of the loan principal or interest.\n\n---\n\n## Signatures\nTwo (2) identical copies of this bond have been prepared, one for each party.\n\n**Place and date:**      ,    .    . 202  \n\n____________________________  \n**Lender**\n\n____________________________  \n**Borrower (On behalf of the company)**",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 300,
+      "related_keywords": []
+    },
+    {
+      "term": "finance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 1081,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 21,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 182,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 134,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 1303,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 182,
+      "related_keywords": []
+    },
+    {
+      "term": "equity",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 617,
+      "related_keywords": []
+    },
+    {
+      "term": "expense",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 1292,
+      "related_keywords": []
+    },
+    {
+      "term": "loss",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 695,
+      "related_keywords": []
+    },
+    {
+      "term": "loan",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 10,
+      "related_keywords": []
+    },
+    {
+      "term": "debt",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 508,
+      "related_keywords": []
+    },
+    {
+      "term": "equity",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 617,
+      "related_keywords": []
+    },
+    {
+      "term": "capital",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "Capital Loan Bond Template",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+    "extraction_date": "2026-02-11T01:39:46.162900",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Capital_Loan_Bond_Template_review",
+      "title": "Capital Loan Bond Template.md Review Required",
+      "description": "Document Capital Loan Bond Template.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Capital Loan Bond Template.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/Capital Loan Bond Template.md",
+    "title": "Capital Loan Bond Template",
+    "description": "Documentation file: Capital Loan Bond Template.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-11T01:39:46.162907",
+    "last_modified": "2026-02-11T01:39:46.162908",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 283,
+    "language": "en",
+    "keywords": [
+      "company",
+      "finance",
+      "template",
+      "liability",
+      "limited",
+      "report",
+      "liability",
+      "equity",
+      "expense",
+      "loss"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Capital_Loan_Bond_Template_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Capital Loan Bond Template.md"
+    }
+  },
+  "processing_date": "2026-02-11T01:39:46.162952",
+  "processor": "systematic_batch_processor"
+}

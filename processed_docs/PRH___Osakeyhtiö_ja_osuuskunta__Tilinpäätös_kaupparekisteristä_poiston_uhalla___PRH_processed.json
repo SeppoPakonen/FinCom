@@ -1,0 +1,318 @@
+{
+  "original_content": "# PRH: Removal from Register for Missing Financial Statement\n\nEvery limited liability company and cooperative must submit a financial statement to the Trade Register annually, even if operations have not been conducted.\n\n## 1. Procedure Steps\n1. **Late fee:** If the notification has not been submitted within one year of the end of the financial year, PRH first orders a late fee (150–600 €).\n2. **Reminder letter:** If the notification is still missing, PRH sends a reminder to the YTJ address (response time 3 weeks).\n3. **Public notice:** If the letter does not help, a notice is published in the Official Gazette (response time 3.5 months).\n4. **Decision:** If the financial statement is still not submitted, the company is removed from the Trade Register or placed in investigation status.\n\n## 2. Consequences\n* A company removed from the Trade Register **cannot conduct business operations**.\n* Removal may complicate banking and agreements.\n\n## 3. Restoration to the register\n* The company may apply for restoration to the Trade Register when certain conditions are met and after submitting the outstanding financial statements.\n\n---\n**Important:** Always keep the company's address and responsible person information up to date so that notices reach the company.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "position_in_text": 877,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "position_in_text": 86,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "position_in_text": 1216,
+      "related_keywords": []
+    },
+    {
+      "term": "procedure",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "position_in_text": 227,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "position_in_text": 1216,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "position_in_text": 1214,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "position_in_text": 76,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "position_in_text": 68,
+      "related_keywords": []
+    },
+    {
+      "term": "cooperative",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "position_in_text": 98,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "position_in_text": 184,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "position_in_text": 937,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "position_in_text": 267,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "position_in_text": 76,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Osakeyhtiö ja osuuskunta  Tilinpäätös kaupparekisteristä poiston uhalla   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+    "extraction_date": "2026-02-11T01:39:46.195299",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Osakeyhtiö_ja_osuuskunta__Tilinpäätös_kaupparekisteristä_poiston_uhalla___PRH_review",
+      "title": "PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md Review Required",
+      "description": "Document PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/financial_planning_budgets/PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+    "title": "PRH   Osakeyhtiö ja osuuskunta  Tilinpäätös kaupparekisteristä poiston uhalla   PRH",
+    "description": "Documentation file: PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-11T01:39:46.195306",
+    "last_modified": "2026-02-11T01:39:46.195307",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 200,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "procedure",
+      "form",
+      "information",
+      "liability",
+      "limited",
+      "cooperative",
+      "operations"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Osakeyhtiö_ja_osuuskunta__Tilinpäätös_kaupparekisteristä_poiston_uhalla___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Osakeyhtiö ja osuuskunta_ Tilinpäätös kaupparekisteristä poiston uhalla _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-11T01:39:46.195338",
+  "processor": "systematic_batch_processor"
+}
