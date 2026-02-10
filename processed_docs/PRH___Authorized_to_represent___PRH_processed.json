@@ -1,0 +1,292 @@
+{
+  "original_content": "# PRH: Persons Authorized to Represent the Company\n\nPersons authorized to represent a limited liability company must be reported and kept up-to-date in the Trade Register.\n\n## 1. Basic Principles\n* **Board of Directors:** Represents the company as a whole.\n* **Chief Executive Officer:** Represents the company in matters within their responsibilities.\n* **Articles of Association:** May specify representation rights in more detail (e.g. who can sign alone or together).\n\n## 2. Designated Representation Rights and Procura\n* **Designated right:** The board may grant representation rights to a member or another person if the articles of association allow it.\n* **Procura:** The board may grant procura (limited authorization) even without provisions in the articles of association.\n\n## 3. Most Common Representation Forms\nTo ensure representation rights appear correctly in electronic services, standardized formats are recommended:\n* Each board member and alternate member individually.\n* Chairman and CEO each individually.\n* Two board members together.\n* Board member and CEO together.\n\n## 4. Housing Companies\nIn housing companies, representation often involves the property manager:\n* Property manager alone.\n* Chairman of the board and property manager, each individually.\n\n---\n**Query:** Representation rights can be checked from the [Virre service](https://virre.prh.fi).",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+      "position_in_text": 43,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+      "position_in_text": 818,
+      "related_keywords": []
+    },
+    {
+      "term": "association",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+      "position_in_text": 369,
+      "related_keywords": []
+    },
+    {
+      "term": "housing",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+      "position_in_text": 1098,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+      "position_in_text": 94,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+      "position_in_text": 86,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+      "position_in_text": 887,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+      "position_in_text": 897,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+      "position_in_text": 887,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+      "position_in_text": 120,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+      "position_in_text": 94,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Authorized to represent   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+    "extraction_date": "2026-02-10T21:46:01.942905",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Authorized_to_represent___PRH_review",
+      "title": "PRH - Authorized to represent _ PRH.md Review Required",
+      "description": "Document PRH - Authorized to represent _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Authorized to represent _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Authorized to represent _ PRH.md",
+    "title": "PRH   Authorized to represent   PRH",
+    "description": "Documentation file: PRH - Authorized to represent _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T21:46:01.942911",
+    "last_modified": "2026-02-10T21:46:01.942912",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 198,
+    "language": "en",
+    "keywords": [
+      "company",
+      "form",
+      "association",
+      "housing",
+      "liability",
+      "limited",
+      "service",
+      "standard",
+      "services",
+      "report"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Authorized_to_represent___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Authorized to represent _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-10T21:46:01.942941",
+  "processor": "systematic_batch_processor"
+}

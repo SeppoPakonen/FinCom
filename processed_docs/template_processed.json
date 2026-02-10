@@ -1,0 +1,539 @@
+{
+  "original_content": "# Template: Business Plan (BP)\n\nYou can use this outline to create a business plan for your own company. Adapt the content to your company's needs.\n\n---\n\n## 1. INTRODUCTION\n* **1.1 Basic Company Information:** Name, contact information, company form, business sector and owners.\n* **1.2 Founder Introduction:** Education, work experience and special expertise.\n* **1.3 History:** How did the business idea emerge and what has been done so far?\n\n## 2. BUSINESS CONCEPT AND IDEA\n* **2.1 Business Concept:** Why does the company exist? What is its fundamental purpose?\n* **2.2 Business Idea:** What is sold? To whom? How is the operation produced?\n* **2.3 Vision and mission:** Where are we in 3–5 years? What do we want to achieve?\n* **2.4 Values:** What principles guide our operations?\n* **2.5 Products and services:** More detailed description of the offering and the benefit to the customer.\n* **2.6 Responsibility:** How do we consider ecological and social responsibility?\n\n## 3. BASELINE ANALYSIS\n* **3.1 Customer segments:** Who are the most important customers? What are their needs?\n* **3.2 Market and competitor analysis:** Market size, development trends and key competitors (strengths/weaknesses).\n* **3.3 SWOT analysis:** Strengths, weaknesses, opportunities and threats.\n\n## 4. MARKETING PLAN\n* **4.1 Objectives:** Sales targets and desired market position.\n* **4.2 Channels and methods:** Websites, social media, advertising, PR and personal sales work.\n* **4.3 Annual calendar:** Timing of marketing activities.\n\n## 5. OPERATIONAL METHOD AND RESOURCE ALLOCATION\n* **5.1 Organization:** Purchasing, production, logistics and subcontractor networks.\n* **5.2 Resources:** Premises, equipment, software and personnel.\n\n## 6. FINANCIAL MANAGEMENT\n* **6.1 Financial monitoring:** How is accounting and result monitoring arranged?\n* **6.2 Calculations (YT4/YT5):** Investments, financing, profitability and budgets.\n* **6.3 Pricing:** How are the prices of products/services formed?\n\n## 7. RISK ASSESSMENT\n* Identify the most significant risks (personnel, property, information security, liability risks) and plan measures to prepare for them (e.g. insurance).\n\n---\n**Attachments:** CVs, preliminary agreements, detailed calculations, price list, logo/graphics.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 12,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 96,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 197,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 197,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 195,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 2096,
+      "related_keywords": []
+    },
+    {
+      "term": "assessment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 2003,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 884,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 807,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 794,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 807,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 1328,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 1291,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 774,
+      "related_keywords": []
+    },
+    {
+      "term": "budget",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 1915,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 2157,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 2086,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 322,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 869,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 1642,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 2208,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 902,
+      "related_keywords": []
+    },
+    {
+      "term": "development",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 1146,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 1746,
+      "related_keywords": []
+    },
+    {
+      "term": "risk",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 1998,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 2096,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 1897,
+      "related_keywords": []
+    },
+    {
+      "term": "investment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 1873,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 1328,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+    "extraction_date": "2026-02-10T21:46:01.970208",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_template_review",
+      "title": "template.md Review Required",
+      "description": "Document template.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document template.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/template.md",
+    "title": "template",
+    "description": "Documentation file: template.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T21:46:01.970214",
+    "last_modified": "2026-02-10T21:46:01.970215",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 326,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "form",
+      "template",
+      "information",
+      "liability",
+      "assessment",
+      "customer",
+      "service"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_template_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "template.md"
+    }
+  },
+  "processing_date": "2026-02-10T21:46:01.970258",
+  "processor": "systematic_batch_processor"
+}

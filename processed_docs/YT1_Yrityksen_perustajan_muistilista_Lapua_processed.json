@@ -1,0 +1,292 @@
+{
+  "original_content": "# Checklist: Establishing a Company (Business Plan)\n\nThis checklist helps ensure that all critical aspects of the business plan and establishment have been considered.\n\n## 1. Business Idea and Goals\n- [ ] Is the business idea clearly articulated?\n- [ ] Has a vision been set for 5–10 years ahead?\n- [ ] Are the first year's goals measurable?\n\n## 2. Markets and Competition\n- [ ] Has the main target group been defined?\n- [ ] Has competitor analysis been done (at least 2–3 competitors)?\n- [ ] What is the company's unique competitive advantage (USP)?\n\n## 3. Finances and Funding\n- [ ] Has a financial plan been made (where is the money needed)?\n- [ ] Have profitability calculations and cash budget been prepared?\n- [ ] Has the startup grant application been submitted (if applying)?\n\n## 4. Practical Establishment\n- [ ] Has the company form been chosen?\n- [ ] Has the company name been checked and protected?\n- [ ] Has the establishment notification been submitted (YTJ)?\n- [ ] Are the mandatory insurances (e.g. YEL) in order?",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+      "position_in_text": 37,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+      "position_in_text": 28,
+      "related_keywords": []
+    },
+    {
+      "term": "finance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+      "position_in_text": 558,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+      "position_in_text": 837,
+      "related_keywords": []
+    },
+    {
+      "term": "budget",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+      "position_in_text": 692,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+      "position_in_text": 997,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+      "position_in_text": 742,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+      "position_in_text": 938,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+      "position_in_text": 656,
+      "related_keywords": []
+    },
+    {
+      "term": "cash",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+      "position_in_text": 687,
+      "related_keywords": []
+    },
+    {
+      "term": "funding",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+      "position_in_text": 571,
+      "related_keywords": []
+    },
+    {
+      "term": "YT1 Yrityksen perustajan muistilista Lapua",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+    "extraction_date": "2026-02-10T21:46:01.972190",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_YT1_Yrityksen_perustajan_muistilista_Lapua_review",
+      "title": "YT1_Yrityksen_perustajan_muistilista_Lapua.md Review Required",
+      "description": "Document YT1_Yrityksen_perustajan_muistilista_Lapua.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document YT1_Yrityksen_perustajan_muistilista_Lapua.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+    "title": "YT1 Yrityksen perustajan muistilista Lapua",
+    "description": "Documentation file: YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T21:46:01.972197",
+    "last_modified": "2026-02-10T21:46:01.972198",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 185,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "finance",
+      "form",
+      "budget",
+      "insurance",
+      "application",
+      "notification",
+      "profit",
+      "cash"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_YT1_Yrityksen_perustajan_muistilista_Lapua_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "YT1_Yrityksen_perustajan_muistilista_Lapua.md"
+    }
+  },
+  "processing_date": "2026-02-10T21:46:01.972223",
+  "processor": "systematic_batch_processor"
+}

@@ -1,0 +1,344 @@
+{
+  "original_content": "# Information about the Startup Grant\n\nThe startup grant is a personal support for new entrepreneurs to secure their livelihood during the initial phase of business operations.\n\n## 1. Requirements for Approval\n* **Full-time activity:** Entrepreneurship must be the primary occupation.\n* **Qualifications:** The applicant must have sufficient expertise or education for the field.\n* **Necessity:** The support must be necessary for the entrepreneur's livelihood (not granted if the entrepreneur already receives other income, e.g. salary).\n* **Profitability:** The company must have the prerequisites for continuous profitable operations.\n* **Competition situation:** The support must not distort local competition.\n\n## 2. Amount and Duration of Support\n* **Amount:** Equivalent to the basic daily allowance (37.21 €/day in 2024–2026).\n* **Payment:** Paid for at most five days per calendar week.\n* **Duration:** Usually 6 months at a time, maximum 12 months.\n* **Taxation:** The startup grant is taxable income for the entrepreneur.\n\n## 3. Application\n* **When:** The application must be submitted **before** starting business operations.\n* **Where:** Applied through the Labor Market Office (TE services or municipal trial).\n* **Attachments:** Business plan, profitability calculations and tax debt certificate.\n\n---\n**Important:** Do not register the company or start operations before receiving an approval decision for the startup grant!",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 156,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 564,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 4,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 963,
+      "related_keywords": []
+    },
+    {
+      "term": "requirements",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 184,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 4,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 1196,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 1196,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 165,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 1109,
+      "related_keywords": []
+    },
+    {
+      "term": "salary",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 530,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 1040,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 543,
+      "related_keywords": []
+    },
+    {
+      "term": "debt",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 1295,
+      "related_keywords": []
+    },
+    {
+      "term": "starttiraha",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+    "extraction_date": "2026-02-10T21:46:01.964844",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_starttiraha_review",
+      "title": "starttiraha.md Review Required",
+      "description": "Document starttiraha.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document starttiraha.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/starttiraha.md",
+    "title": "starttiraha",
+    "description": "Documentation file: starttiraha.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T21:46:01.964851",
+    "last_modified": "2026-02-10T21:46:01.964852",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 206,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "tax",
+      "requirements",
+      "form",
+      "information",
+      "service",
+      "services",
+      "operations"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_starttiraha_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "starttiraha.md"
+    }
+  },
+  "processing_date": "2026-02-10T21:46:01.964883",
+  "processor": "systematic_batch_processor"
+}

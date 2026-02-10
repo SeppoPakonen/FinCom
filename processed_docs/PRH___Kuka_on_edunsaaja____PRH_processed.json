@@ -1,0 +1,238 @@
+{
+  "original_content": "# PRH: Who is a beneficial owner?\n\nA beneficial owner is a concept defined in the Money Laundering Act referring to a person who owns a company or exercises control in it.\n\n## 1. Definition of Beneficial Owner\nA person is a beneficial owner if they meet at least one of the following:\n* **Ownership:** Directly or indirectly owns more than 25% of shares.\n* **Voting rights:** Directly or indirectly exercises more than 25% of voting rights.\n* **Control:** Exercises de facto control for other reasons (e.g. shareholders' agreement).\n\n## 2. Points to Consider\n* A beneficial owner is **always a person**. A company or association cannot be reported as a beneficial owner.\n* If no one meets the 25% threshold or beneficial owners are unknown, the **board**, managing director or responsible partners are considered beneficial owners.\n\n## 3. Chain Ownership (Intermediate Companies)\nIf company A owns company B:\n1. Check if company A has more than 25% share in company B.\n2. If so, identify which person exercises independent decision-making power (more than 50% ownership or partner status) in company A. This person is the beneficial owner of company B.\n\n## 4. Beneficial Owner Assistant\nYou can determine your company's beneficial owners using PRH's tool: [edunsaaja.prh.fi](https://edunsaaja.prh.fi/)\n\n---\n**Important:** Identifying beneficial owners is the company's own responsibility.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 10,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md",
+      "position_in_text": 136,
+      "related_keywords": []
+    },
+    {
+      "term": "association",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md",
+      "position_in_text": 617,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md",
+      "position_in_text": 521,
+      "related_keywords": []
+    },
+    {
+      "term": "shareholder",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md",
+      "position_in_text": 507,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md",
+      "position_in_text": 639,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md",
+      "position_in_text": 1373,
+      "related_keywords": []
+    },
+    {
+      "term": "control",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md",
+      "position_in_text": 157,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Kuka on edunsaaja    PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md",
+    "extraction_date": "2026-02-10T21:46:01.947509",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Kuka_on_edunsaaja____PRH_review",
+      "title": "PRH - Kuka on edunsaaja_ _ PRH.md Review Required",
+      "description": "Document PRH - Kuka on edunsaaja_ _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Kuka on edunsaaja_ _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/PRH - Kuka on edunsaaja_ _ PRH.md",
+    "title": "PRH   Kuka on edunsaaja    PRH",
+    "description": "Documentation file: PRH - Kuka on edunsaaja_ _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T21:46:01.947516",
+    "last_modified": "2026-02-10T21:46:01.947517",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 217,
+    "language": "en",
+    "keywords": [
+      "company",
+      "association",
+      "agreement",
+      "shareholder",
+      "report",
+      "responsibility",
+      "control",
+      "PRH   Kuka on edunsaaja    PRH"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Kuka_on_edunsaaja____PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Kuka on edunsaaja_ _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-10T21:46:01.947545",
+  "processor": "systematic_batch_processor"
+}

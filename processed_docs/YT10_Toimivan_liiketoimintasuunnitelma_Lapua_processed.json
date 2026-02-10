@@ -1,0 +1,461 @@
+{
+  "original_content": "# Template: Business Plan (Established Company)\n\nThis template is intended for developing an already operating company and supporting financing applications.\n\n## 1. Basic Information\n* **Company name:** ____________________________________\n* **Author and date:** ____________________________________\n\n## 2. Operating Environment and Competitor Analysis\n* **Industry:** [Description of main industry and market area]\n* **Competitors:** List main competitors (name, location, strengths).\n* **Our competitive advantages:** Why would a customer choose us over our competitors?\n\n## 3. Vision and Strategy\n* **Vision (10 years):** Where is the company in the long term?\n* **Goals (5 years):** Revenue, profitability, number of employees.\n* **Strategy:** Concrete methods for achieving the goals.\n\n## 4. Marketing and Sales\n* **Customer segments:** Who do we sell to?\n* **Channels:** How do we reach new and existing customers?\n* **Budget:** How much will we spend on marketing in the upcoming financial year?\n\n## 5. Production and Responsibility\n* **Investments:** Required machines, equipment and software.\n* **Environmental impact:** Energy consumption, waste and recyclability of products.\n* **Supply chain:** How do we select suppliers (locality, ethics)?\n\n## 6. Personnel and Product Development\n* **Team:** Number, expertise and training needs.\n* **R&D:** Plans for new products and services.\n\n## 7. Finances and Risks\n* **Profitability:** Based on YT22 calculations (attachment).\n* **Risk management:** Identified threats and methods for minimizing them.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 12,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 39,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 173,
+      "related_keywords": []
+    },
+    {
+      "term": "finance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 1400,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 173,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 171,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 532,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 1383,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 1177,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 1383,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 811,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 797,
+      "related_keywords": []
+    },
+    {
+      "term": "budget",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 925,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 144,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 1025,
+      "related_keywords": []
+    },
+    {
+      "term": "strategy",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 591,
+      "related_keywords": []
+    },
+    {
+      "term": "development",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 1283,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 1490,
+      "related_keywords": []
+    },
+    {
+      "term": "risk",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 1413,
+      "related_keywords": []
+    },
+    {
+      "term": "revenue",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 687,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 696,
+      "related_keywords": []
+    },
+    {
+      "term": "investment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 1044,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 811,
+      "related_keywords": []
+    },
+    {
+      "term": "YT10 Toimivan liiketoimintasuunnitelma Lapua",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+    "extraction_date": "2026-02-10T21:46:01.971585",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_YT10_Toimivan_liiketoimintasuunnitelma_Lapua_review",
+      "title": "YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md Review Required",
+      "description": "Document YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+    "title": "YT10 Toimivan liiketoimintasuunnitelma Lapua",
+    "description": "Documentation file: YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T21:46:01.971591",
+    "last_modified": "2026-02-10T21:46:01.971592",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 216,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "finance",
+      "form",
+      "template",
+      "information",
+      "customer",
+      "service",
+      "products"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_YT10_Toimivan_liiketoimintasuunnitelma_Lapua_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "YT10_Toimivan_liiketoimintasuunnitelma_Lapua.md"
+    }
+  },
+  "processing_date": "2026-02-10T21:46:01.971625",
+  "processor": "systematic_batch_processor"
+}

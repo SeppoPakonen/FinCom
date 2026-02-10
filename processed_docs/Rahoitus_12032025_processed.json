@@ -1,0 +1,552 @@
+{
+  "original_content": "# Guide to Business Finance and Economics (2025)\n\nPlanning financial management and financing is vital for the continuity of a business. This guide is based on expert advice from New Business Center.\n\n## 1. Financial Forecasting and Monitoring\n* **Cash flow:** Real-time information about how much money is available and when payments are due.\n* **Budgeting:** Prepare at least three scenarios (realistic, best and worst case).\n* **Tools:** Excel or \"Controller\" tools in electronic accounting. Look at least 3 months ahead.\n\n## 2. Profitability and Pricing\n* **Profitability:** Revenue > Expenses. Don't forget the entrepreneur's salary and holidays!\n* **Pricing models:**\n    - Cost-based (cost + margin).\n    - Value-based (benefit experienced by the customer).\n    - Market-based (competitive situation).\n* **Discounts:** Beware of discounts – a 5 % discount with a 20 % margin requires 33 % more sales to achieve the same result.\n\n## 3. Financing Sources\n1. **Own financing:** Commitment and risk-taking.\n2. **Public funding:**\n    - **Startup grant:** For the entrepreneur's livelihood (37.21 €/day).\n    - **Regional Council (ELY):** Development grants and internationalization.\n    - **Leader groups:** Rural business support (also for young people).\n    - **Business Finland:** Research, development and global growth.\n3. **Loans and guarantees:**\n    - **Finnvera:** Initial guarantee (max 80 %) and entrepreneur loan.\n    - **Bank loan:** Usually requires a business plan and collateral.\n\n## 4. Responsibility (ESG)\nResponsibility (environmental, social, governance) is increasingly becoming a condition for financing. Circular economy and workplace well-being improve a company's creditworthiness.\n\n---\n**Tip:** Contact New Business Center before submitting financing applications!",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 11,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 1682,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 273,
+      "related_keywords": []
+    },
+    {
+      "term": "finance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 20,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 273,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 271,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 754,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 901,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 50,
+      "related_keywords": []
+    },
+    {
+      "term": "budget",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 348,
+      "related_keywords": []
+    },
+    {
+      "term": "budgeting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 348,
+      "related_keywords": []
+    },
+    {
+      "term": "guarantee",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 1343,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 1651,
+      "related_keywords": []
+    },
+    {
+      "term": "salary",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 631,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 727,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 1780,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 1506,
+      "related_keywords": []
+    },
+    {
+      "term": "development",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 1141,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 69,
+      "related_keywords": []
+    },
+    {
+      "term": "governance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 1566,
+      "related_keywords": []
+    },
+    {
+      "term": "control",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 451,
+      "related_keywords": []
+    },
+    {
+      "term": "risk",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 997,
+      "related_keywords": []
+    },
+    {
+      "term": "revenue",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 579,
+      "related_keywords": []
+    },
+    {
+      "term": "expense",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 589,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 532,
+      "related_keywords": []
+    },
+    {
+      "term": "cash",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 248,
+      "related_keywords": []
+    },
+    {
+      "term": "flow",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 253,
+      "related_keywords": []
+    },
+    {
+      "term": "loan",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 1333,
+      "related_keywords": []
+    },
+    {
+      "term": "credit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 1692,
+      "related_keywords": []
+    },
+    {
+      "term": "funding",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 1022,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 901,
+      "related_keywords": []
+    },
+    {
+      "term": "Rahoitus 12032025",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+    "extraction_date": "2026-02-10T21:46:01.960552",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Rahoitus_12032025_review",
+      "title": "Rahoitus_12032025.md Review Required",
+      "description": "Document Rahoitus_12032025.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Rahoitus_12032025.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms_templates/Rahoitus_12032025.md",
+    "title": "Rahoitus 12032025",
+    "description": "Documentation file: Rahoitus_12032025.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T21:46:01.960559",
+    "last_modified": "2026-02-10T21:46:01.960560",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 248,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "finance",
+      "form",
+      "information",
+      "customer",
+      "sales",
+      "planning",
+      "budget"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Rahoitus_12032025_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Rahoitus_12032025.md"
+    }
+  },
+  "processing_date": "2026-02-10T21:46:01.960599",
+  "processor": "systematic_batch_processor"
+}
