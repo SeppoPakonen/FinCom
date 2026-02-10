@@ -4,15 +4,15 @@
 This file tracks the progress of manually processing all English documentation files from the db_eng directory in the Finnish Business Operations Repository. Each file needs to be processed to add keywords, ECS elements, constraints, and search-engine metadata.
 
 ## Total Files to Process
-- **Total Documentation Files**: 675
-- **Already Processed**: 305 (company_formation_example.md, company_finance_example.md, 2025 Marketing Fundamentals and Competitive Strategies.md, AB-Card.md, AB-Kortti.md, ABC of Working Life Rules and Obligations.md, plus 299 additional files from systematic batch processing)
-- **Remaining to Process**: 370
-- **Completion Rate**: 45.19%
+- **Total Documentation Files**: 1164
+- **Already Processed**: 355 (company_formation_example.md, company_finance_example.md, 2025 Marketing Fundamentals and Competitive Strategies.md, AB-Card.md, AB-Kortti.md, ABC of Working Life Rules and Obligations.md, plus 350 additional files from systematic batch processing)
+- **Remaining to Process**: 809
+- **Completion Rate**: 30.49%
 
 ## Processing Status
-- **Not Started**: 370 files
+- **Not Started**: 809 files
 - **In Progress**: 0 files
-- **Completed**: 305 files
+- **Completed**: 355 files
 
 ## Progress Tracking
 Each file has a corresponding task file in `/plan/manual_processing/tasks/` directory that tracks its individual processing status.

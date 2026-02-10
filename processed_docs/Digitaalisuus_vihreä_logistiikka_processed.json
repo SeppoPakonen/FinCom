@@ -264,7 +264,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalisuus_vihreä_logistiikka.md",
-    "extraction_date": "2026-02-10T18:58:25.005241",
+    "extraction_date": "2026-02-10T19:15:46.378443",
     "entities": [
       {
         "name": "Business Entity",
@@ -348,8 +348,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T18:58:25.005255",
-    "last_modified": "2026-02-10T18:58:25.005257",
+    "creation_date": "2026-02-10T19:15:46.378450",
+    "last_modified": "2026-02-10T19:15:46.378451",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -391,6 +391,6 @@
       "original_file_name": "Digitaalisuus_vihreä_logistiikka.md"
     }
   },
-  "processing_date": "2026-02-10T18:58:25.005320",
+  "processing_date": "2026-02-10T19:15:46.378488",
   "processor": "systematic_batch_processor"
 }

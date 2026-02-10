@@ -8,7 +8,7 @@ Details:
 - Added keywords, ECS elements (entities, components, systems), constraints, and metadata to each file
 - Created processed data files in processed_docs directory for each document
 - Generated individual task files in plan/manual_processing/tasks directory
-- Updated master tracker to reflect progress (now 305/675 files processed)
+- Updated master tracker to reflect progress (now 355/1164 files processed)
 - Verified all data structures are properly validated
 - Ensured relationships are correctly established
 - Confirmed metadata is accurately captured

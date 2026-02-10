@@ -147,7 +147,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/AB-Card.md",
-    "extraction_date": "2026-02-10T18:58:25.002695",
+    "extraction_date": "2026-02-10T19:15:46.376091",
     "entities": [
       {
         "name": "Business Entity",
@@ -231,8 +231,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T18:58:25.002702",
-    "last_modified": "2026-02-10T18:58:25.002703",
+    "creation_date": "2026-02-10T19:15:46.376098",
+    "last_modified": "2026-02-10T19:15:46.376099",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -274,6 +274,6 @@
       "original_file_name": "AB-Card.md"
     }
   },
-  "processing_date": "2026-02-10T18:58:25.002735",
+  "processing_date": "2026-02-10T19:15:46.376128",
   "processor": "systematic_batch_processor"
 }

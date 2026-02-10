@@ -264,7 +264,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Idea Form - DummyMusicCompany.md",
-    "extraction_date": "2026-02-10T18:58:24.999013",
+    "extraction_date": "2026-02-10T19:15:46.372615",
     "entities": [
       {
         "name": "Business Entity",
@@ -348,8 +348,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T18:58:24.999021",
-    "last_modified": "2026-02-10T18:58:24.999022",
+    "creation_date": "2026-02-10T19:15:46.372623",
+    "last_modified": "2026-02-10T19:15:46.372624",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -391,6 +391,6 @@
       "original_file_name": "Business Idea Form - DummyMusicCompany.md"
     }
   },
-  "processing_date": "2026-02-10T18:58:24.999082",
+  "processing_date": "2026-02-10T19:15:46.372680",
   "processor": "systematic_batch_processor"
 }

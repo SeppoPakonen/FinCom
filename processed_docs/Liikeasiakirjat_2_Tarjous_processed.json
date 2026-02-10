@@ -134,7 +134,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
-    "extraction_date": "2026-02-10T18:58:25.019304",
+    "extraction_date": "2026-02-10T19:15:46.390137",
     "entities": [
       {
         "name": "Business Entity",
@@ -218,8 +218,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T18:58:25.019311",
-    "last_modified": "2026-02-10T18:58:25.019312",
+    "creation_date": "2026-02-10T19:15:46.390144",
+    "last_modified": "2026-02-10T19:15:46.390145",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -261,6 +261,6 @@
       "original_file_name": "Liikeasiakirjat_2_Tarjous.md"
     }
   },
-  "processing_date": "2026-02-10T18:58:25.019349",
+  "processing_date": "2026-02-10T19:15:46.390179",
   "processor": "systematic_batch_processor"
 }

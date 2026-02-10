@@ -108,7 +108,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Microsoft Forms- tehtävä.md",
-    "extraction_date": "2026-02-10T18:58:25.023672",
+    "extraction_date": "2026-02-10T19:15:46.394180",
     "entities": [
       {
         "name": "Business Entity",
@@ -192,8 +192,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T18:58:25.023679",
-    "last_modified": "2026-02-10T18:58:25.023680",
+    "creation_date": "2026-02-10T19:15:46.394192",
+    "last_modified": "2026-02-10T19:15:46.394193",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -233,6 +233,6 @@
       "original_file_name": "Microsoft Forms- tehtävä.md"
     }
   },
-  "processing_date": "2026-02-10T18:58:25.023707",
+  "processing_date": "2026-02-10T19:15:46.394221",
   "processor": "systematic_batch_processor"
 }

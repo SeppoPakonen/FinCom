@@ -108,7 +108,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H7_Liikehuoneiston_vuokrasopimus.md",
-    "extraction_date": "2026-02-10T18:58:25.014154",
+    "extraction_date": "2026-02-10T19:15:46.385414",
     "entities": [
       {
         "name": "Business Entity",
@@ -192,8 +192,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T18:58:25.014162",
-    "last_modified": "2026-02-10T18:58:25.014163",
+    "creation_date": "2026-02-10T19:15:46.385421",
+    "last_modified": "2026-02-10T19:15:46.385421",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -233,6 +233,6 @@
       "original_file_name": "H7_Liikehuoneiston_vuokrasopimus.md"
     }
   },
-  "processing_date": "2026-02-10T18:58:25.014201",
+  "processing_date": "2026-02-10T19:15:46.385456",
   "processor": "systematic_batch_processor"
 }
