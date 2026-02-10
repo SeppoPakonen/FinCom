@@ -1,0 +1,224 @@
+{
+  "original_content": "# My Digital Environment\n\n**Author:** Seppo Pakonen\n**Date:** November 2, 2025\n\nThis document describes the technology, software and information gathering methods I use in my daily routine.\n\n## 1. Daily Equipment\n* **Computer:** Powerful custom workstation (equivalent in performance to a 2021 MacBook Pro).\n* **Mobile device:** OnePlus 9 Pro smartphone.\n\n## 2. Operating Systems\nI use a variety of environments depending on the need:\n* **Gentoo Linux (Plasma):** My primary operating system due to its speed and customizability.\n* **Windows 11:** For traditional software needs.\n* **macOS Sequoia (Hackintosh):** To utilize the Apple ecosystem.\n* **FreeBSD (Plasma):** Unix-based alternative.\n\n## 3. Social Media and Information Gathering\n* **Used platforms:** Threads, Instagram, Facebook, TikTok, X (formerly Twitter), Gettr, VK.\n* **Primary use:** Writing to Threads and updating music artist profiles.\n* **News sources:**\n    - **Technology:** Hacker News (Web & Android).\n    - **General news:** Wikipedia: Current Events.\n    - **Tool:** RSS feeds (using Feeder Android app).\n\n## 4. Workflow and Philosophy\n* **PC focus:** I prefer to do work on a large screen rather than on a phone.\n* **Flexibility:** I use the best tool for each task, regardless of operating system.\n* **Information management:** I aim for curated and efficient information gathering while avoiding unnecessary information overload.",
+  "keywords": [
+    {
+      "term": "formation",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md",
+      "position_in_text": 135,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md",
+      "position_in_text": 85,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md",
+      "position_in_text": 135,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md",
+      "position_in_text": 133,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md",
+      "position_in_text": 5,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md",
+      "position_in_text": 245,
+      "related_keywords": []
+    },
+    {
+      "term": "Digitaalinen ympäristöni",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md",
+    "extraction_date": "2026-02-10T12:12:12.830691",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Digitaalinen_ympäristöni_review",
+      "title": "Digitaalinen ympäristöni.md Review Required",
+      "description": "Document Digitaalinen ympäristöni.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Digitaalinen ympäristöni.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen ympäristöni.md",
+    "title": "Digitaalinen ympäristöni",
+    "description": "Documentation file: Digitaalinen ympäristöni.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:12:12.830698",
+    "last_modified": "2026-02-10T12:12:12.830699",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 206,
+    "language": "en",
+    "keywords": [
+      "formation",
+      "document",
+      "form",
+      "information",
+      "digital",
+      "work",
+      "Digitaalinen ympäristöni"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Digitaalinen_ympäristöni_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Digitaalinen ympäristöni.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:12:12.830725",
+  "processor": "systematic_batch_processor"
+}

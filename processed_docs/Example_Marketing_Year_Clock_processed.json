@@ -1,0 +1,266 @@
+{
+  "original_content": "# Example: Marketing Year Clock (Tauno Renovation Contractor)\n\nThis is an example of a small business owner's (Tauno Renovation Contractor) annual marketing plan.\n\n---\n\n## Continuous Activities (Throughout the Year)\n- **Social media accounts:** Updates twice a week.\n- **Customer register:** Continuous maintenance and updates.\n\n---\n\n## Monthly Activities\n\n### January (Establishment)\n- Setting up websites.\n- Creating Facebook and Instagram accounts.\n- Printing work clothes and car decals.\n\n### February (Visibility)\n- Mapping potential market areas.\n- Designing printable A5 flyers.\n- Distributing flyers to letterboxes.\n\n### March\n- Paid social media marketing (1 time per week).\n- Door-to-door rounds.\n\n### April\n- Paid social media marketing (2 times per week).\n- Establishing customer register (collecting contacts and marketing permissions).\n\n### May\n- Maintaining customer information in registers.\n\n### June\n- Take 1 week of vacation.\n\n### July\n- Take 2 weeks of vacation.\n\n### August\n- Social media marketing (1 time per week).\n- Distributing flyers to letterboxes.\n\n### September (Active Sales)\n- Paid social media marketing (2 times per week).\n- Sending offers to existing customers via email and text message.\n- Door-to-door rounds.\n\n### October\n- Paid social media marketing (1 time per week).\n- Sending offer letters to apartment buildings.\n\n### November\n- Paid social media marketing (1 time per week).\n- Follow-up: surveying apartment buildings about offers.\n\n### December\n- Sending Christmas cards to existing customers.\n- Take 1 week of vacation.\n\n---\n*Author: Emilia Takamäki (13.1.2022)*",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+      "position_in_text": 93,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+      "position_in_text": 884,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+      "position_in_text": 884,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+      "position_in_text": 882,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+      "position_in_text": 271,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+      "position_in_text": 1100,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+      "position_in_text": 11,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+      "position_in_text": 463,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+      "position_in_text": 50,
+      "related_keywords": []
+    },
+    {
+      "term": "Example Marketing Year Clock",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+    "extraction_date": "2026-02-10T12:12:12.842838",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Example_Marketing_Year_Clock_review",
+      "title": "Example Marketing Year Clock.md Review Required",
+      "description": "Document Example Marketing Year Clock.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Example Marketing Year Clock.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Example Marketing Year Clock.md",
+    "title": "Example Marketing Year Clock",
+    "description": "Documentation file: Example Marketing Year Clock.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:12:12.842844",
+    "last_modified": "2026-02-10T12:12:12.842845",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 243,
+    "language": "en",
+    "keywords": [
+      "business",
+      "formation",
+      "form",
+      "information",
+      "customer",
+      "sales",
+      "marketing",
+      "work",
+      "contract",
+      "Example Marketing Year Clock"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Example_Marketing_Year_Clock_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Example Marketing Year Clock.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:12:12.842879",
+  "processor": "systematic_batch_processor"
+}

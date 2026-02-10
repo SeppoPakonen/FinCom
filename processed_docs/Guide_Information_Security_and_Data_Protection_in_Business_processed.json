@@ -1,0 +1,331 @@
+{
+  "original_content": "# Guide: Information Security and Data Protection in Business\n\nData protection is a fundamental right, and information security is a prerequisite for its realization. This guide covers the basics of GDPR to cyber threats.\n\n## 1. Data Protection and GDPR\nThe General Data Protection Regulation (GDPR) governs the processing of personal data.\n* **Personal data:** All data from which an individual can be identified (name, email, IP address, etc.).\n* **Data subject:** The person to whom the data relates.\n* **Controller:** The company or organization that decides on the data processing.\n* **Privacy Policy:** A document that informs the customer what data is collected and why. *This is mandatory for almost all companies.*\n\n## 2. Cyber Threats and Protection\n* **Cyber risk:** An attack on information systems (e.g., ransomware).\n* **Antivirus:** Always use up-to-date antivirus software and ensure automatic updates.\n* **Firewall:** Protect incoming and outgoing traffic of the device.\n* **Backups:** Regularly back up important data to the cloud or external drive.\n\n## 3. Passwords and Authentication\n* **Good password:** At least 12 characters, includes special characters and numbers. Do not use the same password in different services.\n* **MFA (Multi-Factor Authentication):** Always use when possible (e.g., SMS verification or authenticator app).\n\n## 4. Mobile Security (6 tips)\n1. **Update:** Keep the operating system and applications up to date.\n2. **Download only from stores:** Use only official app stores (Google Play / App Store).\n3. **Check permissions:** Do not allow apps to access the camera or location if not necessary.\n4. **Backup:** Sync contacts and photos to a cloud service.\n5. **Screen lock:** Use a code, fingerprint, or face recognition.\n6. **Change SIM code:** Change the default PIN (0000) immediately.\n\n## 5. Copyright Online\n* Do not use images or music taken from others without permission.\n* Prefer CC-licensed (Creative Commons) material or self-produced content.\n* Linking and embedding videos (e.g., YouTube) is generally allowed if the material has been published legally.\n\n---\n**Check your information:** You can try services like [haveibeenpwned.com](https://haveibeenpwned.com) to see if your email has been part of data breaches.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 53,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 526,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 11,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 312,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 611,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 11,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 9,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 637,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 1232,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 1232,
+      "related_keywords": []
+    },
+    {
+      "term": "fire",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 923,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 21,
+      "related_keywords": []
+    },
+    {
+      "term": "regulation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 282,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 1432,
+      "related_keywords": []
+    },
+    {
+      "term": "Guide Information Security and Data Protection in Business",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+    "extraction_date": "2026-02-10T12:12:12.855608",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Guide_Information_Security_and_Data_Protection_in_Business_review",
+      "title": "Guide Information Security and Data Protection in Business.md Review Required",
+      "description": "Document Guide Information Security and Data Protection in Business.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Guide Information Security and Data Protection in Business.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Information Security and Data Protection in Business.md",
+    "title": "Guide Information Security and Data Protection in Business",
+    "description": "Documentation file: Guide Information Security and Data Protection in Business.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:12:12.855615",
+    "last_modified": "2026-02-10T12:12:12.855616",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 344,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "process",
+      "document",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "services"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Guide_Information_Security_and_Data_Protection_in_Business_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Guide Information Security and Data Protection in Business.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:12:12.855655",
+  "processor": "systematic_batch_processor"
+}

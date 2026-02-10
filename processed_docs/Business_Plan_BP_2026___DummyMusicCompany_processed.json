@@ -277,7 +277,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
-    "extraction_date": "2026-02-10T02:44:25.092038",
+    "extraction_date": "2026-02-10T12:12:12.826976",
     "entities": [
       {
         "name": "Business Entity",
@@ -361,8 +361,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T02:44:25.092045",
-    "last_modified": "2026-02-10T02:44:25.092046",
+    "creation_date": "2026-02-10T12:12:12.826984",
+    "last_modified": "2026-02-10T12:12:12.826985",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -404,6 +404,6 @@
       "original_file_name": "Business Plan BP 2026 - DummyMusicCompany.md"
     }
   },
-  "processing_date": "2026-02-10T02:44:25.092110",
+  "processing_date": "2026-02-10T12:12:12.827050",
   "processor": "systematic_batch_processor"
 }

@@ -1,0 +1,357 @@
+{
+  "original_content": "# Guide: Electronic Business and Digital Discoverability\n\nDigitalizing business operations covers all company activities from establishment to accounting. A company \"exists\" when its digital basic services are in order.\n\n## 1. Digital Basic Services\n* **Websites:** The company's digital home base and showcase window.\n* **Domain & Email:** Professional communication (e.g., `name@company.fi`).\n* **Cloud services:** Office applications (e.g., Microsoft 365, Google Workspace).\n* **Contact:** Quote request forms and chat.\n\n## 2. Usability (User Experience)\nThe customer must be able to quickly and easily find what they are looking for.\n* **Clarity:** Consistent headings, spelling, and subheadings.\n* **Speed:** Image optimization (max. 1920x1080 px) ensures fast page loading.\n* **Responsiveness:** The website must function flawlessly on both computers and mobile phones.\n* **CTA (Call to Action):** Clear prompts (e.g., \"Book an appointment\", \"Buy here\").\n\n## 3. Visibility and SEO (Search Engine Optimization)\nActions to improve ranking in search results:\n* **Keywords:** Use words that customers search for (e.g., field + location).\n* **Heading hierarchy:** Use only one **H1 heading** per page, followed by H2 and H3.\n* **Meta texts:** Clear meta titles and descriptions that appear in Google results.\n* **Content creation:** Produce fresh, customer-interesting content. Do not copy texts from elsewhere.\n* **Images:** Name image files with relevant terms and use Alt texts (accessibility).\n\n## 4. Visitor Tracking and Analytics\n* **Google Analytics 4 (GA4):** Current standard for visitor tracking. Uses machine learning and measures event-based data.\n* **Cookies:** Remember to ask for consent to use cookies other than essential ones.\n\n## 5. Responsibility and GDPR\n* **GDPR:** The EU's data protection regulation governs the processing of personal data.\n* **Privacy Policy:** Mandatory if you collect any personal data (e.g., name, phone, email, IP address).\n* **Entrepreneur's responsibility:** Ensure that customer information remains secure (updates, strong passwords, MFA).\n\n---\n**Assignment:** Find keywords suitable for your business idea. Compare two competitors: Can you quickly find essential information from their websites?",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 20,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 102,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 2031,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 1837,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 507,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 2029,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 562,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 197,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 1577,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 197,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 80,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 33,
+      "related_keywords": []
+    },
+    {
+      "term": "regulation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 1814,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 466,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 424,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 1753,
+      "related_keywords": []
+    },
+    {
+      "term": "Guide Electronic Business and Digital Discoverability",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+    "extraction_date": "2026-02-10T12:12:12.852149",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Guide_Electronic_Business_and_Digital_Discoverability_review",
+      "title": "Guide Electronic Business and Digital Discoverability.md Review Required",
+      "description": "Document Guide Electronic Business and Digital Discoverability.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Guide Electronic Business and Digital Discoverability.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Electronic Business and Digital Discoverability.md",
+    "title": "Guide Electronic Business and Digital Discoverability",
+    "description": "Documentation file: Guide Electronic Business and Digital Discoverability.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:12:12.852157",
+    "last_modified": "2026-02-10T12:12:12.852158",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 319,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "process",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "standard",
+      "services"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Guide_Electronic_Business_and_Digital_Discoverability_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Guide Electronic Business and Digital Discoverability.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:12:12.852200",
+  "processor": "systematic_batch_processor"
+}

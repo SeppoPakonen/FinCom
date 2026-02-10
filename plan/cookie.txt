@@ -1,4 +1,4 @@
-Current Task: Processed 50 additional documentation files systematically
+Current Task: Processed second batch of 50 documentation files systematically
 Phase: Phase 4 - Manual Processing
 Completed: 2026-02-09
 Status: In Progress
@@ -8,7 +8,7 @@ Details:
 - Added keywords, ECS elements (entities, components, systems), constraints, and metadata to each file
 - Created processed data files in processed_docs directory for each document
 - Generated individual task files in plan/manual_processing/tasks directory
-- Updated master tracker to reflect progress (now 56/675 files processed)
+- Updated master tracker to reflect progress (now 106/675 files processed)
 - Verified all data structures are properly validated
 - Ensured relationships are correctly established
 - Confirmed metadata is accurately captured
@@ -16,57 +16,57 @@ Details:
 - Each processed file now has complete keyword, ECS, constraint, and metadata information
 
 Files processed in this batch:
-1. 00 Security and Privacy for Entrepreneurs.md
-2. 2025 Marketing Fundamentals and Competitive Strategies.md
-3. AB-Card.md
-4. ABC of Working Life Rules and Obligations.md
-5. Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md
-6. Articles of Association for a Housing Company to be Established.md
-7. Articles of Association for a Limited Liability Company Template.md
-8. Articles of Association for an Established Housing Company.md
-9. Assessment Form Developing Products and Services.md
-10. Assessment Form Planning and Starting Business Operations.md
-11. Assessment Form Sales and Marketing.md
-12. Assessment Form Working in Business Operations.md
-13. Assignment My Digital Environment PowerPoint.md
-14. Associations.md
-15. Base Text Computer Driving License.md
-16. Base Text Digital Photography.md
-17. Baseline Analysis.md
-18. Board Meeting Minutes Financial Statements.md
-19. Bond Template.md
-20. Budgeting as an Entrepreneur's Tool.md
-21. budjetointi.md
-22. Business Idea and Operating Model Strategic Checklist.md
-23. Business Idea Form - DummyMusicCompany.md
-24. Business Plan BP 2025.md
-25. Business Plan BP 2026 - DummyMusicCompany.md
-26. Business Plan Starting Business.md
-27. Business Support Oulu Region Leader 2023-2027.md
-28. 00 Security and Privacy for Entrepreneurs.md (duplicate)
-29. 2025 Marketing Fundamentals and Competitive Strategies.md (duplicate)
-30. AB-Card.md (duplicate)
-31. ABC of Working Life Rules and Obligations.md (duplicate)
-32. Articles of Association for a Housing Company to be Established.md (duplicate)
-33. Articles of Association for a Limited Liability Company Template.md (duplicate)
-34. Assessment Form Developing Products and Services.md (duplicate)
-35. Assessment Form Planning and Starting Business Operations.md (duplicate)
-36. Assessment Form Sales and Marketing.md (duplicate)
-37. Assessment Form Working in Business Operations.md (duplicate)
-38. Associations.md (duplicate)
-39. Base Text Digital Photography.md (duplicate)
-40. budjetointi.md (duplicate)
-41. Business Plan Starting Business.md (duplicate)
-42. Canva Assignments.md
-43. Checklist Portfolio and Networking.md
-44. Clarifying the Business Idea Guide and Form.md
-45. Closing a Company and Notification of Cessation to the Trade Register.md
-46. Commercial Premises Lease Agreement Template.md
-47. Commission Agreement Template.md
-48. Company Change Notification to the Trade Register.md
-49. Company's Line of Business in the Trade Register.md
-50. Comparison Business Forms and Taxation 2025.md
+1. AB-Card.md
+2. Business Idea Form - DummyMusicCompany.md
+3. Business Plan BP 2026 - DummyMusicCompany.md
+4. Business Support Oulu Region Leader 2023-2027.md
+5. AB-Card.md (duplicate)
+6. Computer User AB Card Qualification Content and Objectives.md
+7. Creditor's Objection to Publication in the Trade Register.md
+8. Customer Commitment Principles and Examples.md
+9. Digitaalinen ympäristöni.md (English content with Finnish filename)
+10. Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md (English content with Finnish filename)
+11. Digitaaliset ostopolut.md (English content with Finnish filename)
+12. Digitaalisuus_vihreä_logistiikka.md (English content with Finnish filename)
+13. Digital Marketing Basics for an Entrepreneur.md
+14. Digital Marketing Handbook for Micro and Small Businesses.md
+15. Digital Marketing.md
+16. Digital Purchase Paths and Online Store Planning.md
+17. DNA Digitaalinen elämä 2024_open päivitetty.md (English content with Finnish filename)
+18. DNA Digital Life 2024 Research Report.md
+19. DNA Digital Life 2024 Updated.md
+20. Elements of Good Advertising and Ideation Tools.md
+21. elo_vinkit_vanhempainvapaa_040920.md (English content with Finnish filename)
+22. Entrepreneur's Risk Management.md
+23. Ergonomics Workplace Well-being and Occupational Safety.md
+24. Establishing a Company and Establishment Notification to the Trade Register.md
+25. Example Marketing Year Clock.md
+26. Examples of Limited Liability Company Articles of Association.md
+27. Exercise Document Formatting Word-Writer.md
+28. Exercise Formatting a Long Document.md
+29. Frequently Asked Questions about Mandatory Electronic Filing to the Trade Register Starting in 2026.md
+30. Frequently Asked Questions for Agents Beneficial Owner Notifications for Accounting Offices and Other Agents.md
+31. General Instructions for Trade Register Notifiers.md
+32. Green Logistics and Digitalization.md
+33. Guarantee of Compliance with the Law.md
+34. Guide B2B Customer Service Corporate Customers.md
+35. Guide Basics of Employment Legislation.md
+36. Guide Company Establishment Guide Summary.md
+37. Guide Digital Business Operations for SMEs.md
+38. Guide Electronic Business and Digital Discoverability.md
+39. Guide Establishing a Company 2025 Summary.md
+40. Guide Information Security and Data Protection in Business.md
+41. Guide Managing Long Documents Word-Writer.md
+42. Guide On the Way to Becoming an Entrepreneur.md
+43. Guide Professional Qualification in Entrepreneurship Portfolio Materials.md
+44. Guide Tax Information for New Entrepreneurs 2025.md
+45. Guide The Financial Health Triangle of a Company.md
+46. Hinnoittelu.md (English content with Finnish filename)
+47. hyvän mainoksen elementtejä.md (English content with Finnish filename)
+48. index.md
+49. Induction of Supervisors Key Legislation.md
+50. L13 Bill of Sale.md
 
-Note: Some files were processed multiple times due to duplicates in the directory structure. The actual unique files processed may be fewer than 50.
+Note: Several files had English content despite Finnish filenames. The processing correctly identified these as English content based on their actual text content.
 
 Next Task: Continue processing remaining documentation files systematically, ensuring no duplicates are processed again

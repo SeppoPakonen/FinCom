@@ -1,0 +1,279 @@
+{
+  "original_content": "# Creditor's Objection to Publication in the Trade Register\n\nA creditor's objection notification is informal but written. The objection must clearly state the grounds for the debt and the amount of the principal debt with reasonable accuracy. The notification must mention the creditor's name and contact information.\n\nIn the notification, also state the name of a possible legal representative or other contact person. Report the contact person's contact information with the personal information form. [Open: personal information form](https://www.prh.fi/material/sites/prh/forms/kaupparekisteri_fi/XeyHsmAuI/henkilotietolomake.pdf). The contact information of the notification's contact person is not public in applications filed from 1.1.2025.\n\nThe creditor or their authorized agent signs the notification. If an authorized person signs the notification, attach an individualized power of attorney certified as a true copy or an open attorney's power of attorney in original.\n\nIt is also important in the objection to state to which company and to which matter the objection relates.\n\n* If you object to a merger, state which participating company's merger you object to.\n* If you object to a division, state which participating company's division you object to.\n* If you object to a reduction of share capital, state which company's reduction of share capital you object to.\n\nSubmit the creditor's objection to PRH in one of the following ways:\n\n* by post to Patent and Registration Office, Trade Register, 00091 PRH\n* by email to yyl_tiedonannot@prh.fi\n* to PRH's customer service at Sörnäisten rantatie 13 C, Helsinki.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+      "position_in_text": 1038,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+      "position_in_text": 307,
+      "related_keywords": []
+    },
+    {
+      "term": "registration",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+      "position_in_text": 1476,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+      "position_in_text": 102,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+      "position_in_text": 305,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+      "position_in_text": 1571,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+      "position_in_text": 1580,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+      "position_in_text": 420,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+      "position_in_text": 714,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+      "position_in_text": 84,
+      "related_keywords": []
+    },
+    {
+      "term": "Creditor's Objection to Publication in the Trade Register",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+    "extraction_date": "2026-02-10T12:12:12.829586",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Creditor's_Objection_to_Publication_in_the_Trade_Register_review",
+      "title": "Creditor's Objection to Publication in the Trade Register.md Review Required",
+      "description": "Document Creditor's Objection to Publication in the Trade Register.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Creditor's Objection to Publication in the Trade Register.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Creditor's Objection to Publication in the Trade Register.md",
+    "title": "Creditor's Objection to Publication in the Trade Register",
+    "description": "Documentation file: Creditor's Objection to Publication in the Trade Register.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:12:12.829593",
+    "last_modified": "2026-02-10T12:12:12.829594",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 239,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "registration",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "report",
+      "application",
+      "notification"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Creditor's_Objection_to_Publication_in_the_Trade_Register_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Creditor's Objection to Publication in the Trade Register.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:12:12.829629",
+  "processor": "systematic_batch_processor"
+}

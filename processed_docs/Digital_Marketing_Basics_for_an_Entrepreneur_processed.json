@@ -1,0 +1,331 @@
+{
+  "original_content": "# Digital Marketing Basics for an Entrepreneur\n\nDigital marketing is continuous work aimed at improving the company's discoverability, memorability, and facilitating sales.\n\n## 1. Websites and SEO\n* **Homepage:** The company's digital business card. Content at minimum: Front page, services, prices, and contact information.\n* **SEO (Search Engine Optimization):** Use keywords in headings, main text, and ALT texts for images.\n* **Responsiveness:** The website must function seamlessly on mobile phones and tablets.\n\n## 2. Content Creation\n* **Authenticity:** Be yourself. Stories evoke emotions and build trust.\n* **FAQ:** Answer frequently asked questions – this is excellent content.\n* **Repurposing:** Use the same content on different channels (blog -> social media post -> newsletter).\n\n## 3. Customer Information and Data Protection (GDPR)\n* **Lead generation:** Contact forms, guides, and newsletter subscriptions.\n* **Privacy Policy:** A mandatory document that explains what information is collected and how it is stored.\n* **Security:** Store information behind passwords, don't leave paper lists on the desk.\n\n## 4. Marketing Channels\n* Choose channels based on where your customers are. You don't need to be everywhere.\n* **Google My Business:** Important for local visibility.\n* **Newsletters:** An effective way to maintain long-term customer relationships.\n\n---\n**Remember:** Do something, see what interests, learn and improve. It's better to be different than perfect.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 235,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 108,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 314,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 958,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 314,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 312,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 800,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 282,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 282,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 166,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 10,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 1037,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 80,
+      "related_keywords": []
+    },
+    {
+      "term": "Digital Marketing Basics for an Entrepreneur",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+    "extraction_date": "2026-02-10T12:12:12.833686",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Digital_Marketing_Basics_for_an_Entrepreneur_review",
+      "title": "Digital Marketing Basics for an Entrepreneur.md Review Required",
+      "description": "Document Digital Marketing Basics for an Entrepreneur.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Digital Marketing Basics for an Entrepreneur.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digital Marketing Basics for an Entrepreneur.md",
+    "title": "Digital Marketing Basics for an Entrepreneur",
+    "description": "Documentation file: Digital Marketing Basics for an Entrepreneur.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:12:12.833693",
+    "last_modified": "2026-02-10T12:12:12.833694",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 214,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "document",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "services",
+      "sales"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Digital_Marketing_Basics_for_an_Entrepreneur_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Digital Marketing Basics for an Entrepreneur.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:12:12.833727",
+  "processor": "systematic_batch_processor"
+}

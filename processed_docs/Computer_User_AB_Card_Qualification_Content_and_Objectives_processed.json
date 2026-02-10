@@ -1,0 +1,331 @@
+{
+  "original_content": "# Computer User AB Card: Qualification Content and Objectives\n\nThis document defines the module-specific objectives and key content of the AB Card module, which is part of the ICT sector professional qualification.\n\n---\n\n## 1. Overview\nThe qualification provides skills for efficient use of information technology in working life. It is suitable for continuing education of the working-age population after the A Card.\n- **Structure:** 1 mandatory and 3 elective modules.\n- **Demonstration exam:** 2 h 15 min.\n\n---\n\n## 2. Computer Program Interoperability and Data Sharing (MAND.)\n\n### Objectives\n- Versatile use of data entered once in different programs.\n- Management of file formats, data transfer methods (linking, embedding), and group programs (email, calendar).\n- Maintenance, protection, and backup of the workstation.\n\n### Key Content\n- **Operating system:** Customization, network settings, installations, print queues.\n- **Data transfer:** Linking, embedding, importing/exporting, ready interfaces.\n- **Office tools:** Image archives, formula editors, graphics.\n- **Group programs:** Email settings, archiving, real-time communication, time management (calendars, task lists).\n\n---\n\n## 3. Text Processing (Elective)\n\n### Objectives\n- Creation of uniform document templates (bases) and forms for the company.\n- Management of multi-page and long documents (table of contents, indexes, styles).\n\n### Key Content\n- **Formatting:** Styles, document standards, column layout, division.\n- **Automation:** Merge functions (mass mailings, labels), macros, tables.\n\n---\n\n## 4. Spreadsheet Calculation (Elective)\n\n### Objectives\n- Creation, analysis, and visualization of calculation models.\n- Use of advanced functions and macros.\n\n### Key Content\n- **Charts:** Layout, editing, and linking to other programs.\n- **Functions:** Min, Max, Average, If, SumIf, CountIf, CountA, Lookup, Calendar, and Financial functions.\n- **Analysis:** Goal seek, filtering, cross-tabulation, matrix calculation, conditional formatting.\n\n---\n\n## 5. Databases (Elective)\n\n### Objectives\n- Design, creation, and ensuring accuracy of relational databases.\n- Implementation of customized forms, reports, and queries.\n\n### Key Content\n- **Structure:** Relations of multiple tables, primary and foreign keys, referential integrity.\n- **Queries:** AND/OR logic, search, update, delete, and parameter queries. Utilization of SQL language.\n- **Automation:** Macros, program code, dropdown menus.\n\n---\n\n## 6. Publishing and Image Processing (Elective)\n\n### Objectives\n- Production of print materials (fitting text and images).\n- Editing and optimization of images for different publishing channels.\n\n### Key Content\n- **Theory:** Printing process, file formats (PDF), copyright, scanning.\n- **Practice:** Sheet definition, text flow, drawing tools, color management, filters.\n\n---\n\n## 7. Web Publishing Management (Elective)\n\n### Objectives\n- Updating, building, and information retrieval from WWW pages.\n- Effective use of FTP services and search bots.\n\n### Key Content\n- **Production:** HTML code editing, editor use, image optimization for the web.\n- **Communication:** Email and discussion groups in problem solving.\n\n---\n\n## 8. Digital Communication (Elective)\n\n### Objectives\n- Understanding multimedia possibilities and compiling digital presentations.\n- Management of media elements (audio, video, animation).\n\n### Key Content\n- **Elements:** GIF animations, digital video, audio file formats and transfer.\n- **Process:** Layered content and interactivity.\n\n---\n\n## 9. Telecommunications (Elective)\n\n### Objectives\n- Management of telecommunications terminology, telecommunication networks, and wireless data transfer.\n- Understanding data and voice flow in different networks.\n\n### Key Content\n- **Basics:** Information theory and basic techniques.\n- **Networks:** Structure and services of telecommunication and data transfer networks.\n- **Mobile:** Radio systems, basic structure of mobile networks, and data transfer.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 1310,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 293,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 1205,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 68,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 293,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 1274,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 291,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 2999,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 1455,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 2999,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 317,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 3204,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 317,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 2172,
+      "related_keywords": []
+    },
+    {
+      "term": "Computer User AB Card Qualification Content and Objectives",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+    "extraction_date": "2026-02-10T12:12:12.828802",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Computer_User_AB_Card_Qualification_Content_and_Objectives_review",
+      "title": "Computer User AB Card Qualification Content and Objectives.md Review Required",
+      "description": "Document Computer User AB Card Qualification Content and Objectives.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Computer User AB Card Qualification Content and Objectives.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Computer User AB Card Qualification Content and Objectives.md",
+    "title": "Computer User AB Card Qualification Content and Objectives",
+    "description": "Documentation file: Computer User AB Card Qualification Content and Objectives.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:12:12.828809",
+    "last_modified": "2026-02-10T12:12:12.828810",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 542,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "process",
+      "document",
+      "form",
+      "template",
+      "information",
+      "service",
+      "standard",
+      "services"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Computer_User_AB_Card_Qualification_Content_and_Objectives_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Computer User AB Card Qualification Content and Objectives.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:12:12.828862",
+  "processor": "systematic_batch_processor"
+}

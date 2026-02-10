@@ -199,7 +199,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Support Oulu Region Leader 2023-2027.md",
-    "extraction_date": "2026-02-10T02:44:25.094313",
+    "extraction_date": "2026-02-10T12:12:12.827657",
     "entities": [
       {
         "name": "Business Entity",
@@ -283,8 +283,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T02:44:25.094321",
-    "last_modified": "2026-02-10T02:44:25.094322",
+    "creation_date": "2026-02-10T12:12:12.827665",
+    "last_modified": "2026-02-10T12:12:12.827666",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -326,6 +326,6 @@
       "original_file_name": "Business Support Oulu Region Leader 2023-2027.md"
     }
   },
-  "processing_date": "2026-02-10T02:44:25.094362",
+  "processing_date": "2026-02-10T12:12:12.827705",
   "processor": "systematic_batch_processor"
 }
