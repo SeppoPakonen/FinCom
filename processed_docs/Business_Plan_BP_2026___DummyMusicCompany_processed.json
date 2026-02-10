@@ -1,0 +1,409 @@
+{
+  "original_content": "# Business Plan (BP) 2026 - DummyMusicCompany\n\nThis template is intended to support the establishment and development of a company.\n\n## 1. Basic Information\n* **Company name:** DummyMusicCompany\n* **Business form:** Private entrepreneur (trade name)\n* **Owners and their roles:** \n  - Seppo Pakonen: Music technology specialist, production manager, marketing\n  - Responsible for all business areas\n\n## 2. Business Concept and Vision\n* **Mission:** Provide diverse music services that combine creativity (personalized songs and commercial music) with technical expertise (production, distribution, education).\n* **Business idea:** \n  - Personalized songs to order (for private individuals and companies)\n  - Commercial jingles and brand music\n  - Music production and recording services using a mobile setup\n  - Distribution management through DistroKid\n  - Music production education in private lessons (€30-50 / 75 min)\n  - Live online sessions for artists\n  - Assistance in establishing online merchandise services\n* **Vision:** \n  - By 2030, known as a producer of personalized music and as an expert providing support for independent artists.\n  - Build a strong brand that symbolizes creativity, technical expertise, and accessibility.\n* **Values:** \n  - Quality: Each project receives personal attention and high-quality execution\n  - Ethics: Honest and fair operations with customers and other parties\n  - Creativity: Innovative approach to music creation and distribution\n  - Accessibility: Flexible and affordable services for independent artists\n\n## 3. Baseline Analysis\n* **Customers:** \n  - Private individuals for special occasions (birthdays, weddings, etc.)\n  - Small businesses that need custom commercial music\n  - Independent artists without access to a studio\n  - Young music students who want to learn music production\n  - Content creators who need custom background music\n* **Competitors:** \n  - Fiverr and other freelance marketplaces\n  - Local privately-owned recording studios\n  - Music production education services\n  - Commercial music providers\n* **Competitive advantage:** \n  - Combines creativity (personalized songs) with technical expertise (production, distribution, education)\n  - Flexible, mobile setup enables operations in different locations\n  - Reasonable prices without large initial costs\n  - Personal service and creative approach\n* **SWOT Analysis:**\n  - Strengths: Technical expertise, creativity, flexibility, low cost structure\n  - Weaknesses: One person handles all operations, limited marketing budget\n  - Opportunities: Growing need for digital music, remote work possibilities, education market\n  - Threats: Competition with large studios and platforms, economic difficulties in customer companies\n\n## 4. Marketing and Sales\n* **Channels:** \n  - Social media (Instagram, TikTok, YouTube)\n  - Freelance marketplaces (Fiverr, Upwork)\n  - Websites and portfolio\n  - Direct marketing (networking, partnerships)\n* **Sales target:** \n  - First year: 50 personalized songs, 10 commercial music pieces, 100 education hours\n  - Financial target: €15,000 per year\n* **Pricing:** \n  - Personalized songs: €50-200 depending on the project\n  - Commercial music: €100-500 depending on the project\n  - Production services: €25-75 per hour\n  - Distribution management: €10-50 per month per artist\n  - Education hours: €30-50 / 75-minute hour\n\n## 5. Resources and Finance\n* **Team:** \n  - One founder with strong technical and creative expertise\n  - Possibility for part-time partnerships as needed\n* **Premises and equipment:** \n  - Mobile music production station (DAW, audio interface, microphones, monitors, MIDI controller)\n  - Possibility to use different locations for customer projects\n  - Cloud-based tools and video conferencing\n* **Budget:** \n  - Initial investments: Existing equipment\n  - Operating expenses: \n    - Local transportation: €50/month\n    - Websites and hosting: €10/month\n    - Marketing: €0/month (initially)\n  - Revenue: See sales targets in section 4\n\n## 6. Risk Management\n* Identified threats and methods to minimize them:\n  - Competition: Continuously develop unique services and brand\n  - Importance of individual customers: Diversify customer base\n  - Technology change: Stay current with latest tools and trends\n  - Equipment failure: Ensure backup equipment and/or equipment insurance\n\n---\n**Attachments:** Profitability calculations (YT4/YT5), budget, CVs.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 38,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 147,
+      "related_keywords": []
+    },
+    {
+      "term": "finance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 3395,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 147,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 52,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 145,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 2523,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 1380,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 470,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 470,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 2767,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 349,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 1364,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 2932,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 2584,
+      "related_keywords": []
+    },
+    {
+      "term": "budget",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 2541,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 4343,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 2606,
+      "related_keywords": []
+    },
+    {
+      "term": "partnership",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 2941,
+      "related_keywords": []
+    },
+    {
+      "term": "Business Plan BP 2026   DummyMusicCompany",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+    "extraction_date": "2026-02-10T02:44:25.092038",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Business_Plan_BP_2026___DummyMusicCompany_review",
+      "title": "Business Plan BP 2026 - DummyMusicCompany.md Review Required",
+      "description": "Document Business Plan BP 2026 - DummyMusicCompany.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Business Plan BP 2026 - DummyMusicCompany.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+    "title": "Business Plan BP 2026   DummyMusicCompany",
+    "description": "Documentation file: Business Plan BP 2026 - DummyMusicCompany.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T02:44:25.092045",
+    "last_modified": "2026-02-10T02:44:25.092046",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 594,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "finance",
+      "form",
+      "template",
+      "information",
+      "limited",
+      "customer",
+      "service"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Business_Plan_BP_2026___DummyMusicCompany_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Business Plan BP 2026 - DummyMusicCompany.md"
+    }
+  },
+  "processing_date": "2026-02-10T02:44:25.092110",
+  "processor": "systematic_batch_processor"
+}

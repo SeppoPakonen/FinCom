@@ -1,0 +1,210 @@
+{
+  "original_content": "# Assignment: My Digital Environment (PowerPoint)\n\nPrepare a PowerPoint presentation on the topic \"My Digital Environment\". The presentation must fulfill the following requirements:\n\n## Technical Structure\n* **Slide count:** 4–10 slides.\n* **Layout:** Use at least two different slide layouts.\n* **Footer:** Include page number, author's name, and automatically updating date.\n\n## Content Requirements\n* **Equipment:** Describe what technical devices you use daily.\n* **Social media:** Tell what social media services you use.\n* **Links:** Include at least one link to external websites.\n* **Media:** Add a video related to the topic and at least one image.\n* **Visualization:** Include one **SmartArt diagram**.\n\n## Formatting and Presentation Style\n* **Fonts:** Use font formatting in at least two different ways (e.g., bolding, italicizing, or changing font).\n* **Notes:** Add hints for presenting the slides in the notes field of at least one slide.",
+  "keywords": [
+    {
+      "term": "requirements",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Assignment My Digital Environment PowerPoint.md",
+      "position_in_text": 168,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Assignment My Digital Environment PowerPoint.md",
+      "position_in_text": 717,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Assignment My Digital Environment PowerPoint.md",
+      "position_in_text": 509,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Assignment My Digital Environment PowerPoint.md",
+      "position_in_text": 509,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Assignment My Digital Environment PowerPoint.md",
+      "position_in_text": 17,
+      "related_keywords": []
+    },
+    {
+      "term": "Assignment My Digital Environment PowerPoint",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Assignment My Digital Environment PowerPoint.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/Assignment My Digital Environment PowerPoint.md",
+    "extraction_date": "2026-02-10T02:44:25.084309",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/Assignment My Digital Environment PowerPoint.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/Assignment My Digital Environment PowerPoint.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/Assignment My Digital Environment PowerPoint.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/Assignment My Digital Environment PowerPoint.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Assignment_My_Digital_Environment_PowerPoint_review",
+      "title": "Assignment My Digital Environment PowerPoint.md Review Required",
+      "description": "Document Assignment My Digital Environment PowerPoint.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Assignment My Digital Environment PowerPoint.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Assignment My Digital Environment PowerPoint.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/Assignment My Digital Environment PowerPoint.md",
+    "title": "Assignment My Digital Environment PowerPoint",
+    "description": "Documentation file: Assignment My Digital Environment PowerPoint.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T02:44:25.084317",
+    "last_modified": "2026-02-10T02:44:25.084318",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 142,
+    "language": "en",
+    "keywords": [
+      "requirements",
+      "form",
+      "service",
+      "services",
+      "digital",
+      "Assignment My Digital Environment PowerPoint"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Assignment_My_Digital_Environment_PowerPoint_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Assignment My Digital Environment PowerPoint.md"
+    }
+  },
+  "processing_date": "2026-02-10T02:44:25.084343",
+  "processor": "systematic_batch_processor"
+}

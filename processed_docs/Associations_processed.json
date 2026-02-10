@@ -1,0 +1,292 @@
+{
+  "original_content": "# Associations\n\n[Electronic service in Suomi.fi authentication\n![](PRH%20-%20Yhdistykset%20_%20PRH_tiedostot/nuoli-vaaleansininen.png)](https://asiointi.prh.fi/yhdistys)\n\nPRH maintains the association register, which contains information about registered associations. The register includes, for example, the association's bylaws and authorized signatories, i.e., persons who have the right to act on behalf of the association. [Read more about the association register.](https://www.prh.fi/en/companiesandorganisations/associationregister/associationregister_presentation.html)\n\n## How do you notify the association register?\n\n​The founders of an association and registered associations have their own notification instructions, which you can find in the menu. When you make a notification electronically, you save time and money. [Log in to the Association Register's electronic service in Suomi.fi authentication. Opens in a new tab](https://asiointi.prh.fi/yhdistys)​\n\nReligious congregations as well as the Central Chamber of Commerce and chambers of commerce make notifications with paper forms. You can find the notification instructions from the menu.\n\nWhen planning to make a notification, you can familiarize yourself in advance with the processing time forecast. [Go to processing time forecast.](https://www.prh.fi/en/processing-times/processing_time_and_tracking_of_your_own_notification_processing.html)\n\n## How do you track the processing of your notification?\n\nYou can track the status of your notification processing on our electronic service's association page. [Log in to the Association Register's electronic service in Suomi.fi authentication. Opens in a new tab](https://asiointi.prh.fi/yhdistys)​\n\n## How do you get register extracts, bylaws, and other association information?\n\nYou can find information about associations, chambers of commerce, and religious congregations in the association register's information service.\n\nYou can purchase a register extract and the bylaws registered since 2011 from the association register's information service.\n\n[Go to the Association Register's information service. Opens in a new tab](https://yhdistysrekisteri.prh.fi/)\n\n## Request action or report an error\n\nIf the association's information has been registered differently than you notified, report the error to us or request action with an online form. [Read more and go to report an error.](https://www.prh.fi/en/prh_contact_information/customer_service_1/action_and_error_reporting_in_association_matters.html)​",
+  "keywords": [
+    {
+      "term": "formation",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+      "position_in_text": 228,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+      "position_in_text": 1248,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 10,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+      "position_in_text": 228,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+      "position_in_text": 226,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+      "position_in_text": 716,
+      "related_keywords": []
+    },
+    {
+      "term": "association",
+      "frequency": 21,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+      "position_in_text": 2456,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+      "position_in_text": 28,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+      "position_in_text": 1166,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+      "position_in_text": 2208,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+      "position_in_text": 703,
+      "related_keywords": []
+    },
+    {
+      "term": "Associations",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+    "extraction_date": "2026-02-10T02:44:25.101920",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Associations_review",
+      "title": "Associations.md Review Required",
+      "description": "Document Associations.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Associations.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Associations.md",
+    "title": "Associations",
+    "description": "Documentation file: Associations.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T02:44:25.101930",
+    "last_modified": "2026-02-10T02:44:25.101932",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 293,
+    "language": "en",
+    "keywords": [
+      "formation",
+      "process",
+      "form",
+      "information",
+      "instructions",
+      "association",
+      "customer",
+      "service",
+      "planning",
+      "report"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Associations_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Associations.md"
+    }
+  },
+  "processing_date": "2026-02-10T02:44:25.101994",
+  "processor": "systematic_batch_processor"
+}

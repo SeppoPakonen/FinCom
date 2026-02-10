@@ -1,0 +1,383 @@
+{
+  "original_content": "# Marketing Basics and Competitive Strategies (2025)\n\nThis document compiles essential information about marketing fundamentals, competitive strategies (4P/7P), and marketing planning tools.\n\n---\n\n## 1. What is marketing?\n\nMarketing is not just advertising or individual campaigns, but rather a comprehensive process:\n- **Holistic approach:** Everything that is done in the company. It consists of service design, pricing, marketing communications, and availability.\n- **Definition:** A process of planning and implementing ideas into products, pricing them, communicating about them to markets, and organizing distribution.\n- **Interaction:** It involves human interaction with the aim of achieving transactions that meet the parties' objectives.\n- **Nature:** Marketing is an agile, lean endurance sport—not a sprint or reckless spending.\n- **Advertising vs. Marketing:** Advertising is paid visibility in media. Marketing is everything the company does to make the product sellable (every contact with the customer).\n\n---\n\n## 2. Marketing Competitive Strategies: 7P Model\n\nThe traditional 4P model has expanded to the 7P model, which better considers service business:\n\n1. **Product/Service (Product):** Productization and service design.\n2. **Pricing (Price):** Market price vs. cost price.\n3. **Availability/Location (Place):** Logistics, accessibility, JIT (Just-On-Time), FIFO (First-In-First-Out).\n4. **Communication (Promotion):** To whom, with what message, with what tools and resources?\n5. **Service Environment (Physical evidence):** Physical and digital frameworks of the operating environment.\n6. **Personnel (People):** Competence and customer service.\n7. **Processes (Processes):** How the service is produced and delivered.\n\n---\n\n## 3. Marketing Planning and Implementation\n\n### Business Description Steps\n1. **Market Area:** Where do we operate?\n2. **Potential Customers:** Who could buy?\n3. **Needs and Purchase Behavior:** What do customers want and why?\n4. **Segmentation:** Dividing customer groups.\n5. **Marketing Mix (7P):** Applying competitive strategies to target groups.\n\n### Process Before Actual Marketing\n1. Recognize and identify your expertise.\n2. Understand the customer's need and problem (finding solutions).\n3. Productization (\"new beginning\").\n4. Marketing (creating interest).\n5. Sales (€).\n\n---\n\n## 4. Market Knowledge and Analysis\n\n### Threefold Division of Analyses\n- **Customer Analysis:** Understanding customers.\n- **Market Analysis:** Understanding market size and potential.\n- **Competitor Analysis:** Understanding competitors' strengths and weaknesses.\n\n### Maslow's Hierarchy of Needs in Marketing\nCustomers don't buy a product for its own sake, but to satisfy their needs:\n- **Functional Needs:** Specific purpose of use.\n- **Intervening Needs:** Satisfies another need (e.g., recognition, security).\n\n### Operating Environment Forces (Porter's Five Forces)\n- Industry competitors and current competition.\n- Threat of new entrants.\n- Threat of substitute products or services.\n- Buyers' influence.\n- Suppliers' influence.\n\n---\n\n## 5. Pricing and Profitability\n\n### Factors Affecting Price\n- **Market Price:** What is the market willing to pay?\n- **Cost Price:** Labor cost, production value, or purchase price.\n- **Price Elasticity:** How does demand change with price changes?\n\n### Case Example: Impact of Discount (Joki-Cruise Ltd)\n- **Situation:** 2000 cruises/month, price 100 €, variable costs 60 €/cruise.\n    - Contribution Margin: $2000 \\times (100 - 60) = 80,000 \\text{ €}$.\n- **Price reduction 10% (Price 90 €):**\n    - How much must be sold to maintain the same contribution margin ($80,000 \\text{ €}$)?\n    - Equation: $90X - 60X = 80,000 \\rightarrow 30X = 80,000 \\rightarrow X = 2666.67$.\n    - **Result:** Sales must increase by 667 cruises (~33%) to maintain the same margin.\n\n### Legislation (2023 Changes)\n- Discount marketing rules were updated (e.g., lowest price during the past 30 days must be disclosed).\n- Written confirmation required for phone sales.\n\n---\n\n## 6. Marketing Communications and Channels\n\n### Communication Stages\n1. **Preparatory Communication:** Creating awareness and familiarity, building brand image.\n2. **Business Transaction Communication:** Making offers, actual business.\n3. **Customer Relationship Communication:** Maintaining customer relationships, preserving satisfaction.\n\n### Communication Coverage Pyramid (Channels)\n- **Mass Media:** TV, radio, magazines.\n- **Online Communication:** WWW, FB, IG, TikTok, Google Ads, blogs.\n- **Targeted:** Direct mail, telemarketing.\n- **Meetings:** Trade shows, presentations, seminars.\n- **Personal:** Sales work.\n- **Efficiency Criterion:** Revenue received / money invested.\n\n### Ad Design (AIDA Model)\n- **Attention (A):** Attention.\n- **Interest (I):** Interest.\n- **Desire (D):** Purchase desire.\n- **Action (A):** Action.\n\nA good ad helps the customer: tells what the product is, what it looks like, what it costs, where to get it, and who it's intended for.\n\n---\n\n## 7. Event Marketing\n\nEvents are effective for customer relationship management (e.g., trade shows, product launches, customer events).\n- **Criteria:**\n    1. Planned in advance.\n    2. Objective and target group defined.\n    3. Experientiality, emotional appeal, and interactivity are realized.\n\n---\n\n## 8. Monitoring and Summary\n\nMarketing requires continuous calculation and research:\n- **ROI:** Monitor return on investment and costs relative to benefits.\n- **Customer Experience:** Positive experiences and recommendations are tremendous power.\n- **Continuous Improvement:** Measure results and make small improvements continuously—this improves profitability and creates continuity.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 1162,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 374,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 89,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 309,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 59,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 89,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 87,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 15,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 1009,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 398,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 535,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 3019,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 2320,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 20,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 175,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 1560,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 2842,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 1573,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 5465,
+      "related_keywords": []
+    },
+    {
+      "term": "2025 Marketing Fundamentals and Competitive Strategies",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+    "extraction_date": "2026-02-10T02:44:25.095979",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_2025_Marketing_Fundamentals_and_Competitive_Strategies_review",
+      "title": "2025 Marketing Fundamentals and Competitive Strategies.md Review Required",
+      "description": "Document 2025 Marketing Fundamentals and Competitive Strategies.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document 2025 Marketing Fundamentals and Competitive Strategies.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Marketing Fundamentals and Competitive Strategies.md",
+    "title": "2025 Marketing Fundamentals and Competitive Strategies",
+    "description": "Documentation file: 2025 Marketing Fundamentals and Competitive Strategies.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T02:44:25.095986",
+    "last_modified": "2026-02-10T02:44:25.095987",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 3,
+    "word_count": 778,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "process",
+      "document",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "products"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_2025_Marketing_Fundamentals_and_Competitive_Strategies_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "2025 Marketing Fundamentals and Competitive Strategies.md"
+    }
+  },
+  "processing_date": "2026-02-10T02:44:25.096065",
+  "processor": "systematic_batch_processor"
+}

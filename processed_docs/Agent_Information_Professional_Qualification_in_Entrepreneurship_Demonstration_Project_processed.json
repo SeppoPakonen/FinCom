@@ -1,0 +1,331 @@
+{
+  "original_content": "# Agent Information: Professional Qualification in Entrepreneurship - Demonstration Project\n\n## Project Overview\nThis directory contains all deliverables for the entrepreneur vocational qualification demonstration exam project.\n\n## Important Deadline\n- **Assessment Date**: February 18, 2026 (18.2.2026)\n- **Time**: 13:30–14:30\n- **Location**: PSK Adult Education Center\n\n## Required Components Completed\nThe following competency areas have been completed as part of the required \"Mandatory Parts of the Qualification\":\n\n1. **Working in Business Operations (30 cr)**\n   - Assessment form filled out\n   - Practical business operations documented\n\n2. **Planning and Starting Business Operations (60 cr)**\n   - Comprehensive business plan (Business Plan)\n   - Financial calculations (YT4/YT5)\n   - Responsibility plan (Sustainability Plan)\n\n## Deliverables in This Directory\n- Business plan for DummyMusicCompany\n- Financial projections and calculations\n- Completed assessment forms\n- Marketing materials with visual prompts\n- Responsibility plan addressing sustainability\n- Completion summary\n\n## Preparation Status\nAll required materials have been prepared and organized for the assessment. The project is ready for the February 18th evaluation.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 537,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 902,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 10,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 634,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 10,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 8,
+      "related_keywords": []
+    },
+    {
+      "term": "assessment",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 255,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 982,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 546,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 651,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 664,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 526,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 526,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 795,
+      "related_keywords": []
+    },
+    {
+      "term": "Agent Information Professional Qualification in Entrepreneurship Demonstration Project",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+    "extraction_date": "2026-02-10T02:44:25.078475",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Agent_Information_Professional_Qualification_in_Entrepreneurship_Demonstration_Project_review",
+      "title": "Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md Review Required",
+      "description": "Document Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+    "title": "Agent Information Professional Qualification in Entrepreneurship Demonstration Project",
+    "description": "Documentation file: Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T02:44:25.078486",
+    "last_modified": "2026-02-10T02:44:25.078487",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 162,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "document",
+      "form",
+      "information",
+      "assessment",
+      "marketing",
+      "operations",
+      "planning"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Agent_Information_Professional_Qualification_in_Entrepreneurship_Demonstration_Project_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md"
+    }
+  },
+  "processing_date": "2026-02-10T02:44:25.078541",
+  "processor": "systematic_batch_processor"
+}

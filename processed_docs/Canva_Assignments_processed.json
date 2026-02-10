@@ -1,0 +1,168 @@
+{
+  "original_content": "# Canva Assignments\n\nThis document contains links to assignments created using the Canva tool.\n\n---\n\n### 1. Poster\n- **Link:** [Canva poster](https://www.canva.com/design/DAG6jNrjrFY/fWq7vXCsTGTTPwVIfU-8Xw/view?utm_content=DAG6jNrjrFY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9ea16bbb73)\n\n---\n\n### 2. Business Card\n- **Link:** [Canva business card](https://www.canva.com/design/DAG6ij-VhSM/cKxJj_IiqgnTwhFL8p97XQ/view?utm_content=DAG6ij-VhSM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbf0abaa682)",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Canva Assignments.md",
+      "position_in_text": 332,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Canva Assignments.md",
+      "position_in_text": 26,
+      "related_keywords": []
+    },
+    {
+      "term": "Canva Assignments",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Canva Assignments.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Canva Assignments.md",
+    "extraction_date": "2026-02-10T02:44:25.106337",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Canva Assignments.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Canva Assignments.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Canva Assignments.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Canva Assignments.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Canva_Assignments_review",
+      "title": "Canva Assignments.md Review Required",
+      "description": "Document Canva Assignments.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Canva Assignments.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Canva Assignments.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Canva Assignments.md",
+    "title": "Canva Assignments",
+    "description": "Documentation file: Canva Assignments.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T02:44:25.106344",
+    "last_modified": "2026-02-10T02:44:25.106345",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 32,
+    "language": "en",
+    "keywords": [
+      "business",
+      "document",
+      "Canva Assignments"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Canva_Assignments_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Canva Assignments.md"
+    }
+  },
+  "processing_date": "2026-02-10T02:44:25.106359",
+  "processor": "systematic_batch_processor"
+}
