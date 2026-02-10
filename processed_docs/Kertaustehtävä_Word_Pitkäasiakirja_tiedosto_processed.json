@@ -1,0 +1,357 @@
+{
+  "original_content": "# Computer User's AB Card: Contents and Objectives of the Qualification\n\nThis document defines the objectives and key contents of the modules that comprise the AB card module, which is part of the ICT professional qualification.\n\n---\n\n## 1. Overview\nThe qualification provides skills for effective use of information technology in working life. It is suitable for continuing education for the working population after completing the A-card.\n- **Structure:** 1 compulsory and 3 optional modules.\n- **Demonstration exam:** 2 times 15 min.\n\n---\n\n## 2. Sharing Computer Programs and Data (Compulsory)\n\n### Objectives\n- Versatile utilization of input data in different programs.\n- Management of file formats, data transfer methods (linking, embedding) and group programs (email, calendar).\n- Workstation maintenance, protection and backups.\n\n### Key content\n- **Operating system:** Customization, network stations, installations, print queues.\n- **Data transfer:** Linking, embedding, importing/exporting, ready interfaces.\n- **Office tools:** Image archives, equation editors, graphics.\n- **Group programs:** Email settings, archiving, real-time communication, time management (calendars, task lists).\n\n---\n\n## 3. Text Processing (Optional)\n\n### Objectives\n- Creating uniform company document templates (bases) and forms.\n- Managing multi-page and long documents (table of contents, indexes, styles).\n\n### Key content\n- **Formatting:** Styles, document standards, column layout, division.\n- **Automation:** Merge functions (mass mailings, labels), macros, tables.\n\n---\n\n## 4. Spreadsheet Calculation (Optional)\n\n### Objectives\n- Creating calculation models, analysis and visualization of results.\n- Using advanced functions and macros.\n\n### Key content\n- **Charts:** Printing, editing and linking to other programs.\n- **Functions:** Min, Max, Average, If, Sumif, Countif, CountA, Lookup, Date and Financial functions.\n- **Analysis:** Goal seek, filtering, cross-tabulation, matrix calculation, conditional formatting.\n\n---\n\n## 5. Databases (Optional)\n\n### Objectives\n- Designing, creating relational databases and ensuring data accuracy.\n- Implementation of customized forms, reports and queries.\n\n### Key content\n- **Structure:** Multi-table relations, primary and foreign keys, referential integrity.\n- **Queries:** AND/OR logic, search, update, delete and parameter queries. Utilizing SQL language.\n- **Automation:** Macros, program code, dropdown menus.\n\n---\n\n## 6. Publishing and Image Processing (Optional)\n\n### Objectives\n- Producing print materials (combining text and images).\n- Editing and optimizing images for different publishing channels.\n\n### Key content\n- **Theory:** Printing process, file formats (PDF), copyright, scanning.\n- **Practice:** Sheet definition, text flow, drawing tools, color management, filters.\n\n---\n\n## 7. Web Publishing Management (Optional)\n\n### Objectives\n- Updating, building web pages and searching for information on the web.\n- Efficient use of FTP services and search bots.\n\n### Key content\n- **Production:** Editing HTML code, using editors, optimizing images for web.\n- **Communication:** Email and discussion groups in problem solving.\n\n---\n\n## 8. Digital Communication (Optional)\n\n### Objectives\n- Understanding multimedia possibilities and compiling digital presentations.\n- Managing media elements (audio, video, animation).\n\n### Key content\n- **Elements:** GIF animations, digital video, audio file formats and transfer.\n- **Process:** Content layering and interactivity.\n\n---\n\n## 9. Telecommunications (Optional)\n\n### Objectives\n- Managing telecommunications terminology, telephone networks and wireless data transfer.\n- Understanding the flow of data and voice in different networks.\n\n### Key content\n- **Basics:** Information theory and basic technologies.\n- **Networks:** Structure and services of telephone and data transmission networks.\n- **Mobile:** Radio systems, basic structure of mobile networks and data transmission.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 1272,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 307,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 1215,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 78,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 11,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 307,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 1289,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 305,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 2987,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 1449,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 2987,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 331,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 3190,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 331,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 2172,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 676,
+      "related_keywords": []
+    },
+    {
+      "term": "flow",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 2778,
+      "related_keywords": []
+    },
+    {
+      "term": "Kertaustehtävä Word Pitkäasiakirja tiedosto",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+    "extraction_date": "2026-02-10T12:33:15.769320",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Kertaustehtävä_Word_Pitkäasiakirja_tiedosto_review",
+      "title": "Kertaustehtävä Word Pitkäasiakirja tiedosto.md Review Required",
+      "description": "Document Kertaustehtävä Word Pitkäasiakirja tiedosto.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Kertaustehtävä Word Pitkäasiakirja tiedosto.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+    "title": "Kertaustehtävä Word Pitkäasiakirja tiedosto",
+    "description": "Documentation file: Kertaustehtävä Word Pitkäasiakirja tiedosto.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.769327",
+    "last_modified": "2026-02-10T12:33:15.769328",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 535,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "process",
+      "document",
+      "form",
+      "template",
+      "information",
+      "service",
+      "standard",
+      "services"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Kertaustehtävä_Word_Pitkäasiakirja_tiedosto_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Kertaustehtävä Word Pitkäasiakirja tiedosto.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.769379",
+  "processor": "systematic_batch_processor"
+}

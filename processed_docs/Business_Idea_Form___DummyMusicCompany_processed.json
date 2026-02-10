@@ -171,6 +171,84 @@
       "related_keywords": []
     },
     {
+      "term": "strategy",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Idea Form - DummyMusicCompany.md",
+      "position_in_text": 1121,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Idea Form - DummyMusicCompany.md",
+      "position_in_text": 280,
+      "related_keywords": []
+    },
+    {
+      "term": "control",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Idea Form - DummyMusicCompany.md",
+      "position_in_text": 2824,
+      "related_keywords": []
+    },
+    {
+      "term": "revenue",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Idea Form - DummyMusicCompany.md",
+      "position_in_text": 3156,
+      "related_keywords": []
+    },
+    {
+      "term": "expense",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Idea Form - DummyMusicCompany.md",
+      "position_in_text": 3054,
+      "related_keywords": []
+    },
+    {
+      "term": "investment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Idea Form - DummyMusicCompany.md",
+      "position_in_text": 1088,
+      "related_keywords": []
+    },
+    {
       "term": "Business Idea Form   DummyMusicCompany",
       "frequency": 3,
       "relevance": 0.9,
@@ -186,7 +264,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Idea Form - DummyMusicCompany.md",
-    "extraction_date": "2026-02-10T12:12:12.826251",
+    "extraction_date": "2026-02-10T12:33:15.742720",
     "entities": [
       {
         "name": "Business Entity",
@@ -270,8 +348,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:12:12.826264",
-    "last_modified": "2026-02-10T12:12:12.826265",
+    "creation_date": "2026-02-10T12:33:15.742726",
+    "last_modified": "2026-02-10T12:33:15.742727",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -313,6 +391,6 @@
       "original_file_name": "Business Idea Form - DummyMusicCompany.md"
     }
   },
-  "processing_date": "2026-02-10T12:12:12.826326",
+  "processing_date": "2026-02-10T12:33:15.742780",
   "processor": "systematic_batch_processor"
 }

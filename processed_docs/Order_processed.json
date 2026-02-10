@@ -1,0 +1,292 @@
+{
+  "original_content": "# Order\n\n**Työasu.fi / Finn-Tech Finland Ltd**  \n**Order No.:** 2016/TI1xx  \n**Date:** 20.5.2016  \n**Page:** 1 (1)\n\n---\n\n### Customer\n**Finn-Tech Finland Ltd / Työasu.fi**  \nHansatie 4, 02780 Espoo  \nBusiness ID: 123456-9  \nPhone: 040 689 4108  \nContact person: Sami Sassi, Sales Manager  \n\n### Supplier\n**Publisher Quote Digital Power Ltd**  \nPO Box 111, 87101 Kajaani  \nContact person: Ville Virtanen, Sales Manager  \n\n---\n\n## Order Content: Printing of Company Brochures\n\nThank you for your offer (6.5. no. 2016/T1xx) and we order the design, layout work, and printing of product brochures as follows:\n\n### 1. Services\n* **Design and layout work:** According to offer 75.00 €/h + VAT 24 %\n\n### 2. Products\n* **Housing Brochure (5000 pcs):** \n    - A4 landscape, 170 g/m² Gallerie Art Silk, 4/4-color.\n    - Price: 2400.00 € + VAT 24 % (total 2976.00 €)\n* **Work Shoe Brochure (3000 pcs):** \n    - A4 landscape, 170 g/m² Gallerie Art Silk, 4/4-color.\n    - Price: 1800.00 € + VAT 24 % (total 2232.00 €)\n\n---\n\n## Delivery Terms\n\n* **Delivery time:** Monday 19.9.2016\n* **Delivery terms:** Delivered to destination Espoo (General delivery terms of the graphic industry)\n* **Payment terms:** 14 days net\n\n---\n\n**Best regards,**\n\nTyöasu.fi / Finn Tech Finland Ltd  \nSami Sassi  \nSales Manager",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+      "position_in_text": 200,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+      "position_in_text": 456,
+      "related_keywords": []
+    },
+    {
+      "term": "housing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+      "position_in_text": 713,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+      "position_in_text": 125,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+      "position_in_text": 613,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+      "position_in_text": 700,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+      "position_in_text": 613,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+      "position_in_text": 274,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+      "position_in_text": 322,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+      "position_in_text": 553,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+      "position_in_text": 274,
+      "related_keywords": []
+    },
+    {
+      "term": "Order",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+    "extraction_date": "2026-02-10T12:33:15.788428",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Order_review",
+      "title": "Order.md Review Required",
+      "description": "Document Order.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Order.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Order.md",
+    "title": "Order",
+    "description": "Documentation file: Order.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.788434",
+    "last_modified": "2026-02-10T12:33:15.788435",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 201,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "housing",
+      "customer",
+      "service",
+      "products",
+      "services",
+      "sales",
+      "digital",
+      "work"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Order_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Order.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.788463",
+  "processor": "systematic_batch_processor"
+}

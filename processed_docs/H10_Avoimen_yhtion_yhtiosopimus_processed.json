@@ -1,0 +1,357 @@
+{
+  "original_content": "# Partnership Agreement for a General Partnership\n\nThis is a template for a general partnership agreement. When filling out this agreement, the specific characteristics of each partnership must be considered.\n\n---\n\n## Instructions\n- Fill in the required fields.\n- Remember to sign after printing.\n- A partnership agreement should always be drawn up when the company has more than one general partner.\n- **Disclaimer:** This is an example template, and the creator is not responsible for its suitability or accuracy in all individual cases.\n- **Personal Information Form:** Partners' personal information (social security number, home address) is reported on a separate form due to privacy policies of the Trade Register.\n\n---\n\n## Partnership Agreement\n\nWe, the undersigned, have decided to establish a general partnership and accept the following partnership agreement:\n\n### 1. Company name and registered office\n- **Company name:**\n- **Registered office:**\n\n### 2. Nature of business (Industry)\n- **Industry:**\n- The company may own and manage securities, buildings and real estate.\n\n### 3. Partners and their contributions\n- *(Record the partners and their investments in the company)*\n-\n\n### 4. Division of duties among partners\n-\n\n### 5. Representation of the company\n- *(Specify who has the right to sign with the company name)*\n-\n\n### 6. Managing Director\n- The company may appoint a managing director to take care of the company's ongoing administration.\n\n### 7. Profit sharing\n- The company's profit is shared equally among the partners unless otherwise agreed.\n\n### 8. Death of a partner\n- The partnership does not need to be dissolved when a partner dies.\n- The legal heirs take the place of the deceased upon reaching 18 years of age.\n- The willingness to become a partner must be declared within 3 months of reaching adulthood or from the time of death.\n- Redemption price: If the heir does not wish to become a partner, the company's value is calculated as the difference between assets and liabilities reduced by 30 percent (valuation with the help of experts).\n\n### 9. Dissolution of the partnership\n- Valid until further notice.\n- The notice period is 3 months.\n- If one partner continues the business, they must redeem the departing party's share according to point 8.\n\n### 10. Other provisions\n- Otherwise, the Act on General Partnership and Limited Partnership is applied.\n\n---\n\n## Signatures\nThree (3) identical copies of this agreement have been prepared: one for each partner and one for the Trade Register.\n\n**Place and date:**      ,    /    202\n\n**Partners:**\n____________________________\n*(Name in clear)*\n\n____________________________\n*(Name in clear)*\n\n---\n\n## PERSONAL INFORMATION FORM (for authorities)\n*(Filled separately for the Trade Register)*\n- Name:\n- Personal identity code:\n- Home address:\n- Citizenship:\n- Place of domicile:\n- Email:",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 976,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 11,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 358,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 555,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 555,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 61,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 553,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 218,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 2360,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 612,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 14,
+      "related_keywords": []
+    },
+    {
+      "term": "partnership",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 646,
+      "related_keywords": []
+    },
+    {
+      "term": "asset",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 1993,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 1470,
+      "related_keywords": []
+    },
+    {
+      "term": "investment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 1159,
+      "related_keywords": []
+    },
+    {
+      "term": "valuation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 2039,
+      "related_keywords": []
+    },
+    {
+      "term": "H10 Avoimen yhtion yhtiosopimus",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+    "extraction_date": "2026-02-10T12:33:15.761745",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_H10_Avoimen_yhtion_yhtiosopimus_review",
+      "title": "H10_Avoimen_yhtion_yhtiosopimus.md Review Required",
+      "description": "Document H10_Avoimen_yhtion_yhtiosopimus.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document H10_Avoimen_yhtion_yhtiosopimus.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H10_Avoimen_yhtion_yhtiosopimus.md",
+    "title": "H10 Avoimen yhtion yhtiosopimus",
+    "description": "Documentation file: H10_Avoimen_yhtion_yhtiosopimus.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.761751",
+    "last_modified": "2026-02-10T12:33:15.761752",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 457,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "form",
+      "template",
+      "information",
+      "instructions",
+      "limited",
+      "security",
+      "agreement"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_H10_Avoimen_yhtion_yhtiosopimus_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "H10_Avoimen_yhtion_yhtiosopimus.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.761799",
+  "processor": "systematic_batch_processor"
+}

@@ -48,7 +48,7 @@ Process this documentation file to add:
 - Check for cross-references with other documents
 
 ## Notes
-- This file is part of the Finnish Business Operations Repository (English version)
+- This file is part of the Finnish Business Operations Repository (English content with Finnish context)
 - All processing should maintain Finnish business context while using English for system elements
 - Follow the same pattern as previously processed files
 - Ensure ECS elements properly represent the business concepts in the document
@@ -57,7 +57,7 @@ Process this documentation file to add:
 - **Date Completed**: 2026-02-10
 - **Processor**: Systematic Batch Processor
 - **Output File**: `processed_docs/Business_Support_Oulu_Region_Leader_2023_2027_processed.json`
-- **Keywords Extracted**: 15
+- **Keywords Extracted**: 21
 - **Entities Identified**: 1
 - **Components Identified**: 1
 - **Systems Identified**: 1

@@ -1,0 +1,238 @@
+{
+  "original_content": "# Subcontracting Agreement (Template)\n\nThis is a template for a subcontracting agreement between companies.\n\n---\n\n## 1. Contracting Parties\n\n- **Customer:**\n- **Subcontractor:**\n\n---\n\n## 2. Description of Task\n*(Specify the work to be performed, quality requirements and schedule)*\n\n---\n\n## 3. Contact Persons\n\n- **Customer's contact person:**\n- **Subcontractor's contact person:**\n\n---\n\n## 4. Compensation and Terms\n\n- **Compensation paid for the work:**\n- **Payment terms:**\n- **Other terms:**\n\n---\n\n## 5. Resolution of Disputes\n\nAny disputes arising from this agreement are primarily attempted to be resolved through negotiations between the parties. If no resolution is reached within 1 month of identifying the dispute, the dispute shall be resolved by an external legal mediator acceptable to both parties. If necessary, the mediator shall be selected by drawing lots between two candidates. The mediator must issue their decision within one month of selection, and the decision binds both parties without possibility of appeal.\n\n---\n\n## Signatures\n\n**Place and date:**      ,    .    . 202\n\n____________________________\n**Customer**\n\n____________________________\n**Subcontractor**",
+  "keywords": [
+    {
+      "term": "requirements",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md",
+      "position_in_text": 254,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md",
+      "position_in_text": 238,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md",
+      "position_in_text": 28,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md",
+      "position_in_text": 145,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md",
+      "position_in_text": 224,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md",
+      "position_in_text": 5,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md",
+      "position_in_text": 17,
+      "related_keywords": []
+    },
+    {
+      "term": "L10 Alihankintasopimus",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md",
+    "extraction_date": "2026-02-10T12:33:15.770392",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_L10_Alihankintasopimus_review",
+      "title": "L10_Alihankintasopimus.md Review Required",
+      "description": "Document L10_Alihankintasopimus.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document L10_Alihankintasopimus.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md",
+    "title": "L10 Alihankintasopimus",
+    "description": "Documentation file: L10_Alihankintasopimus.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.770399",
+    "last_modified": "2026-02-10T12:33:15.770400",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 167,
+    "language": "en",
+    "keywords": [
+      "requirements",
+      "form",
+      "template",
+      "customer",
+      "work",
+      "contract",
+      "agreement",
+      "L10 Alihankintasopimus"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_L10_Alihankintasopimus_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "L10_Alihankintasopimus.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.770426",
+  "processor": "systematic_batch_processor"
+}

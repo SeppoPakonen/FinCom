@@ -108,7 +108,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/DNA Digitaalinen elämä 2024_open_päivitetty.md",
-    "extraction_date": "2026-02-10T12:12:12.837194",
+    "extraction_date": "2026-02-10T12:33:15.756600",
     "entities": [
       {
         "name": "Business Entity",
@@ -192,8 +192,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:12:12.837206",
-    "last_modified": "2026-02-10T12:12:12.837207",
+    "creation_date": "2026-02-10T12:33:15.756607",
+    "last_modified": "2026-02-10T12:33:15.756608",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -233,6 +233,6 @@
       "original_file_name": "DNA Digitaalinen elämä 2024_open_päivitetty.md"
     }
   },
-  "processing_date": "2026-02-10T12:12:12.837260",
+  "processing_date": "2026-02-10T12:33:15.756656",
   "processor": "systematic_batch_processor"
 }

@@ -1,0 +1,238 @@
+{
+  "original_content": "# Song for the Order - Order Form\n\nThis is DummyMusicCompany's order form for custom songs and compositions.\n\n## 1. Basic Information\n* **Who is this piece created for?** (Choose one)\n    - [ ] For myself\n    - [ ] For a loved one\n    - [ ] For a client\n    - [ ] For a company\n    - [ ] Other: ____________________\n\n* **Subject:** Free-form description of the person or company whose story deserves to be sung.\n__________________________________________________________________________\n\n## 2. Mood and Style\n* **What mood binds the melodies together?**\n    - [ ] Romantic\n    - [ ] Melancholic\n    - [ ] Wild and electric\n    - [ ] Humor or satire\n    - [ ] Like a legal brief but musical\n    - [ ] Other: ____________________\n\n* **Essence:** Choose three adjectives that describe the spirit of the song (e.g., \"velvety\", \"anarchistic\", \"cosmic\").\n__________________________________________________________________________\n\n* **Tempo:** \n    (Slow/Drowsy) 1 --- 2 --- 3 --- 4 --- 5 (Fast/Caffeine bomb)\n\n## 3. Instrumentation\nSelect at most 3 favorite instruments:\n- [ ] Acoustic guitar (philosopher of chord progressions)\n- [ ] Electric guitar (consultant of distortion and rebellion)\n- [ ] Piano / Grand piano (elegance)\n- [ ] Electric piano / Rhodes (velvety lounge)\n- [ ] Violin (surgeon of emotions)\n- [ ] Cello (dark night train)\n- [ ] Saxophone (heart of jazz and regret)\n- [ ] Trumpet (ego and angst)\n- [ ] Drums (heartbeat)\n- [ ] Percussion (rhythmic twist)\n- [ ] Synthesizers (futuristic/neon)\n- [ ] Bass (backbone)\n- [ ] Flute (fairy dust)\n- [ ] Ukulele (sunny irony)\n- [ ] Folk instruments (roots and legends)\n- [ ] Beat machines (digital disco)\n- [ ] Other: ____________________\n\n## 4. Lyrics and Details\n* **Do you want insider references or barbs in the lyrics?**\n    - [ ] Absolutely – let the text cut\n    - [ ] Yes, but gently\n    - [ ] Only softly whispering\n    - [ ] No thanks, keep it smooth\n    - [ ] Surprise me\n\n* **Spicy detail:** Tell one \"inside joke\" that must be slipped in.\n__________________________________________________________________________\n\n## 5. Delivery and Budget\n* **Delivery format:**\n    - [ ] Digital (MP3 / WAV)\n    - [ ] Live performance\n\n* **Budget range:**\n    - [ ] Budget: 10€ (Something small)\n    - [ ] Normal: Professional service\n    - [ ] Premium: Corporate level quality\n\n* **Preview:** Do you want to hear a demo before the final mastering?\n    - [ ] Yes, send intermediate versions.\n    - [ ] No, I trust the artist.\n\n## 6. Contact Information\n* **Email address:** ________________________________________",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md",
+      "position_in_text": 53,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md",
+      "position_in_text": 124,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md",
+      "position_in_text": 29,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md",
+      "position_in_text": 122,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md",
+      "position_in_text": 2280,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md",
+      "position_in_text": 1644,
+      "related_keywords": []
+    },
+    {
+      "term": "budget",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md",
+      "position_in_text": 2101,
+      "related_keywords": []
+    },
+    {
+      "term": "Song for the Order Order Form",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md",
+    "extraction_date": "2026-02-10T12:33:15.871666",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Song_for_the_Order_Order_Form_review",
+      "title": "Song for the Order Order Form.md Review Required",
+      "description": "Document Song for the Order Order Form.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Song for the Order Order Form.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Song for the Order Order Form.md",
+    "title": "Song for the Order Order Form",
+    "description": "Documentation file: Song for the Order Order Form.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.871684",
+    "last_modified": "2026-02-10T12:33:15.871686",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 423,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "form",
+      "information",
+      "service",
+      "digital",
+      "budget",
+      "Song for the Order Order Form"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Song_for_the_Order_Order_Form_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Song for the Order Order Form.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.871742",
+  "processor": "systematic_batch_processor"
+}

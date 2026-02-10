@@ -1,0 +1,305 @@
+{
+  "original_content": "# T7: Non-Disclosure Agreement (Business Transaction)\n\nThis is a template for a non-disclosure agreement (NDA) used during the preparation phase of a business transaction to protect information being disclosed.\n\n---\n\n**PARTIES**\n1. **Disclosing Party:** [Company name], [Business ID]\n2. **Receiving Party:** [Company name / Person], [Business ID / Personal identity code]\n\n**1. PURPOSE OF THE AGREEMENT**\nThe parties are negotiating a possible business transaction or business arrangement (hereinafter \"the Arrangement\"). The Disclosing Party will provide the Receiving Party with confidential material for evaluation of the Arrangement.\n\n**2. CONFIDENTIAL INFORMATION**\nConfidential information includes all information related to the Disclosing Party's business operations, such as financial figures, customer lists, contracts, strategies, technical information, and even the existence of the negotiations themselves.\n\n**3. OBLIGATION TO MAINTAIN CONFIDENCE**\nThe Receiving Party commits to:\n* Keeping the information strictly confidential.\n* Using the information solely for evaluating the Arrangement.\n* Disclosing information only to its own employees or advisors who need to know it for implementing the Arrangement.\n* Ensuring that the aforementioned parties also comply with this agreement.\n\n**4. RETURN OR DESTRUCTION OF INFORMATION**\nIf the Arrangement does not materialize or if the Disclosing Party so requests, the Receiving Party must immediately return or demonstrably destroy all confidential material received, including copies.\n\n**5. PENALTY AND DAMAGES**\nIf the Receiving Party breaches this agreement, it is obligated to pay the Disclosing Party a penalty of [Amount] euros. The penalty does not limit the Disclosing Party's right to claim full compensation for damages exceeding the penalty amount.\n\n**6. VALIDITY**\nThis agreement enters into force upon signing and remains valid for [Number, e.g. 3] years from the disclosure of the material, regardless of whether the Arrangement is realized or not.\n\n**7. SIGNATURES**\n\n[Place and date]\n\n__________________________          __________________________\nDisclosing Party                      Receiving Party",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+      "position_in_text": 32,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+      "position_in_text": 255,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+      "position_in_text": 184,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+      "position_in_text": 184,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+      "position_in_text": 65,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+      "position_in_text": 182,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+      "position_in_text": 803,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+      "position_in_text": 764,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+      "position_in_text": 819,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+      "position_in_text": 21,
+      "related_keywords": []
+    },
+    {
+      "term": "obligation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+      "position_in_text": 926,
+      "related_keywords": []
+    },
+    {
+      "term": "valuation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+      "position_in_text": 608,
+      "related_keywords": []
+    },
+    {
+      "term": "T7 Yrityskaupan salassapitosopimus",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+    "extraction_date": "2026-02-10T12:33:15.880058",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_T7_Yrityskaupan_salassapitosopimus_review",
+      "title": "T7_Yrityskaupan_salassapitosopimus.md Review Required",
+      "description": "Document T7_Yrityskaupan_salassapitosopimus.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document T7_Yrityskaupan_salassapitosopimus.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T7_Yrityskaupan_salassapitosopimus.md",
+    "title": "T7 Yrityskaupan salassapitosopimus",
+    "description": "Documentation file: T7_Yrityskaupan_salassapitosopimus.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.880064",
+    "last_modified": "2026-02-10T12:33:15.880065",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 294,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "form",
+      "template",
+      "information",
+      "customer",
+      "operations",
+      "contract",
+      "agreement"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_T7_Yrityskaupan_salassapitosopimus_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "T7_Yrityskaupan_salassapitosopimus.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.880100",
+  "processor": "systematic_batch_processor"
+}

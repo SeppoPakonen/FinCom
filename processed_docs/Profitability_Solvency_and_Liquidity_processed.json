@@ -1,0 +1,435 @@
+{
+  "original_content": "# Profitability, Solvency and Liquidity\n\nThis document discusses the \"financial triangle\" of a company and provides practical guidelines and formulas for managing profitability.\n\n---\n\n## 1. Financial Triangle\n\n1. **Profitability:** The company's ability to generate profit. Over the long term, revenues must exceed costs.\n2. **Solvency:** The ability to fulfill commitments over the long term (own capital vs. borrowed capital).\n3. **Liquidity:** The ability to meet current payments (invoices, salaries) on time.\n\n---\n\n## 2. Components of Profitability and Pricing Range\n\n- **Price as a measure of value:** Price communicates the value of the product or service to the customer.\n- **Pricing range:**\n    - **Upper limit:** Demand (what the customer is willing to pay).\n    - **Lower limit:** Costs (what manufacturing/purchasing the product costs).\n- **Factors affecting profit:** Sales volume (capacity utilization), selling price, variable and fixed costs, and sales mix (products with different margins).\n\n---\n\n## 3. Cost Categorization\n\n| Type | Explanation | Examples |\n| :--- | :--- | :--- |\n| **Variable costs** | Depend on sales volume. | Raw materials, goods purchases, freight, contract wages. |\n| **Fixed costs** | Remain the same (in the short term). | Rent, monthly salaries, insurance, depreciation, administration. |\n| **Direct costs** | Can be directly allocated to the product. | Materials, direct labor. |\n| **Indirect costs** | General expenses that are allocated. | Premises costs, marketing, cleaning. |\n\n---\n\n## 4. Contribution Margin Analysis (Key Figures and Formulas)\n\n### Basic formulas:\n- **Contribution margin (Gross margin):** Revenue – Variable costs\n- **Contribution margin %:** (Contribution margin / Sales revenue) × 100\n- **Profit:** Contribution margin – Fixed costs\n- **Profit percentage:** (Profit / Sales revenue) × 100\n\n### Break-even point and safety margin:\n- **Break-even point (€):** (Fixed costs / Contribution margin %) × 100\n- **Break-even point (units):** Break-even point € / Selling price (excl. VAT)\n- **Safety margin:** Actual sales – Break-even sales. Indicates how much sales can decrease before losses occur.\n\n---\n\n## 5. Calculating Selling Price (Avoid Mistakes!)\n\nA common mistake is to add the margin percentage to the purchase price (multiplication). The correct method is division (margin calculation).\n\n**Correct formula (excl. VAT):**\n> **Selling price = (100 * Variable costs) / (100 - Margin percentage)**\n\n*Example: You want 35% margin on a 100 euro purchase price.*\n- *Correct: 100 / (100-35) * 100 = **153.85 €** (Margin is 53.85 € i.e. 35%).*\n- *Incorrect: 100 * 1.35 = 135 € (Margin is only 26%).*\n\n### Pricing multiplier:\n- **Multiplier:** 100 / (100 - Contribution margin %)\n- *Example: 60% margin target -> 100/40 = 2.5. Purchase price 12 € * 2.5 = 30 € (excl. VAT).*\n\n---\n\n## 6. Industry-Specific Rules of Thumb\n\n### Average gross margins:\n- Car trade: 20–25%\n- Home appliances: 20%\n- Wholesale: 28%\n- Retail: 29%\n- Grocery retail: 26–28%\n- Clothing retail: 30%\n\n### Service company hourly rate (incl. VAT):\n- **Labor-intensive:** 3 × employee's hourly wage.\n- **Equipment and supplies-intensive:** 4 × employee's hourly wage.\n\n---\n\n## 7. Capacity and Shrinkage\n\n- **Capacity:** Maximum output capacity (e.g., 2500 pcs/day).\n- **Capacity utilization:** Actual quantity (e.g., 2200 pcs -> utilization rate 88%).\n- **Shrinkage (Retail):** Theft, damage, expiration. Often around 4% of sales.\n    - *Calculation:* (Opening stock + Purchases) - Sales - Closing stock = Shrinkage.\n\n---\n\n## 8. Calculation Exercises\n\n1. **Product pricing:** Purchase price 89 €, freight 3 €. Gross margin 40%, discount reserve 15%, VAT 25.5%. Calculate shelf price.\n2. **Organic product:** Purchase price 6.90 €/kg. Margin 25%, shrinkage 10%, VAT 13.5%. Calculate shelf price.\n3. **Service:** Salary target 2000 €/month, rent 400 €, loan interest 5%, gross margin 80%, working hours 1300 h/year. Calculate hourly rate.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 95,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 46,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 141,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 670,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 655,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 975,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 10,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 882,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 1503,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 3919,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 1290,
+      "related_keywords": []
+    },
+    {
+      "term": "safety",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 1885,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 3919,
+      "related_keywords": []
+    },
+    {
+      "term": "salary",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 3843,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 1189,
+      "related_keywords": []
+    },
+    {
+      "term": "revenue",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 294,
+      "related_keywords": []
+    },
+    {
+      "term": "expense",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 1456,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "loss",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 2150,
+      "related_keywords": []
+    },
+    {
+      "term": "loan",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 3883,
+      "related_keywords": []
+    },
+    {
+      "term": "capital",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 398,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 11,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 882,
+      "related_keywords": []
+    },
+    {
+      "term": "purchase",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 1169,
+      "related_keywords": []
+    },
+    {
+      "term": "Profitability Solvency and Liquidity",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+    "extraction_date": "2026-02-10T12:33:15.865898",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Profitability_Solvency_and_Liquidity_review",
+      "title": "Profitability Solvency and Liquidity.md Review Required",
+      "description": "Document Profitability Solvency and Liquidity.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Profitability Solvency and Liquidity.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Profitability Solvency and Liquidity.md",
+    "title": "Profitability Solvency and Liquidity",
+    "description": "Documentation file: Profitability Solvency and Liquidity.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.865905",
+    "last_modified": "2026-02-10T12:33:15.865906",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 3,
+    "word_count": 613,
+    "language": "en",
+    "keywords": [
+      "company",
+      "document",
+      "form",
+      "customer",
+      "service",
+      "products",
+      "sales",
+      "marketing",
+      "working",
+      "insurance"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Profitability_Solvency_and_Liquidity_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Profitability Solvency and Liquidity.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.865965",
+  "processor": "systematic_batch_processor"
+}

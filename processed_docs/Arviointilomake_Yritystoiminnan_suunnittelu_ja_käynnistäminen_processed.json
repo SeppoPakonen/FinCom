@@ -1,0 +1,370 @@
+{
+  "original_content": "# Assessment Form: Planning and Starting Business Operations\n\n**Demonstrating Competence / Portfolio Evidence**\n\n**Module:** Planning and Starting Business Operations (60 cr)\n\n---\n\n### 1. Basic Information\n* **Student's name:** ________________________________________\n* **Demonstration location:** ___________________________________________\n  *(E.g. planned company or training placement)*\n\n---\n\n### 2. Demonstrated Competence (Criteria)\n* [ ] Creates a realistic business plan and calculations (YT4/YT5).\n* [ ] Evaluates business risks and proposes methods for their management.\n* [ ] Considers sustainability and responsibility in business operations.\n* [ ] Evaluates the significance of digitalization for company operations.\n* [ ] Makes necessary establishment notifications and ensures insurance.\n\n---\n\n### 3. Assessment Statement (Summary)\n*(This section contains a summary of the demonstrated competencies and the performance of the demonstration)*\n__________________________________________________________________________\n__________________________________________________________________________\n\n---\n\n### 4. Assessment Decision\n**The performance is:**\n- [ ] Approved\n- [ ] Failed\n\n**Date:** ____.____.20______\n\n#### Signatures:\n\n**Education Sector Representative:**\n____________________________\n*(PSK Adult Education Center)*\n\n**Working Life Representative:**\n____________________________\n\n---\n\n### 5. Acknowledgment\n**I have received the assessment decision:**\n\n**Student:**\n____________________________",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 41,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 360,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 196,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 13,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 194,
+      "related_keywords": []
+    },
+    {
+      "term": "assessment",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 50,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 19,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 32,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 1342,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 692,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 793,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 1342,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 767,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 617,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 570,
+      "related_keywords": []
+    },
+    {
+      "term": "risk",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 533,
+      "related_keywords": []
+    },
+    {
+      "term": "Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+    "extraction_date": "2026-02-10T12:33:15.749110",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Arviointilomake_Yritystoiminnan_suunnittelu_ja_käynnistäminen_review",
+      "title": "Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md Review Required",
+      "description": "Document Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+    "title": "Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen",
+    "description": "Documentation file: Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.749117",
+    "last_modified": "2026-02-10T12:33:15.749118",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 167,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "form",
+      "information",
+      "assessment",
+      "operations",
+      "planning",
+      "starting",
+      "working"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Arviointilomake_Yritystoiminnan_suunnittelu_ja_käynnistäminen_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Arviointilomake Yritystoiminnan suunnittelu ja käynnistäminen.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.749144",
+  "processor": "systematic_batch_processor"
+}

@@ -1,0 +1,252 @@
+{
+  "original_content": "# Market Research: E-commerce Study 2023 (Svea)\n\nThis study examines Finnish consumers' online shopping behavior, payment method preferences and obstacles in the purchase process.\n\n## 1. Key findings\n* **Shopping pace:** 83% of Finns made online purchases in 2022. However, growth has leveled off (\"saturation point\").\n* **Payment methods:** Finland is a nation of online banking (82% have used it). Mobile payments (MobilePay, ApplePay, etc.) are growing rapidly (+31.5% in volume).\n* **Invoice and installment payments:** Popularity is increasing especially in larger purchases. Average invoice purchase 283 €, installment payment 631 €.\n* **Average purchase:** The average across all payment methods is approximately 175 €.\n\n## 2. Why does the purchase transaction interrupt?\nAs many as 73% have abandoned a purchase. Reasons:\n1. **Shipping costs:** Too expensive or unclear.\n2. **Change of mind:** Shopping carts are often used only as \"memory lists\" or for price comparison.\n3. **Payment methods:** Desired payment method is missing (15% of interruptions).\n4. **Registration:** Mandatory account creation is considered cumbersome.\n\n## 3. Returns and sustainability\n* **Return rate:** One in three has returned a product. Clothing and footwear are the most common return categories.\n* **Domestic origin:** 95% prefer domestic online stores for reliability, security and supporting Finnish work.\n* **Responsibility:** Environmental friendliness and ethics increasingly guide more and more purchasing decisions.\n\n## 4. Tips for e-commerce merchants 2023–2026\n* **Optimize purchase path:** Make purchasing easy without mandatory registration.\n* **Show prices upfront:** Announce shipping costs and possible additional fees immediately.\n* **Diverse payment methods:** Offer online banking, cards, invoice and mobile payments.\n* **Differentiate:** Highlight your online store's competitive advantages (e.g. fast delivery, free returns, domestic origin).",
+  "keywords": [
+    {
+      "term": "registration",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md",
+      "position_in_text": 1067,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md",
+      "position_in_text": 171,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md",
+      "position_in_text": 1350,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md",
+      "position_in_text": 1361,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md",
+      "position_in_text": 1393,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md",
+      "position_in_text": 1403,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md",
+      "position_in_text": 1350,
+      "related_keywords": []
+    },
+    {
+      "term": "purchase",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md",
+      "position_in_text": 162,
+      "related_keywords": []
+    },
+    {
+      "term": "svea verkkokauppatutkimus",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md",
+    "extraction_date": "2026-02-10T12:33:15.875299",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_svea_verkkokauppatutkimus_review",
+      "title": "svea verkkokauppatutkimus.md Review Required",
+      "description": "Document svea verkkokauppatutkimus.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document svea verkkokauppatutkimus.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/svea verkkokauppatutkimus.md",
+    "title": "svea verkkokauppatutkimus",
+    "description": "Documentation file: svea verkkokauppatutkimus.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.875306",
+    "last_modified": "2026-02-10T12:33:15.875307",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 273,
+    "language": "en",
+    "keywords": [
+      "registration",
+      "process",
+      "liability",
+      "security",
+      "work",
+      "responsibility",
+      "liability",
+      "purchase",
+      "svea verkkokauppatutkimus"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_svea_verkkokauppatutkimus_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "svea verkkokauppatutkimus.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.875343",
+  "processor": "systematic_batch_processor"
+}

@@ -1,0 +1,182 @@
+{
+  "original_content": "# Practice Exercise: Word Long Document\n\nThis exercise guides you in managing Word documents, using sections, and creating automatic tables of contents.\n\n---\n\n## Exercise Steps\n\n1. **Heading numbering:** Open the file \"PRACTICE_EXERCISE\" and first create heading numbering for the document.\n2. **Preparing the table of contents:** Add a forced **section break** before the first heading to place the table of contents on its own page.\n3. **Creating the table of contents:** Create a table of contents in the document using a ready-made template (e.g., \"Official\").\n4. **Creating a cover page:**\n    - Add another section break for the cover page.\n    - Write in large font and using bold formatting on the cover page: **AB-PRACTICE**.\n    - Center the title on the page.\n    - Add a picture related to the topic above the title.\n5. **Managing sections:** The document should now have 3 separate sections:\n    - Section 1: Cover page\n    - Section 2: Table of contents\n    - Section 3: Text section\n6. **Removing header and footer links:**\n    - Go to section 2 and remove the link to the previous section (Link to Previous) from both header and footer.\n    - Repeat for section 3.\n7. **Filling in headers and footers:**\n    - **Section 2 (Table of Contents):** Add the centered text: *Table of Contents* to the header.\n    - **Section 3 (Text Section):**\n        - Add the centered text: *Computer AB Card* to the header.\n        - Add centered page numbering to the footer.\n        - Modify the page numbering to start from number 1.\n8. **Final touches:** Update the table of contents and save the finished document as **AB-Card**.",
+  "keywords": [
+    {
+      "term": "document",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Exercise Word Long Document.md",
+      "position_in_text": 31,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Exercise Word Long Document.md",
+      "position_in_text": 688,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Exercise Word Long Document.md",
+      "position_in_text": 536,
+      "related_keywords": []
+    },
+    {
+      "term": "Practice Exercise Word Long Document",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Exercise Word Long Document.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Exercise Word Long Document.md",
+    "extraction_date": "2026-02-10T12:33:15.791625",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Exercise Word Long Document.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Exercise Word Long Document.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Exercise Word Long Document.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Exercise Word Long Document.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Practice_Exercise_Word_Long_Document_review",
+      "title": "Practice Exercise Word Long Document.md Review Required",
+      "description": "Document Practice Exercise Word Long Document.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Exercise Word Long Document.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Practice Exercise Word Long Document.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Exercise Word Long Document.md",
+    "title": "Practice Exercise Word Long Document",
+    "description": "Documentation file: Practice Exercise Word Long Document.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.791632",
+    "last_modified": "2026-02-10T12:33:15.791633",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 262,
+    "language": "en",
+    "keywords": [
+      "document",
+      "form",
+      "template",
+      "Practice Exercise Word Long Document"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Practice_Exercise_Word_Long_Document_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Practice Exercise Word Long Document.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.791663",
+  "processor": "systematic_batch_processor"
+}

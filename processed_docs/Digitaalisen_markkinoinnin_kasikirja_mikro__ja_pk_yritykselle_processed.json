@@ -145,6 +145,58 @@
       "related_keywords": []
     },
     {
+      "term": "strategy",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 3481,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 910,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 3286,
+      "related_keywords": []
+    },
+    {
+      "term": "purchase",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
+      "position_in_text": 2034,
+      "related_keywords": []
+    },
+    {
       "term": "Digitaalisen markkinoinnin kasikirja mikro  ja pk yritykselle",
       "frequency": 3,
       "relevance": 0.9,
@@ -160,7 +212,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md",
-    "extraction_date": "2026-02-10T12:12:12.831282",
+    "extraction_date": "2026-02-10T12:33:15.754242",
     "entities": [
       {
         "name": "Business Entity",
@@ -244,8 +296,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:12:12.831289",
-    "last_modified": "2026-02-10T12:12:12.831290",
+    "creation_date": "2026-02-10T12:33:15.754249",
+    "last_modified": "2026-02-10T12:33:15.754250",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -287,6 +339,6 @@
       "original_file_name": "Digitaalisen markkinoinnin kasikirja mikro- ja pk-yritykselle.md"
     }
   },
-  "processing_date": "2026-02-10T12:12:12.831341",
+  "processing_date": "2026-02-10T12:33:15.755360",
   "processor": "systematic_batch_processor"
 }

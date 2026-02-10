@@ -1,0 +1,370 @@
+{
+  "original_content": "# Guide: Journey to Becoming an Entrepreneur\n\nEntrepreneurship requires the right attitude, professional skills and careful planning. This is a summary for starting an entrepreneurial path.\n\n## 1. Prerequisites for Success\n* **Business idea:** Does your company solve a customer problem?\n* **Skills:** You need both professional expertise in your field and entrepreneurial skills.\n* **Resources:** Do you have the necessary funding, networks and premises?\n* **Mindset:** You must tolerate uncertainty and take responsibility for decisions.\n\n## 2. Testing and Validating the Business Idea\n* Don't assume, test: Conduct interviews, prototypes and monitoring on social media.\n* **Metrics:** Sales, visibility and customer feedback tell whether the idea works.\n\n## 3. Different Ways to Be an Entrepreneur\n* **Business name (toiminimi):** The easiest way to start alone.\n* **Limited liability company:** The safest and most professional form for growth.\n* **Franchising:** Ready concept and chain support.\n* **Light entrepreneurship:** Invoice without your own company – good way to test an idea.\n\n## 4. Business Plan (LTS)\nA business plan is a tool that forces you to think about:\n* What do you sell and to whom?\n* How do you reach customers?\n* Is the business profitable (calculations)?\n\n---\n**Useful Links:**\n* [uusyrityskeskus.fi](https://uusyrityskeskus.fi) – Free consultation.\n* [yritystulkki.fi](https://yritystulkki.fi) – Calculation templates and guides.\n* [suomi.fi/yritykselle](https://suomi.fi/yritykselle) – Authority instructions.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 227,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 254,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 932,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 1438,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 1527,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 878,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 870,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 270,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 688,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 124,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 156,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 436,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 510,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 878,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 1257,
+      "related_keywords": []
+    },
+    {
+      "term": "funding",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 424,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 688,
+      "related_keywords": []
+    },
+    {
+      "term": "Minustako yrittäjä tiivistelmä syksy24 1",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+    "extraction_date": "2026-02-10T12:33:15.784597",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Minustako_yrittäjä_tiivistelmä_syksy24_1_review",
+      "title": "Minustako yrittäjä_tiivistelmä_syksy24-1.md Review Required",
+      "description": "Document Minustako yrittäjä_tiivistelmä_syksy24-1.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Minustako yrittäjä_tiivistelmä_syksy24-1.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+    "title": "Minustako yrittäjä tiivistelmä syksy24 1",
+    "description": "Documentation file: Minustako yrittäjä_tiivistelmä_syksy24-1.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.784604",
+    "last_modified": "2026-02-10T12:33:15.784605",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 217,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "form",
+      "template",
+      "instructions",
+      "liability",
+      "limited",
+      "customer",
+      "sales",
+      "planning"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Minustako_yrittäjä_tiivistelmä_syksy24_1_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Minustako yrittäjä_tiivistelmä_syksy24-1.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.784635",
+  "processor": "systematic_batch_processor"
+}

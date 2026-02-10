@@ -1,0 +1,409 @@
+{
+  "original_content": "# Notification of Changes to Company Information in the Trade Register\n\n[Log in to the YTJ service\n![](PRH%20-%20Yrityksen%20muutokset%20_%20PRH_tiedostot/nuoli-vaaleansininen.png)](https://asiointi.ytj.fi/ytjap)\n\nNotify the Trade Register without delay when there are changes to the company's registered information.\n\nWe recommend first checking the company's current registered information from the Trade Register extract. This way you can see what information needs to be changed. Download the free Trade Register extract by searching for company information in the [Virre information service. Opens in a new tab](https://virre.prh.fi/novus/home?userLang=en)\n\nWe advise and assist you with matters related to filing in the Trade Register.\n\nFor help developing your business operations, contact your local [New Enterprise Centers Opens in a new tab](https://uusyrityskeskus.fi/) or get information from [Suomi.fi website Opens in a new tab](https://www.suomi.fi/yritykselle). Tax matters are handled at the [Tax Administration Opens in a new tab](https://www.vero.fi/yritykset-ja-yhteisot/).\n\n## On this page:\n\n* [File changes electronically: see instructions in the menu](#when-to-file-notification)\n* [Update beneficial ownership information](#update-beneficial-ownership-information)\n* [File financial statements in the Trade Register after the financial period ends](#file-financial-statements-in-the-trade-register-after-the-financial-period-ends)\n* [How do you track the processing of your notification?](#how-do-you-track-the-processing-of-your-notification-at-prh)\n\n## File changes electronically: see instructions in the menu\n\nStarting from 2026, companies must file notifications and applications to the Trade Register electronically. This change does not affect business name entrepreneurs (private entrepreneurs) or associations and foundations. Read more about [mandatory electronic filing.](https://www.prh.fi/en/companiesandorganisations/mandatory-electronic-filing-trade-register.html)\n\nMake the notification in the [YTJ service Opens in a new tab](https://asiointi.ytj.fi/ytjap) if possible. The YTJ service allows you to file common changes to the most common company forms in the Trade Register. See [notifications that can be made in the YTJ service on the ytj.fi website. Opens in a new tab](https://www.ytj.fi/index/en/filing-notifications-in-the-ytj-service/company-forms-in-the-ytj-service.html)\n\nIf you cannot file in the YTJ service, make the notification using one of the [Trade Register's online forms.](https://www.prh.fi/en/forms_1/forms_6.html#how-to-file-using-an-online-form)\n\nYou can find the instructions for filing in the menu by company form.\n\n## Update beneficial ownership information\n\nFile a notification when there are changes in the company's ownership or control. [Read more: Beneficial ownership notification to the Trade Register.](https://www.prh.fi/en/companiesandorganisations/beneficial-ownership-information.html)\n\n## File financial statements in the Trade Register after the financial period ends\n\nMost companies must file their financial statements in the Trade Register after the financial period has ended. [Read the instructions: Financial statements to the Trade Register.](https://www.prh.fi/en/companiesandorganisations/financial-statements.html)\n\n## How do you track the processing of your notification?\n\nReview the [Trade Register's processing times.](https://www.prh.fi/en/processing-times/processing-times.html)\n\nYou can track the status of the notification you sent to PRH in the [Virre information service notification search. Opens in a new tab](https://virre.prh.fi/novus/tradeNoticeSearch?userLang=en)\n\n[Printable version](javascript:window.print())\nLast updated 22.01.2026\n\n* [Companies and Organizations](https://www.prh.fi/en/companiesandorganisations.html)\n* Company Changes\n\n  + [Private entrepreneur (business name entrepreneur)](https://www.prh.fi/en/companiesandorganisations/companychanges/private-entrepreneur-change-notification.html)\n  + [Limited liability company](https://www.prh.fi/en/companiesandorganisations/companychanges/limited-liability-company-change-notification_1.html)\n  + [Branch](https://www.prh.fi/en/companiesandorganisations/companychanges/branch-change-notification.html)\n  + [Cooperative](https://www.prh.fi/en/companiesandorganisations/companychanges/cooperative-change-notification.html)\n  + [General partnership and limited partnership](https://www.prh.fi/en/companiesandorganisations/companychanges/general-partnership-and-limited-partnership-change-notification.html)\n  + [Apartment company](https://www.prh.fi/en/companiesandorganisations/companychanges/apartment-company-change-notification.html)\n  + [Mutual real estate company](https://www.prh.fi/en/companiesandorganisations/companychanges/change-notification_1_1.html)",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 768,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 21,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 29,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 39,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 978,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 1479,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 19,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 39,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 37,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 1149,
+      "related_keywords": []
+    },
+    {
+      "term": "association",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 1830,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 4028,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 4020,
+      "related_keywords": []
+    },
+    {
+      "term": "cooperative",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 4278,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 91,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 777,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 1638,
+      "related_keywords": []
+    },
+    {
+      "term": "partnership",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 4405,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 1696,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 21,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "control",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 2800,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 4028,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Yrityksen muutokset   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+    "extraction_date": "2026-02-10T12:33:15.838249",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Yrityksen_muutokset___PRH_review",
+      "title": "PRH - Yrityksen muutokset _ PRH.md Review Required",
+      "description": "Document PRH - Yrityksen muutokset _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Yrityksen muutokset _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yrityksen muutokset _ PRH.md",
+    "title": "PRH   Yrityksen muutokset   PRH",
+    "description": "Documentation file: PRH - Yrityksen muutokset _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.838256",
+    "last_modified": "2026-02-10T12:33:15.838256",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 448,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "tax",
+      "process",
+      "form",
+      "information",
+      "instructions",
+      "association",
+      "liability"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Yrityksen_muutokset___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Yrityksen muutokset _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.838307",
+  "processor": "systematic_batch_processor"
+}

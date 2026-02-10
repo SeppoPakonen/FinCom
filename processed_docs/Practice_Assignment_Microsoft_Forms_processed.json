@@ -1,0 +1,238 @@
+{
+  "original_content": "# Practice Assignment: Microsoft Forms\n\nThe objective of this assignment is to learn how to build and manage digital survey forms using the Microsoft Forms tool.\n\n## Assignment Steps\n\n### 1. Creating the Form\n* Log in to the Microsoft 365 service and open **Forms**.\n* Select **New form** (do not use a ready-made template).\n* Give the form a descriptive name (e.g., *Customer Satisfaction Survey* or *Registration Form*).\n\n### 2. Questions and Types\n* Create at least **10 questions**.\n* Use at least **four different question types**:\n    1. Choice\n    2. Text\n    3. Rating\n    4. Date or Likert scale.\n\n### 3. Appearance and Settings\n* Customize the survey's **style** (theme, colors, or background image).\n* Customize the **thank you message** that appears to the respondent after submission.\n* Adjust settings so that you receive an **email notification** for each new response.\n\n### 4. Sharing and Analysis\n* Send the survey to at least two people.\n* View the received responses using the *Responses* tab in the Forms service.",
+  "keywords": [
+    {
+      "term": "registration",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md",
+      "position_in_text": 402,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md",
+      "position_in_text": 33,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md",
+      "position_in_text": 314,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md",
+      "position_in_text": 368,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md",
+      "position_in_text": 239,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md",
+      "position_in_text": 109,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md",
+      "position_in_text": 847,
+      "related_keywords": []
+    },
+    {
+      "term": "Practice Assignment Microsoft Forms",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md",
+    "extraction_date": "2026-02-10T12:33:15.790822",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Practice_Assignment_Microsoft_Forms_review",
+      "title": "Practice Assignment Microsoft Forms.md Review Required",
+      "description": "Document Practice Assignment Microsoft Forms.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Practice Assignment Microsoft Forms.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Practice Assignment Microsoft Forms.md",
+    "title": "Practice Assignment Microsoft Forms",
+    "description": "Documentation file: Practice Assignment Microsoft Forms.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.790829",
+    "last_modified": "2026-02-10T12:33:15.790830",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 168,
+    "language": "en",
+    "keywords": [
+      "registration",
+      "form",
+      "template",
+      "customer",
+      "service",
+      "digital",
+      "notification",
+      "Practice Assignment Microsoft Forms"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Practice_Assignment_Microsoft_Forms_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Practice Assignment Microsoft Forms.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.790856",
+  "processor": "systematic_batch_processor"
+}

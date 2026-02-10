@@ -1,0 +1,266 @@
+{
+  "original_content": "# PRH: Financial Statements of a Branch Office\n\nA foreign company's branch office located in Finland must file its financial statements in the Trade Register annually.\n\n## 1. Timeline\n* **Deadline:** Within 6 months of the end of the financial year.\n* **EEA Exception:** If the parent company's home country (EEA country) law allows more time, that time frame is followed.\n\n## 2. Documents to be Filed\n* **EU Regulation Compliant:** If the parent company follows EU financial statement standards, the parent company's official financial statements must be filed (translated into an EU language).\n* **Others:** If the parent company does not follow EU standards, the branch office must file its own financial statements prepared according to Finnish law.\n\n## 3. Filing\n* **Method:** Electronically in the YTJ service.\n* **Signatory:** The branch office's representative or person authorized to sign the business name.\n* **Cost:** Free of charge.\n\n---\n**Note:** All attachments are public. Do not include personal identity codes or sensitive information in them.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+      "position_in_text": 902,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+      "position_in_text": 58,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+      "position_in_text": 1042,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+      "position_in_text": 380,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+      "position_in_text": 1042,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+      "position_in_text": 1040,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+      "position_in_text": 808,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+      "position_in_text": 486,
+      "related_keywords": []
+    },
+    {
+      "term": "regulation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+      "position_in_text": 409,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Sivuliike   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+    "extraction_date": "2026-02-10T12:33:15.811175",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Sivuliike___PRH_review",
+      "title": "PRH - Sivuliike _ PRH.md Review Required",
+      "description": "Document PRH - Sivuliike _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Sivuliike _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Sivuliike _ PRH.md",
+    "title": "PRH   Sivuliike   PRH",
+    "description": "Documentation file: PRH - Sivuliike _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.811181",
+    "last_modified": "2026-02-10T12:33:15.811182",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 165,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "document",
+      "form",
+      "information",
+      "service",
+      "standard",
+      "regulation",
+      "PRH   Sivuliike   PRH"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Sivuliike___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Sivuliike _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.811207",
+  "processor": "systematic_batch_processor"
+}

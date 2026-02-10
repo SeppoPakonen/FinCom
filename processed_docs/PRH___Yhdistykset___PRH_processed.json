@@ -1,0 +1,292 @@
+{
+  "original_content": "# Associations\n\n[Electronic service in Suomi.fi identification\n![](PRH%20-%20Yhdistykset%20_%20PRH_tiedostot/nuoli-vaaleansininen.png)](https://asiointi.prh.fi/yhdistys)\n\nPRH maintains an association register in which information concerning registered associations is recorded. The register includes, for example, the association's bylaws and authorized signatories, i.e. persons who have the right to act on behalf of the association. [Read more about the association register.](https://www.prh.fi/fi/yrityksetjayhteisot/yhdistysrekisteri/yhdistysrekisterin_esittely.html)\n\n## How do you report to the association register?\n\n​The founders of an association and registered associations have their own reporting instructions, which you can find in the menu. When you submit a notification electronically, you save time and money. [Log in to the Association Register's electronic service in Suomi.fi identification. Opens in a new tab](https://asiointi.prh.fi/yhdistys)​\n\nReligious communities as well as the Central Chamber of Commerce and chambers of commerce submit notifications on paper forms. You can find the reporting instructions in the menu.\n\nWhen planning to submit a notification, you can familiarize yourself in advance with the estimated processing time. [Go to the estimated processing time.](https://www.prh.fi/fi/kasittelyajat/kasittelyaika_ja_oman_ilmoituksen_kasittelyn_seuranta.html)\n\n## How do you track the processing of your notification?\n\nYou can monitor the status of your notification in our electronic service on the association's page. [Log in to the Association Register's electronic service in Suomi.fi identification. Opens in a new tab](https://asiointi.prh.fi/yhdistys)​\n\n## How do you get register extracts, bylaws and other association information?\n\nYou can find register information on associations, chambers of commerce and religious communities in the association register's information service.\n\nYou can purchase from the association register's information service a register extract and the bylaws that have been registered since 2011.\n\n[Go to the Association Register information service. Opens in a new tab](https://yhdistysrekisteri.prh.fi/)\n\n## Request action or report an error\n\nIf the association's information has been registered differently than you notified, report the error to us or request action using an online form. [Read more and go to report an error.](https://www.prh.fi/fi/prh_yhteystiedot/asiakaspalvelu_1/toimenpidejavirheyhdistysasioissa.html)​",
+  "keywords": [
+    {
+      "term": "formation",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+      "position_in_text": 220,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+      "position_in_text": 1250,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+      "position_in_text": 220,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+      "position_in_text": 218,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+      "position_in_text": 711,
+      "related_keywords": []
+    },
+    {
+      "term": "association",
+      "frequency": 18,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+      "position_in_text": 28,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+      "position_in_text": 1156,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+      "position_in_text": 589,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+      "position_in_text": 775,
+      "related_keywords": []
+    },
+    {
+      "term": "purchase",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+      "position_in_text": 1941,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Yhdistykset   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+    "extraction_date": "2026-02-10T12:33:15.831807",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Yhdistykset___PRH_review",
+      "title": "PRH - Yhdistykset _ PRH.md Review Required",
+      "description": "Document PRH - Yhdistykset _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Yhdistykset _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhdistykset _ PRH.md",
+    "title": "PRH   Yhdistykset   PRH",
+    "description": "Documentation file: PRH - Yhdistykset _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.831814",
+    "last_modified": "2026-02-10T12:33:15.831815",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 302,
+    "language": "en",
+    "keywords": [
+      "formation",
+      "process",
+      "form",
+      "information",
+      "instructions",
+      "association",
+      "service",
+      "planning",
+      "report",
+      "notification"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Yhdistykset___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Yhdistykset _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.831854",
+  "processor": "systematic_batch_processor"
+}

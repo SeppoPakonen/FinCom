@@ -48,7 +48,7 @@ Process this documentation file to add:
 - Check for cross-references with other documents
 
 ## Notes
-- This file is part of the Finnish Business Operations Repository (English version)
+- This file is part of the Finnish Business Operations Repository (English content with Finnish context)
 - All processing should maintain Finnish business context while using English for system elements
 - Follow the same pattern as previously processed files
 - Ensure ECS elements properly represent the business concepts in the document

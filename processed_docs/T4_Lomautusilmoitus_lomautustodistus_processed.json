@@ -1,0 +1,266 @@
+{
+  "original_content": "# Template: Lay-off Notification and Certificate\n\nThis form is used to notify about an employee's lay-off and as a lay-off certificate for unemployment fund purposes.\n\n## Lay-off Notification\n\n### 1. Basic Information\n* **Employer:** ____________________________________\n* **Employee:** ____________________________________\n\n### 2. Lay-off Details\n* **Type of lay-off:** [Full-time / Reduced working week]\n* **Start date:** ____.____.20______\n* **End date:** ____.____.20______ (or: [Until further notice])\n* **Reason for lay-off:** __________________________________________________\n* **Notification given on:** ____.____.20______\n\n---\n\n## Lay-off Certificate\n*(To be filled when lay-off begins for applying unemployment benefits)*\n\nThe employer certifies that the above-mentioned employee has been laid off as notified. The employment relationship remains in effect.\n\n---\n**Place and date:** ____________________, ______.______.20______\n\n**Employer's signature:**\n__________________________\n*(Name and position)*",
+  "keywords": [
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+      "position_in_text": 208,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+      "position_in_text": 55,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+      "position_in_text": 206,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+      "position_in_text": 392,
+      "related_keywords": []
+    },
+    {
+      "term": "employment",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+      "position_in_text": 141,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+      "position_in_text": 392,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+      "position_in_text": 722,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+      "position_in_text": 20,
+      "related_keywords": []
+    },
+    {
+      "term": "T4 Lomautusilmoitus lomautustodistus",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+    "extraction_date": "2026-02-10T12:33:15.877953",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_T4_Lomautusilmoitus_lomautustodistus_review",
+      "title": "T4_Lomautusilmoitus-lomautustodistus.md Review Required",
+      "description": "Document T4_Lomautusilmoitus-lomautustodistus.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document T4_Lomautusilmoitus-lomautustodistus.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/T4_Lomautusilmoitus-lomautustodistus.md",
+    "title": "T4 Lomautusilmoitus lomautustodistus",
+    "description": "Documentation file: T4_Lomautusilmoitus-lomautustodistus.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.877960",
+    "last_modified": "2026-02-10T12:33:15.877961",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 118,
+    "language": "en",
+    "keywords": [
+      "formation",
+      "form",
+      "template",
+      "information",
+      "working",
+      "employment",
+      "work",
+      "benefit",
+      "notification",
+      "T4 Lomautusilmoitus lomautustodistus"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_T4_Lomautusilmoitus_lomautustodistus_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "T4_Lomautusilmoitus-lomautustodistus.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.877983",
+  "processor": "systematic_batch_processor"
+}

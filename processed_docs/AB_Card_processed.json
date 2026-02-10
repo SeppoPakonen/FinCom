@@ -106,6 +106,32 @@
       "related_keywords": []
     },
     {
+      "term": "management",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/AB-Card.md",
+      "position_in_text": 609,
+      "related_keywords": []
+    },
+    {
+      "term": "flow",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/AB-Card.md",
+      "position_in_text": 1303,
+      "related_keywords": []
+    },
+    {
       "term": "AB Card",
       "frequency": 3,
       "relevance": 0.9,
@@ -121,7 +147,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/AB-Card.md",
-    "extraction_date": "2026-02-10T12:12:12.828266",
+    "extraction_date": "2026-02-10T12:33:15.746870",
     "entities": [
       {
         "name": "Business Entity",
@@ -205,8 +231,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:12:12.828274",
-    "last_modified": "2026-02-10T12:12:12.828275",
+    "creation_date": "2026-02-10T12:33:15.746877",
+    "last_modified": "2026-02-10T12:33:15.746878",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -227,7 +253,8 @@
       "security",
       "work",
       "report",
-      "AB Card"
+      "management",
+      "flow"
     ],
     "related_entities": [
       "Business Entity"
@@ -247,6 +274,6 @@
       "original_file_name": "AB-Card.md"
     }
   },
-  "processing_date": "2026-02-10T12:12:12.828304",
+  "processing_date": "2026-02-10T12:33:15.746905",
   "processor": "systematic_batch_processor"
 }

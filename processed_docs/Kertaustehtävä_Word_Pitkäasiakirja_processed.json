@@ -1,0 +1,196 @@
+{
+  "original_content": "# Practice Task: Word Long Document\n\nThis task guides you in managing Word documents, using sections, and creating automatic lists.\n\n---\n\n## Steps of the Task\n\n1. **Heading numbering:** Open the file \"PRACTICE_TASK\" and first create heading numbering for the document.\n2. **Preparing the table of contents:** Add a forced **section break** before the first heading for the table of contents that will appear on its own page.\n3. **Creating the table of contents:** Create a table of contents in the document using a ready-made template (e.g. \"Official\").\n4. **Creating a cover page:**\n    - Add another section break for the cover page.\n    - Write in large font and using bold formatting on the cover page: **AB REVIEW**.\n    - Center the title on the page.\n    - Add a picture related to the topic above the title.\n5. **Section management:** The document should now have 3 separate sections:\n    - Section 1: Cover page\n    - Section 2: Table of contents\n    - Section 3: Text portion\n6. **Removing header and footer links:**\n    - Go to section 2 and remove the link to the previous section (Link to Previous) from both the header and footer.\n    - Repeat the same for section 3.\n7. **Filling in headers and footers:**\n    - **Section 2 (Table of Contents):** Add the text *Table of Contents* to the center of the header.\n    - **Section 3 (Text portion):**\n        - Add the text *Computer AB-card* to the center of the header.\n        - Add page numbering to the center of the footer.\n        - Modify the page numbering to start from number 1.\n8. **Finalizing:** Update the table of contents and save the completed document as **AB-card**.",
+  "keywords": [
+    {
+      "term": "document",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+      "position_in_text": 27,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+      "position_in_text": 677,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+      "position_in_text": 526,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+      "position_in_text": 829,
+      "related_keywords": []
+    },
+    {
+      "term": "Kertaustehtävä Word Pitkäasiakirja",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+    "extraction_date": "2026-02-10T12:33:15.769910",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Kertaustehtävä_Word_Pitkäasiakirja_review",
+      "title": "Kertaustehtävä Word Pitkäasiakirja.md Review Required",
+      "description": "Document Kertaustehtävä Word Pitkäasiakirja.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Kertaustehtävä Word Pitkäasiakirja.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Kertaustehtävä Word Pitkäasiakirja.md",
+    "title": "Kertaustehtävä Word Pitkäasiakirja",
+    "description": "Documentation file: Kertaustehtävä Word Pitkäasiakirja.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.769917",
+    "last_modified": "2026-02-10T12:33:15.769917",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 272,
+    "language": "en",
+    "keywords": [
+      "document",
+      "form",
+      "template",
+      "management",
+      "Kertaustehtävä Word Pitkäasiakirja"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Kertaustehtävä_Word_Pitkäasiakirja_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Kertaustehtävä Word Pitkäasiakirja.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.769947",
+  "processor": "systematic_batch_processor"
+}

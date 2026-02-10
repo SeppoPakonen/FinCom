@@ -184,6 +184,32 @@
       "related_keywords": []
     },
     {
+      "term": "loan",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/elo_vinkit_vanhempainvapaa_040920.md",
+      "position_in_text": 1712,
+      "related_keywords": []
+    },
+    {
+      "term": "funding",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/elo_vinkit_vanhempainvapaa_040920.md",
+      "position_in_text": 1703,
+      "related_keywords": []
+    },
+    {
       "term": "elo vinkit vanhempainvapaa 040920",
       "frequency": 3,
       "relevance": 0.9,
@@ -199,7 +225,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/elo_vinkit_vanhempainvapaa_040920.md",
-    "extraction_date": "2026-02-10T12:12:12.839944",
+    "extraction_date": "2026-02-10T12:33:15.757186",
     "entities": [
       {
         "name": "Business Entity",
@@ -283,8 +309,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:12:12.839951",
-    "last_modified": "2026-02-10T12:12:12.839952",
+    "creation_date": "2026-02-10T12:33:15.757193",
+    "last_modified": "2026-02-10T12:33:15.757193",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -326,6 +352,6 @@
       "original_file_name": "elo_vinkit_vanhempainvapaa_040920.md"
     }
   },
-  "processing_date": "2026-02-10T12:12:12.839998",
+  "processing_date": "2026-02-10T12:33:15.757240",
   "processor": "systematic_batch_processor"
 }

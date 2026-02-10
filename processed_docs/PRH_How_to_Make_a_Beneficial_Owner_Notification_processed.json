@@ -1,0 +1,266 @@
+{
+  "original_content": "# PRH: How to Make a Beneficial Owner Notification?\n\nThe beneficial owner notification is made electronically in the YTJ service. The notification is free of charge and mandatory for most companies.\n\n## 1. Step-by-step instructions\n1. **Log in:** Go to [asiointi.ytj.fi](https://asiointi.ytj.fi/ytjap) and select \"Beneficial owners\".\n2. **Business ID:** Enter the company's Business ID.\n3. **Confirmation:** Confirm your right to make the notification.\n4. **Add beneficial owner:** Enter the beneficial owner's name and SSN.\n    - **Ownership share:** Must be at least 25.01%.\n    - If the person does not have a Finnish SSN, attach a copy of the passport.\n5. **Submit:** Sign and submit the notification.\n\n## 2. Special situations\n* **No beneficial owners:** If no one owns more than 25% or if they are unknown, the board/members with responsibility are reported as beneficial owners.\n* **Paper form:** Only possible in exceptional cases (e.g., if YTJ does not support the company form or no one has electronic identification).\n\n## 3. Signing\nThe notification can be signed by a board member, managing director, or authorized agent (e.g., accounting firm). The authorization must be given within the YTJ service.\n\n---\n**Monitoring:** After registration, PRH sends the beneficial owner extract by post or it appears in the Virre service.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+      "position_in_text": 339,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+      "position_in_text": 364,
+      "related_keywords": []
+    },
+    {
+      "term": "registration",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+      "position_in_text": 1241,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+      "position_in_text": 896,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+      "position_in_text": 219,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+      "position_in_text": 121,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+      "position_in_text": 855,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+      "position_in_text": 38,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+      "position_in_text": 836,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH How to Make a Beneficial Owner Notification",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+    "extraction_date": "2026-02-10T12:33:15.850446",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH_How_to_Make_a_Beneficial_Owner_Notification_review",
+      "title": "PRH How to Make a Beneficial Owner Notification.md Review Required",
+      "description": "Document PRH How to Make a Beneficial Owner Notification.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH How to Make a Beneficial Owner Notification.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH How to Make a Beneficial Owner Notification.md",
+    "title": "PRH How to Make a Beneficial Owner Notification",
+    "description": "Documentation file: PRH How to Make a Beneficial Owner Notification.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.850454",
+    "last_modified": "2026-02-10T12:33:15.850454",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 204,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "registration",
+      "form",
+      "instructions",
+      "service",
+      "report",
+      "notification",
+      "responsibility",
+      "PRH How to Make a Beneficial Owner Notification"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH_How_to_Make_a_Beneficial_Owner_Notification_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH How to Make a Beneficial Owner Notification.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.850483",
+  "processor": "systematic_batch_processor"
+}

@@ -1,0 +1,500 @@
+{
+  "original_content": "# Shareholder and Partnership Agreement (Template)\n\nThis is a template for an agreement between the owners of a company. The agreement determines the relationships between the owners and their relationship to the company.\n\n---\n\n## Instructions and Notes\n- **When to prepare:** Always when the company has multiple shareholders, new shareholders are brought in, or a shareholder changes.\n- **Purpose:** To help resolve problematic situations in advance (e.g., disagreements in 50/50 ownership).\n- **Connection to articles of association:** If a redemption clause is included in the agreement, it must also be mentioned in the articles of association.\n- **Contract freedom:** There are no direct regulations on shareholder agreements in legislation; however, they are restricted by the law on legal acts, limited liability companies act, and employment contract act.\n\n---\n\n## Contracting Parties and Purpose\n\n- **Company name:**      \n- **Purpose of the agreement:** To agree on management, ownership, and business operations. Owners commit to fulfilling the objectives of the business plan attached as an appendix.\n- **Use of results:** The company's results are used up to       euros primarily to secure operations and increase net assets.\n\n---\n\n## 1. Shareholders' Roles and Obligations\n\n- **Division of work:** (Define roles and responsibilities)      \n- **Non-compete clause:** Defined separately for each. Usually 6 or 12 months for those in an employment relationship.\n- **Other obligations:** Each shareholder must prepare:\n    - Power of attorney for representation.\n    - Prenuptial agreement (company assets outside marriage).\n    - Will (limiting spouse's rights as heir).\n\n---\n\n## 2. Compensation and Benefits\n\n- **Salaries and fringe benefits:** (Define principles)      \n- **Use of assets:** Use of the company's assets for personal needs and compensation to be paid for it.\n- **Family members:** Principles for hiring family members to the company.\n\n---\n\n## 3. Absences\n\n- Agreeing and notifying annual leave.\n- Compensation for sick leave and other absences and use of substitute workforce.\n\n---\n\n## 4. Decision-making and Management\n\n- **Shareholders' meeting:** Division of board seats and making proposals.\n- **Board of directors:** Selection of chairperson and meeting requirements.\n- **Unanimity vs. majority:**\n    - Investments (fixed assets/investment) up to       euros require [ ] unanimity / [ ] 2/3 majority.\n\n---\n\n## 5. Financing\n\n- Obligation to provide guarantees on behalf of the company.\n- Continuing financing obligation (capital loans, increase of share capital).\n- Terms for providing shareholder loans.\n\n---\n\n## 6. Rights Related to Shares\n\n- **Pledge prohibition:** Pledging shares prohibited without permission.\n- **Right of first refusal:** Consistent with the articles of association.\n- **Tag-along right:** Right to sell shares at the same price if the majority is sold.\n- **Drag-along obligation:** Obligation to sell shares if the majority is sold.\n\n---\n\n## 7. Leaving Ownership and Redemption\n\n- **Separation:** Obligation to divest shares, e.g., due to competing business, criminal activity, or misconduct.\n- **Price in disability:**      \n- **Price in case of death:** Fair price (tax authority's calculation method).\n- **Price when breaching agreement:** 1/3 of fair price.\n- **Deadlock (50/50 situation):** Resolved by tender procedure (A offers B at price X; if B does not buy, they must sell their shares to A at the same price). The offeror is drawn by lot.\n\n---\n\n## 8. Other Provisions\n\n- **Damages:** A one-time compensation of       euros payable for breach of contract.\n- **Resolution of disputes:** Primarily negotiations. If no resolution is reached within    months, an external mediator is used (decision binding).\n\n---\n\n## Signatures\nThis agreement has been prepared in    copies of identical content. Presenting the agreement to outsiders is prohibited.\n\n**Place and date:**      ,    .    . 202  \n\n**Shareholders:**  \n____________________________  \n____________________________  \n____________________________\n\n---\n**Attachments:**\n1. Business plan\n2. Employment contracts",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 1004,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 112,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 3228,
+      "related_keywords": []
+    },
+    {
+      "term": "requirements",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 2289,
+      "related_keywords": []
+    },
+    {
+      "term": "procedure",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 3375,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 41,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 231,
+      "related_keywords": []
+    },
+    {
+      "term": "association",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 524,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 811,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 803,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 1013,
+      "related_keywords": []
+    },
+    {
+      "term": "guarantee",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 2484,
+      "related_keywords": []
+    },
+    {
+      "term": "regulation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 694,
+      "related_keywords": []
+    },
+    {
+      "term": "employment",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 840,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 1306,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 1713,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 654,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 11,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 30,
+      "related_keywords": []
+    },
+    {
+      "term": "partnership",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 18,
+      "related_keywords": []
+    },
+    {
+      "term": "shareholder",
+      "frequency": 10,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "obligation",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 1277,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 977,
+      "related_keywords": []
+    },
+    {
+      "term": "asset",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 1233,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 811,
+      "related_keywords": []
+    },
+    {
+      "term": "investment",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 2339,
+      "related_keywords": []
+    },
+    {
+      "term": "loan",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 2564,
+      "related_keywords": []
+    },
+    {
+      "term": "capital",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 2556,
+      "related_keywords": []
+    },
+    {
+      "term": "Shareholder and Partnership Agreement Template",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+    "extraction_date": "2026-02-10T12:33:15.870830",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Shareholder_and_Partnership_Agreement_Template_review",
+      "title": "Shareholder and Partnership Agreement Template.md Review Required",
+      "description": "Document Shareholder and Partnership Agreement Template.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Shareholder and Partnership Agreement Template.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Shareholder and Partnership Agreement Template.md",
+    "title": "Shareholder and Partnership Agreement Template",
+    "description": "Documentation file: Shareholder and Partnership Agreement Template.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.870837",
+    "last_modified": "2026-02-10T12:33:15.870838",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 599,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "tax",
+      "requirements",
+      "procedure",
+      "template",
+      "instructions",
+      "association",
+      "liability",
+      "limited"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Shareholder_and_Partnership_Agreement_Template_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Shareholder and Partnership Agreement Template.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.870904",
+  "processor": "systematic_batch_processor"
+}

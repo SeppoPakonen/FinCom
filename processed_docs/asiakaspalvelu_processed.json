@@ -1,0 +1,422 @@
+{
+  "original_content": "# Customer Service and Customer Satisfaction\n\nThis document addresses quality factors of customer service, the formation of customer satisfaction, complaint handling and measuring customer experience.\n\n---\n\n## 1. Quality and Starting Points of Customer Service\n\nAt its best, customer service is mutual interaction that begins with identifying the customer's needs (asking and listening).\n\n### Overall Service Quality\nService quality is divided into two main parts:\n- **Technical quality:** What does the customer get when using the service?\n- **Functional quality:** How does the cooperation between the service provider and the customer proceed?\n\n### Other Quality Factors\n- **Initiative:** Taking action when noticing the customer's need.\n- **Care and Problem-solving:** Especially in B2B, the customer should feel that the company wants to help them specifically.\n- **Normalization:** Predefining problematic situations; who responds and how the situation is resolved.\n\n---\n\n## 2. Customer Satisfaction\n\nCustomer satisfaction is an individual experience that arises from comparing expectations, promises made and the actual situation. It is part of the company's intangible assets.\n\n### Factors affecting satisfaction:\n- Quality of the product and service.\n- Competitive pricing and ease of doing business.\n- Pleasant, fast, friendly and competent service.\n- Proper handling of complaints.\n- Openness and honesty.\n\n**Tip:** Keep expectations at the right level from the beginning so the company can fulfill them.\n\n---\n\n## 3. Working at the Customer Interface\n\n### What does the customer expect?\n- Reliability, expertise and advice.\n- Comprehensive service.\n- Ease of decision-making (clear options).\n\n**Remember:** Every company representative who interacts with customers is a salesperson, marketer, consultant and advisor.\n\n### Characteristics of Good Customer Service:\n- Credibility, reliability and security.\n- Accessibility and friendliness.\n- Situation awareness (customer knows where things stand).\n- **Empowerment:** Employees have the authority to make decisions that benefit the customer independently.\n\n---\n\n## 4. Complaint Handling\n\nAn effective complaint process is an opportunity to turn a bad experience into a win. Management must always be responsible and committed to handling complaints.\n\n### 5 Steps to Successful Complaint Handling:\n1. **Thank for the feedback:** It is valuable information.\n2. **Acknowledge the customer's experience:** Listen and learn. Don't deny or belittle the experience.\n3. **Admit the mistake:** Apologize and ask for forgiveness, even if you are not personally responsible.\n4. **Act in the customer's favor:** Do something concrete (the compensation doesn't need to be large). Show that the matter is taken seriously.\n5. **Respond quickly:** Fast and personal contact shows caring.\n\n---\n\n## 5. Customer Service Metrics\n\nChoose metrics based on what you want to understand:\n\n| Metric | Full Name | What it measures? | Considerations |\n| :--- | :--- | :--- | :--- |\n| **NPS** | Net Promoter Score | Recommendation rate (scale 0–10). | Quick, but doesn't reveal details of emotional experience. |\n| **CES** | Customer Effort Score | Ease of doing business. | Extremely important selection criterion for the customer. |\n| **CSAT** | Customer Satisfaction | Satisfaction after a specific encounter. | Reveals short-term success. |\n| **CTT** | Customer Touchpoint Tracking | Emotional trace at different contact points. | Deep understanding of what affected the emotion. |\n\n**Most important:** Measurement results must be usable in daily operations. Make giving feedback easy through multiple different channels.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 1300,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 826,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 111,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 2171,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 51,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 111,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 2403,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 1602,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 27,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 13,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 11,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 1781,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 3582,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 225,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 1528,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 1906,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 1528,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 2080,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 2234,
+      "related_keywords": []
+    },
+    {
+      "term": "asset",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 1177,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 1602,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 1781,
+      "related_keywords": []
+    },
+    {
+      "term": "asiakaspalvelu",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+    "extraction_date": "2026-02-10T12:33:15.750910",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_asiakaspalvelu_review",
+      "title": "asiakaspalvelu.md Review Required",
+      "description": "Document asiakaspalvelu.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document asiakaspalvelu.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/asiakaspalvelu.md",
+    "title": "asiakaspalvelu",
+    "description": "Documentation file: asiakaspalvelu.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.750917",
+    "last_modified": "2026-02-10T12:33:15.750918",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 539,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "process",
+      "document",
+      "form",
+      "information",
+      "liability",
+      "customer",
+      "service"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_asiakaspalvelu_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "asiakaspalvelu.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.751015",
+  "processor": "systematic_batch_processor"
+}

@@ -1,0 +1,487 @@
+{
+  "original_content": "# Digital Marketing\n\nThis document compiles key information about digital marketing methods, channels, strategic models and practical implementation.\n\n---\n\n## 1. Digital Operating Environment\n\nDigital marketing is the primary way to reach customers in many industries. In Finland, smartphones and social media are central to everyday life:\n- 65% of Finns use Facebook 3–7 times a week.\n- 75% have purchased furniture or household items online; 88% have purchased clothes online.\n- Websites serve as the company's digital home, and investment must be made in visibility and usability.\n\n---\n\n## 2. Digital Marketing Methods\n\n### Search Engine Marketing\n1. **Search Engine Optimization (SEO):** Long-term activity to improve organic (unpaid) visibility. Requires quality content, proper keywords and technical expertise.\n2. **Search Keyword Marketing (SEM):** Paid, sales-focused advertising (e.g. Google Ads). The ad rises to the top of search results with selected keywords.\n\n### Display or Banner Advertising\nAds embedded in websites (images/text) on news sites, blogs and YouTube. Reaches those who don't use social media as well.\n\n### Email Marketing\nAn effective way to market to your own customer register.\n- Tools: Creamailer, Mailchimp.\n- **Note:** GDPR regulations must be followed; emails must always include an option to unsubscribe.\n\n### Influencer Marketing\nCollaboration with social media influencers.\n- **Formats:** Percentage of sales, partnership agreements (affiliate) or broader campaigns.\n- **Legal requirement:** Advertising purpose and collaboration must always be mentioned in publications.\n\n---\n\n## 3. Social Media Channels (2022 situation)\n\n- **Facebook:** Particularly popular among those over 25 years old. Important for brand building and interaction. Tool: Facebook Business Manager.\n- **Instagram:** The most significant channel in many industries (2.3 million users in Finland).\n    - *Feed:* Square images (1080x1080).\n    - *Stories:* 15-second stories (visible for 24 h).\n    - *Reels:* Short edited videos.\n- **YouTube:** For showcasing expertise, expert videos and tutorials.\n- **TikTok:** Rapidly growing (approx. 1.4 million users). Keywords are authenticity and short videos, max 3 minutes.\n- **LinkedIn:** Professional networking platform. Digital CV, recruitment and building an expert profile.\n\n---\n\n## 4. Content Marketing\n\nContent marketing is creating content that interests the target audience.\n- **Formats:** Social media posts, videos, podcasts, webinars, newsletters, guides and articles.\n- **Goal (Entertain – Persuade – Educate – Convert):** Choose format according to channel (video is most effective on social media).\n\n### Media Types:\n- **Owned media:** Websites, newsletter, own social media accounts (controllable).\n- **Paid media:** Paid advertising and influencer cooperation (reach).\n- **Earned media:** Recommendations, shares, press coverage (trust).\n\n---\n\n## 5. Strategic Models for Purchase Path Management\n\n### AIDA Model\n- **Awareness:** Increasing awareness.\n- **Interest:** Providing information about benefits.\n- **Desire:** Building trust.\n- **Action:** Facilitating the purchase process.\n\n### REAN Model\n1. **REACH:** Search engines, content marketing, advertising.\n2. **ENGAGE:** Engaging content, following.\n3. **ACTIVATE:** Clear purchase process, conversion optimization.\n4. **NURTURE:** After-sales marketing, newsletters, additional services.\n\n---\n\n## 6. Checklist and Steps to Take Control\n\n### Planning checklist:\n- Know your target group and choose channels accordingly.\n- Ensure message alignment with company strategy and value proposition.\n- If creating a profile, stay active. Outsource posting work if necessary, but control content.\n- Prepare for interaction and handle negative comments constructively.\n\n### Steps to take control of social media (Kosonen & Janhunen):\n1. **Follow:** What is discussed about your industry (e.g. Google Alerts).\n2. **Goal:** Set a business goal for social media.\n3. **Content:** Plan a content calendar (1/7/30 principle: check daily, content weekly, major story monthly).\n4. **Strategy:** Choose channels (don't try to dominate all at once).\n5. **Discoverability:** Connect channels to each other and to websites.\n6. **Metrics:** Define goals (e.g. conversion percentage, leads).\n7. **Charm:** Participate in conversations and share success stories.\n\n---\n\n## 7. Technical Details: Image Sizes (px)\n\n| Channel | Profile Picture | Cover Photo | Post | Story |\n| :--- | :--- | :--- | :--- | :--- |\n| **Facebook** | 1080x1080 | 851x315 | 1080x1080 | 1080x1920 |\n| **Instagram** | 1080x1080 | - | 1080x1080 | 1080x1920 |\n| **LinkedIn** | 1080x1080 | 1536x768 | 1200x628 | - |\n| **Website** | - | 1920x1080 (max) | - | - |",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 1793,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 503,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 50,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 3147,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 26,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 50,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 48,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 239,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 3407,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 3407,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 863,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 10,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 3470,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 2260,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "regulation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 1260,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 2260,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 3067,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 1462,
+      "related_keywords": []
+    },
+    {
+      "term": "partnership",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 1450,
+      "related_keywords": []
+    },
+    {
+      "term": "strategy",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 3588,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 2957,
+      "related_keywords": []
+    },
+    {
+      "term": "control",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 2755,
+      "related_keywords": []
+    },
+    {
+      "term": "investment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 531,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 863,
+      "related_keywords": []
+    },
+    {
+      "term": "purchase",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 397,
+      "related_keywords": []
+    },
+    {
+      "term": "Digitaalinen markkinointi",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+    "extraction_date": "2026-02-10T12:33:15.753163",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Digitaalinen_markkinointi_review",
+      "title": "Digitaalinen markkinointi.md Review Required",
+      "description": "Document Digitaalinen markkinointi.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Digitaalinen markkinointi.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalinen markkinointi.md",
+    "title": "Digitaalinen markkinointi",
+    "description": "Documentation file: Digitaalinen markkinointi.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.753170",
+    "last_modified": "2026-02-10T12:33:15.753171",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 3,
+    "word_count": 684,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "process",
+      "document",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "services"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Digitaalinen_markkinointi_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Digitaalinen markkinointi.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.753238",
+  "processor": "systematic_batch_processor"
+}

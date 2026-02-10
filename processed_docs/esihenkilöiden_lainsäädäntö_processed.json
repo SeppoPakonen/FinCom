@@ -1,0 +1,461 @@
+{
+  "original_content": "# Supervisor Induction: Key Legislation\n\nThis document compiles critical employment legislation for supervisors, employer obligations and principles of managing workplace well-being.\n\n---\n\n## 1. Supervisor Competence Framework\n\nThe supervisor's primary task is to implement the company's strategy by guiding their subordinates. Competence consists of three areas:\n- **Motivation:** Willingness to act as a supervisor, self-awareness and desire to develop.\n- **Skills:** Communication and interaction skills, emotional intelligence and use of management tools.\n- **Knowledge:** Strategic objectives, understanding of role and responsibilities, and legal matters.\n\nThe supervisor acts as the employer's representative and is responsible for the unit's operations, finances and supporting employees' professional development.\n\n---\n\n## 2. Managing Workplace Well-being\n\nWorkplace well-being is safe, healthy and productive work in a well-managed organization.\n- **Development targets:** Individual health, team functionality, work environment and professional competence.\n- **Ethical management:** Value-based actions that commit to improving productivity and well-being simultaneously.\n- **Metrics:** Sickness absences, accident frequency, staff turnover, quality of development discussions and workplace climate surveys.\n\n---\n\n## 3. Induction and On-the-job Guidance\n\nInduction is the employer's responsibility. Its purpose is to create positive attitudes, promote independence and ensure occupational health and safety.\n- **Contents:** Organization's practices, terms of employment contract, working hours, salary matters, occupational health care, safety issues and personal responsibility areas.\n\n---\n\n## 4. Key Employment Legislation\n\n### Employment Contracts Act (55/2001)\nCreates the foundation for employment relationship matters.\n- **Employer's obligations:** Equal treatment, non-discrimination, ensuring workplace safety and written explanation of work conditions.\n- **Probationary period:** Maximum 6 months.\n\n### Occupational Safety and Health Act (738/2002)\nThe basic law of occupational protection.\n- **Employer's obligation:** Ensure employees' safety and health, identify hazards and assess risks.\n- **Employee's obligation:** Follow instructions, use protective equipment and report defects.\n\n### Working Hours Act (872/2019)\n- **Regular working hours:** 8 h/day and 40 h/week. Possibility for flexible working hours and time banking.\n- **Rest periods:** Generally at least 11 h daily rest and 35 h weekly rest.\n\n### Other key laws:\n- **Equality Act:** Promotes equality between women and men (equality plan mandatory if at least 30 employees).\n- **Non-Discrimination Act:** Prevents discrimination (age, origin, religion, etc.).\n- **Act on Privacy Protection in Working Life:** Processing of personal data and camera surveillance.\n- **Occupational Health Care Act:** Obliges arranging services to prevent diseases.\n- **Annual Holidays Act:** Defines holiday length, pay and timing.\n\n---\n\n## 5. Collective Agreements (TES/VES)\n\n- **General applicability:** TES applies also to non-organized employers throughout the industry.\n- **Minimum requirements:** TES defines minimum wages and other conditions that must not be exceeded. Better conditions can be agreed locally.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 278,
+      "related_keywords": []
+    },
+    {
+      "term": "finance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 762,
+      "related_keywords": []
+    },
+    {
+      "term": "requirements",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 3153,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 2794,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 46,
+      "related_keywords": []
+    },
+    {
+      "term": "guidance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 1356,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 2248,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 2901,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 2901,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 750,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 1591,
+      "related_keywords": []
+    },
+    {
+      "term": "safety",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 1511,
+      "related_keywords": []
+    },
+    {
+      "term": "employment",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 73,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 14,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 161,
+      "related_keywords": []
+    },
+    {
+      "term": "salary",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 1606,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 1581,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 3021,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 2291,
+      "related_keywords": []
+    },
+    {
+      "term": "obligation",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 122,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 1394,
+      "related_keywords": []
+    },
+    {
+      "term": "strategy",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 288,
+      "related_keywords": []
+    },
+    {
+      "term": "development",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 810,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 542,
+      "related_keywords": []
+    },
+    {
+      "term": "risk",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 2205,
+      "related_keywords": []
+    },
+    {
+      "term": "esihenkilöiden lainsäädäntö",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+    "extraction_date": "2026-02-10T12:33:15.759495",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_esihenkilöiden_lainsäädäntö_review",
+      "title": "esihenkilöiden lainsäädäntö.md Review Required",
+      "description": "Document esihenkilöiden lainsäädäntö.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document esihenkilöiden lainsäädäntö.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/esihenkilöiden lainsäädäntö.md",
+    "title": "esihenkilöiden lainsäädäntö",
+    "description": "Documentation file: esihenkilöiden lainsäädäntö.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.759502",
+    "last_modified": "2026-02-10T12:33:15.759503",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 429,
+    "language": "en",
+    "keywords": [
+      "company",
+      "finance",
+      "requirements",
+      "process",
+      "document",
+      "guidance",
+      "instructions",
+      "service",
+      "services",
+      "operations"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_esihenkilöiden_lainsäädäntö_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "esihenkilöiden lainsäädäntö.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.759550",
+  "processor": "systematic_batch_processor"
+}

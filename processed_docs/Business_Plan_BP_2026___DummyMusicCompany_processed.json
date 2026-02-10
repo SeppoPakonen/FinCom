@@ -262,6 +262,123 @@
       "related_keywords": []
     },
     {
+      "term": "development",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 106,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 824,
+      "related_keywords": []
+    },
+    {
+      "term": "control",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 3648,
+      "related_keywords": []
+    },
+    {
+      "term": "risk",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 4019,
+      "related_keywords": []
+    },
+    {
+      "term": "revenue",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 3972,
+      "related_keywords": []
+    },
+    {
+      "term": "expense",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 3843,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 4375,
+      "related_keywords": []
+    },
+    {
+      "term": "investment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 3797,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
+      "position_in_text": 2767,
+      "related_keywords": []
+    },
+    {
       "term": "Business Plan BP 2026   DummyMusicCompany",
       "frequency": 3,
       "relevance": 0.9,
@@ -277,7 +394,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Plan BP 2026 - DummyMusicCompany.md",
-    "extraction_date": "2026-02-10T12:12:12.826976",
+    "extraction_date": "2026-02-10T12:33:15.743550",
     "entities": [
       {
         "name": "Business Entity",
@@ -361,8 +478,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:12:12.826984",
-    "last_modified": "2026-02-10T12:12:12.826985",
+    "creation_date": "2026-02-10T12:33:15.743556",
+    "last_modified": "2026-02-10T12:33:15.743557",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -404,6 +521,6 @@
       "original_file_name": "Business Plan BP 2026 - DummyMusicCompany.md"
     }
   },
-  "processing_date": "2026-02-10T12:12:12.827050",
+  "processing_date": "2026-02-10T12:33:15.743619",
   "processor": "systematic_batch_processor"
 }

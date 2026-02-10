@@ -184,6 +184,32 @@
       "related_keywords": []
     },
     {
+      "term": "management",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Ergonomics Workplace Well-being and Occupational Safety.md",
+      "position_in_text": 617,
+      "related_keywords": []
+    },
+    {
+      "term": "risk",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Ergonomics Workplace Well-being and Occupational Safety.md",
+      "position_in_text": 852,
+      "related_keywords": []
+    },
+    {
       "term": "Ergonomics Workplace Well being and Occupational Safety",
       "frequency": 3,
       "relevance": 0.9,
@@ -199,7 +225,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Ergonomics Workplace Well-being and Occupational Safety.md",
-    "extraction_date": "2026-02-10T12:12:12.841173",
+    "extraction_date": "2026-02-10T12:33:15.758798",
     "entities": [
       {
         "name": "Business Entity",
@@ -283,8 +309,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:12:12.841179",
-    "last_modified": "2026-02-10T12:12:12.841180",
+    "creation_date": "2026-02-10T12:33:15.758805",
+    "last_modified": "2026-02-10T12:33:15.758806",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -326,6 +352,6 @@
       "original_file_name": "Ergonomics Workplace Well-being and Occupational Safety.md"
     }
   },
-  "processing_date": "2026-02-10T12:12:12.841235",
+  "processing_date": "2026-02-10T12:33:15.758862",
   "processor": "systematic_batch_processor"
 }

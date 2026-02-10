@@ -56,7 +56,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Exercise Document Formatting Word-Writer.md",
-    "extraction_date": "2026-02-10T12:12:12.843927",
+    "extraction_date": "2026-02-10T12:33:15.760796",
     "entities": [
       {
         "name": "Business Entity",
@@ -140,8 +140,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:12:12.843934",
-    "last_modified": "2026-02-10T12:12:12.843935",
+    "creation_date": "2026-02-10T12:33:15.760803",
+    "last_modified": "2026-02-10T12:33:15.760803",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -177,6 +177,6 @@
       "original_file_name": "Exercise Document Formatting Word-Writer.md"
     }
   },
-  "processing_date": "2026-02-10T12:12:12.843963",
+  "processing_date": "2026-02-10T12:33:15.760831",
   "processor": "systematic_batch_processor"
 }

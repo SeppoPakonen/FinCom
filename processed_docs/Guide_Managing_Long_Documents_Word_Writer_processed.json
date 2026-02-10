@@ -69,7 +69,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Guide Managing Long Documents Word-Writer.md",
-    "extraction_date": "2026-02-10T12:12:12.856347",
+    "extraction_date": "2026-02-10T12:33:15.761223",
     "entities": [
       {
         "name": "Business Entity",
@@ -153,8 +153,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:12:12.856354",
-    "last_modified": "2026-02-10T12:12:12.856355",
+    "creation_date": "2026-02-10T12:33:15.761229",
+    "last_modified": "2026-02-10T12:33:15.761230",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -191,6 +191,6 @@
       "original_file_name": "Guide Managing Long Documents Word-Writer.md"
     }
   },
-  "processing_date": "2026-02-10T12:12:12.856385",
+  "processing_date": "2026-02-10T12:33:15.761260",
   "processor": "systematic_batch_processor"
 }

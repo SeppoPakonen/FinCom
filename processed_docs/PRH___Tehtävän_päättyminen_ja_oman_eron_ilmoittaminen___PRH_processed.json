@@ -1,0 +1,331 @@
+{
+  "original_content": "# PRH: Notification of Own Resignation\n\nIf a company fails to file a change notification, a responsible person may personally notify the Trade Register of the end of their role or resignation.\n\n## 1. Why is the notification important?\n* **Liability:** Especially for partners in a general partnership or limited partnership, liability for debts continues until the resignation is registered and announced.\n* **Current information:** Ensures that the person is no longer associated with the company's operations in public information.\n\n## 2. Notification\n* **Method:** Electronically in the YTJ service for most company forms.\n* **Exceptions:** Resignation from the administrative court or termination of a branch office role is reported using the online form (form Y4).\n* **Signature:** The person signs the notification themselves.\n* **Cost:** Notifying one's own resignation is **free of charge**.\n\n## 3. Points to note\n* Resignation or termination of a role does not happen merely by notification, but must be done according to the laws and regulations of the respective company form.\n* Fill in your own contact information in the \"Additional information provider\" field so that you receive the register extract for yourself instead of the company.\n\n---\n**YTJ service:** [asiointi.ytj.fi](https://asiointi.ytj.fi/ytjap)",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 45,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 420,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 420,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 418,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 239,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 304,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 594,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 500,
+      "related_keywords": []
+    },
+    {
+      "term": "regulation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 1044,
+      "related_keywords": []
+    },
+    {
+      "term": "partnership",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 289,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 728,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 7,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 239,
+      "related_keywords": []
+    },
+    {
+      "term": "debt",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 339,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Tehtävän päättyminen ja oman eron ilmoittaminen   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+    "extraction_date": "2026-02-10T12:33:15.819745",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Tehtävän_päättyminen_ja_oman_eron_ilmoittaminen___PRH_review",
+      "title": "PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md Review Required",
+      "description": "Document PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+    "title": "PRH   Tehtävän päättyminen ja oman eron ilmoittaminen   PRH",
+    "description": "Documentation file: PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.819755",
+    "last_modified": "2026-02-10T12:33:15.819757",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 197,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "form",
+      "information",
+      "liability",
+      "limited",
+      "service",
+      "operations",
+      "regulation",
+      "partnership"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Tehtävän_päättyminen_ja_oman_eron_ilmoittaminen___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Tehtävän päättyminen ja oman eron ilmoittaminen _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.819796",
+  "processor": "systematic_batch_processor"
+}

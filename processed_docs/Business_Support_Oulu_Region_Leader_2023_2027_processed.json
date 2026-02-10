@@ -184,6 +184,84 @@
       "related_keywords": []
     },
     {
+      "term": "development",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Support Oulu Region Leader 2023-2027.md",
+      "position_in_text": 1538,
+      "related_keywords": []
+    },
+    {
+      "term": "revenue",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Support Oulu Region Leader 2023-2027.md",
+      "position_in_text": 1177,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Support Oulu Region Leader 2023-2027.md",
+      "position_in_text": 341,
+      "related_keywords": []
+    },
+    {
+      "term": "investment",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Support Oulu Region Leader 2023-2027.md",
+      "position_in_text": 1515,
+      "related_keywords": []
+    },
+    {
+      "term": "funding",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Support Oulu Region Leader 2023-2027.md",
+      "position_in_text": 80,
+      "related_keywords": []
+    },
+    {
+      "term": "purchase",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Support Oulu Region Leader 2023-2027.md",
+      "position_in_text": 1426,
+      "related_keywords": []
+    },
+    {
       "term": "Business Support Oulu Region Leader 2023 2027",
       "frequency": 3,
       "relevance": 0.9,
@@ -199,7 +277,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/Business Support Oulu Region Leader 2023-2027.md",
-    "extraction_date": "2026-02-10T12:12:12.827657",
+    "extraction_date": "2026-02-10T12:33:15.744342",
     "entities": [
       {
         "name": "Business Entity",
@@ -283,8 +361,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:12:12.827665",
-    "last_modified": "2026-02-10T12:12:12.827666",
+    "creation_date": "2026-02-10T12:33:15.744349",
+    "last_modified": "2026-02-10T12:33:15.744350",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -326,6 +404,6 @@
       "original_file_name": "Business Support Oulu Region Leader 2023-2027.md"
     }
   },
-  "processing_date": "2026-02-10T12:12:12.827705",
+  "processing_date": "2026-02-10T12:33:15.744395",
   "processor": "systematic_batch_processor"
 }

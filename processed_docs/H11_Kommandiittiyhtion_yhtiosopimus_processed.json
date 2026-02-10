@@ -1,0 +1,370 @@
+{
+  "original_content": "# Limited Partnership Agreement (Templates)\n\nThis document contains templates for establishing a limited partnership (Kommandiittiyhtiö, Ky). In a limited partnership, there must be at least one **general partner** and one **silent partner**.\n\n---\n\n## Instructions and Notes\n- Fill in the required fields (business name, registered office, industry, contributions).\n- Remember to sign after printing.\n- **Partnership Agreement:** Recommended if there is more than one general partner.\n- **Privacy:** Personal information (identity code, home address) is reported separately to the Trade Register.\n- **Disclaimer:** Templates are examples; the creator is not responsible for their suitability to individual cases.\n\n---\n\n## TEMPLATE 1: One general partner and one silent partner\n\nWe, the undersigned, have decided to establish a limited partnership and accept the following partnership agreement:\n\n### 1. Company name and registered office\n- **Business name:**\n- **Registered office:**\n\n### 2. Nature of business (Industry)\n-\n- The company may own and manage securities, buildings and real estate.\n\n### 3. Partners and their contributions\n- **General partner:**       (Contribution:       €)\n- **Silent partner:**       (Capital contribution:       €)\n\n### 4. Managing director and representation\n- The company may appoint a managing director for ongoing administration.\n- The general partner represents the company.\n\n### 5. Profit sharing\n- The silent partner receives an agreed annual interest on the capital contribution from the profits (payment by end of January).\n- If profits are insufficient, the shortfall is paid from the following year's profits.\n- Any excess over the profit share goes to the general partner.\n\n### 6. Death of a partner and transfer of share\n- The company does not dissolve upon death; legal heirs take the place of the deceased (requires 18 years of age).\n- Redemption price: Company's assets - liabilities, reduced by 30 percent.\n- **Transfer right:** The silent partner may not transfer their share without the consent of the general partner.\n\n### 7. Dissolution\n- Notice period: 6 months.\n- Upon dissolution, after debts are paid, the silent partner's contribution and interest are paid first; the remainder goes to the general partner.\n\n---\n\n## TEMPLATE 2: Two general partners and one silent partner\n\n*(Same as Template 1, with the following additions)*\n\n- **Relationship between general partners:** Both general partners have the right to represent the company and manage its affairs unless otherwise agreed.\n- **Profit sharing:** After the silent partner's interest, the remaining profit is shared between the general partners according to their contributions or by separate agreement.\n- **Dissolution:** If one general partner terminates the agreement, the other may continue operations by redeeming the departing party's share.\n\n---\n\n## Signatures\nThis agreement has been prepared in the required number of copies (one for each partner and one for the Trade Register).\n\n**Place and date:**      ,    /    202\n\n**General partners:**\n____________________________\n____________________________\n\n**Silent partner:**\n____________________________\n\n---\n\n## PERSONAL INFORMATION FORM (for authorities)\n*(Filled separately for each partner for the Trade Register)*\n- Name:\n- Personal identity code:\n- Home address:\n- Home municipality:\n- Email:",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 306,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 903,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 511,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 50,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 511,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 33,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 509,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 252,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 2,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 2812,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 22,
+      "related_keywords": []
+    },
+    {
+      "term": "partnership",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 10,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 554,
+      "related_keywords": []
+    },
+    {
+      "term": "asset",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 1914,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 1423,
+      "related_keywords": []
+    },
+    {
+      "term": "debt",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 2146,
+      "related_keywords": []
+    },
+    {
+      "term": "capital",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 1219,
+      "related_keywords": []
+    },
+    {
+      "term": "H11 Kommandiittiyhtion yhtiosopimus",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+    "extraction_date": "2026-02-10T12:33:15.762736",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_H11_Kommandiittiyhtion_yhtiosopimus_review",
+      "title": "H11_Kommandiittiyhtion_yhtiosopimus.md Review Required",
+      "description": "Document H11_Kommandiittiyhtion_yhtiosopimus.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document H11_Kommandiittiyhtion_yhtiosopimus.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H11_Kommandiittiyhtion_yhtiosopimus.md",
+    "title": "H11 Kommandiittiyhtion yhtiosopimus",
+    "description": "Documentation file: H11_Kommandiittiyhtion_yhtiosopimus.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.762742",
+    "last_modified": "2026-02-10T12:33:15.762743",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 493,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "document",
+      "form",
+      "template",
+      "information",
+      "instructions",
+      "limited",
+      "operations"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_H11_Kommandiittiyhtion_yhtiosopimus_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "H11_Kommandiittiyhtion_yhtiosopimus.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.762794",
+  "processor": "systematic_batch_processor"
+}

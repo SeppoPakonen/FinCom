@@ -1,0 +1,383 @@
+{
+  "original_content": "# Articles of Association of an Apartment Company\n\nAn apartment company must always have articles of association. The articles of association are registered in the Trade Register when the company is established. The articles of association are a public document from which anyone can obtain information.\n\nYou submit the articles of association information when you file the apartment company's establishment notification in the YTJ service. The service creates the articles of association. [Read the establishment notification instructions.](https://www.prh.fi/en/companiesandorganisations/companyformation/filing_an_establishment_notification_for_an_apartment_company_and_filing_the_establishment_notification.html)\n\n## This page contains the following instructions:\n\n* [What are the articles of association created by the YTJ service like?](#what-are-the-articles-of-association-created-by-the-ytj-service-like)\n* [What information must be included in the articles of association?](#what-information-must-be-included-in-the-articles-of-association)\n* [How do you submit the company's business activity?](#how-do-you-submit-the-companys-business-activity)\n* [How do you submit the unit description?](#how-do-you-submit-the-unit-description)\n* [How do you submit other articles of association information?](#how-do-you-submit-other-articles-of-association-information)\n* [What kind of attachment?](#what-kind-of-attachment)\n\n## What are the articles of association created by the YTJ service like?\n\nStructure of the articles of association created by the YTJ service:\n\n* company's trade name (Section 1)\n* registered office (Section 2)\n* business activity (Section 3)\n* unit description (Section 4)\n* signature procedure (Section 5)\n* other articles of association information (provisions from Section 6 onwards).\n\n[See an example of articles of association.](https://www.prh.fi/en/companiesandorganisations/companyformation/filing_an_establishment_notification_for_an_apartment_company_and_filing_the_establishment_notification/articles_of_association/example_of_articles_of_association.html)\n\n## What information must be included in the articles of association?\n\nThe articles of association of an apartment company must include at least the following information:\n\n* the company's trade name and registered office (a municipality located in Finland)\n* the company's business activity, i.e. the location of the buildings and properties managed by the company and the basis of management\n* information on the location of units, their number, floor area, purpose, number of rooms and shares\n* information on premises managed by the company\n* the grounds for determining the company fee as well as who determines the amount and payment method of the fee.\n\nThe financial period must be specified either in the articles of association or in the articles of incorporation.\n\nThe articles of association may also contain provisions on the following matters:\n\n* signature procedure (persons entitled to represent the company)\n* redemption clause (read more from section 5 of chapter 2 of the Apartment Ownership Act)\n* the right of the company's or shareholders' creditors to oppose amendments to the articles of association (read more from section 7 of chapter 17 of the Apartment Ownership Act).\n\n## How do you submit the company's business activity?\n\nThe company's business activity as entered in the Trade Register must be stated in section 3 of the articles of association, i.e. information on the location of the buildings and properties managed by the company and the basis of management.\n\nIn the YTJ service, provide the property identifier, i.e. one of the following:\n\n* property identifier (in the format 123-456-1234-5678), go to service: [Find Property IdentifierOpens in a new tab](https://www.maanmittauslaitos.fi/en/properties/property-services/find-property-identifier)\n* cadastral identifier (in the format 123-456-1234-5678-M601)\n* facility identifier (leasehold, in the format 123-456-1234-5678-L1).\n\nFor property identifier information, contact the National Land Survey of Finland. [Go to maanmittauslaitos.fi website.Opens in a new tab](https://www.maanmittauslaitos.fi/)\n\n## How do you submit the unit description?\n\nThe unit description, i.e. information on buildings, units, parking spaces and other premises, must be included in section 4 of the articles of association.\n\nYou provide information on parking spaces and other premises belonging to the unit under the unit section. Parking spaces and other premises owned with separate shares or managed by the company are submitted in another section depending on whether they are located in the building or outside the buildings.\n\nProceed as follows in the YTJ service:\n\n1. Start by adding a building and its address.\n2. Add a unit and its basic information under the address.\n3. Provide the unit's share information. When filing the establishment notification, in addition to share information, provide information on the shareholder of the share.\n4. Provide information on parking spaces and other premises belonging to the unit if necessary.\n5. Add information on the building's parking spaces and other premises.\n6. Add information on parking spaces and other premises outside the buildings.\n\nAll the information you provide will appear in the articles of association except for [shareholder information](https://www.prh.fi/en/companiesandorganisations/companyformation/filing_an_establishment_notification_for_an_apartment_company_and_filing_the_establishment_notification/shareholders.html).\n\n## How do you submit other articles of association information?\n\nWrite other provisions of the articles of association in the service's text field.\n\nThe signature method you select will appear as section 5 of the articles of association. Save other provisions starting from section 6.\n\nIf you do not select a signature method, start other provisions with section 5.\n\nYou can copy the provisions to be submitted from your computer's word processing application to the text field. Remove document formatting before pasting the text into the field.\n\n## What kind of attachment?\n\nSometimes the articles of association include an attachment such as a map or allocation table. You add the attachment with the establishment notification in the YTJ service.\n\nThe attachment must be a single file, but it can contain multiple pages. The pages must be A4-sized and high quality.\n\nAccepted file formats are pdf, doc and docx.\n\nNote! Paper printouts from the Trade Register's information service are always black and white. For this reason, the articles of association attachment cannot use colors to indicate different areas of a map, for example; they must be expressed in another way.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 1086,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 25,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 42,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 29,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 293,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 6001,
+      "related_keywords": []
+    },
+    {
+      "term": "procedure",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 1711,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 253,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 34,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 293,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 26,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 291,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 527,
+      "related_keywords": []
+    },
+    {
+      "term": "association",
+      "frequency": 31,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 14,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 13,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 432,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 3843,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 5824,
+      "related_keywords": []
+    },
+    {
+      "term": "shareholder",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 3141,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 6012,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 10,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 408,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 2477,
+      "related_keywords": []
+    },
+    {
+      "term": "credit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 3155,
+      "related_keywords": []
+    },
+    {
+      "term": "PRH   Yhtiöjärjestys   PRH",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+    "extraction_date": "2026-02-10T12:33:15.835304",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_PRH___Yhtiöjärjestys___PRH_review",
+      "title": "PRH - Yhtiöjärjestys _ PRH.md Review Required",
+      "description": "Document PRH - Yhtiöjärjestys _ PRH.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document PRH - Yhtiöjärjestys _ PRH.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Yhtiöjärjestys _ PRH.md",
+    "title": "PRH   Yhtiöjärjestys   PRH",
+    "description": "Documentation file: PRH - Yhtiöjärjestys _ PRH.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.835311",
+    "last_modified": "2026-02-10T12:33:15.835312",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 4,
+    "word_count": 888,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "process",
+      "procedure",
+      "document",
+      "form",
+      "information",
+      "instructions",
+      "association"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_PRH___Yhtiöjärjestys___PRH_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "PRH - Yhtiöjärjestys _ PRH.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.835388",
+  "processor": "systematic_batch_processor"
+}

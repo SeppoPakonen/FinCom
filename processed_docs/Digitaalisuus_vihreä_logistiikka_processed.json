@@ -197,6 +197,58 @@
       "related_keywords": []
     },
     {
+      "term": "development",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalisuus_vihreä_logistiikka.md",
+      "position_in_text": 92,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalisuus_vihreä_logistiikka.md",
+      "position_in_text": 771,
+      "related_keywords": []
+    },
+    {
+      "term": "flow",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalisuus_vihreä_logistiikka.md",
+      "position_in_text": 1576,
+      "related_keywords": []
+    },
+    {
+      "term": "investment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalisuus_vihreä_logistiikka.md",
+      "position_in_text": 2142,
+      "related_keywords": []
+    },
+    {
       "term": "Digitaalisuus vihreä logistiikka",
       "frequency": 3,
       "relevance": 0.9,
@@ -212,7 +264,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Digitaalisuus_vihreä_logistiikka.md",
-    "extraction_date": "2026-02-10T12:12:12.832872",
+    "extraction_date": "2026-02-10T12:33:15.755944",
     "entities": [
       {
         "name": "Business Entity",
@@ -296,8 +348,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:12:12.832880",
-    "last_modified": "2026-02-10T12:12:12.832881",
+    "creation_date": "2026-02-10T12:33:15.755951",
+    "last_modified": "2026-02-10T12:33:15.755952",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -339,6 +391,6 @@
       "original_file_name": "Digitaalisuus_vihreä_logistiikka.md"
     }
   },
-  "processing_date": "2026-02-10T12:12:12.832918",
+  "processing_date": "2026-02-10T12:33:15.755989",
   "processor": "systematic_batch_processor"
 }

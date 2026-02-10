@@ -1,0 +1,266 @@
+{
+  "original_content": "# Offer\n\n**Painotuote Digitaalinen Voima Oy**\n**Offer No.:** 2016/TA1xx\n**Date:** 15.5.2016\n**Page:** 1 (2)\n\n---\n\n### Seller\n**Painotuote Digitaalinen Voima Oy**\nPO Box 111, 87101 Kajaani\nwww.pdv.fi\nBusiness ID: 234 567-10\nVAT number: FI123456\nContact person: Ville Virtanen, 000 0000 000\n\n### Recipient\n**Työasu.fi / Hansatie 4**\n02780 Espoo\nContact person: Sales Manager Sami Sassi\n\n---\n\n## Subject of the Sale: Printing of Company Brochures\n\nThank you for your request for quotation (6.5.2016/1xx) and we offer the design, layout and printing of new product brochures as follows:\n\n### 1. Design and Layout Work\nPerformed as hourly work according to actual extent.\n* **Price (excl. VAT):** 75.00 €/h\n* **Value-added tax:** 24 %\n\n### 2. Job Brochure\n* **Quantity:** 5000 pcs\n* **Size and extent:** A4, landscape (297 mm x 210 mm)\n* **Paper:** Gallerie Art Silk 170 g/m²\n* **Colors:** 4/4-color CMYK\n* **Tax-free price:** 2400.00 €\n* **Tax-inclusive price (incl. VAT 24 %):** 2976.00 €\n\n### 3. Work Opportunity Brochure\n* **Quantity:** 3000 pcs\n* **Size and extent:** A4, landscape (297 mm x 210 mm)\n* **Paper:** Gallerie Art Silk 170 g/m²\n* **Colors:** 4/4-color CMYK\n* **Tax-free price:** 1800.00 €\n* **Tax-inclusive price (incl. VAT 24 %):** 2232.00 €\n\n---\n\n## Delivery Terms\n\n* **Material:** Print-ready PDF file\n* **Test prints:** Contract color proofs of the brochures\n* **Post-processing:** Cutting and box packaging\n* **Schedule:** Material to print on 5.9.2016, delivery on 19.9.2016\n* **Delivery terms:** Delivered to destination in Espoo (General Terms of the Graphic Industry)\n* **Payment terms:** 14 days net\n* **Validity:** This offer is valid until 31.5.2016.\n\n---\n\n**Best regards,**\n\nPainotuote Digitaalinen Voima Oy\nVille Virtanen\nSales Manager\n\n**Attachments:** Sample examples of printing papers",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+      "position_in_text": 199,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+      "position_in_text": 426,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+      "position_in_text": 718,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+      "position_in_text": 1384,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+      "position_in_text": 617,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+      "position_in_text": 359,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+      "position_in_text": 609,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+      "position_in_text": 1336,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+      "position_in_text": 359,
+      "related_keywords": []
+    },
+    {
+      "term": "Liikeasiakirjat 2 Tarjous",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+    "extraction_date": "2026-02-10T12:33:15.774398",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Liikeasiakirjat_2_Tarjous_review",
+      "title": "Liikeasiakirjat_2_Tarjous.md Review Required",
+      "description": "Document Liikeasiakirjat_2_Tarjous.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Liikeasiakirjat_2_Tarjous.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_2_Tarjous.md",
+    "title": "Liikeasiakirjat 2 Tarjous",
+    "description": "Documentation file: Liikeasiakirjat_2_Tarjous.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T12:33:15.774405",
+    "last_modified": "2026-02-10T12:33:15.774406",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 280,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "tax",
+      "process",
+      "form",
+      "sales",
+      "work",
+      "contract",
+      "sale",
+      "Liikeasiakirjat 2 Tarjous"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Liikeasiakirjat_2_Tarjous_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Liikeasiakirjat_2_Tarjous.md"
+    }
+  },
+  "processing_date": "2026-02-10T12:33:15.774440",
+  "processor": "systematic_batch_processor"
+}
