@@ -225,7 +225,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Logistiikka_kilpailuetu_palvelutaso.md",
-    "extraction_date": "2026-02-10T12:33:15.779745",
+    "extraction_date": "2026-02-10T16:27:08.347592",
     "entities": [
       {
         "name": "Business Entity",
@@ -309,8 +309,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:33:15.779751",
-    "last_modified": "2026-02-10T12:33:15.779752",
+    "creation_date": "2026-02-10T16:27:08.347599",
+    "last_modified": "2026-02-10T16:27:08.347600",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -352,6 +352,6 @@
       "original_file_name": "Logistiikka_kilpailuetu_palvelutaso.md"
     }
   },
-  "processing_date": "2026-02-10T12:33:15.779790",
+  "processing_date": "2026-02-10T16:27:08.347640",
   "processor": "systematic_batch_processor"
 }

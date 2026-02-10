@@ -173,7 +173,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Myynti-AIDA malli.md",
-    "extraction_date": "2026-02-10T12:33:15.785849",
+    "extraction_date": "2026-02-10T16:27:08.350498",
     "entities": [
       {
         "name": "Business Entity",
@@ -257,8 +257,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:33:15.785856",
-    "last_modified": "2026-02-10T12:33:15.785857",
+    "creation_date": "2026-02-10T16:27:08.350504",
+    "last_modified": "2026-02-10T16:27:08.350505",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -300,6 +300,6 @@
       "original_file_name": "Myynti-AIDA malli.md"
     }
   },
-  "processing_date": "2026-02-10T12:33:15.785888",
+  "processing_date": "2026-02-10T16:27:08.350537",
   "processor": "systematic_batch_processor"
 }

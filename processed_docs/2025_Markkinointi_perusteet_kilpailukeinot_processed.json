@@ -342,7 +342,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/2025 Markkinointi_perusteet_kilpailukeinot.md",
-    "extraction_date": "2026-02-10T12:33:15.746172",
+    "extraction_date": "2026-02-10T16:27:08.331130",
     "entities": [
       {
         "name": "Business Entity",
@@ -426,8 +426,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:33:15.746178",
-    "last_modified": "2026-02-10T12:33:15.746179",
+    "creation_date": "2026-02-10T16:27:08.331137",
+    "last_modified": "2026-02-10T16:27:08.331138",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -469,6 +469,6 @@
       "original_file_name": "2025 Markkinointi_perusteet_kilpailukeinot.md"
     }
   },
-  "processing_date": "2026-02-10T12:33:15.746257",
+  "processing_date": "2026-02-10T16:27:08.331213",
   "processor": "systematic_batch_processor"
 }

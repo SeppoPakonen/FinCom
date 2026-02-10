@@ -186,7 +186,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L13_Kauppakirja.md",
-    "extraction_date": "2026-02-10T12:33:15.771680",
+    "extraction_date": "2026-02-10T16:27:08.344473",
     "entities": [
       {
         "name": "Business Entity",
@@ -270,8 +270,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:33:15.771687",
-    "last_modified": "2026-02-10T12:33:15.771688",
+    "creation_date": "2026-02-10T16:27:08.344480",
+    "last_modified": "2026-02-10T16:27:08.344481",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -313,6 +313,6 @@
       "original_file_name": "L13_Kauppakirja.md"
     }
   },
-  "processing_date": "2026-02-10T12:33:15.771723",
+  "processing_date": "2026-02-10T16:27:08.344513",
   "processor": "systematic_batch_processor"
 }

@@ -160,7 +160,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_5_Lasku.md",
-    "extraction_date": "2026-02-10T12:33:15.775522",
+    "extraction_date": "2026-02-10T16:27:08.346412",
     "entities": [
       {
         "name": "Business Entity",
@@ -244,8 +244,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:33:15.775528",
-    "last_modified": "2026-02-10T12:33:15.775529",
+    "creation_date": "2026-02-10T16:27:08.346419",
+    "last_modified": "2026-02-10T16:27:08.346419",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -287,6 +287,6 @@
       "original_file_name": "Liikeasiakirjat_5_Lasku.md"
     }
   },
-  "processing_date": "2026-02-10T12:33:15.775554",
+  "processing_date": "2026-02-10T16:27:08.346444",
   "processor": "systematic_batch_processor"
 }

@@ -108,7 +108,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md",
-    "extraction_date": "2026-02-10T12:33:15.796596",
+    "extraction_date": "2026-02-10T16:27:08.354651",
     "entities": [
       {
         "name": "Business Entity",
@@ -192,8 +192,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:33:15.796603",
-    "last_modified": "2026-02-10T12:33:15.796604",
+    "creation_date": "2026-02-10T16:27:08.354658",
+    "last_modified": "2026-02-10T16:27:08.354658",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -233,6 +233,6 @@
       "original_file_name": "PRH - Esimerkki avoimen yhtiön yhtiösopimuksesta _ PRH.md"
     }
   },
-  "processing_date": "2026-02-10T12:33:15.796629",
+  "processing_date": "2026-02-10T16:27:08.354683",
   "processor": "systematic_batch_processor"
 }

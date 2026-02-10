@@ -238,7 +238,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Avoin yhtiö ja kommandiittiyhtiö _ PRH.md",
-    "extraction_date": "2026-02-10T12:33:15.795190",
+    "extraction_date": "2026-02-10T16:27:08.353631",
     "entities": [
       {
         "name": "Business Entity",
@@ -322,8 +322,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:33:15.795197",
-    "last_modified": "2026-02-10T12:33:15.795197",
+    "creation_date": "2026-02-10T16:27:08.353637",
+    "last_modified": "2026-02-10T16:27:08.353638",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -365,6 +365,6 @@
       "original_file_name": "PRH - Avoin yhtiö ja kommandiittiyhtiö _ PRH.md"
     }
   },
-  "processing_date": "2026-02-10T12:33:15.795230",
+  "processing_date": "2026-02-10T16:27:08.353670",
   "processor": "systematic_batch_processor"
 }

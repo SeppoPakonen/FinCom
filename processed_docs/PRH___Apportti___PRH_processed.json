@@ -212,7 +212,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Apportti _ PRH.md",
-    "extraction_date": "2026-02-10T12:33:15.792492",
+    "extraction_date": "2026-02-10T16:27:08.352031",
     "entities": [
       {
         "name": "Business Entity",
@@ -296,8 +296,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:33:15.792498",
-    "last_modified": "2026-02-10T12:33:15.792499",
+    "creation_date": "2026-02-10T16:27:08.352037",
+    "last_modified": "2026-02-10T16:27:08.352038",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -339,6 +339,6 @@
       "original_file_name": "PRH - Apportti _ PRH.md"
     }
   },
-  "processing_date": "2026-02-10T12:33:15.792531",
+  "processing_date": "2026-02-10T16:27:08.352067",
   "processor": "systematic_batch_processor"
 }
