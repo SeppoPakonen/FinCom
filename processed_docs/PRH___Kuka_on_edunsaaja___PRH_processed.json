@@ -108,7 +108,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Kuka on edunsaaja _ PRH.md",
-    "extraction_date": "2026-02-10T12:33:15.801061",
+    "extraction_date": "2026-02-10T19:49:12.266707",
     "entities": [
       {
         "name": "Business Entity",
@@ -192,8 +192,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:33:15.801068",
-    "last_modified": "2026-02-10T12:33:15.801069",
+    "creation_date": "2026-02-10T19:49:12.266713",
+    "last_modified": "2026-02-10T19:49:12.266714",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -233,6 +233,6 @@
       "original_file_name": "PRH - Kuka on edunsaaja _ PRH.md"
     }
   },
-  "processing_date": "2026-02-10T12:33:15.801097",
+  "processing_date": "2026-02-10T19:49:12.266754",
   "processor": "systematic_batch_processor"
 }

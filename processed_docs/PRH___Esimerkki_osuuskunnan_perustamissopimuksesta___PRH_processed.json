@@ -69,7 +69,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Esimerkki osuuskunnan perustamissopimuksesta _ PRH.md",
-    "extraction_date": "2026-02-10T12:33:15.798617",
+    "extraction_date": "2026-02-10T19:49:12.264525",
     "entities": [
       {
         "name": "Business Entity",
@@ -153,8 +153,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:33:15.798623",
-    "last_modified": "2026-02-10T12:33:15.798624",
+    "creation_date": "2026-02-10T19:49:12.264531",
+    "last_modified": "2026-02-10T19:49:12.264532",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -191,6 +191,6 @@
       "original_file_name": "PRH - Esimerkki osuuskunnan perustamissopimuksesta _ PRH.md"
     }
   },
-  "processing_date": "2026-02-10T12:33:15.798647",
+  "processing_date": "2026-02-10T19:49:12.264555",
   "processor": "systematic_batch_processor"
 }

@@ -238,7 +238,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Esimerkki yhtiöjärjestyksestä _ PRH.md",
-    "extraction_date": "2026-02-10T12:33:15.799090",
+    "extraction_date": "2026-02-10T19:49:12.265125",
     "entities": [
       {
         "name": "Business Entity",
@@ -322,8 +322,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T12:33:15.799096",
-    "last_modified": "2026-02-10T12:33:15.799097",
+    "creation_date": "2026-02-10T19:49:12.265132",
+    "last_modified": "2026-02-10T19:49:12.265133",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -365,6 +365,6 @@
       "original_file_name": "PRH - Esimerkki yhtiöjärjestyksestä _ PRH.md"
     }
   },
-  "processing_date": "2026-02-10T12:33:15.799131",
+  "processing_date": "2026-02-10T19:49:12.265172",
   "processor": "systematic_batch_processor"
 }

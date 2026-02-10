@@ -95,7 +95,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PowerPoint - SmartArt.md",
-    "extraction_date": "2026-02-10T19:15:46.396395",
+    "extraction_date": "2026-02-10T19:49:12.259799",
     "entities": [
       {
         "name": "Business Entity",
@@ -179,8 +179,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T19:15:46.396402",
-    "last_modified": "2026-02-10T19:15:46.396402",
+    "creation_date": "2026-02-10T19:49:12.259805",
+    "last_modified": "2026-02-10T19:49:12.259806",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -219,6 +219,6 @@
       "original_file_name": "PowerPoint - SmartArt.md"
     }
   },
-  "processing_date": "2026-02-10T19:15:46.396424",
+  "processing_date": "2026-02-10T19:49:12.259828",
   "processor": "systematic_batch_processor"
 }

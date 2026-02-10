@@ -134,7 +134,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeasiakirjat_3_Tilaus.md",
-    "extraction_date": "2026-02-10T19:15:46.390618",
+    "extraction_date": "2026-02-10T19:49:12.252272",
     "entities": [
       {
         "name": "Business Entity",
@@ -218,8 +218,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T19:15:46.390625",
-    "last_modified": "2026-02-10T19:15:46.390626",
+    "creation_date": "2026-02-10T19:49:12.252281",
+    "last_modified": "2026-02-10T19:49:12.252282",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -261,6 +261,6 @@
       "original_file_name": "Liikeasiakirjat_3_Tilaus.md"
     }
   },
-  "processing_date": "2026-02-10T19:15:46.390652",
+  "processing_date": "2026-02-10T19:49:12.252321",
   "processor": "systematic_batch_processor"
 }

@@ -147,7 +147,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Asiakirjojen julkistaminen muulla kielellä kuin suomeksi tai ruotsiksi _ PRH.md",
-    "extraction_date": "2026-02-10T19:15:46.397328",
+    "extraction_date": "2026-02-10T19:49:12.260719",
     "entities": [
       {
         "name": "Business Entity",
@@ -231,8 +231,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T19:15:46.397335",
-    "last_modified": "2026-02-10T19:15:46.397336",
+    "creation_date": "2026-02-10T19:49:12.260726",
+    "last_modified": "2026-02-10T19:49:12.260727",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -274,6 +274,6 @@
       "original_file_name": "PRH - Asiakirjojen julkistaminen muulla kielellä kuin suomeksi tai ruotsiksi _ PRH.md"
     }
   },
-  "processing_date": "2026-02-10T19:15:46.397362",
+  "processing_date": "2026-02-10T19:49:12.260752",
   "processor": "systematic_batch_processor"
 }
