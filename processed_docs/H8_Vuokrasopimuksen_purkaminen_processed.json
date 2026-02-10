@@ -82,7 +82,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/H8_Vuokrasopimuksen_purkaminen.md",
-    "extraction_date": "2026-02-10T19:49:12.248116",
+    "extraction_date": "2026-02-10T20:17:04.313647",
     "entities": [
       {
         "name": "Business Entity",
@@ -166,8 +166,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T19:49:12.248123",
-    "last_modified": "2026-02-10T19:49:12.248123",
+    "creation_date": "2026-02-10T20:17:04.313654",
+    "last_modified": "2026-02-10T20:17:04.313655",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -205,6 +205,6 @@
       "original_file_name": "H8_Vuokrasopimuksen_purkaminen.md"
     }
   },
-  "processing_date": "2026-02-10T19:49:12.248149",
+  "processing_date": "2026-02-10T20:17:04.313682",
   "processor": "systematic_batch_processor"
 }

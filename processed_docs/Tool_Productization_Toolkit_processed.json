@@ -1,0 +1,292 @@
+{
+  "original_content": "# Tool: Productization Toolkit\n\nProductization transforms expertise and ideas into easily sellable packages. This is a compilation of the best tools.\n\n## 1. Clarifying the Core Message\n* **Problem:** What customer pain point or need do you solve?\n* **Solution:** How does your company handle the matter?\n* **Benefit:** What is the outcome for the customer (e.g., time or money saved)?\n\n## 2. MVP (Minimum Viable Product)\nDevelop the lightest possible version of the idea for testing:\n* **Landing page:** Website that tells about only this one product and collects contact information.\n* **Brochure or video:** Visualize the service flow (1-2-3 steps).\n* **Paper prototype:** Quick sketch of an application or device.\n\n## 3. Product Card\nEvery product should have:\n* **Name:** Catchy and descriptive.\n* **Contents:** What does the customer get concretely (parts, quality, quantity).\n* **Price:** Clear price facilitates the purchase decision. \"Request quote\" is often an obstacle to purchase.\n\n## 4. Commercializing Expertise\nIf you are an expert, you are the product. Use the **KLT model**:\n* **Know:** Tell who you are and what you know (blogs, videos).\n* **Like:** Be easily approachable and helpful.\n* **Trust:** Present references and results achieved by others.\n\n## 5. Invoice Exercise\nTry writing an invoice to a customer for a new product.\n* If you cannot itemize line items or price, productization is still incomplete.\n* A clear invoice shows that you have thought the process through to the end.\n\n---\n**Tip:** \"E-commerce thinking\" forces you to clarify the product. Even if you don't establish an e-commerce site, imagine how you would sell your service with one button press.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+      "position_in_text": 277,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+      "position_in_text": 574,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+      "position_in_text": 1478,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+      "position_in_text": 52,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+      "position_in_text": 572,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+      "position_in_text": 205,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+      "position_in_text": 624,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+      "position_in_text": 308,
+      "related_keywords": []
+    },
+    {
+      "term": "application",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+      "position_in_text": 694,
+      "related_keywords": []
+    },
+    {
+      "term": "flow",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+      "position_in_text": 632,
+      "related_keywords": []
+    },
+    {
+      "term": "purchase",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+      "position_in_text": 923,
+      "related_keywords": []
+    },
+    {
+      "term": "Tool Productization Toolkit",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+    "extraction_date": "2026-02-10T20:40:01.064172",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Tool_Productization_Toolkit_review",
+      "title": "Tool Productization Toolkit.md Review Required",
+      "description": "Document Tool Productization Toolkit.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Tool Productization Toolkit.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tool Productization Toolkit.md",
+    "title": "Tool Productization Toolkit",
+    "description": "Documentation file: Tool Productization Toolkit.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T20:40:01.064179",
+    "last_modified": "2026-02-10T20:40:01.064180",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 269,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "process",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "benefit",
+      "application",
+      "flow"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Tool_Productization_Toolkit_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Tool Productization Toolkit.md"
+    }
+  },
+  "processing_date": "2026-02-10T20:40:01.064223",
+  "processor": "systematic_batch_processor"
+}

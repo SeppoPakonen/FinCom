@@ -173,7 +173,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/AB-Kortti.md",
-    "extraction_date": "2026-02-10T19:49:12.238912",
+    "extraction_date": "2026-02-10T20:17:04.303842",
     "entities": [
       {
         "name": "Business Entity",
@@ -257,8 +257,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T19:49:12.238919",
-    "last_modified": "2026-02-10T19:49:12.238920",
+    "creation_date": "2026-02-10T20:17:04.303850",
+    "last_modified": "2026-02-10T20:17:04.303851",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -300,6 +300,6 @@
       "original_file_name": "AB-Kortti.md"
     }
   },
-  "processing_date": "2026-02-10T19:49:12.238948",
+  "processing_date": "2026-02-10T20:17:04.303883",
   "processor": "systematic_batch_processor"
 }

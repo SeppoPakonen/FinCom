@@ -173,7 +173,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Edunsaajaote ja tietopalvelut _ PRH.md",
-    "extraction_date": "2026-02-10T19:49:12.262678",
+    "extraction_date": "2026-02-10T20:17:04.329675",
     "entities": [
       {
         "name": "Business Entity",
@@ -257,8 +257,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T19:49:12.262685",
-    "last_modified": "2026-02-10T19:49:12.262686",
+    "creation_date": "2026-02-10T20:17:04.329683",
+    "last_modified": "2026-02-10T20:17:04.329684",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -300,6 +300,6 @@
       "original_file_name": "PRH - Edunsaajaote ja tietopalvelut _ PRH.md"
     }
   },
-  "processing_date": "2026-02-10T19:49:12.262713",
+  "processing_date": "2026-02-10T20:17:04.329712",
   "processor": "systematic_batch_processor"
 }

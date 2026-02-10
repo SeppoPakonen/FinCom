@@ -1,0 +1,630 @@
+{
+  "original_content": "# Guide: Establishing a Company in 2025 (Summary)\n\nThis guide is a summary of a comprehensive establishment manual published by Finnish New Business Centers. It covers the entire path of entrepreneurship from planning to operations.\n\n## 1. Entrepreneur as a Person\n* **Entrepreneurial work:** Opportunity to do things your own way and take responsibility for results.\n* **Income support:** The startup grant (ca. 740 €/month in 2025) is intended for the entrepreneur's living expenses initially. Apply for support before starting operations!\n* **Social security:** Based on YEL earned income. Also join an Entrepreneur's Unemployment Fund to ensure earnings-related unemployment benefits (requires at least 15,481 € earned income).\n\n## 2. Business Planning\n* **Business idea:** Does your product solve a customer problem? How do you differ from competitors?\n* **Business Plan (LTS):** Your roadmap and negotiation tool for financiers. Includes SWOT analysis.\n* **Calculations:**\n    - **Financial plan:** How much money do you need to start?\n    - **Profitability calculation:** What level of sales is needed for the business to make sense?\n    - **Cash flow calculation:** Is there enough money in the account to pay bills?\n\n## 3. Establishing the Company\n* **Choosing a business form:**\n    - **Business name (Tmi):** Easy management, personal liability for debts.\n    - **Limited Liability Company (Oy):** Professional, protects the entrepreneur's personal assets, requires a board.\n    - **Cooperative:** Flexible number of members, community-oriented.\n* **Protection:** Register the name in the Trade Register and protect products with trademarks.\n* **Contracts:** Make all contracts (rent, shareholder agreement, subcontracting) in writing.\n\n## 4. Company Operations\n* **Financial management:** Outsource accounting to a professional. Monitor cash in real time.\n* **Insurance:** In addition to mandatory YEL insurance, you often need liability insurance and legal protection insurance.\n* **Responsibility:** ESG issues (Environmental, Social, Governance) are currently a competitive advantage.\n* **Marketing:** Help the customer in the purchasing process. Utilize artificial intelligence in content production.\n\n## 5. Taxation and Authorities\n* **VAT:** Standard rate 25.5 %. Remember to report in MyTax on monthly due dates.\n* **Employer:** If you hire employees, handle TyEL, insurance and income register notifications within 5 days of the payday.\n\n---\n**Tip:** Start your journey by booking an appointment for free business counseling: [uusyrityskeskus.fi](https://www.uusyrityskeskus.fi).",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 8,
+      "relevance": 0.8,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 140,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 24,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 2224,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 2153,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1281,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1346,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1375,
+      "related_keywords": []
+    },
+    {
+      "term": "cooperative",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1494,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 804,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 2260,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1627,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1093,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 2104,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 221,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 209,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 521,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1872,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 553,
+      "related_keywords": []
+    },
+    {
+      "term": "employment",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 623,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 285,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 679,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1657,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1708,
+      "related_keywords": []
+    },
+    {
+      "term": "shareholder",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1696,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 2294,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 2414,
+      "related_keywords": []
+    },
+    {
+      "term": "responsibility",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 340,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1325,
+      "related_keywords": []
+    },
+    {
+      "term": "governance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 2049,
+      "related_keywords": []
+    },
+    {
+      "term": "asset",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1460,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1346,
+      "related_keywords": []
+    },
+    {
+      "term": "expense",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 476,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1050,
+      "related_keywords": []
+    },
+    {
+      "term": "cash",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1149,
+      "related_keywords": []
+    },
+    {
+      "term": "flow",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1154,
+      "related_keywords": []
+    },
+    {
+      "term": "debt",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1360,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 1093,
+      "related_keywords": []
+    },
+    {
+      "term": "Uusyrityskeskus FI Perustamisopas 2025 valmis digi",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+    "extraction_date": "2026-02-10T20:40:01.075877",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Uusyrityskeskus_FI_Perustamisopas_2025_valmis_digi_review",
+      "title": "Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md Review Required",
+      "description": "Document Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+    "title": "Uusyrityskeskus FI Perustamisopas 2025 valmis digi",
+    "description": "Documentation file: Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T20:40:01.075886",
+    "last_modified": "2026-02-10T20:40:01.075887",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 363,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "tax",
+      "process",
+      "form",
+      "liability",
+      "limited",
+      "cooperative",
+      "customer",
+      "standard"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Uusyrityskeskus_FI_Perustamisopas_2025_valmis_digi_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md"
+    }
+  },
+  "processing_date": "2026-02-10T20:40:01.075946",
+  "processor": "systematic_batch_processor"
+}

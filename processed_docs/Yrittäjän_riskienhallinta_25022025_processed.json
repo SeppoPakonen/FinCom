@@ -1,0 +1,409 @@
+{
+  "original_content": "# Entrepreneur's Risk Management\n\nRisk management is part of a company's strategic planning. The objective is to identify potential threats and prepare for them in advance.\n\n## 1. Financial Risks\n* **Cash Flow:** Is there enough money for ongoing expenses?\n* **Profitability:** Are prices right in relation to costs?\n* **Financing:** Will interest rates or loan availability change?\n\n## 2. Operational Risks\n* **Personnel:** Lack of competence or departure of key personnel.\n* **Information Security:** Data breaches, identity theft and equipment damage.\n* **Contracts:** Unclear responsibilities or contract violations.\n\n## 3. Environmental and Liability Risks\n* **Environmental Damage:** Emissions, leaks and waste management neglect.\n* **Liability Insurance:** Product liability and possible legal proceedings.\n* **Reputation:** Social media and public image.\n\n## 4. Risk Management Methods\n1. **Avoid:** Don't engage in overly risky activities.\n2. **Reduce:** Improve processes, train staff and protect equipment.\n3. **Transfer:** Use insurance and contractual terms (NDA, liability limitations).\n4. **Accept:** Accept small risks whose management is more expensive than the damage.\n\n---\n**Tip:** Develop a risk assessment for your company and update it regularly as part of your business plan.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 1284,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 63,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 481,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 972,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 481,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 479,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 646,
+      "related_keywords": []
+    },
+    {
+      "term": "assessment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 1216,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 83,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 751,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 491,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 559,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 22,
+      "related_keywords": []
+    },
+    {
+      "term": "risk",
+      "frequency": 9,
+      "relevance": 0.9,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 17,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 646,
+      "related_keywords": []
+    },
+    {
+      "term": "expense",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 247,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 261,
+      "related_keywords": []
+    },
+    {
+      "term": "cash",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 200,
+      "related_keywords": []
+    },
+    {
+      "term": "flow",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 205,
+      "related_keywords": []
+    },
+    {
+      "term": "loan",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 357,
+      "related_keywords": []
+    },
+    {
+      "term": "Yrittäjän riskienhallinta 25022025",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+    "extraction_date": "2026-02-10T20:40:01.085083",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Yrittäjän_riskienhallinta_25022025_review",
+      "title": "Yrittäjän riskienhallinta 25022025.md Review Required",
+      "description": "Document Yrittäjän riskienhallinta 25022025.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Yrittäjän riskienhallinta 25022025.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrittäjän riskienhallinta 25022025.md",
+    "title": "Yrittäjän riskienhallinta 25022025",
+    "description": "Documentation file: Yrittäjän riskienhallinta 25022025.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T20:40:01.085091",
+    "last_modified": "2026-02-10T20:40:01.085092",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 184,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "process",
+      "form",
+      "information",
+      "liability",
+      "assessment",
+      "planning",
+      "insurance"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Yrittäjän_riskienhallinta_25022025_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Yrittäjän riskienhallinta 25022025.md"
+    }
+  },
+  "processing_date": "2026-02-10T20:40:01.085125",
+  "processor": "systematic_batch_processor"
+}

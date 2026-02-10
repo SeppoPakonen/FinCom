@@ -186,7 +186,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Keskinäinen kiinteistöosakeyhtiö _ PRH.md",
-    "extraction_date": "2026-02-10T19:49:12.266202",
+    "extraction_date": "2026-02-10T20:17:04.333195",
     "entities": [
       {
         "name": "Business Entity",
@@ -270,8 +270,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T19:49:12.266209",
-    "last_modified": "2026-02-10T19:49:12.266210",
+    "creation_date": "2026-02-10T20:17:04.333202",
+    "last_modified": "2026-02-10T20:17:04.333203",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -313,6 +313,6 @@
       "original_file_name": "PRH - Keskinäinen kiinteistöosakeyhtiö _ PRH.md"
     }
   },
-  "processing_date": "2026-02-10T19:49:12.266239",
+  "processing_date": "2026-02-10T20:17:04.333233",
   "processor": "systematic_batch_processor"
 }

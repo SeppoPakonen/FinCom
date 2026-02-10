@@ -1,0 +1,422 @@
+{
+  "original_content": "# Tool: New Entrepreneur's Checklist\n\nThis checklist helps you ensure that all important matters are handled in the early stages of your company.\n\n## 1. Planning and Preparation\n* [ ] **Clarify your business idea:** What do you sell, to whom and how?\n* [ ] **Business plan and calculations:** Create a business plan and financial calculations (YT4/YT5).\n* [ ] **Expert help:** Book time for business consulting (e.g., New Enterprise Center).\n* [ ] **Startup grant:** Apply for a decision BEFORE registering the company.\n\n## 2. Official Registrations\n* [ ] **Registration notification:** Submit notification at [ytj.fi](https://www.ytj.fi) service.\n* [ ] **Tax registration:** Apply for advance payment and VAT registers.\n* [ ] **Trademark:** Protect the company name or logo if needed at PRH.\n\n## 3. Bank and Insurance\n* [ ] **Business bank account:** Open a bank account and get payment terminal or online payment processing.\n* [ ] **YEL insurance:** Take the mandatory pension insurance from a pension company.\n* [ ] **Other insurances:** Liability insurance, accident insurance and legal protection insurance.\n\n## 4. Everyday Tools\n* [ ] **Accounting:** Choose an accounting firm and agree on electronic financial management.\n* [ ] **Contract templates:** Prepare templates for quotations, orders and invoices.\n* [ ] **IT equipment:** Computer, phone and necessary software.\n\n## 5. Sales and Marketing\n* [ ] **Online presence:** Reserve a domain, create website and open social media channels.\n* [ ] **Logo design:** Create a recognizable brand for your company.\n* [ ] **Pricing:** Decide on prices for products and services.\n\n---\n**Remember:** Networking is important! Join a local entrepreneur organization or professional network.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 199,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 137,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 656,
+      "related_keywords": []
+    },
+    {
+      "term": "registration",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 536,
+      "related_keywords": []
+    },
+    {
+      "term": "process",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 915,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 1246,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 1041,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 639,
+      "related_keywords": []
+    },
+    {
+      "term": "products",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 1606,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 1619,
+      "related_keywords": []
+    },
+    {
+      "term": "sales",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 1385,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 1395,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 153,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 1651,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 809,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 1651,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 1237,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 571,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 1217,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 1041,
+      "related_keywords": []
+    },
+    {
+      "term": "sale",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 1385,
+      "related_keywords": []
+    },
+    {
+      "term": "Yrityksen perustaminen perustemistoimet 2023",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+    "extraction_date": "2026-02-10T20:40:01.086017",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Yrityksen_perustaminen_perustemistoimet_2023_review",
+      "title": "Yrityksen perustaminen perustemistoimet 2023.md Review Required",
+      "description": "Document Yrityksen perustaminen perustemistoimet 2023.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Yrityksen perustaminen perustemistoimet 2023.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Yrityksen perustaminen perustemistoimet 2023.md",
+    "title": "Yrityksen perustaminen perustemistoimet 2023",
+    "description": "Documentation file: Yrityksen perustaminen perustemistoimet 2023.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T20:40:01.086025",
+    "last_modified": "2026-02-10T20:40:01.086026",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 271,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "tax",
+      "registration",
+      "process",
+      "template",
+      "liability",
+      "service",
+      "products",
+      "services"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Yrityksen_perustaminen_perustemistoimet_2023_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Yrityksen perustaminen perustemistoimet 2023.md"
+    }
+  },
+  "processing_date": "2026-02-10T20:40:01.086063",
+  "processor": "systematic_batch_processor"
+}

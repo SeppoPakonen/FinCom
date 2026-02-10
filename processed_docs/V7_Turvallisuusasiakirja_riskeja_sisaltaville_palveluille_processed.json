@@ -1,0 +1,344 @@
+{
+  "original_content": "# Tool: Safety Document (Services Containing Risks)\n\nThis is a model safety document according to the Consumer Safety Act (920/2011) following Tukes' guidelines. It is primarily intended as a company's own tool for continuous improvement of safety.\n\n---\n\n## 1. Basic Information\n* **Service Provider:** [Company name]\n* **Services:** [Which services does this document concern?]\n* **Location:** [Where the service is provided]\n* **Updated:** [Date]\n\n## 2. Responsible Personnel\n* Who is responsible for service safety? Name the responsible person and on-site responsible person (if different).\n* Who handles practical safety matters?\n\n## 3. Hazard Identification\n* What are the specific hazards and risks of the service (from the customer's perspective)?\n* Assess all stages of the service. Also identify \"potential\" hazards that have not yet occurred.\n\n## 4. Measures to Prevent Dangerous Situations\n* How have hazards been prevented so far?\n* What are the action guidelines in case of accidents or near-miss situations?\n* What improvements are planned for the future?\n\n## 5. Dynamic Risk Management\n* How is the daily safety situation monitored (e.g. weather changes, unexpected customer behavior)?\n* How are changes practically responded to?\n\n## 6. Staff and Customer Considerations\n* **Staff:** Required professional skills, first aid skills and orientation.\n* **Customers:** How are they oriented and how are they supervised during the service? Ensuring understanding of instructions.\n* **Limitations:** Environmental limits (when the service cannot be performed safely) and participation restrictions (e.g. age, height).\n\n## 7. Environment and Equipment\n* How is the safe condition of facilities, equipment and apparatus ensured?\n* Maintenance and inspection plan.\n\n## 8. Accident Documentation and Authority Notifications\n* How are near-miss situations documented and investigated?\n* **Notify Tukes:** Serious accidents must be reported immediately to Tukes (kirjaamo@tukes.fi).\n\n---\n**Attachments:** Risk assessment forms, training register, maintenance records, accident register.",
+  "keywords": [
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 192,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 269,
+      "related_keywords": []
+    },
+    {
+      "term": "document",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 15,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 269,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 267,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 1476,
+      "related_keywords": []
+    },
+    {
+      "term": "assessment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 2013,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 730,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 10,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 25,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 25,
+      "related_keywords": []
+    },
+    {
+      "term": "safety",
+      "frequency": 7,
+      "relevance": 0.7000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 8,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 1935,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 1815,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 1090,
+      "related_keywords": []
+    },
+    {
+      "term": "risk",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 45,
+      "related_keywords": []
+    },
+    {
+      "term": "V7 Turvallisuusasiakirja riskeja sisaltaville palveluille",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+    "extraction_date": "2026-02-10T20:40:01.078367",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille_review",
+      "title": "V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md Review Required",
+      "description": "Document V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+    "title": "V7 Turvallisuusasiakirja riskeja sisaltaville palveluille",
+    "description": "Documentation file: V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T20:40:01.078374",
+    "last_modified": "2026-02-10T20:40:01.078375",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 300,
+    "language": "en",
+    "keywords": [
+      "company",
+      "formation",
+      "document",
+      "form",
+      "information",
+      "instructions",
+      "assessment",
+      "customer",
+      "service",
+      "services"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "V7_Turvallisuusasiakirja_riskeja_sisaltaville_palveluille.md"
+    }
+  },
+  "processing_date": "2026-02-10T20:40:01.078414",
+  "processor": "systematic_batch_processor"
+}

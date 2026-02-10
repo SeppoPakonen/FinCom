@@ -147,7 +147,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Logistiikka_Rahavirrat.md",
-    "extraction_date": "2026-02-10T19:49:12.256307",
+    "extraction_date": "2026-02-10T20:17:04.322969",
     "entities": [
       {
         "name": "Business Entity",
@@ -231,8 +231,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T19:49:12.256314",
-    "last_modified": "2026-02-10T19:49:12.256315",
+    "creation_date": "2026-02-10T20:17:04.322978",
+    "last_modified": "2026-02-10T20:17:04.322979",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -274,6 +274,6 @@
       "original_file_name": "Logistiikka_Rahavirrat.md"
     }
   },
-  "processing_date": "2026-02-10T19:49:12.256348",
+  "processing_date": "2026-02-10T20:17:04.323024",
   "processor": "systematic_batch_processor"
 }

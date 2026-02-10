@@ -225,7 +225,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Ergonomics Workplace Well-being and Occupational Safety.md",
-    "extraction_date": "2026-02-10T19:49:12.242793",
+    "extraction_date": "2026-02-10T20:17:04.308005",
     "entities": [
       {
         "name": "Business Entity",
@@ -309,8 +309,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T19:49:12.242800",
-    "last_modified": "2026-02-10T19:49:12.242801",
+    "creation_date": "2026-02-10T20:17:04.308012",
+    "last_modified": "2026-02-10T20:17:04.308013",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -352,6 +352,6 @@
       "original_file_name": "Ergonomics Workplace Well-being and Occupational Safety.md"
     }
   },
-  "processing_date": "2026-02-10T19:49:12.242857",
+  "processing_date": "2026-02-10T20:17:04.308070",
   "processor": "systematic_batch_processor"
 }

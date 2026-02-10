@@ -1,0 +1,357 @@
+{
+  "original_content": "# Tips for Entrepreneur's Parental Leave\n\nThis guide is compiled from the materials of the ELO pension company to assist entrepreneurs in preparing for parental leave and understanding its effects on income and YEL insurance.\n\n---\n\n## 1. Effect of YEL Income on Parental Benefit\n\nThe entrepreneur's parental daily allowance is determined based on the YEL income confirmed by Kela.\n\n- **Review period:** The daily allowance is calculated from a 12-calendar-month review period preceding the calendar month before the right to daily allowance begins.\n    - *Example:* If the right begins on 15.6.2021, the review period is 1.5.2020–30.4.2021.\n- **Average:** If the YEL income has changed during the period, the average income is considered.\n- **Overall effect:** YEL income affects not only parental allowance but also pension, sickness allowance, unemployment security, and family pension.\n\n---\n\n## 2. Lengths of Parental Leave (traditional model*)\n\n- **Maternity leave:** Can begin 30–50 weekdays before the estimated due date. Maternity allowance is paid for 105 weekdays.\n- **Paternal leave:** Paternity allowance is paid for a maximum of 54 weekdays. The father can be at home simultaneously with the mother for a maximum of 18 weekdays.\n\n*\\*Note: Legislation may have changed with the 2022 family leave reform. Always check current information from Kela.*\n\n---\n\n## 3. Business Operations Planning During Leave\n\nIt is important to consider in advance how the business will operate during the leave:\n- Do you plan to work part-time or be completely absent?\n- Will operations continue with employees or will new recruitments be needed?\n- Are the company's financial resources sufficient (financing, loans)?\n- Will business operations be reduced or suspended completely?\n\n---\n\n## 4. Managing YEL Insurance\n\n### If working during the leave:\n- If work input exceeds the YEL minimum threshold, insurance must be maintained. However, earned income should be adjusted to reflect the actual work input.\n\n### If not working:\n- YEL insurance can be terminated for the duration of the leave.\n- **Important:** Remember to apply for new insurance immediately when returning to work.\n\n---\n\n## 5. Entrepreneur's Checklist and Links\n\n- [ ] Start planning well in advance (at least a few months before).\n- [ ] Check that your YEL income is at the correct level before the review period begins.\n- [ ] Verify current information from Kela.\n- [ ] Decide whether YEL insurance will continue or be suspended.\n\n### Useful Links:\n- **YEL Calculator:** [elo.fi/yrittaja/yel-laskuri](https://www.elo.fi/yrittaja/yel-laskuri)\n- **ELO Information for Entrepreneurs:** [elo.fi/yrittaja](https://www.elo.fi)\n- **Customer Service:** 020 694 730 (TyEL and YEL matters)",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 1372,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 103,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 1338,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 1309,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 1336,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 2684,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 2693,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 1381,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 1392,
+      "related_keywords": []
+    },
+    {
+      "term": "working",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 1814,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 215,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 859,
+      "related_keywords": []
+    },
+    {
+      "term": "employment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 848,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 1519,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 271,
+      "related_keywords": []
+    },
+    {
+      "term": "loan",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 1700,
+      "related_keywords": []
+    },
+    {
+      "term": "Tips for Entrepreneur's Parental Leave",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+    "extraction_date": "2026-02-10T20:40:01.060680",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Tips_for_Entrepreneur's_Parental_Leave_review",
+      "title": "Tips for Entrepreneur's Parental Leave.md Review Required",
+      "description": "Document Tips for Entrepreneur's Parental Leave.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Tips for Entrepreneur's Parental Leave.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tips for Entrepreneur's Parental Leave.md",
+    "title": "Tips for Entrepreneur's Parental Leave",
+    "description": "Documentation file: Tips for Entrepreneur's Parental Leave.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T20:40:01.060688",
+    "last_modified": "2026-02-10T20:40:01.060689",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 2,
+    "word_count": 419,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "operations",
+      "planning",
+      "working"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Tips_for_Entrepreneur's_Parental_Leave_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Tips for Entrepreneur's Parental Leave.md"
+    }
+  },
+  "processing_date": "2026-02-10T20:40:01.060741",
+  "processor": "systematic_batch_processor"
+}

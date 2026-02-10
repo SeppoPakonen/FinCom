@@ -1,0 +1,344 @@
+{
+  "original_content": "# Summary: Occupational Health Care Act (1383/2001)\n\nThe law obligates the employer to arrange occupational health care for their employees. The objective is to prevent work-related illnesses and maintain work capacity.\n\n## 1. Employer's Obligation\n* Arrange at their own expense **preventive** occupational health care for all employees (regardless of the nature of the employment relationship).\n* Make a written agreement with a service provider (health center, private medical practice, or own service).\n* Maintain occupational health care agreements and workplace surveys available to employees.\n\n## 2. Contents of Occupational Health Care\n* **Workplace Survey:** Assessment of the healthiness of work and conditions.\n* **Health Examinations:** Conducted when assigning to work and periodically if work poses particular risk of illness.\n* **Action Proposals:** Advice on adapting work and promoting work capacity.\n* **Providing Information:** Guidance and counseling on work safety.\n* **Monitoring Work Capacity:** Monitoring sick leaves and guiding to rehabilitation.\n\n## 3. Medical Care (Voluntary)\n* Employer may arrange **medical services** (primary care level) in addition to mandatory preventive care. This is voluntary for the employer but often recommended to speed up return to work.\n\n## 4. Employee's Obligations\n* Employee may not refuse statutory health examinations without justified reason (e.g., in jobs causing particular danger).\n\n## 5. Reimbursements\n* Employer receives KELA reimbursement for occupational health care costs if operations follow good occupational health care practices.\n\n---\n**Important:** Employer must notify occupational health care of employee's sick leave at the latest when absence has continued for **30 days** (30-60-90 rule).",
+  "keywords": [
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 934,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 934,
+      "related_keywords": []
+    },
+    {
+      "term": "guidance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 947,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 932,
+      "related_keywords": []
+    },
+    {
+      "term": "assessment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 668,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 431,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 1138,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 1550,
+      "related_keywords": []
+    },
+    {
+      "term": "safety",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 979,
+      "related_keywords": []
+    },
+    {
+      "term": "employment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 371,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 169,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 414,
+      "related_keywords": []
+    },
+    {
+      "term": "obligation",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 238,
+      "related_keywords": []
+    },
+    {
+      "term": "risk",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 824,
+      "related_keywords": []
+    },
+    {
+      "term": "expense",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 272,
+      "related_keywords": []
+    },
+    {
+      "term": "työterveyshuoltolaki",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+    "extraction_date": "2026-02-10T20:40:01.071430",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_työterveyshuoltolaki_review",
+      "title": "työterveyshuoltolaki.md Review Required",
+      "description": "Document työterveyshuoltolaki.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document työterveyshuoltolaki.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työterveyshuoltolaki.md",
+    "title": "työterveyshuoltolaki",
+    "description": "Documentation file: työterveyshuoltolaki.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T20:40:01.071437",
+    "last_modified": "2026-02-10T20:40:01.071438",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 252,
+    "language": "en",
+    "keywords": [
+      "formation",
+      "form",
+      "guidance",
+      "information",
+      "assessment",
+      "service",
+      "services",
+      "operations",
+      "safety",
+      "employment"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_työterveyshuoltolaki_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "työterveyshuoltolaki.md"
+    }
+  },
+  "processing_date": "2026-02-10T20:40:01.071474",
+  "processor": "systematic_batch_processor"
+}

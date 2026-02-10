@@ -108,7 +108,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L10_Alihankintasopimus.md",
-    "extraction_date": "2026-02-10T19:49:12.249523",
+    "extraction_date": "2026-02-10T20:17:04.315053",
     "entities": [
       {
         "name": "Business Entity",
@@ -192,8 +192,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T19:49:12.249530",
-    "last_modified": "2026-02-10T19:49:12.249531",
+    "creation_date": "2026-02-10T20:17:04.315060",
+    "last_modified": "2026-02-10T20:17:04.315061",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -233,6 +233,6 @@
       "original_file_name": "L10_Alihankintasopimus.md"
     }
   },
-  "processing_date": "2026-02-10T19:49:12.249556",
+  "processing_date": "2026-02-10T20:17:04.315088",
   "processor": "systematic_batch_processor"
 }

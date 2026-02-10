@@ -1,0 +1,196 @@
+{
+  "original_content": "# Exercise: Document Formatting (Word/Writer)\n\nThis assignment guides you in creating and formatting a professional document according to the given instructions.\n\n## Steps of the Assignment\n\n1. **Open the template text:** Use the file `Computer driving license assignment text.md`.\n2. **Clean the text:** Remove unnecessary line breaks and blank lines under headings.\n3. **Basic formatting:**\n    * Font: **Arial**\n    * Size: **12 pt**\n    * Line spacing: **1.5**\n    * Alignment: **Both margins** (Justified)\n    * Hyphenation: **On**\n4. **Headings:** Replace section numbers (1, 2, 3) with descriptive subheadings:\n    * **Objective**\n    * **Result**\n    * **Tool**\n5. **Indentation:** Use dependent indentation.\n    * Subheadings start from the margin (C0).\n    * Body text starts at **4.6 cm** (C2).\n6. **Headers and footers:**\n    * **Header:** Left side appropriate image (width 1/4 of page), right side fixed date.\n    * **Footer:** Left side your name, right side page numbering in the format `page x (y)`.\n7. **Final touches:** Use preview to ensure paragraphs don't break untidily across pages.\n8. **Save:** Save as `Computer Driving License Qualification.rtf` or `.docx`.\n\n---\n**Addition:** Add a brief description of TIEKE qualifications (@-card, A-degree, AB-degree, TIETY) at the end of the document.",
+  "keywords": [
+    {
+      "term": "document",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tutkinto tehtävä ohje .md",
+      "position_in_text": 12,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tutkinto tehtävä ohje .md",
+      "position_in_text": 21,
+      "related_keywords": []
+    },
+    {
+      "term": "template",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tutkinto tehtävä ohje .md",
+      "position_in_text": 205,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tutkinto tehtävä ohje .md",
+      "position_in_text": 148,
+      "related_keywords": []
+    },
+    {
+      "term": "Tutkinto tehtävä ohje ",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tutkinto tehtävä ohje .md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tutkinto tehtävä ohje .md",
+    "extraction_date": "2026-02-10T20:40:01.068018",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tutkinto tehtävä ohje .md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tutkinto tehtävä ohje .md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tutkinto tehtävä ohje .md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tutkinto tehtävä ohje .md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_Tutkinto_tehtävä_ohje__review",
+      "title": "Tutkinto tehtävä ohje .md Review Required",
+      "description": "Document Tutkinto tehtävä ohje .md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tutkinto tehtävä ohje .md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document Tutkinto tehtävä ohje .md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Tutkinto tehtävä ohje .md",
+    "title": "Tutkinto tehtävä ohje ",
+    "description": "Documentation file: Tutkinto tehtävä ohje .md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T20:40:01.068026",
+    "last_modified": "2026-02-10T20:40:01.068027",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 187,
+    "language": "en",
+    "keywords": [
+      "document",
+      "form",
+      "template",
+      "instructions",
+      "Tutkinto tehtävä ohje "
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_Tutkinto_tehtävä_ohje__review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "Tutkinto tehtävä ohje .md"
+    }
+  },
+  "processing_date": "2026-02-10T20:40:01.068060",
+  "processor": "systematic_batch_processor"
+}

@@ -1,0 +1,461 @@
+{
+  "original_content": "# Guide: Starting a Company (Summary)\n\nStarting a company is a path that requires enthusiasm, expertise, and careful planning. Here are the most important steps.\n\n## 1. Are you ready to be an entrepreneur?\n* As an entrepreneur, you need independence, risk tolerance, and diverse skills.\n* **Consulting:** Use free business consulting services (e.g., New Enterprise Center). They help refine your business plan and calculations.\n\n## 2. Social security and startup grant\n* **Startup Grant:** Intended for the entrepreneur's living expenses in the beginning. Apply for support in time before starting!\n* **YEL:** Statutory pension insurance, which forms the basis of the entrepreneur's social security (pension, illness, parenthood).\n\n## 3. Business forms\n* **Private entrepreneur (Trade Name):** Suitable for small-scale operations.\n* **Limited Liability Company (Oy):** Recommended if there are multiple owners or the business involves risks. Shareholders are not personally liable for the company's debts.\n\n## 4. Calculations and financing\n* **Profitability calculation:** How much do you need to sell to get the salary you want and pay your expenses?\n* **Financing:** Own savings, bank loans and possible grants. Finnvera can act as a guarantor for loans.\n\n## 5. Notifications and permits\n* Submit the registration notification at [ytj.fi](https://www.ytj.fi) service.\n* Check if your field requires official permits (e.g., food industry, transport, healthcare).\n\n## 6. Value Added Tax (VAT)\n* VAT is a consumption tax added to the selling price. If your turnover is less than 20,000 €/year, you can choose whether to apply for VAT registration.\n\n---\n**Important:** Make written agreements about everything. Oral agreements are binding, but proving them is difficult.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 314,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 20,
+      "related_keywords": []
+    },
+    {
+      "term": "tax",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 1483,
+      "related_keywords": []
+    },
+    {
+      "term": "registration",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 1303,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 645,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 843,
+      "related_keywords": []
+    },
+    {
+      "term": "limited",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 835,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 334,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 334,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 819,
+      "related_keywords": []
+    },
+    {
+      "term": "planning",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 117,
+      "related_keywords": []
+    },
+    {
+      "term": "starting",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 9,
+      "related_keywords": []
+    },
+    {
+      "term": "insurance",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 628,
+      "related_keywords": []
+    },
+    {
+      "term": "security",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 442,
+      "related_keywords": []
+    },
+    {
+      "term": "salary",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 1113,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 1680,
+      "related_keywords": []
+    },
+    {
+      "term": "shareholder",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 942,
+      "related_keywords": []
+    },
+    {
+      "term": "notification",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 1264,
+      "related_keywords": []
+    },
+    {
+      "term": "risk",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 251,
+      "related_keywords": []
+    },
+    {
+      "term": "liability",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 843,
+      "related_keywords": []
+    },
+    {
+      "term": "expense",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 529,
+      "related_keywords": []
+    },
+    {
+      "term": "profit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 1044,
+      "related_keywords": []
+    },
+    {
+      "term": "loan",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 1187,
+      "related_keywords": []
+    },
+    {
+      "term": "debt",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 999,
+      "related_keywords": []
+    },
+    {
+      "term": "yrityksen perustamisopas",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+    "extraction_date": "2026-02-10T20:40:01.086834",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_yrityksen_perustamisopas_review",
+      "title": "yrityksen perustamisopas.md Review Required",
+      "description": "Document yrityksen perustamisopas.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document yrityksen perustamisopas.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yrityksen perustamisopas.md",
+    "title": "yrityksen perustamisopas",
+    "description": "Documentation file: yrityksen perustamisopas.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T20:40:01.086842",
+    "last_modified": "2026-02-10T20:40:01.086843",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 264,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "tax",
+      "registration",
+      "form",
+      "liability",
+      "limited",
+      "service",
+      "services",
+      "operations"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_yrityksen_perustamisopas_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "yrityksen perustamisopas.md"
+    }
+  },
+  "processing_date": "2026-02-10T20:40:01.086885",
+  "processor": "systematic_batch_processor"
+}

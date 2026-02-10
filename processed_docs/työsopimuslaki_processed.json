@@ -1,0 +1,318 @@
+{
+  "original_content": "# Summary: Employment Contract Act (55/2001)\n\nThe Employment Contract Act is a general law applied to the employment relationship between employer and employee. It defines minimum standards for terms of employment.\n\n## 1. Form and Duration of Employment Contract\n* **Form:** Free-form (oral, written or electronic). However, the employer has an obligation to provide a written statement of essential terms.\n* **Duration:** Indefinite duration is the rule. Fixed-term employment always requires a justified reason (substitution, training, project work).\n* **Long-term unemployed:** Can be hired on a fixed-term basis (max. 1 year) without a separate reason.\n\n## 2. Trial Period\n* Maximum **6 months**.\n* In fixed-term employment, maximum half of the contract duration.\n* During trial period, contract can be terminated by either party without notice period (but not for discriminatory reasons).\n\n## 3. Employer's Obligations\n* **General duty:** Promote relationships with employees and ensure work ability.\n* **Equal treatment:** Prohibition of discrimination (age, health, religion, gender, etc.).\n* **Sick pay:** If employment relationship lasts > 1 month, right to full salary from sick day + 9 days.\n* **Occupational safety:** Duty to protect employee from accidents and hazards.\n\n## 4. Employee's Obligations\n* **Performance of work:** Diligently and according to employer's instructions.\n* **Fidelity obligation:** Competing activities and disclosure of trade secrets are prohibited during employment.\n* **Occupational safety:** Duty to follow safety instructions and report deficiencies.\n\n## 5. Termination of Employment Relationship\n* **Dismissal:** Employer must have legitimate and weighty reason.\n    - Personal grounds: Serious breach of duties, substantial deterioration of work ability.\n    - Economic and production-related grounds: Work has substantially and permanently decreased.\n* **Termination:** Only for extremely weighty reason (contract ends immediately).\n* **Layoff:** Temporary suspension of work performance and salary payment (employment relationship remains in effect).\n\n## 6. Compensation for Damages\n* For unjustified termination of employment relationship, employer may be ordered to pay compensation equivalent to **3–24 months' salary**.\n\n---\n**Important:** Generally applicable collective agreement (TES) may grant employee benefits better than the law (e.g., longer sick pay or holiday pay).",
+  "keywords": [
+    {
+      "term": "form",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "position_in_text": 222,
+      "related_keywords": []
+    },
+    {
+      "term": "instructions",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "position_in_text": 1379,
+      "related_keywords": []
+    },
+    {
+      "term": "standard",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "position_in_text": 180,
+      "related_keywords": []
+    },
+    {
+      "term": "safety",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "position_in_text": 1220,
+      "related_keywords": []
+    },
+    {
+      "term": "employment",
+      "frequency": 12,
+      "relevance": 1.0,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "position_in_text": 11,
+      "related_keywords": []
+    },
+    {
+      "term": "work",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "position_in_text": 546,
+      "related_keywords": []
+    },
+    {
+      "term": "salary",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "position_in_text": 1172,
+      "related_keywords": []
+    },
+    {
+      "term": "benefit",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "position_in_text": 2358,
+      "related_keywords": []
+    },
+    {
+      "term": "contract",
+      "frequency": 6,
+      "relevance": 0.6000000000000001,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "position_in_text": 22,
+      "related_keywords": []
+    },
+    {
+      "term": "agreement",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "position_in_text": 2323,
+      "related_keywords": []
+    },
+    {
+      "term": "report",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "position_in_text": 1573,
+      "related_keywords": []
+    },
+    {
+      "term": "obligation",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "position_in_text": 345,
+      "related_keywords": []
+    },
+    {
+      "term": "duty",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "position_in_text": 936,
+      "related_keywords": []
+    },
+    {
+      "term": "työsopimuslaki",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+    "extraction_date": "2026-02-10T20:40:01.070554",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_työsopimuslaki_review",
+      "title": "työsopimuslaki.md Review Required",
+      "description": "Document työsopimuslaki.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document työsopimuslaki.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/työsopimuslaki.md",
+    "title": "työsopimuslaki",
+    "description": "Documentation file: työsopimuslaki.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T20:40:01.070561",
+    "last_modified": "2026-02-10T20:40:01.070562",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 337,
+    "language": "en",
+    "keywords": [
+      "form",
+      "instructions",
+      "standard",
+      "safety",
+      "employment",
+      "work",
+      "salary",
+      "benefit",
+      "contract",
+      "agreement"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_työsopimuslaki_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "työsopimuslaki.md"
+    }
+  },
+  "processing_date": "2026-02-10T20:40:01.070611",
+  "processor": "systematic_batch_processor"
+}

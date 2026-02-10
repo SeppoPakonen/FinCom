@@ -225,7 +225,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/elo_vinkit_vanhempainvapaa_040920.md",
-    "extraction_date": "2026-02-10T19:49:12.242090",
+    "extraction_date": "2026-02-10T20:17:04.307261",
     "entities": [
       {
         "name": "Business Entity",
@@ -309,8 +309,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T19:49:12.242097",
-    "last_modified": "2026-02-10T19:49:12.242098",
+    "creation_date": "2026-02-10T20:17:04.307268",
+    "last_modified": "2026-02-10T20:17:04.307269",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -352,6 +352,6 @@
       "original_file_name": "elo_vinkit_vanhempainvapaa_040920.md"
     }
   },
-  "processing_date": "2026-02-10T19:49:12.242145",
+  "processing_date": "2026-02-10T20:17:04.307318",
   "processor": "systematic_batch_processor"
 }

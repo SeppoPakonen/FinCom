@@ -134,7 +134,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/PRH - Henkilötunnuksen puuttuminen _ PRH.md",
-    "extraction_date": "2026-02-10T19:49:12.265710",
+    "extraction_date": "2026-02-10T20:17:04.332685",
     "entities": [
       {
         "name": "Business Entity",
@@ -218,8 +218,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T19:49:12.265718",
-    "last_modified": "2026-02-10T19:49:12.265719",
+    "creation_date": "2026-02-10T20:17:04.332692",
+    "last_modified": "2026-02-10T20:17:04.332693",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -261,6 +261,6 @@
       "original_file_name": "PRH - Henkilötunnuksen puuttuminen _ PRH.md"
     }
   },
-  "processing_date": "2026-02-10T19:49:12.265748",
+  "processing_date": "2026-02-10T20:17:04.332723",
   "processor": "systematic_batch_processor"
 }

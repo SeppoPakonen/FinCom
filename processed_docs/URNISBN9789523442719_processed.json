@@ -1,0 +1,357 @@
+{
+  "original_content": "# Guide: Digital Business Operations for SMEs\n\nThis guide is compiled from materials for SME digital training programs (Digiportaat project). It provides practical information on managing websites, marketing and analytics.\n\n## 1. Key Digital Terms\n* **Web hosting & Domain:** The website's \"home\" and address (e.g. `company.fi`).\n* **WordPress:** The world's most popular content management system.\n* **Landing Page:** A page to which a customer is directed through a specific ad or link.\n* **Elementor:** Visual page building tool for WordPress (does not require coding skills).\n* **WooCommerce:** E-commerce plugin for WordPress.\n* **SEO (Search Engine Optimization):** Actions to improve the site's ranking in Google search results.\n* **SEM (Search Engine Marketing):** Paid advertising in search engines (e.g. Google Ads).\n\n## 2. Procurement Tips for Entrepreneurs\nAvoid \"vendor traps\" and costly mistakes:\n* **Make-or-buy:** Consider whether you can do some parts yourself (e.g. content updates) and what should be purchased (e.g. technical setup).\n* **Control yourself:** Ensure you have administrative rights and control over your domain and website.\n* **Compare:** Always request multiple quotes and ask for references.\n* **Pilot lightly:** Don't purchase massive customization right at the beginning.\n\n## 3. Business Metrics (KPI)\nDefine SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound).\n* **ROI (Return on Investment):** Return on invested capital.\n* **Conversion rate:** How many visitors perform the desired action (e.g. purchase).\n* **Bounce Rate:** Exit percentage (indicates whether the visitor found what they were looking for).\n\n## 4. Search Engine Visibility (SEO)\n1. **Keyword research:** Find out what your customers actually search for (e.g. \"massage therapist Mikkeli\" vs. \"wellness services\").\n2. **Unique content:** Don't copy text from elsewhere.\n3. **Technical SEO:** Use the Yoast SEO plugin in WordPress. Put the keyword in the title, URL (slug) and meta description.\n4. **Indexing:** Ask Google to read your changes through Search Console.\n\n## 5. Marketing in the Digital Age\n* **Email marketing:** Newsletters (e.g. MailChimp or Shopify Email) are effective for engagement.\n* **Social media visibility:** Choose channels where your customers are (FB, Instagram, LinkedIn, TikTok).\n* **Content plan:** Use the 1-7-30 principle (daily responses, weekly content, monthly campaign).\n* **Influencer collaboration:** Even a small expert in your field can be an effective partner.\n\n---\n**Tip:** The digital world will never be \"finished.\" Stay curious, boldly experiment and use search engines as help in problem situations.",
+  "keywords": [
+    {
+      "term": "business",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 17,
+      "related_keywords": []
+    },
+    {
+      "term": "company",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 316,
+      "related_keywords": []
+    },
+    {
+      "term": "formation",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 166,
+      "related_keywords": []
+    },
+    {
+      "term": "form",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 166,
+      "related_keywords": []
+    },
+    {
+      "term": "information",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 164,
+      "related_keywords": []
+    },
+    {
+      "term": "customer",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 437,
+      "related_keywords": []
+    },
+    {
+      "term": "service",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 1825,
+      "related_keywords": []
+    },
+    {
+      "term": "services",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 1825,
+      "related_keywords": []
+    },
+    {
+      "term": "marketing",
+      "frequency": 4,
+      "relevance": 0.4,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 198,
+      "related_keywords": []
+    },
+    {
+      "term": "operations",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 26,
+      "related_keywords": []
+    },
+    {
+      "term": "digital",
+      "frequency": 5,
+      "relevance": 0.5,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 9,
+      "related_keywords": []
+    },
+    {
+      "term": "management",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 380,
+      "related_keywords": []
+    },
+    {
+      "term": "control",
+      "frequency": 2,
+      "relevance": 0.2,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 1058,
+      "related_keywords": []
+    },
+    {
+      "term": "investment",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 1436,
+      "related_keywords": []
+    },
+    {
+      "term": "capital",
+      "frequency": 1,
+      "relevance": 0.1,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 1470,
+      "related_keywords": []
+    },
+    {
+      "term": "purchase",
+      "frequency": 3,
+      "relevance": 0.30000000000000004,
+      "category": "business_term",
+      "tags": [
+        "auto_extraction",
+        "business_documentation"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 1020,
+      "related_keywords": []
+    },
+    {
+      "term": "URNISBN9789523442719",
+      "frequency": 3,
+      "relevance": 0.9,
+      "category": "document_specific",
+      "tags": [
+        "file_name_based",
+        "auto_extraction"
+      ],
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "position_in_text": 0,
+      "related_keywords": []
+    }
+  ],
+  "ecs_elements": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+    "extraction_date": "2026-02-10T20:40:01.072107",
+    "entities": [
+      {
+        "name": "Business Entity",
+        "description": "Generic business entity mentioned in the document",
+        "attributes": {
+          "type": "varies_by_document",
+          "requirements": "depends_on_document_context",
+          "processes": "mentioned_in_document"
+        },
+        "tags": [
+          "business_entity",
+          "document_context"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+        "relationships": {}
+      }
+    ],
+    "components": [
+      {
+        "name": "Document Requirements",
+        "description": "Requirements specified in the document",
+        "properties": {
+          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+          "type": "business_requirements",
+          "complexity": "medium"
+        },
+        "data_schema": {},
+        "tags": [
+          "requirements",
+          "business_rules"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md"
+      }
+    ],
+    "systems": [
+      {
+        "name": "Document Process System",
+        "description": "Process system described in the document",
+        "behavior": "Defined by document content",
+        "dependencies": [],
+        "triggers": [
+          "document_review"
+        ],
+        "tags": [
+          "process",
+          "system"
+        ],
+        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md"
+      }
+    ]
+  },
+  "constraints": [
+    {
+      "id": "constraint_URNISBN9789523442719_review",
+      "title": "URNISBN9789523442719.md Review Required",
+      "description": "Document URNISBN9789523442719.md needs to be reviewed for compliance",
+      "constraint_type": "procedural",
+      "condition": "document_reviewed == True",
+      "scope": "document_compliance",
+      "severity": "info",
+      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+      "tags": [
+        "compliance",
+        "review"
+      ],
+      "related_constraints": [],
+      "validation_logic": "check_document_review_status(document_id)",
+      "error_message": "Document URNISBN9789523442719.md requires review"
+    }
+  ],
+  "metadata": {
+    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/URNISBN9789523442719.md",
+    "title": "URNISBN9789523442719",
+    "description": "Documentation file: URNISBN9789523442719.md",
+    "tags": [
+      "documentation",
+      "business",
+      "finland"
+    ],
+    "categories": [
+      "business_documentation"
+    ],
+    "related_files": [],
+    "creation_date": "2026-02-10T20:40:01.072114",
+    "last_modified": "2026-02-10T20:40:01.072115",
+    "author": "auto_processing",
+    "version": "1.0",
+    "relevance_score": 0.7,
+    "content_type": "documentation",
+    "business_domains": [
+      "business_operations"
+    ],
+    "difficulty_level": "intermediate",
+    "estimated_reading_time": 1,
+    "word_count": 386,
+    "language": "en",
+    "keywords": [
+      "business",
+      "company",
+      "formation",
+      "form",
+      "information",
+      "customer",
+      "service",
+      "services",
+      "marketing",
+      "operations"
+    ],
+    "related_entities": [
+      "Business Entity"
+    ],
+    "related_components": [
+      "Document Requirements"
+    ],
+    "related_systems": [
+      "Document Process System"
+    ],
+    "related_constraints": [
+      "constraint_URNISBN9789523442719_review"
+    ],
+    "custom_fields": {
+      "document_type": "business_form",
+      "processing_status": "completed",
+      "original_file_name": "URNISBN9789523442719.md"
+    }
+  },
+  "processing_date": "2026-02-10T20:40:01.072161",
+  "processor": "systematic_batch_processor"
+}

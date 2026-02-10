@@ -251,7 +251,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/Liikeidean täsmentäminen_lomake.md",
-    "extraction_date": "2026-02-10T19:49:12.253730",
+    "extraction_date": "2026-02-10T20:17:04.318913",
     "entities": [
       {
         "name": "Business Entity",
@@ -335,8 +335,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T19:49:12.253745",
-    "last_modified": "2026-02-10T19:49:12.253747",
+    "creation_date": "2026-02-10T20:17:04.318922",
+    "last_modified": "2026-02-10T20:17:04.318923",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -378,6 +378,6 @@
       "original_file_name": "Liikeidean täsmentäminen_lomake.md"
     }
   },
-  "processing_date": "2026-02-10T19:49:12.253831",
+  "processing_date": "2026-02-10T20:17:04.318971",
   "processor": "systematic_batch_processor"
 }
