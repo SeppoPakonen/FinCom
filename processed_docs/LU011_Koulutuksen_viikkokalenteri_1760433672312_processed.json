@@ -394,7 +394,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/LU011_Koulutuksen_viikkokalenteri_1760433672312.md",
-    "extraction_date": "2026-02-10T16:27:08.348790",
+    "extraction_date": "2026-02-10T18:58:25.022945",
     "entities": [
       {
         "name": "Business Entity",
@@ -478,8 +478,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T16:27:08.348796",
-    "last_modified": "2026-02-10T16:27:08.348797",
+    "creation_date": "2026-02-10T18:58:25.022952",
+    "last_modified": "2026-02-10T18:58:25.022953",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -521,6 +521,6 @@
       "original_file_name": "LU011_Koulutuksen_viikkokalenteri_1760433672312.md"
     }
   },
-  "processing_date": "2026-02-10T16:27:08.348853",
+  "processing_date": "2026-02-10T18:58:25.023017",
   "processor": "systematic_batch_processor"
 }

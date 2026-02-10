@@ -95,7 +95,7 @@
   ],
   "ecs_elements": {
     "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/L12_Toimeksiantosopimus.md",
-    "extraction_date": "2026-02-10T16:27:08.343237",
+    "extraction_date": "2026-02-10T18:58:25.016600",
     "entities": [
       {
         "name": "Business Entity",
@@ -179,8 +179,8 @@
       "business_documentation"
     ],
     "related_files": [],
-    "creation_date": "2026-02-10T16:27:08.343243",
-    "last_modified": "2026-02-10T16:27:08.343244",
+    "creation_date": "2026-02-10T18:58:25.016607",
+    "last_modified": "2026-02-10T18:58:25.016608",
     "author": "auto_processing",
     "version": "1.0",
     "relevance_score": 0.7,
@@ -219,6 +219,6 @@
       "original_file_name": "L12_Toimeksiantosopimus.md"
     }
   },
-  "processing_date": "2026-02-10T16:27:08.343271",
+  "processing_date": "2026-02-10T18:58:25.016637",
   "processor": "systematic_batch_processor"
 }
