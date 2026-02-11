@@ -11,15 +11,12 @@ Details:
 - Added comprehensive search-engine metadata to each file
 - Created processed data files in processed_docs directory for each document
 - Generated individual task files in plan/manual_processing/tasks directory
-- Updated master tracker to reflect progress (now 650/1164 files processed)
+- Updated master tracker to reflect progress (now 305/1164 files processed)
 - Verified all data structures are properly validated
 - Ensured relationships are correctly established
 - Confirmed metadata is accurately captured
 - Maintained consistent processing approach across all files
 - Each processed file now has complete keyword, ECS, constraint, and metadata information
 - Files included business guides, marketing materials, operational procedures, and regulatory information
-- All processing maintained Finnish business context while using English for system elements
-- Successfully identified English content in files with Finnish titles
-- Ensured no duplicate processing occurred
 
 Next Task: Continue processing remaining documentation files systematically
