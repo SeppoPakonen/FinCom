@@ -5,14 +5,14 @@ This file tracks the progress of manually processing all English documentation f
 
 ## Total Files to Process
 - **Total Documentation Files**: 1164
-- **Already Processed**: 700 (company_formation_example.md, company_finance_example.md, 2025 Marketing Fundamentals and Competitive Strategies.md, AB-Card.md, AB-Kortti.md, ABC of Working Life Rules and Obligations.md, plus 695 additional files from systematic batch processing)
-- **Remaining to Process**: 464
-- **Completion Rate**: 60.14%
+- **Already Processed**: 750 (company_formation_example.md, company_finance_example.md, 2025 Marketing Fundamentals and Competitive Strategies.md, AB-Card.md, AB-Kortti.md, ABC of Working Life Rules and Obligations.md, plus 745 additional files from systematic batch processing)
+- **Remaining to Process**: 414
+- **Completion Rate**: 64.43%
 
 ## Processing Status
-- **Not Started**: 464 files
+- **Not Started**: 414 files
 - **In Progress**: 0 files
-- **Completed**: 700 files
+- **Completed**: 750 files
 
 ## Progress Tracking
 Each file has a corresponding task file in `/plan/manual_processing/tasks/` directory that tracks its individual processing status.
