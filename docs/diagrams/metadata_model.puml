@@ -1,0 +1,31 @@
+@startuml
+class Metadata {
+  - source_file: String
+  - title: String
+  - description: String
+  - tags: List<String>
+  - categories: List<String>
+  - related_files: List<String>
+  - creation_date: String
+  - last_modified: String
+  - author: String
+  - version: String
+  - relevance_score: Float
+  - content_type: String
+  - business_domains: List<String>
+  - difficulty_level: String
+  - estimated_reading_time: Integer
+  - word_count: Integer
+  - language: String
+  - keywords: List<String>
+  - related_entities: List<String>
+  - related_components: List<String>
+  - related_systems: List<String>
+  - related_constraints: List<String>
+  - custom_fields: Dict
+  
+  + add_tag(tag: String): void
+  + add_category(category: String): void
+  + update_field(field: String, value: Any): void
+}
+@enduml

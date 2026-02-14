@@ -1,0 +1,44 @@
+@startuml
+class Constraint {
+  - id: String
+  - title: String
+  - description: String
+  - constraint_type: ConstraintType
+  - condition: String
+  - scope: String
+  - severity: SeverityLevel
+  - source_file: String
+  - tags: List<String>
+  - related_constraints: List<String>
+  - validation_logic: String
+  - error_message: String
+  
+  + validate(): Boolean
+  + get_violation_details(): String
+}
+
+enum ConstraintType {
+  REGULATORY
+  FINANCIAL
+  PROCEDURAL
+  TEMPORAL
+  RESOURCE
+}
+
+enum SeverityLevel {
+  INFO
+  WARNING
+  ERROR
+  CRITICAL
+}
+
+class ConstraintCollection {
+  - source_file: String
+  - constraints: List<Constraint>
+  - extraction_date: String
+  
+  + add_constraint(constraint: Constraint): void
+  + get_by_type(type: ConstraintType): List<Constraint>
+  + get_by_severity(level: SeverityLevel): List<Constraint>
+}
+@enduml

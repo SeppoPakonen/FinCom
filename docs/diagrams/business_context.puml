@@ -1,0 +1,27 @@
+@startuml
+package "Finnish Business Context" {
+  rectangle "Finnish Legal Framework" as FLF
+  rectangle "Finnish Tax Regulations" as FTR
+  rectangle "Finnish Business Forms" as FBF
+  rectangle "Finnish Industry Standards" as FIS
+}
+
+package "English System Elements" {
+  rectangle "Keywords (English)" as KE
+  rectangle "ECS Architecture (English)" as EECS
+  rectangle "Constraints (English)" as EC
+  rectangle "Metadata (English)" as EM
+}
+
+FLF --> KE : "Provides context for"
+FTR --> EC : "Defines constraints for"
+FBF --> EECS : "Implements architecture for"
+FIS --> EM : "Influences metadata for"
+
+note top of FLF
+  All processing maintains
+  Finnish business context
+  while using English for
+  system elements
+end note
+@enduml

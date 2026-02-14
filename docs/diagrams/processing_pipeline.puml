@@ -1,0 +1,26 @@
+@startuml
+start
+
+:Load raw documentation file;
+
+if (Is file in English?) then (yes)
+  :Extract keywords;
+  :Identify ECS elements;
+  :Extract constraints;
+  :Add metadata;
+  :Validate data structures;
+  :Save processed JSON file;
+  :Create task tracking file;
+else (no)
+  :Skip file;
+endif
+
+if (More files to process?) then (yes)
+  :Continue processing;
+else (no)
+  :Update master tracker;
+  :Generate consolidated data;
+endif
+
+stop
+@enduml

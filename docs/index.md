@@ -1,76 +1,49 @@
-# Index for financial_planning_budgets
+# Finnish Business Operations Repository Documentation
 
-## Description
-This directory contains 69 files related to financial planning budgets. These files were organized from the processed directory based on their content and business function.
+## Dataset Documentation
 
-## Files in this directory:
+Welcome to the documentation for the Finnish Business Operations Repository. This repository contains processed English documentation files from Finnish business operations, enhanced with keywords, ECS elements, constraints, and metadata.
 
-- [H14_Capital_loan_bond.md](H14_Capital_loan_bond.md) - H14 Capital loan bond
-- [H15_Bond.md](H15_Bond.md) - H15 Bond
-- [LU011_Weekly_schedule_for_training_1760433672312.md](LU011_Weekly_schedule_for_training_1760433672312.md) - LU011 Weekly schedule for training 1760433672312
-- [Logistics_costs.md](Logistics_costs.md) - Logistics costs
-- [Logistics_competence YAT.md](Logistics_competence YAT.md) - Logistics competence YAT
-- [SALES - ANSVA.md](SALES - ANSVA.md) - SALES - ANSVA
-- [Building_a_marketing_plan_elements.md](Building_a_marketing_plan_elements.md) - Building a marketing plan elements
-- [Marketing_communication.md](Marketing_communication.md) - Marketing communication
-- [New_digital_marketing_starting_points.md](New_digital_marketing_starting_points.md) - New digital marketing starting points
-- [My_digital_environment .md](My_digital_environment .md) - My digital environment
-- [How_to_use_the_AIDA_model.md](How_to_use_the_AIDA_model.md) - How to use the AIDA model
-- [Sales_key_figures.md](Sales_key_figures.md) - Sales key figures
-- [PRH - Minor_and_business_activity _ PRH.md](PRH - Minor_and_business_activity _ PRH.md) - PRH - Minor and business activity   PRH
-- [PRH - Developing_digital_financial_reporting _ PRH.md](PRH - Developing_digital_financial_reporting _ PRH.md) - PRH - Developing digital financial reporting   PRH
-- [PRH - Digital_financial_statement_vocabulary _ PRH.md](PRH - Digital_financial_statement_vocabulary _ PRH.md) - PRH - Digital financial statement vocabulary   PRH
-- [PRH - Ultimate_beneficiary_notification _ PRH.md](PRH - Ultimate_beneficiary_notification _ PRH.md) - PRH - Ultimate beneficiary notification   PRH
-- [PRH - Deficiencies_in_beneficiary_information_and_supervision _ PRH.md](PRH - Deficiencies_in_beneficiary_information_and_supervision _ PRH.md) - PRH - Deficiencies in beneficiary information and supervision   PRH
-- [PRH - European_Economic_Area_(EEA)_ _ PRH.md](PRH - European_Economic_Area_(EEA)_ _ PRH.md) - PRH - European Economic Area (EEA)   PRH
-- [PRH - Consequences_of_omission _ PRH.md](PRH - Consequences_of_omission _ PRH.md) - PRH - Consequences of omission   PRH
-- [PRH - Mandatory_electronic_service_for_the_Commercial_Register_from_2026 _ PRH.md](PRH - Mandatory_electronic_service_for_the_Commercial_Register_from_2026 _ PRH.md) - PRH - Mandatory electronic service for the Commercial Register from 2026   PRH
-- [PRH - Home_location _ PRH.md](PRH - Home_location _ PRH.md) - PRH - Home location   PRH
-- [PRH - What_is_a_digital_financial_statement_ _ PRH.md](PRH - What_is_a_digital_financial_statement_ _ PRH.md) - PRH - What is a digital financial statement    PRH
-- [PRH - Late_payment_fee _ PRH.md](PRH - Late_payment_fee _ PRH.md) - PRH - Late payment fee   PRH
-- [PRH - Correction_request_for_late_submission_fee _ PRH.md](PRH - Correction_request_for_late_submission_fee _ PRH.md) - PRH - Correction request for late submission fee   PRH
-- [PRH - Limited_company_and_cooperative_ Financial_statement_at_risk_of_removal_from_the_Trade_Register _ PRH.md](PRH - Limited_company_and_cooperative_ Financial_statement_at_risk_of_removal_from_the_Trade_Register _ PRH.md) - PRH - Limited company and cooperative  Financial statement at risk of removal from the Trade Register   PRH
-- [PRH - Limited_company_and_branch_office_in_the_European_Economic_Area_(EEA)_ _ PRH.md](PRH - Limited_company_and_branch_office_in_the_European_Economic_Area_(EEA)_ _ PRH.md) - PRH - Limited company and branch office in the European Economic Area (EEA)   PRH
-- [PRH - Shareholders _ PRH.md](PRH - Shareholders _ PRH.md) - PRH - Shareholders   PRH
-- [PRH - Address_and_contact_details _ PRH.md](PRH - Address_and_contact_details _ PRH.md) - PRH - Address and contact details   PRH
-- [PRH - Procuration _ PRH.md](PRH - Procuration _ PRH.md) - PRH - Procuration   PRH
-- [PRH - Rules_authorization_instructions _ PRH.md](PRH - Rules_authorization_instructions _ PRH.md) - PRH - Rules authorization instructions   PRH
-- [PRH - Financial_statements _ PRH.md](PRH - Financial_statements _ PRH.md) - PRH - Financial statements   PRH
-- [PRH - Financial_statement_taxonomies _ PRH.md](PRH - Financial_statement_taxonomies _ PRH.md) - PRH - Financial statement taxonomies   PRH
-- [PRH - Suspending_operations _ PRH.md](PRH - Suspending_operations _ PRH.md) - PRH - Suspending operations   PRH
-- [PRH - Frequently_asked_questions_about_late_financial_statements _ PRH.md](PRH - Frequently_asked_questions_about_late_financial_statements _ PRH.md) - PRH - Frequently asked questions about late financial statements   PRH
-- [Powerpoint - exercise Ergonette.md](Powerpoint - exercise Ergonette.md) - Powerpoint - exercise Ergonette
-- [SOME_calendar_content_plan.md](SOME_calendar_content_plan.md) - SOME calendar content plan
-- [Start_grant_and_4_months_entrepreneurship_trial.md](Start_grant_and_4_months_entrepreneurship_trial.md) - Start grant and 4 months entrepreneurship trial
-- [V1_Food_establishment_notification.md](V1_Food_establishment_notification.md) - V1 Food establishment notification
-- [V2_Self_supervision_plan.md](V2_Self_supervision_plan.md) - V2 Self supervision plan
-- [V8_Consent_for_processing_personal_data.md](V8_Consent_for_processing_personal_data.md) - V8 Consent for processing personal data
-- [Yearly_clock_template_xxx.md](Yearly_clock_template_xxx.md) - Yearly clock template xxx
-- [YAT_tool.md](YAT_tool.md) - YAT tool
-- [YAT_business_legislation_permit_based_business_and_copyright.md](YAT_business_legislation_permit_based_business_and_copyright.md) - YAT business legislation permit based business and copyright
-- [YT16_Competitor_analysis.md](YT16_Competitor_analysis.md) - YT16 Competitor analysis
-- [YT26_Marketing_and_sales_plan_BusinessOulu.md](YT26_Marketing_and_sales_plan_BusinessOulu.md) - YT26 Marketing and sales plan BusinessOulu
-- [YT26_Marketing_and_sales_plan_Lapua.md](YT26_Marketing_and_sales_plan_Lapua.md) - YT26 Marketing and sales plan Lapua
-- [YT27_Marketing_plan_Lapua.md](YT27_Marketing_plan_Lapua.md) - YT27 Marketing plan Lapua
-- [Company_sales_and_marketing_channels.md](Company_sales_and_marketing_channels.md) - Company sales and marketing channels
-- [Company_presentation_Ergonette.md](Company_presentation_Ergonette.md) - Company presentation Ergonette
-- [Professional_service_showcase.md](Professional_service_showcase.md) - Professional service showcase
-- [Parental_leave_tips_040920.md](Parental_leave_tips_040920.md) - Parental leave tips 040920
-- [index.md](index.md) - index
-- [baseline_analysis.md](baseline_analysis.md) - baseline analysis
-- [marketing_plan.md](marketing_plan.md) - marketing plan
-- [conducting_marketing_research.md](conducting_marketing_research.md) - conducting marketing research
-- [megatrends_2026.md](megatrends_2026.md) - megatrends 2026
-- [notes.md](notes.md) - notes
-- [service_design.md](service_design.md) - service design
-- [internal_customer_service.md](internal_customer_service.md) - internal customer service
-- [productization_suomi_fi.md](productization_suomi_fi.md) - productization suomi fi
-- [using_artificial_intelligence.md](using_artificial_intelligence.md) - using artificial intelligence
-- [productization.md](productization.md) - productization
-- [working_hours_act.md](working_hours_act.md) - working hours act
-- [work_pension.md](work_pension.md) - work pension
-- [tax_info.md](tax_info.md) - tax info
-- [vision mission values.md](vision mission values.md) - vision mission values
-- [annual_leave_act.md](annual_leave_act.md) - annual leave act
-- [entrepreneur_fund.md](entrepreneur_fund.md) - entrepreneur fund
-- [company_permits_and_obligations.md](company_permits_and_obligations.md) - company permits and obligations
+### Main Documentation
+
+- [Dataset Overview](dataset_documentation.md) - Comprehensive overview of the dataset
+- [Dataset Website](dataset_documentation_website.md) - Main documentation website with embedded diagrams
+- [Data Models](#data-models) - Detailed information about the data models used
+
+### Data Models
+
+- [Keyword Model](diagrams/keyword_model.png) - Diagram of the keyword data model
+- [ECS Architecture Model](diagrams/ecs_model.png) - Diagram of the ECS (Entity-Component-System) model
+- [Constraint Model](diagrams/constraint_model.png) - Diagram of the constraint data model
+- [Metadata Model](diagrams/metadata_model.png) - Diagram of the metadata model
+
+### System Architecture
+
+- [Repository Structure](diagrams/repository_structure.png) - Diagram of the repository organization
+- [Element Relationships](diagrams/relationships.png) - Diagram showing relationships between data elements
+- [Processing Pipeline](diagrams/processing_pipeline.png) - Diagram of the processing workflow
+- [Business Context](diagrams/business_context.png) - Diagram showing the Finnish business context
+
+### Usage Guides
+
+- [Getting Started](#getting-started) - How to start using the dataset
+- [API Reference](#api-reference) - Information about accessing the data programmatically
+- [Best Practices](#best-practices) - Recommendations for using the dataset effectively
+
+## About This Repository
+
+The Finnish Business Operations Repository contains documentation files that have been processed to enhance them with structured data elements. Each document contains:
+
+- Keywords with relevance scores and categories
+- ECS elements (Entities, Components, Systems) for business architecture
+- Constraints with types and severity levels
+- Comprehensive metadata for search optimization
+
+All processing maintains Finnish business context while using English for system elements as required.
+
+## Quick Links
+
+- [Processed Documents](../processed_docs/) - Directory containing all processed JSON files
+- [Task Files](../plan/manual_processing/tasks/) - Individual processing task files
+- [Master Tracker](../plan/manual_processing/master_tracker.md) - Overall processing progress
+- [Source Code](../src/) - Scripts used for processing

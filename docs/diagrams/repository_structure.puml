@@ -1,0 +1,34 @@
+@startuml
+package "Finnish Business Operations Repository" {
+  folder docs
+  folder processed_docs
+  folder tasks
+  file master_tracker
+  folder src
+  
+  docs --> processed_docs : "processed to"
+  tasks --> processed_docs : "tracks"
+  master_tracker --> processed_docs : "monitors"
+  src --> processed_docs : "generates"
+}
+
+note bottom of docs
+  Contains original documentation files
+end note
+
+note bottom of processed_docs
+  Contains processed JSON files with enhanced data
+end note
+
+note bottom of tasks
+  Individual processing task files
+end note
+
+note bottom of master_tracker
+  Tracks overall processing progress
+end note
+
+note bottom of src
+  Source code for processing scripts
+end note
+@enduml

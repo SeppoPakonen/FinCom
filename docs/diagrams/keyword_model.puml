@@ -1,0 +1,26 @@
+@startuml
+class Keyword {
+  - term: String
+  - frequency: Integer
+  - relevance: Float
+  - category: String
+  - tags: List<String>
+  - source_file: String
+  - position_in_text: Integer
+  - related_keywords: List<String>
+  
+  + to_dict(): Dict
+  + calculate_relevance(): Float
+}
+
+class KeywordCollection {
+  - source_file: String
+  - keywords: List<Keyword>
+  - total_word_count: Integer
+  - extraction_date: String
+  
+  + add_keyword(keyword: Keyword): void
+  + get_by_category(category: String): List<Keyword>
+  + get_top_relevant(count: Integer): List<Keyword>
+}
+@enduml

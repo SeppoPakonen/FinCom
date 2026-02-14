@@ -1,0 +1,34 @@
+@startuml
+class Document {
+  - filename: String
+  - content: String
+  - processing_date: String
+}
+
+Document ||--o{ KeywordCollection : contains
+Document ||--o{ ECSArchitecture : implements
+Document ||--o{ ConstraintCollection : has
+Document ||--o{ Metadata : has
+
+KeywordCollection ||--o{ Keyword : contains
+ECSArchitecture ||--o{ Entity : contains
+ECSArchitecture ||--o{ Component : contains
+ECSArchitecture ||--o{ System : contains
+ConstraintCollection ||--o{ Constraint : contains
+
+Keyword }|--|{ Keyword : related_to
+Entity }|--|{ Component : has
+Component }|--|{ System : used_by
+Constraint }|--|{ Document : applies_to
+
+note top of Document
+  Each document is processed to extract
+  keywords, ECS elements, constraints,
+  and metadata
+end note
+
+note bottom of ECSArchitecture
+  ECS elements represent the business
+  architecture described in the document
+end note
+@enduml

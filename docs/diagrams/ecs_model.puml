@@ -1,0 +1,51 @@
+@startuml
+class Entity {
+  - name: String
+  - description: String
+  - attributes: Dict
+  - tags: List<String>
+  - source_file: String
+  - relationships: Dict
+  
+  + add_attribute(key: String, value: Any): void
+  + get_attribute(key: String): Any
+}
+
+class Component {
+  - name: String
+  - description: String
+  - properties: Dict
+  - data_schema: Dict
+  - tags: List<String>
+  - source_file: String
+  
+  + update_property(key: String, value: Any): void
+  + validate_data(data: Any): Boolean
+}
+
+class System {
+  - name: String
+  - description: String
+  - behavior: String
+  - dependencies: List<String>
+  - triggers: List<String>
+  - tags: List<String>
+  - source_file: String
+  
+  + execute(): void
+  + add_dependency(dep: String): void
+}
+
+class ECSArchitecture {
+  - source_file: String
+  - entities: List<Entity>
+  - components: List<Component>
+  - systems: List<System>
+  - extraction_date: String
+  
+  + add_entity(entity: Entity): void
+  + add_component(component: Component): void
+  + add_system(system: System): void
+  + get_relationships(): Dict
+}
+@enduml
