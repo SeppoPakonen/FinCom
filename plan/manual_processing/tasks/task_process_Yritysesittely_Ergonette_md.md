@@ -2,9 +2,8 @@
 
 ## File Information
 - **File**: `Yritysesittely Ergonette.md`
-- **Source Directory**: `/common/active/sblo/Dev/Manager/DummyMusicCompany/db_eng/`
-- **Relative Path**: `financial_planning_budgets/Yritysesittely Ergonette.md`
-- **Status**: Pending
+- **Source Directory**: `/common/active/sblo/Dev/FinCom/docs/`
+- **Status**: COMPLETED
 
 ## Processing Requirements
 Process this documentation file to add:

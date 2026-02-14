@@ -2,8 +2,7 @@
 
 ## File Information
 - **File**: `uusyrityskeskus.md`
-- **Source Directory**: `/common/active/sblo/Dev/Manager/DummyMusicCompany/db_eng/`
-- **Relative Path**: `business_forms/uusyrityskeskus.md`
+- **Source Directory**: `/common/active/sblo/Dev/FinCom/docs/`
 - **Status**: Pending
 
 ## Processing Requirements

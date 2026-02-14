@@ -1,0 +1,123 @@
+{
+  "filename": "YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+  "source_path": "/common/active/sblo/Dev/FinCom/docs/YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+  "keywords": [
+    {"term": "company establishment", "relevance": 0.95, "category": "business"},
+    {"term": "business plan", "relevance": 0.90, "category": "planning"},
+    {"term": "checklist", "relevance": 0.85, "category": "tool"},
+    {"term": "business idea", "relevance": 0.85, "category": "strategy"},
+    {"term": "business goals", "relevance": 0.80, "category": "planning"},
+    {"term": "vision", "relevance": 0.75, "category": "strategy"},
+    {"term": "target group", "relevance": 0.80, "category": "marketing"},
+    {"term": "competitor analysis", "relevance": 0.85, "category": "analysis"},
+    {"term": "unique competitive advantage", "relevance": 0.80, "category": "strategy"},
+    {"term": "USP", "relevance": 0.75, "category": "strategy"},
+    {"term": "financial plan", "relevance": 0.85, "category": "finance"},
+    {"term": "profitability calculations", "relevance": 0.80, "category": "finance"},
+    {"term": "cash budget", "relevance": 0.75, "category": "finance"},
+    {"term": "startup grant", "relevance": 0.75, "category": "funding"},
+    {"term": "company form", "relevance": 0.80, "category": "legal"},
+    {"term": "company name", "relevance": 0.75, "category": "legal"},
+    {"term": "establishment notification", "relevance": 0.80, "category": "legal"},
+    {"term": "YTJ", "relevance": 0.75, "category": "service"},
+    {"term": "mandatory insurances", "relevance": 0.75, "category": "insurance"},
+    {"term": "YEL insurance", "relevance": 0.70, "category": "insurance"},
+    {"term": "business establishment", "relevance": 0.90, "category": "business"},
+    {"term": "business planning", "relevance": 0.85, "category": "planning"},
+    {"term": "market analysis", "relevance": 0.80, "category": "analysis"},
+    {"term": "financial planning", "relevance": 0.85, "category": "finance"},
+    {"term": "funding application", "relevance": 0.75, "category": "funding"},
+    {"term": "business registration", "relevance": 0.80, "category": "legal"},
+    {"term": "business structure", "relevance": 0.75, "category": "legal"},
+    {"term": "business model", "relevance": 0.80, "category": "strategy"},
+    {"term": "competitive analysis", "relevance": 0.85, "category": "analysis"},
+    {"term": "competitive strategy", "relevance": 0.80, "category": "strategy"},
+    {"term": "financial projections", "relevance": 0.80, "category": "finance"},
+    {"term": "cash flow planning", "relevance": 0.75, "category": "finance"},
+    {"term": "business development", "relevance": 0.80, "category": "business"},
+    {"term": "business formation", "relevance": 0.85, "category": "legal"},
+    {"term": "business startup", "relevance": 0.85, "category": "business"},
+    {"term": "entrepreneurship", "relevance": 0.80, "category": "business"},
+    {"term": "entrepreneur", "relevance": 0.75, "category": "role"},
+    {"term": "business owner", "relevance": 0.75, "category": "role"},
+    {"term": "company founder", "relevance": 0.80, "category": "role"}
+  ],
+  "entities": [
+    {"name": "company", "type": "organization", "description": "The business entity being established"},
+    {"name": "business owner", "type": "role", "description": "The person establishing the company"},
+    {"name": "founder", "type": "role", "description": "The person establishing the company"},
+    {"name": "competitors", "type": "organization", "description": "At least 2-3 competitors to analyze"},
+    {"name": "target customers", "type": "stakeholder", "description": "Main target group for the business"},
+    {"name": "financiers", "type": "stakeholder", "description": "Entities providing funding for the business"},
+    {"name": "regulatory authorities", "type": "organization", "description": "Organizations overseeing business establishment (e.g. YTJ)"},
+    {"name": "insurance providers", "type": "organization", "description": "Providers of mandatory insurances like YEL"}
+  ],
+  "components": [
+    {"name": "business idea", "type": "concept", "description": "Clear articulation of the business concept"},
+    {"name": "vision", "type": "concept", "description": "5-10 year vision for the company"},
+    {"name": "goals", "type": "metric", "description": "Measurable first-year goals"},
+    {"name": "target group", "type": "market", "description": "Definition of main customer segment"},
+    {"name": "competitor analysis", "type": "analysis", "description": "Analysis of at least 2-3 competitors"},
+    {"name": "USP", "type": "strategy", "description": "Unique competitive advantage"},
+    {"name": "financial plan", "type": "document", "description": "Plan showing where money is needed"},
+    {"name": "profitability calculations", "type": "calculation", "description": "Calculations showing business viability"},
+    {"name": "cash budget", "type": "document", "description": "Budget outlining cash flows"},
+    {"name": "startup grant application", "type": "document", "description": "Application for startup funding"},
+    {"name": "company form", "type": "attribute", "description": "Legal structure of the company"},
+    {"name": "company name", "type": "attribute", "description": "Name of the company"},
+    {"name": "establishment notification", "type": "document", "description": "Notification to authorities (YTJ)"},
+    {"name": "mandatory insurances", "type": "requirement", "description": "Required insurance coverage (e.g. YEL)"}
+  ],
+  "systems": [
+    {"name": "business establishment process", "type": "process", "description": "Complete process of establishing a company"},
+    {"name": "market analysis system", "type": "process", "description": "System for analyzing markets and competition"},
+    {"name": "financial planning system", "type": "process", "description": "System for creating financial plans and budgets"},
+    {"name": "funding acquisition system", "type": "process", "description": "System for obtaining startup funding"},
+    {"name": "registration system", "type": "process", "description": "System for registering the business"},
+    {"name": "insurance system", "type": "process", "description": "System for securing mandatory insurances"}
+  ],
+  "constraints": [
+    {
+      "type": "regulatory",
+      "severity": "high",
+      "description": "Must submit establishment notification to YTJ",
+      "reference": "Finnish business registration requirements"
+    },
+    {
+      "type": "regulatory",
+      "severity": "high",
+      "description": "Must have mandatory insurances (e.g. YEL)",
+      "reference": "Finnish insurance requirements"
+    },
+    {
+      "type": "procedural",
+      "severity": "medium",
+      "description": "Competitor analysis should include at least 2-3 competitors",
+      "reference": "Business planning best practices"
+    },
+    {
+      "type": "procedural",
+      "severity": "medium",
+      "description": "Goals should be measurable",
+      "reference": "Business planning best practices"
+    },
+    {
+      "type": "financial",
+      "severity": "high",
+      "description": "Need financial plan showing where money is needed",
+      "reference": "Financial planning requirements"
+    }
+  ],
+  "metadata": {
+    "document_type": "checklist",
+    "business_stage": "establishment",
+    "language": "en",
+    "topic": "company establishment",
+    "complexity": "beginner",
+    "estimated_completion_time": "30-60 minutes",
+    "related_documents": [
+      "Yritysmuodot ja verotus 2025.md",
+      "yritystoiminnan suunnittelu.md"
+    ]
+  }
+}

@@ -2,9 +2,8 @@
 
 ## File Information
 - **File**: `yritystoiminnan suunnittelu.md`
-- **Source Directory**: `/common/active/sblo/Dev/Manager/DummyMusicCompany/db_eng/`
-- **Relative Path**: `business_forms_templates/yritystoiminnan suunnittelu.md`
-- **Status**: Pending
+- **Source Directory**: `/common/active/sblo/Dev/FinCom/docs/`
+- **Status**: COMPLETED
 
 ## Processing Requirements
 Process this documentation file to add:

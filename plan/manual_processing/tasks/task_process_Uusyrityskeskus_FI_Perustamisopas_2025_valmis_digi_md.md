@@ -2,9 +2,8 @@
 
 ## File Information
 - **File**: `Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md`
-- **Source Directory**: `/common/active/sblo/Dev/Manager/DummyMusicCompany/db_eng/`
-- **Relative Path**: `business_forms/Uusyrityskeskus_FI_Perustamisopas_2025_valmis-digi.md`
-- **Status**: Pending
+- **Source Directory**: `/common/active/sblo/Dev/FinCom/docs/`
+- **Status**: COMPLETED
 
 ## Processing Requirements
 Process this documentation file to add:

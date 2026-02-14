@@ -1,279 +1,88 @@
 {
-  "original_content": "# Guide: B2B Customer Service (Corporate Customers)\n\nThe goal of corporate customer service is to support the customer's business operations and build long-term partnerships. Good service is a significant competitive advantage.\n\n## 1. Areas of Corporate Customer Service\n* **Order Management:** Receiving orders, making changes and tracking shipments.\n* **Technical Support:** Guiding in product usage, installation and troubleshooting.\n* **Billing and Payments:** Resolving uncertainties and offering flexible payment solutions.\n* **Solution Selling:** Helping customers find the best products for their specific needs.\n\n## 2. Customer Relationship Management\n* **Activeness:** Don't wait for the customer to contact you. Be proactive and ask how they're doing.\n* **Personalization:** Know your customer's business and offer them customized solutions.\n* **Trust:** Act honestly and transparently in all situations.\n\n## 3. Communication Channels\nOffer multiple ways to make contact:\n* **Phone:** For urgent matters and complex clarifications.\n* **Email:** For matters requiring documentation.\n* **Chat:** Quick channel for routine questions.\n* **Customer Portal:** Self-service opportunities (e.g., reports, order history).\n\n## 4. Handling Feedback\n* Collect feedback regularly (e.g., NPS surveys).\n* Handle complaints immediately and learn from them. A satisfied complaint customer is often more loyal than one who hasn't experienced problems.\n\n---\n**Remember:** In the B2B world, good customer service saves the customer time and money. When you help your customer succeed, your own company grows as well.",
+  "filename": "yritysasiakaspalvelu.md",
+  "source_path": "/common/active/sblo/Dev/FinCom/docs/yritysasiakaspalvelu.md",
   "keywords": [
-    {
-      "term": "business",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-      "position_in_text": 121,
-      "related_keywords": []
-    },
-    {
-      "term": "company",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-      "position_in_text": 1585,
-      "related_keywords": []
-    },
-    {
-      "term": "document",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-      "position_in_text": 1078,
-      "related_keywords": []
-    },
-    {
-      "term": "customer",
-      "frequency": 14,
-      "relevance": 1.0,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-      "position_in_text": 13,
-      "related_keywords": []
-    },
-    {
-      "term": "service",
-      "frequency": 6,
-      "relevance": 0.6000000000000001,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-      "position_in_text": 22,
-      "related_keywords": []
-    },
-    {
-      "term": "products",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-      "position_in_text": 586,
-      "related_keywords": []
-    },
-    {
-      "term": "operations",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-      "position_in_text": 130,
-      "related_keywords": []
-    },
-    {
-      "term": "partnership",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-      "position_in_text": 161,
-      "related_keywords": []
-    },
-    {
-      "term": "report",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-      "position_in_text": 1199,
-      "related_keywords": []
-    },
-    {
-      "term": "management",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-      "position_in_text": 281,
-      "related_keywords": []
-    },
-    {
-      "term": "yritysasiakaspalvelu",
-      "frequency": 3,
-      "relevance": 0.9,
-      "category": "document_specific",
-      "tags": [
-        "file_name_based",
-        "auto_extraction"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-      "position_in_text": 0,
-      "related_keywords": []
-    }
+    {"term": "B2B customer service", "relevance": 0.95, "category": "service"},
+    {"term": "corporate customers", "relevance": 0.90, "category": "business"},
+    {"term": "customer relationship", "relevance": 0.85, "category": "service"},
+    {"term": "order management", "relevance": 0.80, "category": "operations"},
+    {"term": "technical support", "relevance": 0.80, "category": "service"},
+    {"term": "billing and payments", "relevance": 0.75, "category": "finance"},
+    {"term": "solution sales", "relevance": 0.80, "category": "sales"},
+    {"term": "proactivity", "relevance": 0.75, "category": "service"},
+    {"term": "personalization", "relevance": 0.75, "category": "service"},
+    {"term": "trust", "relevance": 0.70, "category": "service"},
+    {"term": "communication channels", "relevance": 0.75, "category": "service"},
+    {"term": "feedback management", "relevance": 0.75, "category": "service"},
+    {"term": "NPS surveys", "relevance": 0.70, "category": "metrics"},
+    {"term": "customer loyalty", "relevance": 0.80, "category": "service"},
+    {"term": "competitive advantage", "relevance": 0.70, "category": "strategy"},
+    {"term": "long-term partnerships", "relevance": 0.80, "category": "strategy"},
+    {"term": "customer success", "relevance": 0.75, "category": "service"},
+    {"term": "customer support", "relevance": 0.85, "category": "service"},
+    {"term": "customer satisfaction", "relevance": 0.80, "category": "metrics"},
+    {"term": "self-service", "relevance": 0.70, "category": "service"}
   ],
-  "ecs_elements": {
-    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-    "extraction_date": "2026-02-10T20:40:01.087928",
-    "entities": [
-      {
-        "name": "Business Entity",
-        "description": "Generic business entity mentioned in the document",
-        "attributes": {
-          "type": "varies_by_document",
-          "requirements": "depends_on_document_context",
-          "processes": "mentioned_in_document"
-        },
-        "tags": [
-          "business_entity",
-          "document_context"
-        ],
-        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-        "relationships": {}
-      }
-    ],
-    "components": [
-      {
-        "name": "Document Requirements",
-        "description": "Requirements specified in the document",
-        "properties": {
-          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-          "type": "business_requirements",
-          "complexity": "medium"
-        },
-        "data_schema": {},
-        "tags": [
-          "requirements",
-          "business_rules"
-        ],
-        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md"
-      }
-    ],
-    "systems": [
-      {
-        "name": "Document Process System",
-        "description": "Process system described in the document",
-        "behavior": "Defined by document content",
-        "dependencies": [],
-        "triggers": [
-          "document_review"
-        ],
-        "tags": [
-          "process",
-          "system"
-        ],
-        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md"
-      }
-    ]
-  },
+  "entities": [
+    {"name": "corporate customer", "type": "role", "description": "Business entity that purchases products or services"},
+    {"name": "service provider", "type": "role", "description": "Company offering customer service"},
+    {"name": "customer service representative", "type": "role", "description": "Employee providing customer support"},
+    {"name": "customer", "type": "role", "description": "Entity receiving service"},
+    {"name": "company", "type": "organization", "description": "Business entity providing customer service"},
+    {"name": "phone", "type": "channel", "description": "Communication channel for urgent matters"},
+    {"name": "email", "type": "channel", "description": "Communication channel for documented matters"},
+    {"name": "chat", "type": "channel", "description": "Communication channel for routine questions"},
+    {"name": "customer portal", "type": "channel", "description": "Self-service platform for customers"},
+    {"name": "NPS surveys", "type": "tool", "description": "Net Promoter Score surveys for feedback collection"}
+  ],
+  "components": [
+    {"name": "order management", "type": "service_component", "description": "Process of receiving orders, making changes and tracking shipments"},
+    {"name": "technical support", "type": "service_component", "description": "Guidance on product use, installation and troubleshooting"},
+    {"name": "billing and payments", "type": "service_component", "description": "Resolving uncertainties and offering flexible payment solutions"},
+    {"name": "solution sales", "type": "sales_component", "description": "Helping customers find the best products for their specific needs"},
+    {"name": "proactivity", "type": "service_principle", "description": "Initiative in contacting customers and checking their status"},
+    {"name": "personalization", "type": "service_principle", "description": "Customizing solutions based on customer's business knowledge"},
+    {"name": "trust", "type": "service_principle", "description": "Honest and transparent conduct in all situations"},
+    {"name": "feedback collection", "type": "service_component", "description": "Systematic gathering of customer opinions"},
+    {"name": "complaint handling", "type": "service_component", "description": "Process for addressing customer complaints"},
+    {"name": "customer relationship management", "type": "management_component", "description": "System for managing customer interactions"},
+    {"name": "communication channels", "type": "service_component", "description": "Multiple ways for customers to contact the company"},
+    {"name": "customer portal", "type": "digital_component", "description": "Self-service opportunities for customers"},
+    {"name": "reports", "type": "information_component", "description": "Documents available through customer portal"},
+    {"name": "order history", "type": "information_component", "description": "Record of customer's past orders"},
+    {"name": "installation guidance", "type": "support_component", "description": "Help with product setup"},
+    {"name": "troubleshooting", "type": "support_component", "description": "Problem-solving assistance"}
+  ],
+  "systems": [
+    {"name": "B2B customer service system", "type": "service_system", "description": "Framework for supporting business customers"},
+    {"name": "customer relationship management system", "type": "CRM_system", "description": "System for managing customer interactions and data"},
+    {"name": "order management system", "type": "operational_system", "description": "System for handling orders from placement to delivery"},
+    {"name": "technical support system", "type": "support_system", "description": "System for providing product guidance and troubleshooting"},
+    {"name": "billing system", "type": "financial_system", "description": "System for managing invoices and payments"},
+    {"name": "feedback collection system", "type": "feedback_system", "description": "System for gathering and analyzing customer feedback"},
+    {"name": "communication channel system", "type": "communication_system", "description": "Multi-channel approach to customer contact"},
+    {"name": "customer loyalty system", "type": "retention_system", "description": "Framework for maintaining long-term customer relationships"},
+    {"name": "solution sales system", "type": "sales_system", "description": "Approach to selling products based on customer needs"},
+    {"name": "self-service system", "type": "digital_system", "description": "Platform for customers to access information independently"}
+  ],
   "constraints": [
-    {
-      "id": "constraint_yritysasiakaspalvelu_review",
-      "title": "yritysasiakaspalvelu.md Review Required",
-      "description": "Document yritysasiakaspalvelu.md needs to be reviewed for compliance",
-      "constraint_type": "procedural",
-      "condition": "document_reviewed == True",
-      "scope": "document_compliance",
-      "severity": "info",
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-      "tags": [
-        "compliance",
-        "review"
-      ],
-      "related_constraints": [],
-      "validation_logic": "check_document_review_status(document_id)",
-      "error_message": "Document yritysasiakaspalvelu.md requires review"
-    }
+    {"type": "service", "description": "Service must support customer's business operations", "severity": "high"},
+    {"type": "service", "description": "Service must build long-term partnerships", "severity": "high"},
+    {"type": "communication", "description": "Multiple communication channels must be offered", "severity": "medium"},
+    {"type": "response", "description": "Complaints must be handled immediately", "severity": "high"},
+    {"type": "proactivity", "description": "Company should not wait for customer to initiate contact", "severity": "medium"},
+    {"type": "transparency", "description": "All interactions should be honest and transparent", "severity": "high"},
+    {"type": "customization", "description": "Solutions should be tailored to customer's business", "severity": "medium"}
   ],
   "metadata": {
-    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/yritysasiakaspalvelu.md",
-    "title": "yritysasiakaspalvelu",
-    "description": "Documentation file: yritysasiakaspalvelu.md",
-    "tags": [
-      "documentation",
-      "business",
-      "finland"
-    ],
-    "categories": [
-      "business_documentation"
-    ],
-    "related_files": [],
-    "creation_date": "2026-02-10T20:40:01.087935",
-    "last_modified": "2026-02-10T20:40:01.087936",
-    "author": "auto_processing",
-    "version": "1.0",
-    "relevance_score": 0.7,
-    "content_type": "documentation",
-    "business_domains": [
-      "business_operations"
-    ],
-    "difficulty_level": "intermediate",
-    "estimated_reading_time": 1,
-    "word_count": 224,
+    "title": "Guide: B2B Customer Service (Corporate Customers)",
+    "description": "Best practices for providing customer service to business clients",
+    "domain": "customer_service",
     "language": "en",
-    "keywords": [
-      "business",
-      "company",
-      "document",
-      "customer",
-      "service",
-      "products",
-      "operations",
-      "partnership",
-      "report",
-      "management"
-    ],
-    "related_entities": [
-      "Business Entity"
-    ],
-    "related_components": [
-      "Document Requirements"
-    ],
-    "related_systems": [
-      "Document Process System"
-    ],
-    "related_constraints": [
-      "constraint_yritysasiakaspalvelu_review"
-    ],
-    "custom_fields": {
-      "document_type": "business_form",
-      "processing_status": "completed",
-      "original_file_name": "yritysasiakaspalvelu.md"
-    }
-  },
-  "processing_date": "2026-02-10T20:40:01.087968",
-  "processor": "systematic_batch_processor"
+    "difficulty_level": "intermediate",
+    "estimated_reading_time_minutes": 2,
+    "tags": ["customer_service", "B2B", "corporate_customers", "relationship_management", "service_quality"],
+    "created_date": "2026-02-12",
+    "processing_status": "completed"
+  }
 }

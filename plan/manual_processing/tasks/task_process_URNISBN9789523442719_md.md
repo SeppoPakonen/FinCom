@@ -2,8 +2,7 @@
 
 ## File Information
 - **File**: `URNISBN9789523442719.md`
-- **Source Directory**: `/common/active/sblo/Dev/Manager/DummyMusicCompany/db_eng/`
-- **Relative Path**: `business_forms/URNISBN9789523442719.md`
+- **Source Directory**: `/common/active/sblo/Dev/FinCom/docs/`
 - **Status**: Pending
 
 ## Processing Requirements

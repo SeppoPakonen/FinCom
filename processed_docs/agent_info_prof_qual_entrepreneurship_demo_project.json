@@ -1,0 +1,80 @@
+{
+  "filename": "Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+  "source_path": "/common/active/sblo/Dev/FinCom/docs/Agent Information Professional Qualification in Entrepreneurship Demonstration Project.md",
+  "keywords": [
+    {"term": "professional qualification", "relevance": 0.95, "category": "education"},
+    {"term": "entrepreneurship", "relevance": 0.95, "category": "business"},
+    {"term": "demonstration project", "relevance": 0.90, "category": "education"},
+    {"term": "assessment", "relevance": 0.85, "category": "evaluation"},
+    {"term": "business operations", "relevance": 0.85, "category": "business"},
+    {"term": "business plan", "relevance": 0.90, "category": "business"},
+    {"term": "financial calculations", "relevance": 0.80, "category": "finance"},
+    {"term": "responsibility plan", "relevance": 0.75, "category": "sustainability"},
+    {"term": "sustainability", "relevance": 0.75, "category": "sustainability"},
+    {"term": "assessment form", "relevance": 0.80, "category": "evaluation"},
+    {"term": "marketing materials", "relevance": 0.75, "category": "marketing"},
+    {"term": "financial projections", "relevance": 0.80, "category": "finance"},
+    {"term": "vocational qualification", "relevance": 0.90, "category": "education"},
+    {"term": "competency areas", "relevance": 0.85, "category": "education"},
+    {"term": "mandatory parts", "relevance": 0.80, "category": "education"},
+    {"term": "completion summary", "relevance": 0.70, "category": "documentation"},
+    {"term": "PSK Adult Education Center", "relevance": 0.75, "category": "location"},
+    {"term": "DummyMusicCompany", "relevance": 0.80, "category": "business"},
+    {"term": "February 18 2026", "relevance": 0.85, "category": "deadline"},
+    {"term": "assessment date", "relevance": 0.85, "category": "deadline"}
+  ],
+  "entities": [
+    {"name": "entrepreneur", "type": "role", "description": "Individual pursuing professional qualification in entrepreneurship"},
+    {"name": "assessor", "type": "role", "description": "Evaluator of the demonstration project"},
+    {"name": "student", "type": "role", "description": "Individual completing the vocational qualification"},
+    {"name": "DummyMusicCompany", "type": "organization", "description": "Business entity used for the demonstration project"},
+    {"name": "PSK Adult Education Center", "type": "location", "description": "Venue for the assessment"},
+    {"name": "February 18, 2026", "type": "date", "description": "Deadline for the demonstration project assessment"},
+    {"name": "Working in Business Operations", "type": "competency_area", "description": "Component of the vocational qualification worth 30 credits"},
+    {"name": "Planning and Starting Business Operations", "type": "competency_area", "description": "Component of the vocational qualification worth 60 credits"},
+    {"name": "Mandatory Parts of the Qualification", "type": "requirement", "description": "Required components of the professional qualification"},
+    {"name": "Business Plan", "type": "deliverable", "description": "Comprehensive plan for the business"},
+    {"name": "Financial Calculations", "type": "deliverable", "description": "YT4/YT5 financial projections"},
+    {"name": "Responsibility Plan", "type": "deliverable", "description": "Sustainability plan for the business"}
+  ],
+  "components": [
+    {"name": "demonstration project", "type": "project_component", "description": "Complete project showcasing vocational competencies"},
+    {"name": "assessment form", "type": "evaluation_component", "description": "Document for evaluating competency achievement"},
+    {"name": "business plan", "type": "business_component", "description": "Comprehensive plan for DummyMusicCompany"},
+    {"name": "financial projections", "type": "finance_component", "description": "Financial forecasts and calculations"},
+    {"name": "marketing materials", "type": "marketing_component", "description": "Visual materials with prompts for the business"},
+    {"name": "responsibility plan", "type": "sustainability_component", "description": "Plan addressing environmental and social responsibility"},
+    {"name": "completion summary", "type": "documentation_component", "description": "Overview of completed project components"},
+    {"name": "practical business operations", "type": "business_component", "description": "Documented operations of the business"},
+    {"name": "visual prompts", "type": "marketing_component", "description": "Visual elements for marketing materials"},
+    {"name": "sustainability plan", "type": "sustainability_component", "description": "Plan for responsible business practices"}
+  ],
+  "systems": [
+    {"name": "professional qualification system", "type": "education_system", "description": "Framework for assessing entrepreneurial competencies"},
+    {"name": "vocational qualification system", "type": "education_system", "description": "Framework for professional skills assessment"},
+    {"name": "demonstration project system", "type": "education_system", "description": "Method for showcasing practical competencies"},
+    {"name": "assessment system", "type": "evaluation_system", "description": "Process for evaluating qualification requirements"},
+    {"name": "business operations system", "type": "business_system", "description": "Framework for conducting business activities"},
+    {"name": "financial planning system", "type": "finance_system", "description": "Framework for projecting and managing finances"},
+    {"name": "sustainability system", "type": "sustainability_system", "description": "Framework for responsible business practices"}
+  ],
+  "constraints": [
+    {"type": "time", "description": "Assessment scheduled for February 18, 2026, 13:30-14:30", "severity": "high"},
+    {"type": "location", "description": "Assessment to take place at PSK Adult Education Center", "severity": "high"},
+    {"type": "requirement", "description": "Must complete Working in Business Operations competency (30 cr)", "severity": "high"},
+    {"type": "requirement", "description": "Must complete Planning and Starting Business Operations competency (60 cr)", "severity": "high"},
+    {"type": "requirement", "description": "Must complete Mandatory Parts of the Qualification", "severity": "high"},
+    {"type": "requirement", "description": "Must submit business plan, financial calculations, and responsibility plan", "severity": "high"}
+  ],
+  "metadata": {
+    "title": "Agent Information: Professional Qualification in Entrepreneurship - Demonstration Project",
+    "description": "Directory containing all deliverables for the entrepreneur vocational qualification demonstration exam project",
+    "domain": "education",
+    "language": "en",
+    "difficulty_level": "intermediate",
+    "estimated_reading_time_minutes": 2,
+    "tags": ["vocational_qualification", "entrepreneurship", "demonstration_project", "assessment", "business_plan", "sustainability"],
+    "created_date": "2026-02-12",
+    "processing_status": "completed"
+  }
+}

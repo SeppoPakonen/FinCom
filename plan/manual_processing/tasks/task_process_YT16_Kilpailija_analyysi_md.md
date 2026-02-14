@@ -2,9 +2,8 @@
 
 ## File Information
 - **File**: `YT16_Kilpailija-analyysi.md`
-- **Source Directory**: `/common/active/sblo/Dev/Manager/DummyMusicCompany/db_eng/`
-- **Relative Path**: `financial_planning_budgets/YT16_Kilpailija-analyysi.md`
-- **Status**: Pending
+- **Source Directory**: `/common/active/sblo/Dev/FinCom/docs/`
+- **Status**: COMPLETED
 
 ## Processing Requirements
 Process this documentation file to add:

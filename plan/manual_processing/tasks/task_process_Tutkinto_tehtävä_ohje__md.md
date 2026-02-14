@@ -2,9 +2,8 @@
 
 ## File Information
 - **File**: `Tutkinto tehtävä ohje .md`
-- **Source Directory**: `/common/active/sblo/Dev/Manager/DummyMusicCompany/db_eng/`
-- **Relative Path**: `business_forms_templates/Tutkinto tehtävä ohje .md`
-- **Status**: Pending
+- **Source Directory**: `/common/active/sblo/Dev/FinCom/docs/`
+- **Status**: COMPLETED
 
 ## Processing Requirements
 Process this documentation file to add:
@@ -55,7 +54,7 @@ Process this documentation file to add:
 - Ensure ECS elements properly represent the business concepts in the document
 
 ## Next Steps
-1. Read and understand the content of `Tutkinto tehtävä ohje .md`
+1. Read and understand the content of `Tutkinto_tehtävä_ohje_.md`
 2. Extract relevant keywords with frequencies and relevance scores
 3. Identify entities, components, and systems in the document
 4. Extract any constraints or requirements mentioned

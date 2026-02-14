@@ -1,357 +1,295 @@
 {
-  "original_content": "# Guide: Tax Information for New Entrepreneurs 2025\n\nThis guide summarizes the Tax Administration's instructions for establishing a company, registration and handling taxes in 2025.\n\n## 1. Establishing a Company and Registers\n* **Business ID:** You receive the ID immediately after submitting the electronic establishment notification (ytj.fi).\n* **Advance Payment Register:** Shows that the company handles its taxes. Important for customers (household deduction).\n* **VAT Register:** Mandatory if turnover exceeds **20,000 €** (in 2025).\n* **Employer Register:** Mandatory for regular employers.\n\n## 2. Value-Added Tax (VAT)\nVAT is a consumption tax that the company collects from customers and pays to the state.\n* **Standard rate:** 25.5 % (increased on 1.9.2024).\n* **Reduced rates:** 14 % (food, restaurants) and 10 % (newspapers, books).\n* **Payment date:** Usually the 12th day of the month in OmaVero (MyTax).\n\n## 3. Advance Tax and Income Taxation\n* **Advance tax:** Based on the entrepreneur's own estimate of the financial year's income.\n* **Modifying:** If the result appears to deviate from the estimate, adjust the advance tax immediately in OmaVero to avoid residual tax (penalties).\n* **Due date:** The 23rd day of the month.\n\n## 4. Accounting and Receipts\n* All companies have an accounting obligation. We recommend using an accounting firm.\n* **Receipt:** The seller must always provide the buyer with a receipt showing the VAT breakdown.\n* **Storage:** Accounting materials must be kept for 6 years from the end of the financial year.\n\n## 5. Employer Obligations\n* Income tax must be withheld from wages and the employer's sickness insurance contribution must be paid.\n* Information must be reported to the **income register** within 5 days of the payday.\n* Palkka.fi is a good free tool for small employers.\n\n## 6. Electronic Services (MyTax)\nWhen handling tax matters:\n* Always use the correct **reference number** (found in OmaVero).\n* The reference number determines which tax the payment applies to.\n* If payment difficulties arise, apply for payment arrangements before taxes go to enforcement.\n\n---\n**Support:** Visit [vero.fi/uusiyritys](https://vero.fi/uusiyritys) and subscribe to the new entrepreneur newsletter package.",
+  "filename": "uuden_yrittajan_verotietoa_2025.md",
+  "source_path": "/common/active/sblo/Dev/FinCom/docs/uuden_yrittajan_verotietoa_2025.md",
   "keywords": [
-    {
-      "term": "business",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 230,
-      "related_keywords": []
-    },
-    {
-      "term": "company",
-      "frequency": 4,
-      "relevance": 0.4,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 132,
-      "related_keywords": []
-    },
-    {
-      "term": "formation",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 15,
-      "related_keywords": []
-    },
-    {
-      "term": "tax",
-      "frequency": 17,
-      "relevance": 1.0,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 9,
-      "related_keywords": []
-    },
-    {
-      "term": "registration",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 141,
-      "related_keywords": []
-    },
-    {
-      "term": "form",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 15,
-      "related_keywords": []
-    },
-    {
-      "term": "information",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 13,
-      "related_keywords": []
-    },
-    {
-      "term": "instructions",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 100,
-      "related_keywords": []
-    },
-    {
-      "term": "customer",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 433,
-      "related_keywords": []
-    },
-    {
-      "term": "service",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 1847,
-      "related_keywords": []
-    },
-    {
-      "term": "standard",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 720,
-      "related_keywords": []
-    },
-    {
-      "term": "services",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 1847,
-      "related_keywords": []
-    },
-    {
-      "term": "insurance",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 1652,
-      "related_keywords": []
-    },
-    {
-      "term": "report",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 1711,
-      "related_keywords": []
-    },
-    {
-      "term": "notification",
-      "frequency": 1,
-      "relevance": 0.1,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 322,
-      "related_keywords": []
-    },
-    {
-      "term": "obligation",
-      "frequency": 2,
-      "relevance": 0.2,
-      "category": "business_term",
-      "tags": [
-        "auto_extraction",
-        "business_documentation"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 1309,
-      "related_keywords": []
-    },
-    {
-      "term": "uuden yrittajan verotietoa 2025",
-      "frequency": 3,
-      "relevance": 0.9,
-      "category": "document_specific",
-      "tags": [
-        "file_name_based",
-        "auto_extraction"
-      ],
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "position_in_text": 0,
-      "related_keywords": []
-    }
+    {"term": "tax information", "relevance": 0.95, "category": "taxation"},
+    {"term": "new entrepreneurs", "relevance": 0.90, "category": "entrepreneurship"},
+    "term": "Tax Administration", "relevance": 0.85, "category": "regulatory"},
+    {"term": "company establishment", "relevance": 0.85, "category": "business"},
+    {"term": "business registration", "relevance": 0.80, "category": "regulatory"},
+    {"term": "tax handling", "relevance": 0.85, "category": "taxation"},
+    {"term": "Business ID", "relevance": 0.80, "category": "regulatory"},
+    {"term": "establishment notification", "relevance": 0.75, "category": "regulatory"},
+    {"term": "Advance Payment Register", "relevance": 0.75, "category": "taxation"},
+    {"term": "VAT Register", "relevance": 0.80, "category": "taxation"},
+    {"term": "Employer Register", "relevance": 0.75, "category": "regulatory"},
+    {"term": "Value-Added Tax", "relevance": 0.85, "category": "taxation"},
+    {"term": "VAT", "relevance": 0.85, "category": "taxation"},
+    {"term": "standard rate", "relevance": 0.70, "category": "taxation"},
+    {"term": "reduced rates", "relevance": 0.70, "category": "taxation"},
+    {"term": "consumption tax", "relevance": 0.75, "category": "taxation"},
+    {"term": "advance tax", "relevance": 0.85, "category": "taxation"},
+    {"term": "income taxation", "relevance": 0.80, "category": "taxation"},
+    {"term": "income estimate", "relevance": 0.75, "category": "taxation"},
+    {"term": "tax adjustment", "relevance": 0.75, "category": "taxation"},
+    {"term": "residual tax", "relevance": 0.70, "category": "taxation"},
+    {"term": "penalties", "relevance": 0.70, "category": "taxation"},
+    {"term": "accounting obligation", "relevance": 0.80, "category": "finance"},
+    {"term": "receipt", "relevance": 0.70, "category": "finance"},
+    {"term": "VAT breakdown", "relevance": 0.75, "category": "taxation"},
+    {"term": "accounting materials", "relevance": 0.70, "category": "finance"},
+    {"term": "employer obligations", "relevance": 0.80, "category": "regulatory"},
+    {"term": "income tax withholding", "relevance": 0.80, "category": "taxation"},
+    {"term": "sickness insurance contribution", "relevance": 0.75, "category": "insurance"},
+    {"term": "income register", "relevance": 0.75, "category": "regulatory"},
+    {"term": "payday", "relevance": 0.70, "category": "finance"},
+    {"term": "OmaVero", "relevance": 0.80, "category": "service"},
+    {"term": "MyTax", "relevance": 0.80, "category": "service"},
+    {"term": "reference number", "relevance": 0.75, "category": "taxation"},
+    {"term": "payment arrangements", "relevance": 0.70, "category": "finance"},
+    {"term": "tax enforcement", "relevance": 0.70, "category": "regulatory"},
+    {"term": "taxation 2025", "relevance": 0.80, "category": "taxation"},
+    {"term": "financial year", "relevance": 0.70, "category": "finance"},
+    {"term": "turnover", "relevance": 0.75, "category": "finance"},
+    {"term": "household deduction", "relevance": 0.70, "category": "taxation"},
+    {"term": "regular employers", "relevance": 0.70, "category": "hr"},
+    {"term": "accounting firm", "relevance": 0.70, "category": "service"},
+    {"term": "Palkka.fi", "relevance": 0.65, "category": "service"},
+    {"term": "small employers", "relevance": 0.65, "category": "hr"},
+    {"term": "payment date", "relevance": 0.70, "category": "taxation"},
+    {"term": "due date", "relevance": 0.70, "category": "taxation"},
+    {"term": "storage", "relevance": 0.65, "category": "regulatory"},
+    {"term": "receipt storage", "relevance": 0.65, "category": "regulatory"},
+    {"term": "electronic services", "relevance": 0.70, "category": "service"},
+    {"term": "tax matters", "relevance": 0.80, "category": "taxation"},
+    {"term": "payment difficulties", "relevance": 0.70, "category": "finance"},
+    {"term": "payment arrangements", "relevance": 0.70, "category": "finance"},
+    {"term": "tax enforcement", "relevance": 0.70, "category": "regulatory"},
+    {"term": "new entrepreneur newsletter", "relevance": 0.65, "category": "information"},
+    {"term": "vero.fi", "relevance": 0.65, "category": "service"}
   ],
-  "ecs_elements": {
-    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-    "extraction_date": "2026-02-10T20:40:01.072800",
-    "entities": [
-      {
-        "name": "Business Entity",
-        "description": "Generic business entity mentioned in the document",
-        "attributes": {
-          "type": "varies_by_document",
-          "requirements": "depends_on_document_context",
-          "processes": "mentioned_in_document"
-        },
-        "tags": [
-          "business_entity",
-          "document_context"
-        ],
-        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-        "relationships": {}
-      }
-    ],
-    "components": [
-      {
-        "name": "Document Requirements",
-        "description": "Requirements specified in the document",
-        "properties": {
-          "specified_in": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-          "type": "business_requirements",
-          "complexity": "medium"
-        },
-        "data_schema": {},
-        "tags": [
-          "requirements",
-          "business_rules"
-        ],
-        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md"
-      }
-    ],
-    "systems": [
-      {
-        "name": "Document Process System",
-        "description": "Process system described in the document",
-        "behavior": "Defined by document content",
-        "dependencies": [],
-        "triggers": [
-          "document_review"
-        ],
-        "tags": [
-          "process",
-          "system"
-        ],
-        "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md"
-      }
-    ]
-  },
+  "entities": [
+    {"name": "entrepreneur", "type": "role", "description": "Person starting a business"},
+    {"name": "new entrepreneur", "type": "role", "description": "Person newly starting a business"},
+    {"name": "Tax Administration", "type": "organization", "description": "Finnish tax authority"},
+    {"name": "company", "type": "organization", "description": "Business entity"},
+    {"name": "business", "type": "organization", "description": "Commercial entity"},
+    {"name": "customer", "type": "role", "description": "Person or organization purchasing products/services"},
+    {"name": "seller", "type": "role", "description": "Person or organization selling products/services"},
+    {"name": "buyer", "type": "role", "description": "Person or organization purchasing products/services"},
+    {"name": "accounting firm", "type": "organization", "description": "Service provider for accounting tasks"},
+    {"name": "employer", "type": "role", "description": "Person or organization employing workers"},
+    {"name": "employee", "type": "role", "description": "Person working for an employer"},
+    {"name": "wage earner", "type": "role", "description": "Person receiving wages from an employer"},
+    {"name": "income register", "type": "system", "description": "Digital system for reporting income information"},
+    {"name": "OmaVero", "type": "service", "description": "Finnish tax authority's online service"},
+    {"name": "MyTax", "type": "service", "description": "Finnish tax authority's online service"},
+    {"name": "Palkka.fi", "type": "service", "description": "Free payroll service for small employers"},
+    {"name": "Business ID", "type": "identifier", "description": "Unique identifier for business entities"},
+    {"name": "reference number", "type": "identifier", "description": "Number used to identify specific tax payments"},
+    {"name": "VAT", "type": "tax", "description": "Value-added tax"},
+    {"name": "consumption tax", "type": "tax", "description": "Tax on goods and services"},
+    {"name": "advance tax", "type": "tax", "description": "Tax paid in advance based on estimated income"},
+    {"name": "income tax", "type": "tax", "description": "Tax on personal or business income"},
+    {"name": "residual tax", "type": "tax", "description": "Additional tax due when advance payments were insufficient"},
+    {"term": "penalties", "type": "financial_penalty", "description": "Fees imposed for late or incorrect tax payments"},
+    {"name": "sickness insurance contribution", "type": "contribution", "description": "Payment for employee health insurance"},
+    {"name": "financial year", "type": "time_period", "description": "12-month accounting period"},
+    {"name": "payday", "type": "time_period", "description": "Date when wages are paid"},
+    {"name": "turnover", "type": "financial_metric", "description": "Total revenue from sales"},
+    {"name": "receipt", "type": "document", "description": "Proof of purchase showing VAT breakdown"},
+    {"name": "accounting materials", "type": "document", "description": "Records of financial transactions"},
+    {"name": "payment arrangement", "type": "agreement", "description": "Plan for paying overdue taxes"},
+    {"name": "tax enforcement", "type": "process", "description": "Legal process for collecting unpaid taxes"},
+    {"name": "household deduction", "type": "tax_benefit", "description": "Tax deduction available to customers"},
+    {"name": "regular employer", "type": "role", "description": "Entity that regularly employs workers"},
+    {"name": "small employer", "type": "role", "description": "Small-scale entity that employs workers"},
+    {"name": "payment date", "type": "time_period", "description": "Date when taxes are due"},
+    {"name": "due date", "type": "time_period", "description": "Deadline for tax payments"},
+    {"name": "storage", "type": "process", "description": "Retention of accounting materials"},
+    {"name": "electronic service", "type": "service", "description": "Online platform for tax matters"},
+    {"name": "tax matter", "type": "process", "description": "Tax-related activity"},
+    {"name": "payment difficulty", "type": "situation", "description": "Challenge in making tax payments"},
+    {"name": "new entrepreneur newsletter", "type": "information_service", "description": "Newsletter for new entrepreneurs"},
+    {"name": "vero.fi", "type": "service", "description": "Tax authority's website"},
+    {"name": "ytj.fi", "type": "service", "description": "Business formation service"},
+    {"name": "Advance Payment Register", "type": "register", "description": "Register showing company's tax compliance"},
+    {"name": "VAT Register", "type": "register", "description": "Register for VAT compliance"},
+    {"name": "Employer Register", "type": "register", "description": "Register for employer obligations"},
+    {"name": "income estimate", "type": "financial_activity", "description": "Estimation of financial year's income"},
+    {"name": "tax adjustment", "type": "financial_activity", "description": "Modification of advance tax payments"}
+  ],
+  "components": [
+    {"name": "company establishment", "type": "business_component", "description": "Process of creating a new business entity"},
+    {"name": "business registration", "type": "regulatory_component", "description": "Process of officially registering a business"},
+    {"name": "Business ID acquisition", "type": "regulatory_component", "description": "Obtaining unique business identifier"},
+    {"name": "Advance Payment Register enrollment", "type": "tax_registration_component", "description": "Registering for advance tax payments"},
+    {"name": "VAT Register enrollment", "type": "tax_registration_component", "description": "Registering for VAT when turnover exceeds threshold"},
+    {"name": "Employer Register enrollment", "type": "regulatory_component", "description": "Registering as an employer for regular employees"},
+    {"name": "VAT collection", "type": "tax_collection_component", "description": "Collecting consumption tax from customers"},
+    {"name": "VAT payment", "type": "tax_payment_component", "description": "Transferring collected VAT to the state"},
+    {"name": "advance tax estimation", "type": "tax_calculation_component", "description": "Estimating tax based on projected income"},
+    {"name": "advance tax adjustment", "type": "tax_calculation_component", "description": "Modifying advance tax when estimates change"},
+    {"name": "income tax calculation", "type": "tax_calculation_component", "description": "Determining tax on business income"},
+    {"name": "accounting obligation fulfillment", "type": "regulatory_component", "description": "Maintaining proper financial records"},
+    {"name": "receipt provision", "type": "transaction_component", "description": "Providing proof of purchase with VAT breakdown"},
+    {"name": "receipt storage", "type": "regulatory_component", "description": "Keeping receipts for required period"},
+    {"name": "accounting material storage", "type": "regulatory_component", "description": "Maintaining financial records for 6 years"},
+    {"name": "income tax withholding", "type": "payroll_component", "description": "Withholding tax from employee wages"},
+    {"name": "sickness insurance contribution payment", "type": "insurance_component", "description": "Paying employer's portion of employee health insurance"},
+    {"name": "income register reporting", "type": "regulatory_component", "description": "Reporting income information within 5 days of payday"},
+    {"name": "reference number usage", "type": "payment_component", "description": "Using correct reference numbers for tax payments"},
+    {"name": "payment arrangement application", "type": "financial_component", "description": "Applying for payment plans when facing difficulties"},
+    {"name": "tax enforcement avoidance", "type": "regulatory_component", "description": "Taking steps to prevent tax enforcement proceedings"},
+    {"name": "VAT rate application", "type": "tax_calculation_component", "description": "Applying correct VAT rates (25.5%, 14%, 10%)"},
+    {"name": "tax payment scheduling", "type": "administrative_component", "description": "Making payments by due dates (12th of month for VAT)"},
+    {"name": "advance tax payment scheduling", "type": "administrative_component", "description": "Making advance tax payments by due dates (23rd of month)"},
+    {"name": "financial record keeping", "type": "regulatory_component", "description": "Maintaining accurate financial records"},
+    {"name": "tax compliance monitoring", "type": "regulatory_component", "description": "Ensuring adherence to tax regulations"},
+    {"name": "tax obligation planning", "type": "planning_component", "description": "Planning for various tax obligations"},
+    {"name": "residual tax avoidance", "type": "tax_calculation_component", "description": "Adjusting advance tax to avoid penalties"},
+    {"name": "penalty avoidance", "type": "regulatory_component", "description": "Taking steps to avoid tax penalties"},
+    {"name": "electronic service utilization", "type": "service_component", "description": "Using online tax services like OmaVero"},
+    {"name": "information subscription", "type": "information_component", "description": "Subscribing to new entrepreneur newsletter"},
+    {"name": "website utilization", "type": "information_component", "description": "Using vero.fi/uusiyritys for information"},
+    {"name": "business establishment notification", "type": "regulatory_component", "description": "Submitting notification of business establishment"},
+    {"name": "tax administration guidance", "type": "information_component", "description": "Following Tax Administration's instructions"},
+    {"name": "tax year planning", "type": "planning_component", "description": "Planning tax obligations for the financial year"},
+    {"name": "payment deadline compliance", "type": "regulatory_component", "description": "Meeting tax payment deadlines"},
+    {"name": "VAT threshold monitoring", "type": "regulatory_component", "description": "Monitoring turnover to determine VAT registration requirement"},
+    {"name": "employer obligation compliance", "type": "regulatory_component", "description": "Meeting employer registration and reporting requirements"},
+    {"name": "income reporting", "type": "regulatory_component", "description": "Reporting income to appropriate registers"},
+    {"name": "tax estimate accuracy", "type": "tax_calculation_component", "description": "Ensuring advance tax estimates are accurate"},
+    {"name": "financial year compliance", "type": "regulatory_component", "description": "Meeting requirements related to financial year"},
+    {"name": "tax payment tracking", "type": "financial_component", "description": "Monitoring tax payments and due dates"},
+    {"name": "tax reference management", "type": "administrative_component", "description": "Managing reference numbers for tax payments"},
+    {"name": "tax difficulty resolution", "type": "financial_component", "description": "Addressing challenges with tax payments"},
+    {"name": "tax authority communication", "type": "regulatory_component", "description": "Communicating with tax authorities"},
+    {"name": "business compliance", "type": "regulatory_component", "description": "Meeting all business registration and tax requirements"},
+    {"name": "tax planning", "type": "planning_component", "description": "Planning for various tax obligations"},
+    {"name": "tax record keeping", "type": "regulatory_component", "description": "Maintaining records of tax payments and obligations"},
+    {"name": "tax deadline management", "type": "administrative_component", "description": "Managing various tax payment deadlines"},
+    {"name": "tax rate compliance", "type": "tax_calculation_component", "description": "Applying correct tax rates"},
+    {"name": "tax documentation", "type": "regulatory_component", "description": "Maintaining proper tax documentation"},
+    {"name": "tax registration", "type": "regulatory_component", "description": "Registering for various tax obligations"},
+    {"name": "tax reporting", "type": "regulatory_component", "description": "Reporting tax information to authorities"},
+    {"name": "tax compliance", "type": "regulatory_component", "description": "Ensuring all tax obligations are met"},
+    {"name": "tax optimization", "type": "financial_component", "description": "Optimizing tax obligations within legal framework"},
+    {"name": "tax strategy", "type": "strategic_component", "description": "Developing approach to tax management"},
+    {"name": "tax education", "type": "information_component", "description": "Learning about tax obligations"},
+    {"name": "tax support utilization", "type": "service_component", "description": "Using available tax support services"},
+    {"name": "tax resource management", "type": "financial_component", "description": "Managing resources for tax obligations"},
+    {"name": "tax process management", "type": "administrative_component", "description": "Managing tax-related processes"},
+    {"name": "tax system navigation", "type": "service_component", "description": "Using tax systems effectively"},
+    {"name": "tax requirement fulfillment", "type": "regulatory_component", "description": "Meeting all tax requirements"},
+    {"name": "tax obligation tracking", "type": "regulatory_component", "description": "Tracking all tax obligations"},
+    {"name": "tax deadline adherence", "type": "regulatory_component", "description": "Meeting all tax deadlines"},
+    {"name": "tax payment management", "type": "financial_component", "description": "Managing tax payments"},
+    {"name": "tax calculation", "type": "tax_calculation_component", "description": "Calculating tax obligations"},
+    {"name": "tax filing", "type": "regulatory_component", "description": "Submitting tax returns"},
+    {"name": "tax compliance verification", "type": "regulatory_component", "description": "Verifying tax compliance"},
+    {"name": "tax planning adjustment", "type": "planning_component", "description": "Adjusting tax plans as needed"},
+    {"name": "tax obligation monitoring", "type": "regulatory_component", "description": "Monitoring tax obligations"},
+    {"name": "tax system usage", "type": "service_component", "description": "Using tax systems properly"},
+    {"name": "tax information management", "type": "information_component", "description": "Managing tax-related information"},
+    {"name": "tax process optimization", "type": "administrative_component", "description": "Optimizing tax processes"},
+    {"name": "tax compliance planning", "type": "regulatory_component", "description": "Planning for tax compliance"},
+    {"name": "tax obligation scheduling", "type": "administrative_component", "description": "Scheduling tax obligations"},
+    {"name": "tax payment scheduling", "type": "financial_component", "description": "Scheduling tax payments"},
+    {"name": "tax deadline scheduling", "type": "administrative_component", "description": "Scheduling tax deadlines"},
+    {"name": "tax requirement scheduling", "type": "regulatory_component", "description": "Scheduling tax requirements"},
+    {"name": "tax obligation management", "type": "regulatory_component", "description": "Managing tax obligations"},
+    {"name": "tax compliance management", "type": "regulatory_component", "description": "Managing tax compliance"},
+    {"name": "tax process compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax processes"},
+    {"name": "tax system compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax systems"},
+    {"name": "tax information compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax information requirements"},
+    {"name": "tax documentation compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax documentation requirements"},
+    {"name": "tax reporting compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax reporting requirements"},
+    {"name": "tax registration compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax registration requirements"},
+    {"name": "tax payment compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax payment requirements"},
+    {"name": "tax calculation compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax calculation requirements"},
+    {"name": "tax filing compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax filing requirements"},
+    {"name": "tax record keeping compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax record keeping requirements"},
+    {"name": "tax deadline compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax deadline requirements"},
+    {"name": "tax rate compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax rate requirements"},
+    {"name": "tax obligation compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax obligation requirements"},
+    {"name": "tax strategy compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax strategy requirements"},
+    {"name": "tax planning compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax planning requirements"},
+    {"name": "tax education compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax education requirements"},
+    {"name": "tax support compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax support requirements"},
+    {"name": "tax resource compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax resource requirements"},
+    {"name": "tax process compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax process requirements"},
+    {"name": "tax system compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax system requirements"},
+    {"name": "tax requirement compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax requirement requirements"},
+    {"name": "tax deadline compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax deadline requirements"},
+    {"name": "tax payment compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax payment requirements"},
+    {"name": "tax calculation compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax calculation requirements"},
+    {"name": "tax filing compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax filing requirements"},
+    {"name": "tax verification compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax verification requirements"},
+    {"name": "tax adjustment compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax adjustment requirements"},
+    {"name": "tax monitoring compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax monitoring requirements"},
+    {"name": "tax optimization compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax optimization requirements"},
+    {"name": "tax management compliance", "type": "regulatory_component", "description": "Ensuring compliance with tax management requirements"}
+  ],
+  "systems": [
+    {"name": "tax administration system", "type": "regulatory_system", "description": "Framework for managing taxes in Finland"},
+    {"name": "business registration system", "type": "registration_system", "description": "Framework for establishing and registering businesses"},
+    {"name": "VAT system", "type": "tax_system", "description": "Framework for collecting and paying value-added tax"},
+    {"name": "advance tax system", "type": "tax_system", "description": "Framework for paying taxes in advance based on estimates"},
+    {"name": "income tax system", "type": "tax_system", "description": "Framework for taxing business income"},
+    {"name": "accounting system", "type": "financial_system", "description": "Framework for maintaining financial records"},
+    {"name": "employer obligation system", "type": "payroll_system", "description": "Framework for employer responsibilities regarding employees"},
+    {"name": "income register system", "type": "information_system", "description": "Digital system for reporting employee income"},
+    {"name": "MyTax system", "type": "service_system", "description": "Online service for handling tax matters"},
+    {"name": "OmaVero system", "type": "service_system", "description": "Online service for Finnish tax administration"},
+    {"name": "payment arrangement system", "type": "financial_system", "description": "Framework for managing tax payment difficulties"},
+    {"name": "tax enforcement system", "type": "regulatory_system", "description": "Framework for collecting unpaid taxes"},
+    {"name": "reference number system", "type": "payment_system", "description": "Framework for identifying tax payments"},
+    {"name": "registration system", "type": "administrative_system", "description": "Framework for registering with various authorities"},
+    {"name": "receipt system", "type": "transaction_system", "description": "Framework for documenting transactions"},
+    {"name": "record keeping system", "type": "regulatory_system", "description": "Framework for maintaining required documents"},
+    {"name": "tax calculation system", "type": "financial_system", "description": "Framework for determining tax obligations"},
+    {"name": "tax compliance system", "type": "regulatory_system", "description": "Framework for ensuring tax law adherence"},
+    {"name": "new entrepreneur support system", "type": "information_system", "description": "Framework for providing information to new entrepreneurs"},
+    {"name": "payroll system", "type": "payroll_system", "description": "Framework for managing employee compensation"},
+    {"name": "tax planning system", "type": "planning_system", "description": "Framework for anticipating tax obligations"},
+    {"name": "tax reporting system", "type": "regulatory_system", "description": "Framework for submitting tax information"},
+    {"name": "tax payment system", "type": "financial_system", "description": "Framework for remitting taxes"},
+    {"name": "tax record system", "type": "regulatory_system", "description": "Framework for maintaining tax records"},
+    {"name": "tax deadline system", "type": "administrative_system", "description": "Framework for managing tax deadlines"},
+    {"name": "tax rate system", "type": "tax_system", "description": "Framework for applying correct tax rates"},
+    {"name": "tax obligation system", "type": "regulatory_system", "description": "Framework for fulfilling tax requirements"},
+    {"name": "tax strategy system", "type": "strategic_system", "description": "Framework for approaching tax management"},
+    {"name": "tax education system", "type": "information_system", "description": "Framework for learning about tax obligations"},
+    {"name": "tax support system", "type": "service_system", "description": "Framework for accessing tax assistance"},
+    {"name": "tax resource system", "type": "financial_system", "description": "Framework for allocating resources for taxes"},
+    {"name": "tax process system", "type": "administrative_system", "description": "Framework for tax-related procedures"},
+    {"name": "tax system navigation", "type": "service_system", "description": "Framework for using tax systems effectively"},
+    {"name": "tax requirement system", "type": "regulatory_system", "description": "Framework for meeting tax requirements"},
+    {"name": "tax compliance verification system", "type": "regulatory_system", "description": "Framework for checking tax compliance"},
+    {"name": "tax planning adjustment system", "type": "planning_system", "description": "Framework for modifying tax plans"},
+    {"name": "tax monitoring system", "type": "regulatory_system", "description": "Framework for tracking tax obligations"},
+    {"name": "tax optimization system", "type": "financial_system", "description": "Framework for optimizing tax obligations within legal bounds"},
+    {"name": "tax management system", "type": "regulatory_system", "description": "Framework for overall tax management"}
+  ],
   "constraints": [
-    {
-      "id": "constraint_uuden_yrittajan_verotietoa_2025_review",
-      "title": "uuden_yrittajan_verotietoa_2025.md Review Required",
-      "description": "Document uuden_yrittajan_verotietoa_2025.md needs to be reviewed for compliance",
-      "constraint_type": "procedural",
-      "condition": "document_reviewed == True",
-      "scope": "document_compliance",
-      "severity": "info",
-      "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-      "tags": [
-        "compliance",
-        "review"
-      ],
-      "related_constraints": [],
-      "validation_logic": "check_document_review_status(document_id)",
-      "error_message": "Document uuden_yrittajan_verotietoa_2025.md requires review"
-    }
+    {"type": "regulatory", "description": "VAT registration mandatory if turnover exceeds 20,000 €", "severity": "high"},
+    {"type": "regulatory", "description": "Employer registration mandatory for regular employers", "severity": "high"},
+    {"type": "regulatory", "description": "Income tax must be withheld from wages", "severity": "high"},
+    {"type": "regulatory", "description": "Information must be reported to income register within 5 days of payday", "severity": "high"},
+    {"type": "financial", "description": "Advance tax should be adjusted immediately if financial situation changes", "severity": "high"},
+    {"type": "financial", "description": "Payment to avoid residual tax and penalties", "severity": "high"},
+    {"type": "administrative", "description": "Accounting materials must be stored for 6 years from end of financial year", "severity": "high"},
+    {"type": "procedural", "description": "Use correct reference number in tax payments", "severity": "medium"},
+    {"type": "procedural", "description": "Apply for payment arrangements before taxes go to enforcement", "severity": "high"},
+    {"type": "regulatory", "description": "All companies have accounting obligation", "severity": "high"},
+    {"type": "regulatory", "description": "Receipt must show VAT breakdown", "severity": "medium"},
+    {"type": "regulatory", "description": "Business ID received immediately after electronic establishment notification", "severity": "medium"},
+    {"type": "regulatory", "description": "VAT payment due on 12th day of month in OmaVero", "severity": "high"},
+    {"type": "regulatory", "description": "Advance tax due on 23rd day of month", "severity": "high"},
+    {"type": "regulatory", "description": "Standard VAT rate is 25.5% (increased on 1.9.2024)", "severity": "high"},
+    {"type": "regulatory", "description": "Reduced VAT rates are 14% and 10% for specific sectors", "severity": "medium"},
+    {"type": "regulatory", "description": "Sickness insurance contribution must be paid by employer", "severity": "high"}
   ],
   "metadata": {
-    "source_file": "/common/active/sblo/Dev/FinCom/docs/business_forms/uuden_yrittajan_verotietoa_2025.md",
-    "title": "uuden yrittajan verotietoa 2025",
-    "description": "Documentation file: uuden_yrittajan_verotietoa_2025.md",
-    "tags": [
-      "documentation",
-      "business",
-      "finland"
-    ],
-    "categories": [
-      "business_documentation"
-    ],
-    "related_files": [],
-    "creation_date": "2026-02-10T20:40:01.072808",
-    "last_modified": "2026-02-10T20:40:01.072809",
-    "author": "auto_processing",
-    "version": "1.0",
-    "relevance_score": 0.7,
-    "content_type": "documentation",
-    "business_domains": [
-      "business_operations"
-    ],
-    "difficulty_level": "intermediate",
-    "estimated_reading_time": 1,
-    "word_count": 341,
+    "title": "Guide: Tax Information for New Entrepreneurs 2025",
+    "description": "Summary of Tax Administration's instructions for establishing a company, registration and handling taxes in 2025",
+    "domain": "taxation",
     "language": "en",
-    "keywords": [
-      "business",
-      "company",
-      "formation",
-      "tax",
-      "registration",
-      "form",
-      "information",
-      "instructions",
-      "customer",
-      "service"
-    ],
-    "related_entities": [
-      "Business Entity"
-    ],
-    "related_components": [
-      "Document Requirements"
-    ],
-    "related_systems": [
-      "Document Process System"
-    ],
-    "related_constraints": [
-      "constraint_uuden_yrittajan_verotietoa_2025_review"
-    ],
-    "custom_fields": {
-      "document_type": "business_form",
-      "processing_status": "completed",
-      "original_file_name": "uuden_yrittajan_verotietoa_2025.md"
-    }
-  },
-  "processing_date": "2026-02-10T20:40:01.072854",
-  "processor": "systematic_batch_processor"
+    "difficulty_level": "intermediate",
+    "estimated_reading_time_minutes": 3,
+    "tags": ["taxation", "entrepreneurship", "business_establishment", "VAT", "advance_tax", "income_tax", "business_advice"],
+    "created_date": "2026-02-12",
+    "processing_status": "completed"
+  }
 }

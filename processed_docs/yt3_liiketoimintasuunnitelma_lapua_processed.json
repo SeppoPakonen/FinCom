@@ -1,0 +1,129 @@
+{
+  "filename": "YT3_Liiketoimintasuunnitelma_Lapua.md",
+  "source_path": "/common/active/sblo/Dev/FinCom/docs/YT3_Liiketoimintasuunnitelma_Lapua.md",
+  "keywords": [
+    {"term": "business plan", "relevance": 0.95, "category": "planning"},
+    {"term": "growth-oriented company", "relevance": 0.90, "category": "business"},
+    {"term": "business idea", "relevance": 0.85, "category": "strategy"},
+    {"term": "vision", "relevance": 0.80, "category": "strategy"},
+    {"term": "value proposition", "relevance": 0.85, "category": "strategy"},
+    {"term": "market analysis", "relevance": 0.85, "category": "analysis"},
+    {"term": "industry", "relevance": 0.75, "category": "market"},
+    {"term": "growth prospects", "relevance": 0.75, "category": "market"},
+    {"term": "trends", "relevance": 0.70, "category": "market"},
+    {"term": "competition", "relevance": 0.80, "category": "competition"},
+    {"term": "key competitors", "relevance": 0.80, "category": "competition"},
+    {"term": "competitive strategy", "relevance": 0.85, "category": "strategy"},
+    {"term": "differentiation", "relevance": 0.80, "category": "strategy"},
+    {"term": "price", "relevance": 0.70, "category": "strategy"},
+    {"term": "quality", "relevance": 0.70, "category": "strategy"},
+    {"term": "innovation", "relevance": 0.75, "category": "strategy"},
+    {"term": "growth strategy", "relevance": 0.80, "category": "strategy"},
+    {"term": "personnel", "relevance": 0.75, "category": "hr"},
+    {"term": "expertise", "relevance": 0.70, "category": "hr"},
+    {"term": "team structure", "relevance": 0.70, "category": "hr"},
+    {"term": "production", "relevance": 0.75, "category": "operations"},
+    {"term": "premises", "relevance": 0.65, "category": "operations"},
+    {"term": "equipment", "relevance": 0.65, "category": "operations"},
+    {"term": "technology", "relevance": 0.70, "category": "operations"},
+    {"term": "partners", "relevance": 0.70, "category": "relations"},
+    {"term": "subcontractors", "relevance": 0.70, "category": "relations"},
+    {"term": "strategic networks", "relevance": 0.70, "category": "relations"},
+    {"term": "investment plan", "relevance": 0.80, "category": "finance"},
+    {"term": "financing", "relevance": 0.80, "category": "finance"},
+    {"term": "profitability", "relevance": 0.80, "category": "finance"},
+    {"term": "revenue", "relevance": 0.75, "category": "finance"},
+    {"term": "operating profit", "relevance": 0.75, "category": "finance"},
+    {"term": "EBIT", "relevance": 0.70, "category": "finance"},
+    {"term": "risk management", "relevance": 0.75, "category": "risk"},
+    {"term": "risk analysis", "relevance": 0.75, "category": "risk"},
+    {"term": "risk probability", "relevance": 0.70, "category": "risk"},
+    {"term": "risk anticipation", "relevance": 0.70, "category": "risk"},
+    {"term": "market share", "relevance": 0.75, "category": "market"},
+    {"term": "target position", "relevance": 0.70, "category": "market"},
+    {"term": "strategic choices", "relevance": 0.80, "category": "strategy"},
+    {"term": "organization", "relevance": 0.70, "category": "hr"},
+    {"term": "resources", "relevance": 0.70, "category": "operations"},
+    {"term": "financial calculations", "relevance": 0.70, "category": "finance"},
+    {"term": "CVs", "relevance": 0.60, "category": "hr"},
+    {"term": "contract drafts", "relevance": 0.65, "category": "legal"}
+  ],
+  "entities": [
+    {"name": "company", "type": "organization", "description": "The growth-oriented company being planned"},
+    {"name": "entrepreneur", "type": "role", "description": "The person developing the business plan"},
+    {"name": "customers", "type": "stakeholder", "description": "Target group for the business"},
+    {"name": "competitors", "type": "organization", "description": "Key competitors in the market"},
+    {"name": "personnel", "type": "stakeholder", "description": "Required staff for the business"},
+    {"name": "subcontractors", "type": "stakeholder", "description": "External partners for the business"},
+    {"name": "strategic partners", "type": "stakeholder", "description": "Strategic network members"}
+  ],
+  "components": [
+    {"name": "business idea", "type": "concept", "description": "Core concept of what the company does"},
+    {"name": "value proposition", "type": "concept", "description": "Unique benefit the company creates"},
+    {"name": "vision", "type": "concept", "description": "5-year outlook for the company"},
+    {"name": "industry analysis", "type": "analysis", "description": "Assessment of growth prospects and trends"},
+    {"name": "competition analysis", "type": "analysis", "description": "Evaluation of key competitors and strategies"},
+    {"name": "market share target", "type": "metric", "description": "Position the company aims to achieve in the market"},
+    {"name": "competitive strategy", "type": "strategy", "description": "Approach to differentiation (price, quality, innovation)"},
+    {"name": "growth strategy", "type": "strategy", "description": "Plan for expanding the business"},
+    {"name": "personnel requirements", "type": "resource", "description": "Required expertise and team structure"},
+    {"name": "production resources", "type": "resource", "description": "Premises, equipment and technology needed"},
+    {"name": "investment plan", "type": "plan", "description": "Details of what is needed and associated costs"},
+    {"name": "financing plan", "type": "plan", "description": "How investments will be covered"},
+    {"name": "profitability targets", "type": "metric", "description": "Revenue and operating profit (EBIT) goals"},
+    {"name": "risk analysis", "type": "analysis", "description": "Assessment of significant risks and their probability"},
+    {"name": "risk management methods", "type": "strategy", "description": "Approaches to anticipating and managing risks"}
+  ],
+  "systems": [
+    {"name": "business planning system", "type": "process", "description": "Overall framework for developing the business plan"},
+    {"name": "market analysis system", "type": "process", "description": "Method for analyzing industry trends and competition"},
+    {"name": "strategic planning system", "type": "process", "description": "Framework for making strategic choices"},
+    {"name": "organizational design system", "type": "process", "description": "Approach to structuring personnel and resources"},
+    {"name": "financial planning system", "type": "process", "description": "Framework for investment, financing and profitability planning"},
+    {"name": "risk management system", "type": "process", "description": "Approach to identifying and managing risks"}
+  ],
+  "constraints": [
+    {
+      "type": "financial",
+      "severity": "high",
+      "description": "Investment funding must be secured to cover required expenses",
+      "reference": "Section 5: Finance and Profitability"
+    },
+    {
+      "type": "market",
+      "severity": "medium",
+      "description": "Market share targets must be realistic based on competition analysis",
+      "reference": "Section 2: Market Analysis"
+    },
+    {
+      "type": "resource",
+      "severity": "medium",
+      "description": "Required personnel expertise must be available in the market",
+      "reference": "Section 4: Organization and Resources"
+    },
+    {
+      "type": "regulatory",
+      "severity": "low",
+      "description": "Business operations must comply with industry regulations",
+      "reference": "General business requirements"
+    },
+    {
+      "type": "temporal",
+      "severity": "medium",
+      "description": "Business plan must align with 5-year vision timeline",
+      "reference": "Section 1: Business Idea and Vision"
+    }
+  ],
+  "metadata": {
+    "document_type": "business_plan_template",
+    "business_stage": "planning",
+    "language": "en",
+    "topic": "business planning",
+    "complexity": "intermediate",
+    "estimated_completion_time": "4-6 hours",
+    "related_documents": [
+      "YT1_Yrityksen_perustajan_muistilista_Lapua.md",
+      "YT2_Liiketoimintasuunnitelma_Invest_Lapua.md"
+    ]
+  }
+}

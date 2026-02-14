@@ -1,0 +1,83 @@
+{
+  "filename": "00 Security and Privacy for Entrepreneurs.md",
+  "source_path": "/common/active/sblo/Dev/FinCom/docs/00 Security and Privacy for Entrepreneurs.md",
+  "keywords": [
+    {"term": "cybersecurity", "relevance": 0.95, "category": "security"},
+    {"term": "data protection", "relevance": 0.95, "category": "privacy"},
+    {"term": "cloud services", "relevance": 0.85, "category": "technology"},
+    {"term": "Microsoft 365", "relevance": 0.80, "category": "technology"},
+    {"term": "Active Directory", "relevance": 0.75, "category": "technology"},
+    {"term": "domain name", "relevance": 0.70, "category": "infrastructure"},
+    {"term": "SSL certificate", "relevance": 0.75, "category": "security"},
+    {"term": "email protection", "relevance": 0.80, "category": "security"},
+    {"term": "data privacy", "relevance": 0.90, "category": "legal"},
+    {"term": "GDPR", "relevance": 0.85, "category": "legal"},
+    {"term": "identity theft", "relevance": 0.90, "category": "threat"},
+    {"term": "phishing", "relevance": 0.85, "category": "threat"},
+    {"term": "mobile threats", "relevance": 0.80, "category": "threat"},
+    {"term": "HETU", "relevance": 0.70, "category": "identification"},
+    {"term": "personal identity code", "relevance": 0.75, "category": "identification"},
+    {"term": "Vastaamo", "relevance": 0.80, "category": "incident"},
+    {"term": "credit freeze", "relevance": 0.70, "category": "protection"},
+    {"term": "encryption", "relevance": 0.80, "category": "security"},
+    {"term": "Azure Information Protection", "relevance": 0.75, "category": "technology"},
+    {"term": "single sign-on", "relevance": 0.70, "category": "technology"}
+  ],
+  "entities": [
+    {"name": "entrepreneur", "type": "role", "description": "Business owner or operator"},
+    {"name": "Microsoft", "type": "organization", "description": "Technology company providing cloud services"},
+    {"name": "EU", "type": "organization", "description": "European Union regulatory body"},
+    {"name": "Finland", "type": "location", "description": "Country with specific data protection laws"},
+    {"name": "Parliament", "type": "organization", "description": "Legislative body approving laws"},
+    {"name": "Vastaamo", "type": "organization", "description": "Healthcare service involved in data breach incident"},
+    {"name": "Hafnium", "type": "threat_actor", "description": "China-based state-sponsored threat actor"},
+    {"name": "McAfee", "type": "organization", "description": "Cybersecurity company"},
+    {"name": "TikTok", "type": "application", "description": "Social media application with privacy concerns"},
+    {"name": "iPhone", "type": "device", "description": "Apple smartphone platform"},
+    {"name": "Android", "type": "platform", "description": "Mobile operating system"},
+    {"name": "Finnish Communications Regulatory Authority", "type": "organization", "description": "National authority providing cybersecurity information"},
+    {"name": "National Cyber Security Centre", "type": "organization", "description": "National authority providing cybersecurity information"}
+  ],
+  "components": [
+    {"name": "tenant", "type": "service_component", "description": "M-365 account containing users, domains, and subscriptions"},
+    {"name": "Active Directory", "type": "service_component", "description": "Microsoft's user database service for single sign-on"},
+    {"name": "SSL certificate", "type": "security_component", "description": "Certificate indicating website trustworthiness"},
+    {"name": "Azure Information Protection", "type": "security_component", "description": "Cybersecurity license for protecting documents and emails"},
+    {"name": "SMTP protocol", "type": "communication_component", "description": "Email protocol that is inherently insecure"},
+    {"name": "credit/debit card", "type": "information_component", "description": "Payment information vulnerable to theft"},
+    {"name": "Social Security Number", "type": "information_component", "description": "Personal identification vulnerable to theft"},
+    {"name": "PayPal account", "type": "information_component", "description": "Financial account vulnerable to theft"},
+    {"name": "personal identity code", "type": "information_component", "description": "Finnish identification number"},
+    {"name": "malware", "type": "threat_component", "description": "Software designed to harm systems or steal data"},
+    {"name": "keylogging", "type": "threat_component", "description": "Method of capturing keystrokes to steal information"}
+  ],
+  "systems": [
+    {"name": "cloud services", "type": "technology_system", "description": "Network of servers providing secure storage and access"},
+    {"name": "Microsoft 365", "type": "technology_system", "description": "Business-oriented cloud service with 1.2 billion users"},
+    {"name": "data protection system", "type": "legal_system", "description": "Framework of laws and regulations governing personal data"},
+    {"name": "GDPR", "type": "legal_system", "description": "EU regulation for data protection"},
+    {"name": "Data Protection Act", "type": "legal_system", "description": "Finnish national law supplementing GDPR"},
+    {"name": "identity management system", "type": "identification_system", "description": "System for managing personal identity codes"},
+    {"name": "phishing detection system", "type": "security_system", "description": "System for identifying fraudulent communications"},
+    {"name": "mobile security system", "type": "security_system", "description": "System for protecting mobile devices from threats"}
+  ],
+  "constraints": [
+    {"type": "regulatory", "description": "Finland's Data Protection Act supplements EU's GDPR", "severity": "high"},
+    {"type": "regulatory", "description": "Being a victim of data breach is not sufficient grounds for changing personal identity code", "severity": "medium"},
+    {"type": "technical", "description": "Email's SMTP protocol is inherently insecure", "severity": "high"},
+    {"type": "technical", "description": "Old personal identity code may remain in systems even after change", "severity": "medium"},
+    {"type": "legal", "description": "Using someone else's work requires creator's permission", "severity": "medium"},
+    {"type": "operational", "description": "Users must recognize danger and update devices to prevent scams", "severity": "medium"}
+  ],
+  "metadata": {
+    "title": "Security and Privacy for Entrepreneurs",
+    "description": "Essential information about cybersecurity, data protection, and contemporary digital threats for entrepreneurs",
+    "domain": "business_operations",
+    "language": "en",
+    "difficulty_level": "intermediate",
+    "estimated_reading_time_minutes": 5,
+    "tags": ["cybersecurity", "data_protection", "privacy", "entrepreneurship", "legal_compliance"],
+    "created_date": "2026-02-12",
+    "processing_status": "completed"
+  }
+}
