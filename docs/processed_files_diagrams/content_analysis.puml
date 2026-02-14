@@ -1,0 +1,52 @@
+@startuml
+title Processed Files Content Analysis
+
+rectangle orig : "Original Content" as orig
+note bottom of orig
+  Raw markdown content from source document
+end note
+
+rectangle kw : "Keyword Collection" as kw
+note bottom of kw
+  Business terms with relevance scores and categories
+end note
+
+rectangle ecs : "ECS Architecture" as ecs
+note bottom of ecs
+  Entities, Components, and Systems representing business concepts
+end note
+
+rectangle cons : "Constraint Collection" as cons
+note bottom of cons
+  Regulatory, financial, and procedural constraints
+end note
+
+rectangle meta : "Metadata" as meta
+note bottom of meta
+  Search optimization and business domain information
+end note
+
+orig --> kw : "extracted from"
+orig --> ecs : "analyzed for"
+orig --> cons : "parsed for"
+orig --> meta : "used to generate"
+
+note top of orig
+  The original content contains
+  the raw information that
+  all other elements are
+  derived from
+end note
+
+note top of ecs
+  ECS elements represent the
+  business architecture
+  concepts in the document
+end note
+
+note top of cons
+  Constraints define the
+  boundaries and requirements
+  for business operations
+end note
+@enduml

@@ -1,0 +1,29 @@
+@startuml
+!theme plain
+title ECS Element Identification Process
+
+start
+:Analyze document content;
+:Identify business actors/organizations;
+
+:ECS Entity Extraction;
+:Extract actor names;
+:Identify entity attributes;
+:Map entity relationships;
+:Add entity tags;
+
+:ECS Component Extraction;
+:Identify attributes/properties;
+:Determine data schemas;
+:Add component tags;
+
+:ECS System Extraction;
+:Identify processes/functions;
+:Determine system behavior;
+:Map dependencies and triggers;
+:Add system tags;
+
+:Validate ECS relationships;
+:Create ECS architecture object;
+stop
+@enduml

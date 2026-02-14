@@ -1,0 +1,94 @@
+@startuml
+title Structure of Processed Files
+
+package "Processed Documentation File" {
+  object "Document" as doc {
+    type = "processed_json"
+    filename = "example_processed.json"
+  }
+  
+  object "Original Content" as orig {
+    content_type = "markdown"
+    length = "variable"
+  }
+  
+  object "Keywords Collection" as kw_col {
+    count = "variable"
+    extraction_date = "timestamp"
+  }
+  
+  object "ECS Architecture" as ecs {
+    entities_count = "variable"
+    components_count = "variable"
+    systems_count = "variable"
+  }
+  
+  object "Constraints Collection" as cons_col {
+    count = "variable"
+    extraction_date = "timestamp"
+  }
+  
+  object "Metadata" as meta {
+    source_file = "string"
+    title = "string"
+    description = "string"
+    tags = "list"
+    categories = "list"
+    business_domains = "list"
+    difficulty_level = "string"
+    estimated_reading_time = "int"
+    word_count = "int"
+    language = "string"
+    keywords = "list"
+    related_entities = "list"
+    related_components = "list"
+    related_systems = "list"
+    related_constraints = "list"
+  }
+  
+  object "Processing Info" as proc_info {
+    processing_date = "timestamp"
+    processor = "string"
+  }
+  
+  doc --> orig : contains
+  doc --> kw_col : contains
+  doc --> ecs : contains
+  doc --> cons_col : contains
+  doc --> meta : contains
+  doc --> proc_info : contains
+}
+
+note top of orig
+  Contains the original document content
+  in markdown format
+end note
+
+note top of kw_col
+  Extracted business terms with
+  relevance scores and categories
+end note
+
+note top of ecs
+  ECS elements representing
+  business architecture:
+  - Entities (actors, organizations)
+  - Components (attributes, properties)
+  - Systems (processes, operations)
+end note
+
+note top of cons_col
+  Regulatory, financial, procedural
+  and other business constraints
+end note
+
+note top of meta
+  Search-engine optimization
+  and business domain metadata
+end note
+
+note top of proc_info
+  Information about when and how
+  the document was processed
+end note
+@enduml

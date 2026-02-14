@@ -1,0 +1,29 @@
+@startuml
+!theme plain
+title Metadata Enrichment Process
+
+start
+:Extract document title;
+:Identify business domains;
+:Analyze content type;
+:Add tags and categories;
+
+:Add related files;
+:Add creation/modification dates;
+:Add author information;
+:Add version information;
+
+:Calculate relevance score;
+:Determine difficulty level;
+:Estimate reading time;
+:Count words;
+
+:Add language information;
+:Add keywords list;
+:Add related entities/components/systems/constraints;
+:Add custom fields;
+
+:Validate metadata completeness;
+:Create metadata object;
+stop
+@enduml

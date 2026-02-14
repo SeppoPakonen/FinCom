@@ -1,0 +1,24 @@
+@startuml
+!theme plain
+title Keyword Extraction Process
+
+start
+:Load original document;
+:Get document content;
+
+if (Contains English text?) then (yes)
+  :Tokenize content;
+  :Identify business terms;
+  :Calculate frequency;
+  :Assign relevance score;
+  :Categorize keywords;
+  :Add positional information;
+  :Validate keyword data;
+  :Store in keyword collection;
+else (no)
+  :Skip keyword extraction;
+endif
+
+:Return keyword collection;
+stop
+@enduml

@@ -1,0 +1,27 @@
+@startuml
+!theme plain
+title Constraint Extraction Process
+
+start
+:Parse document for requirements;
+:Identify regulatory constraints;
+
+:Classify constraint type;
+if (Constraint type is?) then (Regulatory)
+  :Extract compliance requirements;
+elseif (Financial) then
+  :Extract budget/financial limits;
+elseif (Procedural) then
+  :Extract process requirements;
+elseif (Temporal) then
+  :Extract deadline/time constraints;
+elseif (Resource) then
+  :Extract resource limitations;
+endif
+
+:Set severity level;
+:Create constraint object;
+:Add to constraint collection;
+:Validate constraint data;
+stop
+@enduml
