@@ -1,0 +1,29 @@
+@startuml
+title Keyword Properties
+
+class Keyword {
+  - term: String
+  - frequency: Integer
+  - relevance: Float
+  - category: String
+  - tags: List<String>
+  - source_file: String
+  - position_in_text: Integer
+  - related_keywords: List<String>
+}
+
+class KeywordCollection {
+  - source_file: String
+  - keywords: List<Keyword>
+  - total_word_count: Integer
+  - extraction_date: String
+}
+
+KeywordCollection --> Keyword : contains
+
+note top of Keyword
+  Keywords are extracted business terms
+  with relevance scores and categories
+  for search optimization
+end note
+@enduml

@@ -1,0 +1,167 @@
+@startuml
+!theme plain
+title Processed Document Data Structure
+
+package "Processed Document" {
+  rectangle "Original Content" as orig {
+    type = "markdown"
+    length = "variable"
+  }
+  
+  rectangle "Keywords Collection" as kw {
+    count = "variable"
+    extraction_date = "timestamp"
+  }
+  
+  rectangle "ECS Architecture" as ecs {
+    entities_count = "variable"
+    components_count = "variable"
+    systems_count = "variable"
+    extraction_date = "timestamp"
+  }
+  
+  rectangle "Constraints Collection" as cons {
+    count = "variable"
+    extraction_date = "timestamp"
+  }
+  
+  rectangle "Metadata" as meta {
+    fields_count = "variable"
+    business_domains = "list"
+    tags = "list"
+    categories = "list"
+  }
+  
+  rectangle "Processing Info" as proc {
+    processor = "systematic_batch_processor"
+    processing_date = "timestamp"
+  }
+}
+
+package "ECS Elements" {
+  rectangle "Entity" as ent {
+    name = "string"
+    description = "string"
+    attributes = "dict"
+    tags = "list"
+    relationships = "dict"
+  }
+  
+  rectangle "Component" as comp {
+    name = "string"
+    description = "string"
+    properties = "dict"
+    data_schema = "dict"
+    tags = "list"
+  }
+  
+  rectangle "System" as sys {
+    name = "string"
+    description = "string"
+    behavior = "string"
+    dependencies = "list"
+    triggers = "list"
+    tags = "list"
+  }
+}
+
+package "Keyword Properties" {
+  rectangle "Keyword" as keyword {
+    term = "string"
+    frequency = "int"
+    relevance = "float"
+    category = "string"
+    tags = "list"
+    source_file = "string"
+    position_in_text = "int"
+    related_keywords = "list"
+  }
+}
+
+package "Constraint Properties" {
+  rectangle "Constraint" as constraint {
+    id = "string"
+    title = "string"
+    description = "string"
+    constraint_type = "ConstraintType"
+    condition = "string"
+    scope = "string"
+    severity = "SeverityLevel"
+    source_file = "string"
+    tags = "list"
+    related_constraints = "list"
+    validation_logic = "string"
+    error_message = "string"
+  }
+}
+
+package "Metadata Properties" {
+  rectangle "Metadata" as metadata {
+    source_file = "string"
+    title = "string"
+    description = "string"
+    tags = "list"
+    categories = "list"
+    related_files = "list"
+    creation_date = "string"
+    last_modified = "string"
+    author = "string"
+    version = "string"
+    relevance_score = "float"
+    content_type = "string"
+    business_domains = "list"
+    difficulty_level = "string"
+    estimated_reading_time = "int"
+    word_count = "int"
+    language = "string"
+    keywords = "list"
+    related_entities = "list"
+    related_components = "list"
+    related_systems = "list"
+    related_constraints = "list"
+    custom_fields = "dict"
+  }
+}
+
+orig --> kw : "parsed for"
+orig --> ecs : "analyzed for"
+orig --> cons : "scanned for"
+orig --> meta : "used to generate"
+
+kw --> keyword : "contains"
+ecs --> ent : "contains"
+ecs --> comp : "contains"
+ecs --> sys : "contains"
+cons --> constraint : "contains"
+meta --> metadata : "follows schema"
+
+note top of orig
+  The original document content
+  serves as the source for all
+  extracted elements
+end note
+
+note top of kw
+  Keywords are extracted with
+  relevance scores and categories
+  for search optimization
+end note
+
+note top of ecs
+  ECS elements represent the
+  business architecture concepts
+  in the document
+end note
+
+note top of cons
+  Constraints define the
+  regulatory, financial, and
+  procedural limitations
+end note
+
+note top of meta
+  Metadata provides context
+  and search optimization
+  information
+end note
+@enduml
